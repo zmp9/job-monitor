@@ -37,6 +37,21 @@ def load_yaml(name: str) -> dict:
         return yaml.safe_load(f) or {}
 
 
+def report_dispatch(where: str, results: dict, n_items: int) -> None:
+    """Surface per-channel send outcomes.
+
+    Without this, dispatch() swallowed failures: a rejected email and a
+    delivered one produced identical (silent) logs, so a broken notification
+    path looked like a healthy run.
+    """
+    for channel, outcome in results.items():
+        stream = sys.stderr if outcome not in ("sent", "disabled") else sys.stdout
+        print(f"{where}: notify[{channel}] -> {outcome} ({n_items} item(s))", file=stream)
+    if not any(o == "sent" for o in results.values()):
+        print(f"{where}: WARNING nothing was delivered — "
+              f"{n_items} item(s) found but no channel accepted them", file=sys.stderr)
+
+
 def build_channels(dry_run: bool) -> list:
     if dry_run:
         return [DryRunChannel()]
@@ -111,7 +126,7 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run):
     if matches:
         body = render_matches(matches, threshold, new_count, total, errors)
         subject = f"[jobs] {len(matches)} match{'es' if len(matches) != 1 else ''} — top: {matches[0][0].title[:50]}"
-        dispatch(channels, subject, body)
+        report_dispatch("aggregator", dispatch(channels, subject, body), len(matches))
     else:
         print(f"aggregator: no matches >= {threshold} "
               f"({new_count} new of {total} postings scanned)")
@@ -288,8 +303,9 @@ def run_digest(channels, force=False):
         if len(items) > DIGEST_PER_COMPANY:
             lines.append(f"  ... +{len(items) - DIGEST_PER_COMPANY} more")
         lines.append("")
-    dispatch(channels, f"[jobs] weekly gated digest — {len(recent)} filtered postings",
-             "\n".join(lines))
+    report_dispatch("digest",
+                    dispatch(channels, f"[jobs] weekly gated digest — {len(recent)} filtered postings",
+                             "\n".join(lines)), len(recent))
     return len(recent)
 
 
@@ -301,9 +317,17 @@ def main():
     ap.add_argument("--digest", action="store_true", help="force the weekly gated digest")
     ap.add_argument("--threshold", type=int,
                     default=int(os.environ.get("SCORE_THRESHOLD", DEFAULT_THRESHOLD)))
+    ap.add_argument("--test-email", action="store_true",
+                    help="send one test message and report the outcome; skips all scanning")
     args = ap.parse_args()
 
     channels = build_channels(args.dry_run)
+
+    if args.test_email:
+        results = dispatch(channels, "[jobs] test message",
+                           "If you are reading this, the notification path works.")
+        report_dispatch("test", results, 1)
+        return 0 if any(o == "sent" for o in results.values()) else 1
     profile = load_yaml("profile.yaml")
     failed = False
 

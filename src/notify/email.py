@@ -17,6 +17,7 @@ Secrets (GitHub repo secrets, never committed):
 import json
 import os
 import smtplib
+import urllib.error
 import urllib.request
 from email.message import EmailMessage
 
@@ -58,8 +59,19 @@ class EmailChannel(Channel):
             "https://api.resend.com/emails", data=payload, method="POST",
             headers={"Authorization": f"Bearer {os.environ['RESEND_API_KEY']}",
                      "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as f:
-            return 200 <= f.status < 300
+        try:
+            with urllib.request.urlopen(req, timeout=30) as f:
+                return 200 <= f.status < 300
+        except urllib.error.HTTPError as e:
+            # Resend explains rejections in the JSON body ("domain not verified",
+            # "you can only send to your own address", bad key). A bare
+            # "HTTP Error 403" hides all of that, so surface it.
+            detail = ""
+            try:
+                detail = e.read().decode("utf-8", "replace")[:300]
+            except Exception:
+                pass
+            raise RuntimeError(f"Resend rejected send: HTTP {e.code} {detail}") from None
 
     def _smtp(self, subject: str, body: str) -> bool:
         msg = EmailMessage()
