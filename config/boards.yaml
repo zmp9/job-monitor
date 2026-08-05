@@ -1,0 +1,72 @@
+# Every slug here was probed live on 2026-07-28 and returned >0 postings.
+# provider: greenhouse | lever | ashby
+boards:
+  # --- consulting ---
+  # Probed 2026-07-30: of every consulting firm on the target list, these two are
+  # the ONLY ones on a public board API. Everything else (McKinsey, Bain, LEK,
+  # Kearney, Deloitte, Strategy&, EY-Parthenon, ICF, Analysis Group, Cornerstone,
+  # ZS) is Workday/iCIMS/Phenom or has no fingerprint — see README coverage table.
+  - {provider: greenhouse, slug: charlesriverassociates, company: Charles River Associates}
+  - {provider: greenhouse, slug: alixpartners,           company: AlixPartners}
+
+  # --- finance: funds & prop trading ---
+  - {provider: greenhouse, slug: aqr,        company: AQR Capital Management}
+  - {provider: greenhouse, slug: point72,    company: Point72}
+  - {provider: greenhouse, slug: drweng,     company: DRW}
+  - {provider: greenhouse, slug: jumptrading, company: Jump Trading}
+  - {provider: greenhouse, slug: squarepointcapital, company: Squarepoint Capital}
+  - {provider: greenhouse, slug: schonfeld,  company: Schonfeld}
+  - {provider: greenhouse, slug: imc,        company: IMC Trading}
+  - {provider: greenhouse, slug: akunacapital, company: Akuna Capital}
+  - {provider: greenhouse, slug: oldmissioncapital, company: Old Mission Capital}
+  - {provider: lever,      slug: belvederetrading, company: Belvedere Trading}
+  - {provider: greenhouse, slug: robinhood,  company: Robinhood}
+  - {provider: greenhouse, slug: coinbase,   company: Coinbase}
+  - {provider: greenhouse, slug: affirm,     company: Affirm}
+  - {provider: greenhouse, slug: brex,       company: Brex}
+  - {provider: greenhouse, slug: sofi,       company: SoFi}
+  - {provider: greenhouse, slug: betterment, company: Betterment}
+  - {provider: greenhouse, slug: carta,      company: Carta}
+  - {provider: greenhouse, slug: marqeta,    company: Marqeta}
+  - {provider: greenhouse, slug: chime,      company: Chime}
+  - {provider: greenhouse, slug: mercury,    company: Mercury}
+  - {provider: ashby,      slug: ramp,       company: Ramp}
+  - {provider: ashby,      slug: plaid,      company: Plaid}
+
+  # --- aviation / industrials / defense ---
+  - {provider: greenhouse, slug: spacex,        company: SpaceX}
+  - {provider: greenhouse, slug: rocketlab,     company: Rocket Lab}
+  - {provider: greenhouse, slug: flyzipline,    company: Zipline}
+  - {provider: greenhouse, slug: astranis,      company: Astranis}
+  - {provider: greenhouse, slug: epirus,        company: Epirus}
+  - {provider: greenhouse, slug: ursamajor,     company: Ursa Major}
+  - {provider: greenhouse, slug: vannevarlabs,  company: Vannevar Labs}
+  - {provider: lever,      slug: shieldai,      company: Shield AI}
+  - {provider: lever,      slug: hermeus,       company: Hermeus}
+  - {provider: lever,      slug: palantir,      company: Palantir}
+  - {provider: greenhouse, slug: andurilindustries, company: Anduril Industries}
+  - {provider: ashby,      slug: boom,          company: Boom Supersonic}
+  - {provider: ashby,      slug: regent,        company: REGENT}
+  - {provider: ashby,      slug: saronic,       company: Saronic}
+
+  # --- technology (business-side roles filtered by scoring) ---
+  - {provider: greenhouse, slug: databricks, company: Databricks}
+  - {provider: greenhouse, slug: stripe,     company: Stripe}
+  - {provider: greenhouse, slug: anthropic,  company: Anthropic}
+  - {provider: greenhouse, slug: figma,      company: Figma}
+  - {provider: greenhouse, slug: samsara,    company: Samsara}
+  - {provider: greenhouse, slug: flexport,   company: Flexport}
+  - {provider: greenhouse, slug: scaleai,    company: Scale AI}
+  - {provider: greenhouse, slug: pinterest,  company: Pinterest}
+  - {provider: greenhouse, slug: reddit,     company: Reddit}
+  - {provider: greenhouse, slug: lyft,       company: Lyft}
+  - {provider: greenhouse, slug: asana,      company: Asana}
+  - {provider: greenhouse, slug: instacart,  company: Instacart}
+  - {provider: greenhouse, slug: discord,    company: Discord}
+  - {provider: greenhouse, slug: airtable,   company: Airtable}
+  - {provider: greenhouse, slug: gusto,      company: Gusto}
+  - {provider: ashby,      slug: notion,     company: Notion}
+  - {provider: ashby,      slug: openai,     company: OpenAI}
+  - {provider: ashby,      slug: vanta,      company: Vanta}
+  - {provider: ashby,      slug: benchling,  company: Benchling}
+  - {provider: ashby,      slug: linear,     company: Linear}

@@ -1,0 +1,57 @@
+# All five verified static (raw HTML contains the deadline tables) on 2026-07-28.
+#
+# selector defaults to "table" — proven stable across back-to-back fetches on all
+# five. Whole-page hashing was tested and FAILS on managementconsulted (x2) and
+# hackingthecaseinterview: they rotate CSRF tokens / Cloudflare email-obfuscation
+# scripts on every request, which would fire a false "changed" alert daily.
+#
+# trust: low  -> notification is banner-flagged "possibly outdated, verify at source"
+pages:
+  - name: managementconsulted-consulting
+    url: https://managementconsulted.com/consulting-application-deadlines/
+    selector: table
+    trust: low
+
+  - name: managementconsulted-mbb
+    url: https://managementconsulted.com/mbb-application-deadlines/
+    selector: table
+    trust: low
+
+  - name: hackingthecaseinterview-mbb
+    url: https://www.hackingthecaseinterview.com/pages/mbb-application-deadlines
+    selector: table
+    trust: low
+
+  - name: casebasix-consulting
+    url: https://www.casebasix.com/pages/consulting-application-deadlines
+    selector: table
+    trust: low
+
+  - name: roadtooffer-consulting
+    url: https://www.roadtooffer.com/blog/consulting-application-deadlines-2026
+    selector: table
+    trust: low
+
+  # --- firm careers pages (no board API; monitored directly) ---
+  # These are primary sources, so trust: high — unlike the aggregator blogs above,
+  # a change here IS the firm changing something. Selectors differ per site and
+  # were each verified to (a) return content and (b) hash-stable across two
+  # back-to-back fetches on 2026-07-30.
+  - name: alton-aviation-careers
+    url: https://www.altonaviation.com/careers
+    selector: article
+    trust: high
+
+  - name: seabury-careers
+    url: https://seaburycapital.com/careers/
+    selector: main
+    trust: high
+
+  - name: novistra-careers
+    url: https://www.novistra.com/careers
+    selector: body
+    trust: high
+
+# Alert if a page's watched region hasn't changed in this many days.
+# These blogs lag the firms; a long silence usually means stale cache, not "no news".
+stale_after_days: 45

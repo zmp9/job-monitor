@@ -1,0 +1,67 @@
+name: daily job scan
+
+on:
+  schedule:
+    # 11:00 UTC = 07:00 ET. Cron here is best-effort; GitHub delays runs under
+    # load, so don't treat the timestamp as exact.
+    - cron: "0 11 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Print instead of sending"
+        type: boolean
+        default: false
+      digest:
+        description: "Force the weekly gated digest"
+        type: boolean
+        default: false
+
+concurrency:
+  group: daily-job-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # needed to commit the state files back
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scan
+        env:
+          EMAIL_BACKEND: ${{ vars.EMAIL_BACKEND || 'resend' }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SCORE_THRESHOLD: ${{ vars.SCORE_THRESHOLD || '45' }}
+        run: |
+          python main.py \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.digest && '--digest' || '' }}
+
+      - name: Commit state
+        if: ${{ !inputs.dry_run }}
+        run: |
+          git config user.name  "job-monitor[bot]"
+          git config user.email "job-monitor@users.noreply.github.com"
+          git add state/
+          if git diff --staged --quiet; then
+            echo "no state change"
+          else
+            git commit -m "state: $(date -u +%Y-%m-%d) [skip ci]"
+            # Another run may have pushed first; rebase rather than fail the job.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi

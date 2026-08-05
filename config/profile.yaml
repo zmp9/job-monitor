@@ -1,0 +1,138 @@
+timing:
+  target: "Summer 2027 internship"
+  grad_window: ["2027-12", "2028-08"]
+  # Hard exclusions matched against the title.
+  # NOTE: these are skipped when the title is an internship, so
+  # "Product Manager Intern" survives but "Strategy Manager" does not.
+  exclude:
+    - senior
+    - sr
+    - staff
+    - principal
+    - director
+    - lead
+    - manager
+    - partner
+    - "vice president"
+    - "vp,"
+    - "head of"
+    - experienced hire
+    - "degree required in hand"
+  # Titles containing these get a timing bonus.
+  boost:
+    - "2027"
+    - "summer 2027"
+
+location:
+  allowed: [United States]
+  preferred: [New York, "New York City", NYC, "San Francisco", "SF", "Bay Area", Greenwich, Stamford, Boston, Chicago]
+  remote_ok: false
+
+sectors:   # all weighted EQUALLY — no sector multipliers
+  - consulting
+  - aviation / industrials
+  - finance          # broad: S&T, IB, wealth/asset mgmt, markets — all fine
+  - technology       # business-side only
+
+positive_keywords:
+  - strategy
+  - corporate strategy
+  - corporate development
+  - corp dev
+  - business operations
+  - biz ops
+  - strategy & operations
+  - strategy and operations
+  - M&A
+  - FP&A
+  - commercial strategy
+  - market analyst
+  - summer analyst
+  - summer associate
+  - business analyst intern
+  - sales & trading
+  - trading
+  - commodities
+  - investment banking
+  - wealth management
+  - asset management
+
+negative_keywords:   # demote — not my track
+  - software engineer
+  - SWE
+  - backend
+  - frontend
+  - full-stack
+  - machine learning engineer
+  - ML engineer
+  - data engineer
+  - DevOps
+  - SRE
+  - quantitative researcher
+  - quant researcher
+  - quant trader
+  - PhD required
+  - propulsion
+  - avionics
+  - mechanical engineer
+  - electrical engineer
+  - firmware
+  - FPGA
+  # Added after the fund/prop-shop boards went in — these titles were scoring
+  # high on the Summer 2027 timing boost alone.
+  - hardware engineer
+  - platform engineer
+  - manufacturing engineer
+  - controls engineer
+  - systems engineer
+  - test engineer
+  - reliability engineer
+  - machine learning
+  - quantitative research
+  - quantitative development
+  - quantitative developer
+  - quantitative trader
+  - research scientist
+  - data scientist
+  - civil engineer
+  - structural engineer
+  - silicon engineer
+  - software engineering
+  - aerospace engineer
+  - industrial engineer
+  - quality engineer
+
+# Strong negatives: if present in the TITLE, exclude outright (never scored).
+# Unlike timing.exclude, these are NOT waived for internship titles — that is why
+# phd/mba live here, so "PhD Research Scientist Intern" is still dropped.
+strong_negatives:
+  - phd
+  - mba
+  - software engineer
+  - backend engineer
+  - frontend engineer
+  - full-stack engineer
+  - machine learning engineer
+  - data engineer
+  - devops
+  - site reliability
+  - quantitative researcher
+  - quant trader
+
+profile_signals:   # what makes ME specifically a fit — smaller boost
+  - ILR
+  - applied economics
+  - industrial and labor relations
+  - aviation
+  - aerospace
+  - airline
+  - A&P
+  - maintenance
+  - M&A
+  - due diligence
+  - analytics
+  - financial modeling
+  - pricing
+  - go-to-market
+  - growth
+  - valuation
