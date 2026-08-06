@@ -25678,5 +25678,29 @@
     "location": "San Francisco",
     "title": "Forward Deployed Engineer (FDE), Healthcare - SF",
     "url": "https://jobs.ashbyhq.com/openai/d8b894e3-c399-4303-a708-3cef8ff5c1a2"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-06T12:53:44.250535+00:00",
+    "key": "greenhouse:SpaceX:8686807002",
+    "location": "Starbase, TX",
+    "title": "Build Specialist, Barrel Production (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8686807002?gh_jid=8686807002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-06T12:53:44.250554+00:00",
+    "key": "greenhouse:SpaceX:8686885002",
+    "location": "Redmond, WA",
+    "title": "Starlink Assembly Technician",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8686885002?gh_jid=8686885002"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-06T12:53:51.353088+00:00",
+    "key": "greenhouse:Anduril Industries:5205419007",
+    "location": "Fort Collins, Colorado, United States",
+    "title": "Platform Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007"
   }
 ]
