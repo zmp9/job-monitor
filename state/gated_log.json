@@ -25622,5 +25622,61 @@
     "location": "North America",
     "title": "Mobile Product Designer",
     "url": "https://jobs.ashbyhq.com/linear/eac7f181-d658-4943-9430-51bae2bcd110"
+  },
+  {
+    "company": "Ramp",
+    "first_seen": "2026-08-06T00:46:40.868320+00:00",
+    "key": "ashby:Ramp:4d3197eb-49dc-4827-a1e6-26cf0ff24b55",
+    "location": "New York, NY (HQ); San Francisco, CA",
+    "title": "Product Operations | Customer Setup",
+    "url": "https://jobs.ashbyhq.com/ramp/4d3197eb-49dc-4827-a1e6-26cf0ff24b55"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-06T00:46:54.793684+00:00",
+    "key": "greenhouse:SpaceX:8686707002",
+    "location": "Hawthorne, CA",
+    "title": "Electrical Engineer (Facilities)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8686707002?gh_jid=8686707002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-06T00:46:54.793698+00:00",
+    "key": "greenhouse:SpaceX:8623034002",
+    "location": "McGregor, TX",
+    "title": "Inventory Control Clerk - 2nd Shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8623034002?gh_jid=8623034002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-06T00:46:54.793702+00:00",
+    "key": "greenhouse:SpaceX:8684618002",
+    "location": "Cape Canaveral, FL",
+    "title": "IT Operations Engineer",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8684618002?gh_jid=8684618002"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-06T00:47:16.782216+00:00",
+    "key": "greenhouse:Anduril Industries:5203761007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Assistant Contractor Special Security Officer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203761007?gh_jid=5203761007"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-06T00:47:18.928927+00:00",
+    "key": "ashby:OpenAI:2a931dd1-5002-47d1-a367-ec1a19ef7e9e",
+    "location": "New York City",
+    "title": "Forward Deployed Engineer (FDE), Healthcare - NYC",
+    "url": "https://jobs.ashbyhq.com/openai/2a931dd1-5002-47d1-a367-ec1a19ef7e9e"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-06T00:47:18.928944+00:00",
+    "key": "ashby:OpenAI:d8b894e3-c399-4303-a708-3cef8ff5c1a2",
+    "location": "San Francisco",
+    "title": "Forward Deployed Engineer (FDE), Healthcare - SF",
+    "url": "https://jobs.ashbyhq.com/openai/d8b894e3-c399-4303-a708-3cef8ff5c1a2"
   }
 ]
