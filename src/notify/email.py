@@ -24,6 +24,16 @@ from email.message import EmailMessage
 from .base import Channel
 
 
+def _env(name: str, default: str = "") -> str:
+    """Read an env var with surrounding whitespace stripped.
+
+    Secrets pasted into the GitHub UI routinely carry a trailing newline. That
+    newline is illegal in an HTTP header value, so an otherwise-valid API key
+    failed with "Invalid header value" rather than anything mentioning the key.
+    """
+    return (os.environ.get(name, default) or "").strip()
+
+
 def _html(body: str) -> str:
     esc = (body.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
     return f'<pre style="font:14px/1.5 -apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;white-space:pre-wrap">{esc}</pre>'
@@ -33,16 +43,16 @@ class EmailChannel(Channel):
     name = "email"
 
     def __init__(self):
-        self.backend = os.environ.get("EMAIL_BACKEND", "resend").lower()
-        self.to = os.environ.get("EMAIL_TO", "")
-        self.sender = os.environ.get("EMAIL_FROM", "")
+        self.backend = _env("EMAIL_BACKEND", "resend").lower()
+        self.to = _env("EMAIL_TO")
+        self.sender = _env("EMAIL_FROM")
 
     def enabled(self) -> bool:
         if not (self.to and self.sender):
             return False
         if self.backend == "resend":
-            return bool(os.environ.get("RESEND_API_KEY"))
-        return bool(os.environ.get("SMTP_HOST") and os.environ.get("SMTP_PASSWORD"))
+            return bool(_env("RESEND_API_KEY"))
+        return bool(_env("SMTP_HOST") and _env("SMTP_PASSWORD"))
 
     def send(self, subject: str, body: str) -> bool:
         return self._resend(subject, body) if self.backend == "resend" else self._smtp(subject, body)
@@ -57,7 +67,7 @@ class EmailChannel(Channel):
         }).encode()
         req = urllib.request.Request(
             "https://api.resend.com/emails", data=payload, method="POST",
-            headers={"Authorization": f"Bearer {os.environ['RESEND_API_KEY']}",
+            headers={"Authorization": f"Bearer {_env('RESEND_API_KEY')}",
                      "Content-Type": "application/json"})
         try:
             with urllib.request.urlopen(req, timeout=30) as f:
@@ -80,10 +90,10 @@ class EmailChannel(Channel):
         msg["To"] = self.to
         msg.set_content(body)
         msg.add_alternative(_html(body), subtype="html")
-        host = os.environ["SMTP_HOST"]
-        port = int(os.environ.get("SMTP_PORT", "587"))
+        host = _env("SMTP_HOST")
+        port = int(_env("SMTP_PORT", "587") or 587)
         with smtplib.SMTP(host, port, timeout=30) as s:
             s.starttls()
-            s.login(os.environ.get("SMTP_USER", self.sender), os.environ["SMTP_PASSWORD"])
+            s.login(_env("SMTP_USER") or self.sender, _env("SMTP_PASSWORD"))
             s.send_message(msg)
         return True
