@@ -65,10 +65,16 @@ class EmailChannel(Channel):
             "html": _html(body),
             "text": body,
         }).encode()
+        # A User-Agent is required: Resend's API is behind Cloudflare, which
+        # rejects urllib's default "Python-urllib/3.x" signature with HTTP 403
+        # "error code: 1010" before the request ever reaches Resend — so the API
+        # key is never even evaluated.
         req = urllib.request.Request(
             "https://api.resend.com/emails", data=payload, method="POST",
             headers={"Authorization": f"Bearer {_env('RESEND_API_KEY')}",
-                     "Content-Type": "application/json"})
+                     "Content-Type": "application/json",
+                     "Accept": "application/json",
+                     "User-Agent": "job-monitor/1.0 (+https://github.com/zmp9/job-monitor)"})
         try:
             with urllib.request.urlopen(req, timeout=30) as f:
                 return 200 <= f.status < 300
