@@ -49,7 +49,9 @@ jobs:
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
-          SCORE_THRESHOLD: ${{ vars.SCORE_THRESHOLD || '45' }}
+          # Phone push. Topic is secret because ntfy topics are unauthenticated.
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SCORE_THRESHOLD: ${{ vars.SCORE_THRESHOLD || '' }}
         run: |
           python main.py \
             ${{ inputs.dry_run && '--dry-run' || '' }} \

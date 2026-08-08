@@ -1,3 +1,18 @@
+# Scoring weights and cutoff. Edited by dashboard.py; src/scoring.py holds the
+# same values as defaults, so removing a key here falls back rather than breaking.
+weights:
+  positive_title: 18        # sector keyword in the title
+  positive_body: 6          # sector keyword in description/department only
+  profile_signal: 4         # something specific to my background
+  preferred_location: 8     # NYC / SF / Greenwich etc.
+  timing_boost: 15          # title names the 2027 cycle explicitly
+  negative_title: -30       # off-track keyword in the title
+  negative_body: -6         # off-track keyword in the body
+  catchall_base: 10         # cleared the gate on title shape alone
+  internship: 25            # title is an internship — the actual target
+
+threshold: 45               # notify at or above this
+
 timing:
   target: "Summer 2027 internship"
   grad_window: ["2027-12", "2028-08"]

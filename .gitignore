@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .env
 .venv/
+
+# local tuning cache for dashboard.py (multi-MB, regenerate with --snapshot)
+state/last_scan.json

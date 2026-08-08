@@ -4,11 +4,15 @@ Pipeline per posting:
     1. hard exclusions  -> dropped, never notified, never digested
     2. positive gate    -> if it fails, posting goes to the weekly gated digest
     3. weighted score   -> 0-100, notified if >= threshold
+
+The constants below are DEFAULTS. A `weights:` block in profile.yaml overrides
+any of them, which is what lets dashboard.py tune scoring without editing code.
+Values here stay authoritative when that block is absent or partial.
 """
 import re
 
 # ---------------------------------------------------------------------------
-# WEIGHTS — tune these.
+# WEIGHTS — defaults; override per-key via `weights:` in profile.yaml.
 # ---------------------------------------------------------------------------
 W_POSITIVE_TITLE = 18      # sector keyword in the title
 W_POSITIVE_BODY = 6        # sector keyword in description/department only
@@ -93,6 +97,22 @@ NON_US_COUNTRIES = {
 REMOTE_RE = re.compile(r"\bremote\b|\banywhere\b|\bdistributed\b", re.I)
 
 
+def _alt(terms) -> re.Pattern:
+    """One alternation instead of N separate searches.
+
+    classify_location previously built a fresh pattern per city and per country
+    on every call — ~60 regex operations per posting. At 13k postings that
+    dominated scoring; as single compiled alternations it is one pass each.
+    """
+    return re.compile(r"\b(?:" + "|".join(sorted((re.escape(t) for t in terms),
+                                                 key=len, reverse=True)) + r")\b")
+
+
+_US_MARKER_RE = _alt(US_MARKERS)
+_US_CITY_RE = _alt(US_CITIES)
+_NON_US_RE = _alt(NON_US_COUNTRIES)
+
+
 def normalize(text: str) -> str:
     """Fold punctuation so 'FP&A' / 'FP and A' / 'full-stack' / 'full stack' match."""
     t = (text or "").lower()
@@ -170,11 +190,10 @@ def classify_location(location: str, profile: dict) -> tuple[str, bool]:
         us = (
             any(t in US_STATES or t in US_ABBREV or t in US_MARKERS or t in US_CITIES
                 for t in tokens)
-            or any(re.search(r"\b" + re.escape(m) + r"\b", blob) for m in US_MARKERS)
-            or any(re.search(r"\b" + re.escape(c) + r"\b", blob) for c in US_CITIES)
+            or _US_MARKER_RE.search(blob) is not None
+            or _US_CITY_RE.search(blob) is not None
         )
-        non_us = any(re.search(r"\b" + re.escape(c) + r"\b", blob)
-                     for c in NON_US_COUNTRIES)
+        non_us = _NON_US_RE.search(blob) is not None
 
         if us and not non_us:
             verdicts.append("us")
@@ -207,10 +226,20 @@ class Result:
         return f"<Result {state}>"
 
 
-def score_posting(posting, profile: dict, compiled: dict) -> Result:
+def score_posting(posting, profile: dict, compiled: dict,
+                  title_n: str = None, body_n: str = None) -> Result:
+    """Score one posting.
+
+    title_n/body_n let a caller pass pre-normalized text. The daily run omits
+    them; dashboard.py precomputes once per posting and reuses across previews,
+    where re-normalizing 13k descriptions per keystroke dominated the runtime.
+    """
     r = Result()
-    title_n = normalize(posting.title)
-    body_n = normalize(posting.haystack())
+    w = compiled.get("weights") or WEIGHT_DEFAULTS
+    if title_n is None:
+        title_n = normalize(posting.title)
+    if body_n is None:
+        body_n = normalize(posting.haystack())
 
     # --- 1. hard exclusions -------------------------------------------------
     for raw, pat in compiled["strong_negatives"]:
@@ -254,19 +283,19 @@ def score_posting(posting, profile: dict, compiled: dict) -> Result:
             r.gated = True
             r.exclude_reason = "no sector keyword and no catch-all title token"
             return r
-        r.score += W_CATCHALL_BASE
-        r.reasons.append(f"+{W_CATCHALL_BASE} catch-all title token: {', '.join(catchall)}")
+        r.score += w["catchall_base"]
+        r.reasons.append(f"+{w['catchall_base']} catch-all title token: {', '.join(catchall)}")
 
     # --- 3. scoring ---------------------------------------------------------
     if pos_title:
         hits = pos_title[:CAP_POSITIVE_HITS]
-        pts = W_POSITIVE_TITLE * len(hits)
+        pts = w["positive_title"] * len(hits)
         r.score += pts
         r.reasons.append(f"+{pts} title keywords: {', '.join(hits)}")
     if pos_body:
         hits = pos_body[:max(0, CAP_POSITIVE_HITS - len(pos_title))]
         if hits:
-            pts = W_POSITIVE_BODY * len(hits)
+            pts = w["positive_body"] * len(hits)
             r.score += pts
             r.reasons.append(f"+{pts} body keywords: {', '.join(hits)}")
 
@@ -275,12 +304,12 @@ def score_posting(posting, profile: dict, compiled: dict) -> Result:
                 if raw not in neg_title]
     if neg_title:
         hits = neg_title[:CAP_NEGATIVE_HITS]
-        pts = W_NEGATIVE_TITLE * len(hits)
+        pts = w["negative_title"] * len(hits)
         r.score += pts
         r.reasons.append(f"{pts} title negatives: {', '.join(hits)}")
     if neg_body:
         hits = neg_body[:CAP_NEGATIVE_HITS]
-        pts = W_NEGATIVE_BODY * len(hits)
+        pts = w["negative_body"] * len(hits)
         r.score += pts
         r.reasons.append(f"{pts} body negatives: {', '.join(hits)}")
 
@@ -291,36 +320,74 @@ def score_posting(posting, profile: dict, compiled: dict) -> Result:
     # penalty without the amplifiers.
     amplify = not neg_title
     if is_internship and amplify:
-        r.score += W_INTERNSHIP
-        r.reasons.append(f"+{W_INTERNSHIP} internship title")
+        r.score += w["internship"]
+        r.reasons.append(f"+{w['internship']} internship title")
     elif is_internship:
         r.reasons.append(f"internship/timing bonuses withheld (negative in title)")
 
     signals = find_terms(compiled["signals"], body_n)
     if signals:
         hits = signals[:CAP_SIGNAL_HITS]
-        pts = W_PROFILE_SIGNAL * len(hits)
+        pts = w["profile_signal"] * len(hits)
         r.score += pts
         r.reasons.append(f"+{pts} profile signals: {', '.join(hits)}")
 
     if is_pref:
-        r.score += W_PREFERRED_LOCATION
-        r.reasons.append(f"+{W_PREFERRED_LOCATION} preferred location: {posting.location}")
+        r.score += w["preferred_location"]
+        r.reasons.append(f"+{w['preferred_location']} preferred location: {posting.location}")
 
     if amplify:
         for raw, pat in compiled["timing_boost"]:
             if pat.search(title_n):
-                r.score += W_TIMING_BOOST
-                r.reasons.append(f"+{W_TIMING_BOOST} target cycle in title: {raw}")
+                r.score += w["timing_boost"]
+                r.reasons.append(f"+{w['timing_boost']} target cycle in title: {raw}")
                 break
 
     r.score = max(0, min(100, r.score))
     return r
 
 
+# Maps profile.yaml `weights:` keys -> module-level defaults above.
+WEIGHT_DEFAULTS = {
+    "positive_title": W_POSITIVE_TITLE,
+    "positive_body": W_POSITIVE_BODY,
+    "profile_signal": W_PROFILE_SIGNAL,
+    "preferred_location": W_PREFERRED_LOCATION,
+    "timing_boost": W_TIMING_BOOST,
+    "negative_title": W_NEGATIVE_TITLE,
+    "negative_body": W_NEGATIVE_BODY,
+    "catchall_base": W_CATCHALL_BASE,
+    "internship": W_INTERNSHIP,
+}
+
+
+def resolve_weights(profile: dict) -> dict:
+    """Merge profile.yaml `weights:` over the module defaults.
+
+    Unknown keys are ignored and non-numeric values fall back, so a hand-edited
+    or dashboard-written profile can never crash a scheduled run.
+    """
+    out = dict(WEIGHT_DEFAULTS)
+    for k, v in (profile.get("weights") or {}).items():
+        if k in out:
+            try:
+                out[k] = int(v)
+            except (TypeError, ValueError):
+                pass
+    return out
+
+
+def resolve_threshold(profile: dict, default: int = None) -> int:
+    try:
+        return int(profile.get("threshold"))
+    except (TypeError, ValueError):
+        return DEFAULT_THRESHOLD if default is None else default
+
+
 def compile_profile(profile: dict) -> dict:
     timing = profile.get("timing", {}) or {}
     return {
+        "weights": resolve_weights(profile),
         "positive": compile_terms(profile.get("positive_keywords")),
         "negative": compile_terms(profile.get("negative_keywords")),
         "strong_negatives": compile_terms(profile.get("strong_negatives")),

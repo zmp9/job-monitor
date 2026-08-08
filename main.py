@@ -17,7 +17,8 @@ import yaml
 
 from src import monitor, state
 from src.providers import ashby, greenhouse, lever
-from src.scoring import DEFAULT_THRESHOLD, compile_profile, score_posting
+from src.scoring import (DEFAULT_THRESHOLD, compile_profile, resolve_threshold,
+                         score_posting)
 from src.notify.base import DryRunChannel, dispatch
 from src.notify.email import EmailChannel
 from src.notify.stubs import PushChannel, SMSChannel
@@ -61,13 +62,16 @@ def build_channels(dry_run: bool) -> list:
 # ---------------------------------------------------------------------------
 # aggregator
 # ---------------------------------------------------------------------------
-def run_aggregator(profile, boards_cfg, threshold, channels, dry_run):
+def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=False):
     compiled = compile_profile(profile)
     seen = state.load_seen()
     gated_log = state.load_gated()
     gated_keys = {g["key"] for g in gated_log}
 
     matches, errors, new_count, total = [], [], 0, 0
+    # Every fetched posting, not just the unseen ones: the dashboard needs the
+    # full population to answer "how many match at threshold X".
+    snapshot_rows = []
 
     for board in boards_cfg.get("boards", []):
         provider = PROVIDERS.get(board["provider"])
@@ -75,13 +79,21 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run):
             errors.append(f"{board['provider']}/{board['slug']}: unknown provider")
             continue
         try:
-            postings = provider.fetch(board["slug"], board["company"])
+            postings = provider.fetch(board["slug"], board["company"],
+                                      with_content=snapshot)
         except Exception as e:
             # One dead board must not kill the run.
             errors.append(f"{board['company']} ({board['provider']}): {type(e).__name__}: {e}")
             continue
 
         total += len(postings)
+        if snapshot:
+            snapshot_rows.extend({
+                "provider": p.provider, "company": p.company, "job_id": p.job_id,
+                "title": p.title, "location": p.location, "url": p.url,
+                "posted_at": p.posted_at, "department": p.department,
+                "description": p.description[:2500],
+            } for p in postings)
         fresh = [p for p in postings if p.key not in seen]
         new_count += len(fresh)
 
@@ -135,6 +147,11 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run):
         print(f"aggregator: {len(errors)} board error(s):", file=sys.stderr)
         for e in errors:
             print(f"  {e}", file=sys.stderr)
+
+    if snapshot:
+        state.save_snapshot(snapshot_rows)
+        print(f"aggregator: snapshot written ({len(snapshot_rows)} postings) -> "
+              f"{state.SNAPSHOT_FILE}")
 
     if not dry_run:
         state.save_seen(seen)
@@ -315,8 +332,10 @@ def main():
     ap.add_argument("--only-boards", action="store_true")
     ap.add_argument("--only-pages", action="store_true")
     ap.add_argument("--digest", action="store_true", help="force the weekly gated digest")
-    ap.add_argument("--threshold", type=int,
-                    default=int(os.environ.get("SCORE_THRESHOLD", DEFAULT_THRESHOLD)))
+    ap.add_argument("--threshold", type=int, default=None,
+                    help="override the cutoff; else SCORE_THRESHOLD env, else profile.yaml")
+    ap.add_argument("--snapshot", action="store_true",
+                    help="cache every fetched posting to state/last_scan.json for dashboard.py")
     ap.add_argument("--test-email", action="store_true",
                     help="send one test message and report the outcome; skips all scanning")
     args = ap.parse_args()
@@ -328,13 +347,18 @@ def main():
                            "If you are reading this, the notification path works.")
         report_dispatch("test", results, 1)
         return 0 if any(o == "sent" for o in results.values()) else 1
+
     profile = load_yaml("profile.yaml")
+    # Precedence: CLI flag > SCORE_THRESHOLD env > profile.yaml > module default.
+    if args.threshold is None:
+        env = os.environ.get("SCORE_THRESHOLD", "").strip()
+        args.threshold = int(env) if env.isdigit() else resolve_threshold(profile)
     failed = False
 
     if not args.only_pages:
         try:
             run_aggregator(profile, load_yaml("boards.yaml"), args.threshold,
-                           channels, args.dry_run)
+                           channels, args.dry_run, snapshot=args.snapshot)
         except Exception:
             traceback.print_exc()
             failed = True

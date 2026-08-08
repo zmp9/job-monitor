@@ -17,7 +17,8 @@ from ..http import get_json
 LIST_URL = "https://api.ashbyhq.com/posting-api/job-board/{slug}"
 
 
-def fetch(slug: str, company: str) -> list[Posting]:
+def fetch(slug: str, company: str, with_content: bool = False) -> list[Posting]:
+    # with_content is accepted for a uniform call site; descriptions are always inline here.
     data = get_json(LIST_URL.format(slug=slug))
     out = []
     for j in data.get("jobs", []):

@@ -27,8 +27,17 @@ def _strip_html(raw: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def fetch(slug: str, company: str) -> list[Posting]:
-    data = get_json(LIST_URL.format(slug=slug))
+def fetch(slug: str, company: str, with_content: bool = False) -> list[Posting]:
+    """Fetch a board.
+
+    with_content=True adds ?content=true, which inlines every description in the
+    single board request. It's heavy (~318KB for 48 jobs) so the daily run leaves
+    it off and hydrates only borderline postings — but the tuning snapshot needs
+    descriptions for the whole population, and one request per board is far
+    cheaper than one per job.
+    """
+    url = LIST_URL.format(slug=slug) + ("?content=true" if with_content else "")
+    data = get_json(url)
     out = []
     for j in data.get("jobs", []):
         out.append(Posting(
@@ -41,6 +50,7 @@ def fetch(slug: str, company: str) -> list[Posting]:
             # first_published is when it actually went up; updated_at moves on edits.
             posted_at=j.get("first_published") or j.get("updated_at"),
             department=", ".join(d.get("name", "") for d in (j.get("departments") or [])),
+            description=_strip_html(j.get("content", "")) if with_content else "",
         ))
     return out
 

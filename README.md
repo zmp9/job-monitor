@@ -23,14 +23,44 @@ Repo secrets (Settings → Secrets and variables → Actions):
 | `RESEND_API_KEY` | email (default backend) |
 | `EMAIL_FROM`, `EMAIL_TO` | email, both backends |
 | `SMTP_HOST` / `SMTP_PORT` / `SMTP_USER` / `SMTP_PASSWORD` | only if `EMAIL_BACKEND=smtp` |
+| `NTFY_TOPIC` | phone push (optional) |
 
 Repo *variables* (not secrets): `SCORE_THRESHOLD` (default 45), `EMAIL_BACKEND` (default `resend`).
 
+### Phone push (ntfy)
+
+Install the **ntfy** app (iOS/Android), then generate a topic and subscribe to it:
+
+```bash
+python -c "import secrets; print('zmp9-jobs-' + secrets.token_hex(8))"
+```
+
+Add that string as the `NTFY_TOPIC` repo secret, and subscribe to the same topic in the app. Every alert then arrives as a push alongside the email — count plus the top 3 matches, with the full list in the email.
+
+> **Keep the topic secret.** ntfy topics are unauthenticated: anyone who knows or guesses the name can read your alerts. Use the random string above, never a guessable one, and never commit it.
+
+Test it end to end with `python main.py --test-email` (sends on every enabled channel, no scanning).
+
 **Resend over Gmail SMTP.** Gmail needs an app password, silently rate-limits personal accounts, and Google periodically revokes app passwords — which fails at 7am inside a cron run you aren't watching. SMTP is implemented as a fallback if you'd rather not sign up.
+
+## Tuning dashboard
+
+```bash
+python main.py --dry-run --only-boards --snapshot   # ~5 min, sends nothing, writes no state
+python dashboard.py                                 # localhost:8000
+```
+
+Adjust the threshold, the nine weights, and the keyword lists; every change re-scores the whole snapshot instantly so you see the new ranking *before* saving. Click a row for the score reasons. Keyword counts show how many postings each term matches — a term sitting at 0 is dead weight.
+
+Save writes `config/profile.yaml` only. Review with `git diff` and commit yourself; the dashboard never commits or pushes.
+
+The preview calls the same `compile_profile()` / `score_posting()` the cron uses, so it can't drift from real behaviour. Server binds `127.0.0.1` only and adds no dependency — `requirements.txt` is installed on every CI run and the dashboard never runs there.
+
+`state/last_scan.json` is gitignored (~13k postings with descriptions). Regenerate it whenever you want fresh data; the snapshot pulls Greenhouse with `?content=true` so descriptions are present for every provider, which the daily run skips as too heavy.
 
 ## Scoring
 
-Weights are constants at the top of `src/scoring.py`. Order of operations:
+Weights live in the `weights:` block of `config/profile.yaml` (edited by the dashboard); `src/scoring.py` holds the same values as defaults, so a missing key falls back rather than breaking a run. Order of operations:
 
 1. **Hard exclusions** — strong negatives in title (`software engineer`, `phd`, …), seniority terms (`senior`, `lead`, `manager`, …), non-US location, remote-only while `remote_ok: false`. Dropped entirely.
 2. **Positive gate** — needs ≥1 sector keyword, *or* a catch-all title token (`intern`, `internship`, `summer`, `analyst`, `associate`). Failures go to the weekly gated digest, never silently dropped.

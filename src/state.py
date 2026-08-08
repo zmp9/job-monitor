@@ -14,6 +14,10 @@ STATE_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file_
 SEEN_FILE = os.path.join(STATE_DIR, "seen_postings.json")
 PAGES_FILE = os.path.join(STATE_DIR, "page_hashes.json")
 GATED_FILE = os.path.join(STATE_DIR, "gated_log.json")
+# Local tuning cache for dashboard.py. Deliberately NOT committed: it holds every
+# fetched posting with descriptions (multi-MB), and the repo already carries a
+# 3.5MB seen_postings.json rewritten daily. Regenerate with --snapshot.
+SNAPSHOT_FILE = os.path.join(STATE_DIR, "last_scan.json")
 
 
 def now() -> str:
@@ -51,6 +55,14 @@ def load_pages() -> dict:
 
 def save_pages(d: dict) -> None:
     _save(PAGES_FILE, d)
+
+
+def load_snapshot() -> list:
+    return _load(SNAPSHOT_FILE, [])
+
+
+def save_snapshot(postings: list) -> None:
+    _save(SNAPSHOT_FILE, postings)
 
 
 def load_gated() -> list:

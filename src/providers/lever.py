@@ -23,7 +23,8 @@ def _ts(ms) -> str | None:
         return None
 
 
-def fetch(slug: str, company: str) -> list[Posting]:
+def fetch(slug: str, company: str, with_content: bool = False) -> list[Posting]:
+    # with_content is accepted for a uniform call site; descriptions are always inline here.
     data = get_json(LIST_URL.format(slug=slug))
     out = []
     for j in data if isinstance(data, list) else []:
