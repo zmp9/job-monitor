@@ -26078,5 +26078,293 @@
     "location": "North America; Europe",
     "title": "Production Designer",
     "url": "https://jobs.ashbyhq.com/linear/b32de590-06ce-47d4-8994-66b936df908d"
+  },
+  {
+    "company": "Robinhood",
+    "first_seen": "2026-08-08T11:23:11.305660+00:00",
+    "key": "greenhouse:Robinhood:8109753",
+    "location": "New York, NY",
+    "title": "Privacy Engineer",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8109753?t=gh_src=&gh_jid=8109753"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059304+00:00",
+    "key": "greenhouse:SpaceX:8676210002",
+    "location": "Redmond, WA",
+    "title": "Automation and Test Engineer, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676210002?gh_jid=8676210002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059317+00:00",
+    "key": "greenhouse:SpaceX:8676957002",
+    "location": "Redmond, WA",
+    "title": "Automation & Controls Engineer (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676957002?gh_jid=8676957002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059322+00:00",
+    "key": "greenhouse:SpaceX:8573756002",
+    "location": "Palo Alto, CA",
+    "title": "Lab Architect",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8573756002?gh_jid=8573756002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059325+00:00",
+    "key": "greenhouse:SpaceX:8691820002",
+    "location": "Redmond, WA",
+    "title": "Lab Architect",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8691820002?gh_jid=8691820002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059328+00:00",
+    "key": "greenhouse:SpaceX:8691821002",
+    "location": "Hawthorne, CA",
+    "title": "Lab Architect",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8691821002?gh_jid=8691821002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059331+00:00",
+    "key": "greenhouse:SpaceX:8692396002",
+    "location": "Bastrop, TX",
+    "title": "Starlink Production Technician",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692396002?gh_jid=8692396002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-08T11:23:13.059334+00:00",
+    "key": "greenhouse:SpaceX:8692387002",
+    "location": "Hawthorne, CA",
+    "title": "Welding Supervisor (Starship Mechanisms)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692387002?gh_jid=8692387002"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-08T11:23:13.313906+00:00",
+    "key": "greenhouse:Rocket Lab:7836593003",
+    "location": "Tucson, AZ",
+    "title": "Office Administrator",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836593003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-08T11:23:13.313920+00:00",
+    "key": "greenhouse:Rocket Lab:7829366003",
+    "location": "Long Beach, CA",
+    "title": "Spacecraft Thermal Engineer I/II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7829366003"
+  },
+  {
+    "company": "Zipline",
+    "first_seen": "2026-08-08T11:23:13.476185+00:00",
+    "key": "greenhouse:Zipline:7830186003",
+    "location": "Abidjan, C\u00f4te d\u2019Ivoire",
+    "title": "Coordinateur(trice) des Partenariats, C\u00f4te d'Ivoire",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7830186003"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648125+00:00",
+    "key": "greenhouse:Anduril Industries:5197253007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Applied LLM Systems Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648141+00:00",
+    "key": "greenhouse:Anduril Industries:5206041007",
+    "location": "Atlanta, Georgia, United States",
+    "title": "Business Process Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206041007?gh_jid=5206041007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648145+00:00",
+    "key": "greenhouse:Anduril Industries:5203778007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Business Systems Infrastructure Coordinator",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203778007?gh_jid=5203778007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648148+00:00",
+    "key": "greenhouse:Anduril Industries:5206862007",
+    "location": "Lexington, Massachusetts, United States",
+    "title": "Electrical Hardware Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206862007?gh_jid=5206862007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648152+00:00",
+    "key": "greenhouse:Anduril Industries:5206702007",
+    "location": "San Clemente, California, United States",
+    "title": "Flight Test Operator",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206702007?gh_jid=5206702007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648156+00:00",
+    "key": "greenhouse:Anduril Industries:5206877007",
+    "location": "Lexington, Massachusetts, United States",
+    "title": "Manufacturing Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206877007?gh_jid=5206877007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648159+00:00",
+    "key": "greenhouse:Anduril Industries:5203806007",
+    "location": "Boston, Massachusetts, United States",
+    "title": "Manufacturing Engineer, Digital Tools",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5203806007?gh_jid=5203806007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648163+00:00",
+    "key": "greenhouse:Anduril Industries:5206844007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Material Planner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206844007?gh_jid=5206844007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648166+00:00",
+    "key": "greenhouse:Anduril Industries:5206855007",
+    "location": "Lexington, Massachusetts, United States",
+    "title": "Mechanical Designer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206855007?gh_jid=5206855007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648169+00:00",
+    "key": "greenhouse:Anduril Industries:5205314007",
+    "location": "Santa Ana, California, United States",
+    "title": "Quality Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205314007?gh_jid=5205314007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648172+00:00",
+    "key": "greenhouse:Anduril Industries:5206351007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Quality Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206351007?gh_jid=5206351007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648174+00:00",
+    "key": "greenhouse:Anduril Industries:5206321007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Quality Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206321007?gh_jid=5206321007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648177+00:00",
+    "key": "greenhouse:Anduril Industries:5201861007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Quality Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5201861007?gh_jid=5201861007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648180+00:00",
+    "key": "greenhouse:Anduril Industries:5206851007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Supply Planner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206851007?gh_jid=5206851007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-08T11:23:19.648183+00:00",
+    "key": "greenhouse:Anduril Industries:5207557007",
+    "location": "Costa Mesa, California, United States",
+    "title": "System Engineer, Electrical Integration - Edge Compute and Communications",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207557007?gh_jid=5207557007"
+  },
+  {
+    "company": "Stripe",
+    "first_seen": "2026-08-08T11:23:20.021747+00:00",
+    "key": "greenhouse:Stripe:8114514",
+    "location": "SEA, SF, NYC",
+    "title": "IT SOX Controls Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114514"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-08T11:23:20.408666+00:00",
+    "key": "greenhouse:Anthropic:4461450008",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
+    "title": "Account Executive, Startups",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-08T11:23:20.408683+00:00",
+    "key": "greenhouse:Anthropic:5383335008",
+    "location": "San Francisco, CA | New York City, NY",
+    "title": "Applied AI Architect, Enterprise Tech",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383335008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-08T11:23:20.408687+00:00",
+    "key": "greenhouse:Anthropic:5357947008",
+    "location": "San Francisco, CA | Seattle, WA",
+    "title": "Finance Systems Engineer, Tax",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357947008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-08T11:23:20.408690+00:00",
+    "key": "greenhouse:Anthropic:5382033008",
+    "location": "San Francisco, CA",
+    "title": "GSOC Response & Policy Program Specialist",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382033008"
+  },
+  {
+    "company": "Samsara",
+    "first_seen": "2026-08-08T11:23:20.676391+00:00",
+    "key": "greenhouse:Samsara:7679053",
+    "location": "Remote - US",
+    "title": "Core Enterprise Account Executive TOLA",
+    "url": "https://www.samsara.com/company/careers/roles/7679053?gh_jid=7679053"
+  },
+  {
+    "company": "Lyft",
+    "first_seen": "2026-08-08T11:23:21.171425+00:00",
+    "key": "greenhouse:Lyft:8689228002",
+    "location": "Washington, DC",
+    "title": "Operations Specialist, Capital Bikeshare",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8689228002?gh_jid=8689228002"
+  },
+  {
+    "company": "Notion",
+    "first_seen": "2026-08-08T11:23:21.511031+00:00",
+    "key": "ashby:Notion:5b710ddc-460c-4254-9436-fde654b600ae",
+    "location": "San Francisco, California",
+    "title": "AI Product Counsel",
+    "url": "https://jobs.ashbyhq.com/notion/5b710ddc-460c-4254-9436-fde654b600ae"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-08T11:23:21.683374+00:00",
+    "key": "ashby:OpenAI:a139d1b9-d55f-4aa2-87c3-3b6d20f8ee6b",
+    "location": "San Francisco",
+    "title": "Counsel, Corporate",
+    "url": "https://jobs.ashbyhq.com/openai/a139d1b9-d55f-4aa2-87c3-3b6d20f8ee6b"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-08T11:23:21.683393+00:00",
+    "key": "ashby:OpenAI:5a9e68f6-30b5-40c0-aa8c-c822c59140d0",
+    "location": "San Francisco",
+    "title": "Researcher, Recursive Self-Improvement Safety",
+    "url": "https://jobs.ashbyhq.com/openai/5a9e68f6-30b5-40c0-aa8c-c822c59140d0"
   }
 ]
