@@ -3125,6 +3125,12 @@
     "title": "Researcher, Synthetic RL",
     "url": "https://jobs.ashbyhq.com/openai/60d3700b-ba82-4fa6-a6bb-7b2b67070510"
   },
+  "ashby:OpenAI:61171d99-747f-441e-985d-20c010112ad8": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-09T11:23:42.568604+00:00",
+    "title": "Strategic Sourcing Manager, Data Center Infrastructure: Mechanical",
+    "url": "https://jobs.ashbyhq.com/openai/61171d99-747f-441e-985d-20c010112ad8"
+  },
   "ashby:OpenAI:616ef2ce-3790-432d-9a6d-32abb2f52ff9": {
     "company": "OpenAI",
     "first_seen": "2026-08-05T23:39:42.861328+00:00",
@@ -3412,6 +3418,12 @@
     "first_seen": "2026-08-05T23:39:42.860614+00:00",
     "title": "Model Policy, Chemical & Biological Risk",
     "url": "https://jobs.ashbyhq.com/openai/6df6a3d8-c72b-4e65-acf8-a5d91559533c"
+  },
+  "ashby:OpenAI:6e20368e-d51e-4562-8b94-0166317d52c7": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-09T11:23:42.568626+00:00",
+    "title": "Power Trading Lead",
+    "url": "https://jobs.ashbyhq.com/openai/6e20368e-d51e-4562-8b94-0166317d52c7"
   },
   "ashby:OpenAI:6eb386ac-9056-4795-aa79-a27e105faf5c": {
     "company": "OpenAI",
@@ -3772,6 +3784,12 @@
     "first_seen": "2026-08-05T23:39:42.861436+00:00",
     "title": "Principal Software Engineer, Simulation",
     "url": "https://jobs.ashbyhq.com/openai/86450337-b12a-48c1-836e-cc0c5766eb8e"
+  },
+  "ashby:OpenAI:86c04f38-1938-4e95-a43c-502fc79ff60c": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-09T11:23:42.568623+00:00",
+    "title": "New Geography and International Growth Lead",
+    "url": "https://jobs.ashbyhq.com/openai/86c04f38-1938-4e95-a43c-502fc79ff60c"
   },
   "ashby:OpenAI:8728beb4-1ad9-4140-b701-e7e12f6c9a4d": {
     "company": "OpenAI",
@@ -5890,6 +5908,12 @@
     "first_seen": "2026-08-05T23:39:42.860494+00:00",
     "title": "State Government Affairs Lead (Northeast Region)",
     "url": "https://jobs.ashbyhq.com/openai/f9c94950-44a0-49e8-99a0-f73d76f73977"
+  },
+  "ashby:OpenAI:f9da623f-b16e-496d-ae06-056132b01ff7": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-09T11:23:42.568628+00:00",
+    "title": "Real Estate Lead, Data Center Site Acquisition",
+    "url": "https://jobs.ashbyhq.com/openai/f9da623f-b16e-496d-ae06-056132b01ff7"
   },
   "ashby:OpenAI:fa7431e0-cecb-4d9d-b953-70832a57dd9f": {
     "company": "OpenAI",
@@ -35363,6 +35387,12 @@
     "title": "Staff Software Engineer - Data Platform",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002"
   },
+  "greenhouse:Databricks:7619810002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-09T11:23:40.762538+00:00",
+    "title": "Senior Software Engineer - Networking Infra",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002"
+  },
   "greenhouse:Databricks:7619811002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.246750+00:00",
@@ -35404,6 +35434,12 @@
     "first_seen": "2026-08-05T23:39:06.246748+00:00",
     "title": "Senior Software Engineer- Networking",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002"
+  },
+  "greenhouse:Databricks:7647369002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-09T11:23:40.762536+00:00",
+    "title": "Senior Software Engineer (Data Platform)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002"
   },
   "greenhouse:Databricks:7648669002": {
     "company": "Databricks",
@@ -35771,6 +35807,12 @@
     "title": "Staff Software Engineer - Customer Engagement & Docs Platform",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002"
   },
+  "greenhouse:Databricks:8037500002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-09T11:23:40.762540+00:00",
+    "title": "Staff Software Engineer - Fullstack",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002"
+  },
   "greenhouse:Databricks:8073294002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.247271+00:00",
@@ -35968,6 +36010,12 @@
     "first_seen": "2026-08-05T23:39:06.247315+00:00",
     "title": "Sr Product Manager, Employee Experience",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8203285002"
+  },
+  "greenhouse:Databricks:8210383002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-09T11:23:40.762533+00:00",
+    "title": "Senior Software Engineer (App-Framework)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002"
   },
   "greenhouse:Databricks:8211450002": {
     "company": "Databricks",
@@ -39970,6 +40018,12 @@
     "first_seen": "2026-08-07T11:41:40.539414+00:00",
     "title": "Delivery Solutions Architect - Oil & Gas",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8687483002"
+  },
+  "greenhouse:Databricks:8688812002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-09T11:23:40.762516+00:00",
+    "title": "AI Transformation Leader",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688812002"
   },
   "greenhouse:Databricks:8691490002": {
     "company": "Databricks",
@@ -48796,6 +48850,12 @@
     "first_seen": "2026-08-06T12:53:53.243709+00:00",
     "title": "Sr. Software Engineer",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377"
+  },
+  "greenhouse:Pinterest:8112792": {
+    "company": "Pinterest",
+    "first_seen": "2026-08-09T11:23:41.655390+00:00",
+    "title": "Sr. Client Account Manager - 6 Month Fixed Term Contract",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8112792"
   },
   "greenhouse:Point72:4644225002": {
     "company": "Point72",
@@ -75581,6 +75641,12 @@
     "title": "Head of Enterprise Sales",
     "url": "https://stripe.com/jobs/search?gh_jid=8100129"
   },
+  "greenhouse:Stripe:8102337": {
+    "company": "Stripe",
+    "first_seen": "2026-08-09T11:23:40.992565+00:00",
+    "title": "Engagement Manager, Professional Services (SEA/GCN)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8102337"
+  },
   "greenhouse:Stripe:8102346": {
     "company": "Stripe",
     "first_seen": "2026-08-07T11:41:40.904315+00:00",
@@ -81022,6 +81088,12 @@
     "first_seen": "2026-08-05T23:38:51.013956+00:00",
     "title": "Simulation Specialist (R5374)",
     "url": "https://jobs.lever.co/shieldai/2d960223-872f-4fe3-bce7-f8e2eac6e990"
+  },
+  "lever:Shield AI:2dc37d83-e2b1-4417-950f-869bd61f7858": {
+    "company": "Shield AI",
+    "first_seen": "2026-08-09T11:23:39.153791+00:00",
+    "title": "Senior Staff Technical Program Manager (R5595)",
+    "url": "https://jobs.lever.co/shieldai/2dc37d83-e2b1-4417-950f-869bd61f7858"
   },
   "lever:Shield AI:2dd71f90-62a3-4855-a528-cb3c740efc9a": {
     "company": "Shield AI",
