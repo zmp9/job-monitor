@@ -26366,5 +26366,53 @@
     "location": "San Francisco",
     "title": "Researcher, Recursive Self-Improvement Safety",
     "url": "https://jobs.ashbyhq.com/openai/5a9e68f6-30b5-40c0-aa8c-c822c59140d0"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-10T11:43:24.394095+00:00",
+    "key": "greenhouse:SpaceX:8691749002",
+    "location": "Hawthorne, CA",
+    "title": "Physical Security Hardware Specialist",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8691749002?gh_jid=8691749002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-10T11:43:24.394117+00:00",
+    "key": "greenhouse:SpaceX:8692894002",
+    "location": "Hawthorne, CA",
+    "title": "Power Electronics Engineer (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692894002?gh_jid=8692894002"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-10T11:43:32.580892+00:00",
+    "key": "greenhouse:Anduril Industries:5207731007",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "title": "Algorithm Developer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207731007?gh_jid=5207731007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-10T11:43:32.580915+00:00",
+    "key": "greenhouse:Anduril Industries:5207732007",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "title": "Algorithm Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207732007?gh_jid=5207732007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-10T11:43:32.580919+00:00",
+    "key": "greenhouse:Anduril Industries:5207729007",
+    "location": "Broomfield, Colorado, United States; Fort Collins, Colorado, United States",
+    "title": "Research Scientist, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207729007?gh_jid=5207729007"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-10T11:43:33.939795+00:00",
+    "key": "ashby:OpenAI:ac371165-c2b3-4289-9e97-0abc68287b91",
+    "location": "San Francisco",
+    "title": "Researcher, Frontier Risk Mitigations",
+    "url": "https://jobs.ashbyhq.com/openai/ac371165-c2b3-4289-9e97-0abc68287b91"
   }
 ]
