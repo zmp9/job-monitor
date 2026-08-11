@@ -26414,5 +26414,373 @@
     "location": "San Francisco",
     "title": "Researcher, Frontier Risk Mitigations",
     "url": "https://jobs.ashbyhq.com/openai/ac371165-c2b3-4289-9e97-0abc68287b91"
+  },
+  {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-11T11:40:14.679060+00:00",
+    "key": "greenhouse:AlixPartners:7848183003",
+    "location": "Detroit",
+    "title": "Legal Contract Specialist",
+    "url": "https://www.alixpartners.com/careers/7848183003?gh_jid=7848183003"
+  },
+  {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-11T11:40:14.679094+00:00",
+    "key": "greenhouse:AlixPartners:7849593003",
+    "location": "Dallas; Detroit",
+    "title": "Research Operations Specialist",
+    "url": "https://www.alixpartners.com/careers/7849593003?gh_jid=7849593003"
+  },
+  {
+    "company": "Carta",
+    "first_seen": "2026-08-11T11:40:32.724558+00:00",
+    "key": "greenhouse:Carta:7849783003",
+    "location": "Seattle, Washington; Denver, CO",
+    "title": "Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7849783003"
+  },
+  {
+    "company": "Carta",
+    "first_seen": "2026-08-11T11:40:32.724577+00:00",
+    "key": "greenhouse:Carta:7824731003",
+    "location": "San Francisco, CA",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7824731003"
+  },
+  {
+    "company": "Mercury",
+    "first_seen": "2026-08-11T11:40:33.348790+00:00",
+    "key": "greenhouse:Mercury:6140395004",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "title": "Executive Producer - Brand Creative",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6140395004"
+  },
+  {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632557+00:00",
+    "key": "ashby:Ramp:4904547a-e2ca-407c-b113-8aae2be0790c",
+    "location": "New York, NY (HQ); San Francisco, CA; Toronto, ON",
+    "title": "Customer Activation | Partnerships",
+    "url": "https://jobs.ashbyhq.com/ramp/4904547a-e2ca-407c-b113-8aae2be0790c"
+  },
+  {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632577+00:00",
+    "key": "ashby:Ramp:af262319-1c4f-4a36-93bd-ef260cb02aed",
+    "location": "New York, NY (HQ); San Francisco, CA",
+    "title": "Recruiting Coordinator (Contract)",
+    "url": "https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089319+00:00",
+    "key": "greenhouse:SpaceX:8673107002",
+    "location": "Starbase, TX",
+    "title": "Build Coordinator (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8673107002?gh_jid=8673107002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089339+00:00",
+    "key": "greenhouse:SpaceX:8693196002",
+    "location": "Cape Canaveral, FL",
+    "title": "Construction Superintendent (Starship Pad Build)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8693196002?gh_jid=8693196002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089344+00:00",
+    "key": "greenhouse:SpaceX:8691691002",
+    "location": "Bastrop, TX",
+    "title": "EDM Machinist (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8691691002?gh_jid=8691691002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089347+00:00",
+    "key": "greenhouse:SpaceX:8692214002",
+    "location": "Woodinville, WA",
+    "title": "Inventory Specialist (Starlink) - Weekend Shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692214002?gh_jid=8692214002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089350+00:00",
+    "key": "greenhouse:SpaceX:8676063002",
+    "location": "Hawthorne, CA",
+    "title": "PCB Designer (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089353+00:00",
+    "key": "greenhouse:SpaceX:8492384002",
+    "location": "Hawthorne, CA",
+    "title": "Propulsion Technician (Raptor Manufacturing Systems)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8492384002?gh_jid=8492384002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089357+00:00",
+    "key": "greenhouse:SpaceX:8693932002",
+    "location": "Hawthorne, CA",
+    "title": "Supplier Development Engineer, Manufacturing (Raptor)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8693932002?gh_jid=8693932002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089360+00:00",
+    "key": "greenhouse:SpaceX:8694175002",
+    "location": "Hawthorne, CA",
+    "title": "TIG Welder (Merlin)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694175002?gh_jid=8694175002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089363+00:00",
+    "key": "greenhouse:SpaceX:8694671002",
+    "location": "Starbase, TX",
+    "title": "Welder (Starship) \u2013 Temporary",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694671002?gh_jid=8694671002"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094467+00:00",
+    "key": "greenhouse:Rocket Lab:7850474003",
+    "location": "Long Beach, CA",
+    "title": "Avionics Automation Test Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850474003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094488+00:00",
+    "key": "greenhouse:Rocket Lab:7853671003",
+    "location": "Middle River, MD",
+    "title": "Avionics Technician, all levels",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7853671003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094493+00:00",
+    "key": "greenhouse:Rocket Lab:7853632003",
+    "location": "Middle River, MD",
+    "title": "Composite Development Technician, all levels",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7853632003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094496+00:00",
+    "key": "greenhouse:Rocket Lab:7849335003",
+    "location": "Long Beach, CA",
+    "title": "Driver II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7849335003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094498+00:00",
+    "key": "greenhouse:Rocket Lab:7815713003",
+    "location": "Long Beach, CA",
+    "title": "Harness Technician II/III - A Shift",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815713003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094501+00:00",
+    "key": "greenhouse:Rocket Lab:7834232003",
+    "location": "Auckland, NZ",
+    "title": "Learning & Development Advisor II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7834232003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094504+00:00",
+    "key": "greenhouse:Rocket Lab:7849073003",
+    "location": "Long Beach, CA",
+    "title": "Manufacturing Engineer II - Assembly & Integration",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7849073003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094507+00:00",
+    "key": "greenhouse:Rocket Lab:7852687003",
+    "location": "Auckland, NZ",
+    "title": "Production Test Technician",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7852687003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094511+00:00",
+    "key": "greenhouse:Rocket Lab:7850667003",
+    "location": "Long Beach, CA",
+    "title": "Propulsion Design Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850667003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094515+00:00",
+    "key": "greenhouse:Rocket Lab:7660827003",
+    "location": "Long Beach, CA",
+    "title": "Spacecraft GNC Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660827003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094517+00:00",
+    "key": "greenhouse:Rocket Lab:7660829003",
+    "location": "Littleton, CO",
+    "title": "Spacecraft GNC Engineer I/II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660829003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094521+00:00",
+    "key": "greenhouse:Rocket Lab:7836127003",
+    "location": "Long Beach, CA",
+    "title": "Spacecraft Mechanical Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836127003"
+  },
+  {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555414+00:00",
+    "key": "greenhouse:Zipline:7849204003",
+    "location": "South San Francisco, California, USA",
+    "title": "Mechanical Design Engineer - Droid SMI",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7849204003"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097119+00:00",
+    "key": "greenhouse:Anduril Industries:5208194007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Configuration Design Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208194007?gh_jid=5208194007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097141+00:00",
+    "key": "greenhouse:Anduril Industries:5208747007",
+    "location": "Quonset, Rhode Island, United States",
+    "title": "Hydrostatic Test Technician",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208747007?gh_jid=5208747007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097146+00:00",
+    "key": "greenhouse:Anduril Industries:5208726007",
+    "location": "Quonset, Rhode Island, United States",
+    "title": "Inventory Control Supervisor",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208726007?gh_jid=5208726007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097150+00:00",
+    "key": "greenhouse:Anduril Industries:5176316007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Legal Operations Coordinator/ Paralegal",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176316007?gh_jid=5176316007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097153+00:00",
+    "key": "greenhouse:Anduril Industries:5176318007",
+    "location": "Washington, District of Columbia, United States",
+    "title": "Legal Operations Coordinator/ Paralegal",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176318007?gh_jid=5176318007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097157+00:00",
+    "key": "greenhouse:Anduril Industries:5196794007",
+    "location": "Costa Mesa, California, United States",
+    "title": "PCB Layout Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196794007?gh_jid=5196794007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097160+00:00",
+    "key": "greenhouse:Anduril Industries:5073701007",
+    "location": "Irvine, California, United States",
+    "title": "Production Technician, Electromagnetic Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073701007?gh_jid=5073701007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097163+00:00",
+    "key": "greenhouse:Anduril Industries:5073709007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Production Technician, Roadrunner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073709007?gh_jid=5073709007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097166+00:00",
+    "key": "greenhouse:Anduril Industries:5207872007",
+    "location": "Chantilly, Virginia, United States; Herndon, Virginia, United States",
+    "title": "Program Assistant",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207872007?gh_jid=5207872007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097169+00:00",
+    "key": "greenhouse:Anduril Industries:5125919007",
+    "location": "Costa Mesa, California, United States; Washington, District of Columbia, United States",
+    "title": "Program Assistant",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5125919007?gh_jid=5125919007"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020756+00:00",
+    "key": "greenhouse:Anthropic:5383702008",
+    "location": "New York City, NY; Remote-Friendly (Travel-Required) |  Washington, DC",
+    "title": "Personnel Security Management Specialist",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383702008"
+  },
+  {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990011+00:00",
+    "key": "greenhouse:Lyft:8693503002",
+    "location": "Boston, MA",
+    "title": "Operations Specialist, Bluebikes",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8693503002?gh_jid=8693503002"
+  },
+  {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990030+00:00",
+    "key": "greenhouse:Lyft:8693957002",
+    "location": "Nashville, TN",
+    "title": "Paralegal, Litigation",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8693957002?gh_jid=8693957002"
+  },
+  {
+    "company": "Gusto",
+    "first_seen": "2026-08-11T11:40:51.906269+00:00",
+    "key": "greenhouse:Gusto:7096996",
+    "location": "San Francisco, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; United States - Remote",
+    "title": "Dedicated Service Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7096996"
+  },
+  {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176214+00:00",
+    "key": "ashby:Linear:1aa6f672-5917-49aa-b015-70ebff901923",
+    "location": "North America",
+    "title": "Deal Desk",
+    "url": "https://jobs.ashbyhq.com/linear/1aa6f672-5917-49aa-b015-70ebff901923"
+  },
+  {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176237+00:00",
+    "key": "ashby:Linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "location": "North America",
+    "title": "Analytics Engineer",
+    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+  },
+  {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176241+00:00",
+    "key": "ashby:Linear:a8041e0e-350e-47d0-9190-454089216fb8",
+    "location": "North America",
+    "title": "Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/linear/a8041e0e-350e-47d0-9190-454089216fb8"
   }
 ]

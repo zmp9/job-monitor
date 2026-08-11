@@ -413,6 +413,12 @@
     "title": "Senior / Staff Product Engineer",
     "url": "https://jobs.ashbyhq.com/linear/12f8f208-0b9c-4569-bb3d-41c8a197029e"
   },
+  "ashby:Linear:1aa6f672-5917-49aa-b015-70ebff901923": {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176247+00:00",
+    "title": "Deal Desk",
+    "url": "https://jobs.ashbyhq.com/linear/1aa6f672-5917-49aa-b015-70ebff901923"
+  },
   "ashby:Linear:1bfdcabe-aa5f-4999-9a6d-b8a824dd779b": {
     "company": "Linear",
     "first_seen": "2026-08-05T23:39:43.266619+00:00",
@@ -424,6 +430,12 @@
     "first_seen": "2026-08-05T23:39:43.266612+00:00",
     "title": "Developer Relations",
     "url": "https://jobs.ashbyhq.com/linear/1d652292-04d9-405c-8101-578efd020e94"
+  },
+  "ashby:Linear:29aeb82d-f00e-4283-b332-057efd487d6f": {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176244+00:00",
+    "title": "Revenue Operations",
+    "url": "https://jobs.ashbyhq.com/linear/29aeb82d-f00e-4283-b332-057efd487d6f"
   },
   "ashby:Linear:2ef60eea-7cff-45c2-abf2-eaedc4ea89bd": {
     "company": "Linear",
@@ -484,6 +496,12 @@
     "first_seen": "2026-08-05T23:39:43.266601+00:00",
     "title": "Senior / Staff Product Designer",
     "url": "https://jobs.ashbyhq.com/linear/a264869e-f058-487c-ab7f-9b77dffa427c"
+  },
+  "ashby:Linear:a8041e0e-350e-47d0-9190-454089216fb8": {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176251+00:00",
+    "title": "Solutions Engineer",
+    "url": "https://jobs.ashbyhq.com/linear/a8041e0e-350e-47d0-9190-454089216fb8"
   },
   "ashby:Linear:b32de590-06ce-47d4-8994-66b936df908d": {
     "company": "Linear",
@@ -562,6 +580,12 @@
     "first_seen": "2026-08-05T23:39:43.266633+00:00",
     "title": "Mobile Product Designer",
     "url": "https://jobs.ashbyhq.com/linear/eac7f181-d658-4943-9430-51bae2bcd110"
+  },
+  "ashby:Linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1": {
+    "company": "Linear",
+    "first_seen": "2026-08-11T11:40:53.176249+00:00",
+    "title": "Analytics Engineer",
+    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
   },
   "ashby:Notion:00f42dd8-c3b3-45cf-829e-550b675b3dd8": {
     "company": "Notion",
@@ -1168,6 +1192,12 @@
     "first_seen": "2026-08-05T23:39:41.473708+00:00",
     "title": "Business Development Representative, Japan",
     "url": "https://jobs.ashbyhq.com/notion/c64a2cda-4c84-45bd-823d-f9141c316733"
+  },
+  "ashby:Notion:ca74504a-9b91-4ce3-b0df-97919b46e749": {
+    "company": "Notion",
+    "first_seen": "2026-08-11T11:40:52.152487+00:00",
+    "title": "Software Engineer, Collections Infra",
+    "url": "https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749"
   },
   "ashby:Notion:cb4f5e1a-88e4-4259-b73c-ac975dbcde5f": {
     "company": "Notion",
@@ -2411,6 +2441,12 @@
     "title": "Product Designer, Payments",
     "url": "https://jobs.ashbyhq.com/openai/3813977e-5940-456d-bf5a-16efcdc3a6dc"
   },
+  "ashby:OpenAI:38388825-65f9-46c5-b5f4-c783d1fb17d4": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623997+00:00",
+    "title": "Product Marketing Lead, API Models & Research",
+    "url": "https://jobs.ashbyhq.com/openai/38388825-65f9-46c5-b5f4-c783d1fb17d4"
+  },
   "ashby:OpenAI:3874db80-f3ec-4dd1-8d56-6441e8f7299d": {
     "company": "OpenAI",
     "first_seen": "2026-08-05T23:39:42.860856+00:00",
@@ -2470,6 +2506,12 @@
     "first_seen": "2026-08-05T23:39:42.860537+00:00",
     "title": "Pricing Strategist",
     "url": "https://jobs.ashbyhq.com/openai/3ab0541b-160b-49c0-8609-574db6358332"
+  },
+  "ashby:OpenAI:3b634f98-b639-4cfa-a151-43e13d99ce45": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623992+00:00",
+    "title": "Partner Director, GTM Cloud Partnerships",
+    "url": "https://jobs.ashbyhq.com/openai/3b634f98-b639-4cfa-a151-43e13d99ce45"
   },
   "ashby:OpenAI:3b70ebc9-9d9a-4930-ad7b-52c9229f6a52": {
     "company": "OpenAI",
@@ -2627,6 +2669,12 @@
     "title": "Site Operations Technician",
     "url": "https://jobs.ashbyhq.com/openai/43c9fed6-4eb2-4db6-afc5-cd804279779b"
   },
+  "ashby:OpenAI:43fb1de2-1d32-4841-a685-412bc7bd56b6": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623993+00:00",
+    "title": "Maintenance Analyst, Data Center Delivery",
+    "url": "https://jobs.ashbyhq.com/openai/43fb1de2-1d32-4841-a685-412bc7bd56b6"
+  },
   "ashby:OpenAI:44d19f5f-a5da-4226-9d1a-0147604773eb": {
     "company": "OpenAI",
     "first_seen": "2026-08-05T23:39:42.861194+00:00",
@@ -2656,6 +2704,12 @@
     "first_seen": "2026-08-05T23:39:42.860768+00:00",
     "title": "Hardware Tools Engineer",
     "url": "https://jobs.ashbyhq.com/openai/467cbfac-3e7d-4cc6-a131-2b26617afa02"
+  },
+  "ashby:OpenAI:467da204-cd62-4e2d-ad7a-f3138f4f283b": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623960+00:00",
+    "title": "Technical Commodity Manager - Robotics",
+    "url": "https://jobs.ashbyhq.com/openai/467da204-cd62-4e2d-ad7a-f3138f4f283b"
   },
   "ashby:OpenAI:4705a853-46e6-4f91-884c-61e54de91b0e": {
     "company": "OpenAI",
@@ -3791,6 +3845,12 @@
     "title": "Software Engineer, Inference - Performance Optimization",
     "url": "https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b"
   },
+  "ashby:OpenAI:8626eb56-6e29-427d-9e12-d1a8078b8e4d": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623990+00:00",
+    "title": "Commissioning Program Manager, Infrastructure Delivery",
+    "url": "https://jobs.ashbyhq.com/openai/8626eb56-6e29-427d-9e12-d1a8078b8e4d"
+  },
   "ashby:OpenAI:86450337-b12a-48c1-836e-cc0c5766eb8e": {
     "company": "OpenAI",
     "first_seen": "2026-08-05T23:39:42.861436+00:00",
@@ -3862,6 +3922,12 @@
     "first_seen": "2026-08-05T23:39:42.861535+00:00",
     "title": "Brand Protection Manager",
     "url": "https://jobs.ashbyhq.com/openai/88b93f91-7548-42a1-8d5b-7d37090e480f"
+  },
+  "ashby:OpenAI:8960d7b6-b345-478f-a5ad-67beaa32f425": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623995+00:00",
+    "title": "Product Marketing Lead, Lines of Business & Industries",
+    "url": "https://jobs.ashbyhq.com/openai/8960d7b6-b345-478f-a5ad-67beaa32f425"
   },
   "ashby:OpenAI:898a87fb-4cb8-450e-9840-ee5dc710a57d": {
     "company": "OpenAI",
@@ -4000,6 +4066,12 @@
     "first_seen": "2026-08-05T23:39:42.860858+00:00",
     "title": "Senior Leasing & Strategy Manager, Real Estate & Workplace",
     "url": "https://jobs.ashbyhq.com/openai/917f8212-faa6-48bd-a83d-497536d4101f"
+  },
+  "ashby:OpenAI:91cf75be-a3c6-4f39-9623-f72186fd8553": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623987+00:00",
+    "title": "Commissioning Project Lead, Data Center Delivery",
+    "url": "https://jobs.ashbyhq.com/openai/91cf75be-a3c6-4f39-9623-f72186fd8553"
   },
   "ashby:OpenAI:91e1c582-cceb-4e98-bc5a-caf2def45a0d": {
     "company": "OpenAI",
@@ -5363,6 +5435,12 @@
     "title": "Secure Manufacturing & Stealth Partner, Marketing",
     "url": "https://jobs.ashbyhq.com/openai/dbfc77d3-8b6f-4a82-bb14-53eeaa6c4124"
   },
+  "ashby:OpenAI:dc0b907b-f833-4559-8fd8-d3d4c80b58d8": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623981+00:00",
+    "title": "Federal Account Director, National Security",
+    "url": "https://jobs.ashbyhq.com/openai/dc0b907b-f833-4559-8fd8-d3d4c80b58d8"
+  },
   "ashby:OpenAI:dc17edac-2993-4318-812a-14864c6f4658": {
     "company": "OpenAI",
     "first_seen": "2026-08-05T23:39:42.860779+00:00",
@@ -5680,6 +5758,12 @@
     "first_seen": "2026-08-05T23:39:42.861477+00:00",
     "title": "Engineering Manager, Core Experimentation",
     "url": "https://jobs.ashbyhq.com/openai/eda0d516-94bd-4257-9679-aded0d709fba"
+  },
+  "ashby:OpenAI:edabef84-70d8-4c20-a3b2-41a8c9a76417": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-11T11:40:52.623984+00:00",
+    "title": "Civil Engineer",
+    "url": "https://jobs.ashbyhq.com/openai/edabef84-70d8-4c20-a3b2-41a8c9a76417"
   },
   "ashby:OpenAI:ee047eec-ae79-474b-9f1b-764242bc3c63": {
     "company": "OpenAI",
@@ -6569,6 +6653,12 @@
     "title": "Business Operations",
     "url": "https://jobs.ashbyhq.com/plaid/bf4450b7-6ed5-49ec-a2ad-a1e0ffbcbe50"
   },
+  "ashby:Plaid:c0368ca1-8a7d-4212-b41e-4ed71a83c601": {
+    "company": "Plaid",
+    "first_seen": "2026-08-11T11:40:33.851415+00:00",
+    "title": "Product Sourcer",
+    "url": "https://jobs.ashbyhq.com/plaid/c0368ca1-8a7d-4212-b41e-4ed71a83c601"
+  },
   "ashby:Plaid:c3894a41-7873-4f67-bf94-5e258e7c033a": {
     "company": "Plaid",
     "first_seen": "2026-08-05T23:38:25.733244+00:00",
@@ -6947,6 +7037,12 @@
     "title": "Mobile Engineer, iOS",
     "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
   },
+  "ashby:Ramp:4904547a-e2ca-407c-b113-8aae2be0790c": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632583+00:00",
+    "title": "Customer Activation | Partnerships",
+    "url": "https://jobs.ashbyhq.com/ramp/4904547a-e2ca-407c-b113-8aae2be0790c"
+  },
   "ashby:Ramp:492823d8-9651-46cf-9d33-a632ef706879": {
     "company": "Ramp",
     "first_seen": "2026-08-05T23:38:25.447643+00:00",
@@ -7193,6 +7289,12 @@
     "title": "Software Engineer, Argentina",
     "url": "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a"
   },
+  "ashby:Ramp:94d79eed-34db-42c8-b47c-5edef335b7f2": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632580+00:00",
+    "title": "Customer Activation Manager | Scaled",
+    "url": "https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2"
+  },
   "ashby:Ramp:95f450a1-0d38-4d58-9aac-9d7e655adc36": {
     "company": "Ramp",
     "first_seen": "2026-08-05T23:38:25.447494+00:00",
@@ -7204,6 +7306,12 @@
     "first_seen": "2026-08-05T23:38:25.447652+00:00",
     "title": "Solutions Consultant, Post Sales, Enterprise",
     "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9"
+  },
+  "ashby:Ramp:97898101-f97b-47c8-a991-267afc517ae5": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632590+00:00",
+    "title": "Senior Customer Activation Manager | Partnerships",
+    "url": "https://jobs.ashbyhq.com/ramp/97898101-f97b-47c8-a991-267afc517ae5"
   },
   "ashby:Ramp:9caa3f21-84fb-44aa-b69b-2104e89021c6": {
     "company": "Ramp",
@@ -7234,6 +7342,12 @@
     "first_seen": "2026-08-05T23:38:25.447660+00:00",
     "title": "Lead Counsel, UK & Europe",
     "url": "https://jobs.ashbyhq.com/ramp/aa37bb0b-6b22-4197-a53c-4a4848234f0c"
+  },
+  "ashby:Ramp:af262319-1c4f-4a36-93bd-ef260cb02aed": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632592+00:00",
+    "title": "Recruiting Coordinator (Contract)",
+    "url": "https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed"
   },
   "ashby:Ramp:afe866c3-3725-4416-9e5f-530ed89b295d": {
     "company": "Ramp",
@@ -7324,6 +7438,12 @@
     "first_seen": "2026-08-05T23:38:25.447550+00:00",
     "title": "Senior Channel Partner Manager | Franchise",
     "url": "https://jobs.ashbyhq.com/ramp/ca9a8794-b40c-44bc-8f8a-d85182c62c6e"
+  },
+  "ashby:Ramp:cce684de-191d-4a8a-bc42-7ded3ccd47af": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632588+00:00",
+    "title": "Business Development Representative | Ontario, Canada",
+    "url": "https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af"
   },
   "ashby:Ramp:cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc": {
     "company": "Ramp",
@@ -7450,6 +7570,12 @@
     "first_seen": "2026-08-05T23:38:25.447588+00:00",
     "title": "Procurement Product Activation Manager",
     "url": "https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc"
+  },
+  "ashby:Ramp:f0f95d20-fb64-4c06-86ff-6142e937fe0b": {
+    "company": "Ramp",
+    "first_seen": "2026-08-11T11:40:33.632586+00:00",
+    "title": "Senior Customer Activation Manager | Scaled",
+    "url": "https://jobs.ashbyhq.com/ramp/f0f95d20-fb64-4c06-86ff-6142e937fe0b"
   },
   "ashby:Ramp:f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc": {
     "company": "Ramp",
@@ -9053,6 +9179,12 @@
     "title": "Sales Engineer - Japan",
     "url": "https://jobs.ashbyhq.com/vanta/0d8925dc-e6ad-47da-9458-a8dac56a6b15"
   },
+  "ashby:Vanta:0efec8d2-094a-421d-bca6-1fa0da5ca5a0": {
+    "company": "Vanta",
+    "first_seen": "2026-08-11T11:40:52.840221+00:00",
+    "title": "Senior Manager, AI Corporate Engineering",
+    "url": "https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0"
+  },
   "ashby:Vanta:0fcbc935-76c7-4eac-b522-af421ed200c9": {
     "company": "Vanta",
     "first_seen": "2026-08-05T23:39:43.010574+00:00",
@@ -9124,6 +9256,12 @@
     "first_seen": "2026-08-05T23:39:43.010581+00:00",
     "title": "Manager, Solutions Engineering - EMEA",
     "url": "https://jobs.ashbyhq.com/vanta/2daebe8c-69af-44f3-a81f-38fb17da30a0"
+  },
+  "ashby:Vanta:2e68c5e8-5de2-4428-bad0-ddcf518399c4": {
+    "company": "Vanta",
+    "first_seen": "2026-08-11T11:40:52.840217+00:00",
+    "title": "Senior Manager, Systems Engineering",
+    "url": "https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4"
   },
   "ashby:Vanta:2ed33963-d4b4-430b-867b-07b14bfd561d": {
     "company": "Vanta",
@@ -9202,6 +9340,12 @@
     "first_seen": "2026-08-05T23:39:43.010544+00:00",
     "title": "Customer Success Manager, Growth \u2013 Bilingual (Spanish/English)",
     "url": "https://jobs.ashbyhq.com/vanta/4e6e4ac0-98bd-4378-968a-13f94d362736"
+  },
+  "ashby:Vanta:4ecbf29d-7566-471a-96de-d604489ae5d0": {
+    "company": "Vanta",
+    "first_seen": "2026-08-11T11:40:52.840223+00:00",
+    "title": "Head of Internal Communications",
+    "url": "https://jobs.ashbyhq.com/vanta/4ecbf29d-7566-471a-96de-d604489ae5d0"
   },
   "ashby:Vanta:569d8f97-4d2b-43f7-8f0e-8829d7477fb4": {
     "company": "Vanta",
@@ -9568,6 +9712,12 @@
     "first_seen": "2026-08-05T23:39:43.010559+00:00",
     "title": "AI Optimization Specialist, Support",
     "url": "https://jobs.ashbyhq.com/vanta/f987d41a-d0e1-4260-9129-f64aee6122ae"
+  },
+  "ashby:Vanta:f98ff59f-8732-48a6-a60c-3367a0f288e5": {
+    "company": "Vanta",
+    "first_seen": "2026-08-11T11:40:52.840192+00:00",
+    "title": "Technical Support Engineer",
+    "url": "https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5"
   },
   "ashby:Vanta:fb16faba-850b-4694-a279-cda81ee16105": {
     "company": "Vanta",
@@ -10937,6 +11087,18 @@
     "title": "Analytics Lead, Strategic Insights (Compliance)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7814576003"
   },
+  "greenhouse:Affirm:7814650003": {
+    "company": "Affirm",
+    "first_seen": "2026-08-11T11:40:28.773896+00:00",
+    "title": "Operations Enablement Manager",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7814650003"
+  },
+  "greenhouse:Affirm:7814652003": {
+    "company": "Affirm",
+    "first_seen": "2026-08-11T11:40:28.773878+00:00",
+    "title": "Operations Enablement Manager",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7814652003"
+  },
   "greenhouse:Affirm:7816193003": {
     "company": "Affirm",
     "first_seen": "2026-08-05T23:38:16.973274+00:00",
@@ -10996,6 +11158,12 @@
     "first_seen": "2026-08-05T23:38:16.973154+00:00",
     "title": "Senior Software Engineer, Fullstack (Card Acquisition)",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003"
+  },
+  "greenhouse:Affirm:7819704003": {
+    "company": "Affirm",
+    "first_seen": "2026-08-11T11:40:28.773904+00:00",
+    "title": "Staff Software Engineer, Backend (Order Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7819704003"
   },
   "greenhouse:Affirm:7819999003": {
     "company": "Affirm",
@@ -11104,6 +11272,18 @@
     "first_seen": "2026-08-08T11:23:11.451757+00:00",
     "title": "Client Success Lead",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7833167003"
+  },
+  "greenhouse:Affirm:7833950003": {
+    "company": "Affirm",
+    "first_seen": "2026-08-11T11:40:28.773900+00:00",
+    "title": "Staff Software Engineer, Backend (Online Storage)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003"
+  },
+  "greenhouse:Affirm:7833952003": {
+    "company": "Affirm",
+    "first_seen": "2026-08-11T11:40:28.773902+00:00",
+    "title": "Staff Software Engineer, Backend (Online Storage)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003"
   },
   "greenhouse:Airtable:7497304002": {
     "company": "Airtable",
@@ -12227,6 +12407,24 @@
     "title": "Executive Recruiting Director \u2013 EMEA",
     "url": "https://www.alixpartners.com/careers/7831717003?gh_jid=7831717003"
   },
+  "greenhouse:AlixPartners:7848183003": {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-11T11:40:14.679098+00:00",
+    "title": "Legal Contract Specialist",
+    "url": "https://www.alixpartners.com/careers/7848183003?gh_jid=7848183003"
+  },
+  "greenhouse:AlixPartners:7849334003": {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-11T11:40:14.679104+00:00",
+    "title": "Senior Administrative Assistant",
+    "url": "https://www.alixpartners.com/careers/7849334003?gh_jid=7849334003"
+  },
+  "greenhouse:AlixPartners:7849593003": {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-11T11:40:14.679102+00:00",
+    "title": "Research Operations Specialist",
+    "url": "https://www.alixpartners.com/careers/7849593003?gh_jid=7849593003"
+  },
   "greenhouse:Anduril Industries:4164476007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.019012+00:00",
@@ -12964,6 +13162,12 @@
     "first_seen": "2026-08-05T23:39:01.020765+00:00",
     "title": "Senior Global Sourcing Manager, Aircraft Composites",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824501007?gh_jid=4824501007"
+  },
+  "greenhouse:Anduril Industries:4826700007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097220+00:00",
+    "title": "Recruiter",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/4826700007?gh_jid=4826700007"
   },
   "greenhouse:Anduril Industries:4828892007": {
     "company": "Anduril Industries",
@@ -14933,6 +15137,12 @@
     "title": "Program Chief Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5043205007?gh_jid=5043205007"
   },
+  "greenhouse:Anduril Industries:5043369007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097184+00:00",
+    "title": "Director, Program Test & Evaluation - Advanced Effects",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5043369007?gh_jid=5043369007"
+  },
   "greenhouse:Anduril Industries:5043413007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.020118+00:00",
@@ -15652,6 +15862,18 @@
     "first_seen": "2026-08-05T23:39:01.020000+00:00",
     "title": "Production Technician, Missiles",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073639007?gh_jid=5073639007"
+  },
+  "greenhouse:Anduril Industries:5073701007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097207+00:00",
+    "title": "Production Technician, Electromagnetic Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073701007?gh_jid=5073701007"
+  },
+  "greenhouse:Anduril Industries:5073709007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097209+00:00",
+    "title": "Production Technician, Roadrunner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073709007?gh_jid=5073709007"
   },
   "greenhouse:Anduril Industries:5073724007": {
     "company": "Anduril Industries",
@@ -17411,6 +17633,12 @@
     "title": "Flight Test Engineer - Mission Autonomy",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5125849007?gh_jid=5125849007"
   },
+  "greenhouse:Anduril Industries:5125919007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097213+00:00",
+    "title": "Program Assistant",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5125919007?gh_jid=5125919007"
+  },
   "greenhouse:Anduril Industries:5126216007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.019933+00:00",
@@ -17549,6 +17777,12 @@
     "title": "Program Manager, Safety and Standards",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5129327007?gh_jid=5129327007"
   },
+  "greenhouse:Anduril Industries:5129455007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097243+00:00",
+    "title": "Senior Technical Program Manager, Small Drones",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5129455007?gh_jid=5129455007"
+  },
   "greenhouse:Anduril Industries:5129670007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.018852+00:00",
@@ -17644,6 +17878,12 @@
     "first_seen": "2026-08-05T23:39:01.019833+00:00",
     "title": "Phased Array Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131154007?gh_jid=5131154007"
+  },
+  "greenhouse:Anduril Industries:5131244007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097255+00:00",
+    "title": "Staff Technical Program Manager, Game Development",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131244007?gh_jid=5131244007"
   },
   "greenhouse:Anduril Industries:5131432007": {
     "company": "Anduril Industries",
@@ -18994,6 +19234,12 @@
     "first_seen": "2026-08-08T11:23:19.648216+00:00",
     "title": "Manager, Workplace",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156600007?gh_jid=5156600007"
+  },
+  "greenhouse:Anduril Industries:5156606007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097176+00:00",
+    "title": "Associate Workplace Manager",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5156606007?gh_jid=5156606007"
   },
   "greenhouse:Anduril Industries:5156713007": {
     "company": "Anduril Industries",
@@ -21197,6 +21443,18 @@
     "title": "2026 Early Career Manufacturing Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176254007?gh_jid=5176254007"
   },
+  "greenhouse:Anduril Industries:5176316007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097194+00:00",
+    "title": "Legal Operations Coordinator/ Paralegal",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176316007?gh_jid=5176316007"
+  },
+  "greenhouse:Anduril Industries:5176318007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097197+00:00",
+    "title": "Legal Operations Coordinator/ Paralegal",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5176318007?gh_jid=5176318007"
+  },
   "greenhouse:Anduril Industries:5176339007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.022189+00:00",
@@ -21526,6 +21784,12 @@
     "first_seen": "2026-08-05T23:39:01.019203+00:00",
     "title": "Infrastructure Engineer, Kubernetes",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177879007?gh_jid=5177879007"
+  },
+  "greenhouse:Anduril Industries:5177887007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097225+00:00",
+    "title": "Senior Engineer, Edge-Cloud Reliability",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5177887007?gh_jid=5177887007"
   },
   "greenhouse:Anduril Industries:5177893007": {
     "company": "Anduril Industries",
@@ -24101,6 +24365,12 @@
     "title": "Senior Robotics Engineer - Undersea Dominance",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196771007?gh_jid=5196771007"
   },
+  "greenhouse:Anduril Industries:5196794007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097203+00:00",
+    "title": "PCB Layout Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196794007?gh_jid=5196794007"
+  },
   "greenhouse:Anduril Industries:5196927007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-05T23:39:01.021225+00:00",
@@ -25667,6 +25937,12 @@
     "title": "Mechanical Maintenance Technician",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206617007?gh_jid=5206617007"
   },
+  "greenhouse:Anduril Industries:5206628007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097191+00:00",
+    "title": "Lead Electrical Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206628007?gh_jid=5206628007"
+  },
   "greenhouse:Anduril Industries:5206637007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-07T11:41:40.089556+00:00",
@@ -25678,6 +25954,12 @@
     "first_seen": "2026-08-08T11:23:19.648204+00:00",
     "title": "Flight Test Operator",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206702007?gh_jid=5206702007"
+  },
+  "greenhouse:Anduril Industries:5206828007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097199+00:00",
+    "title": "Manager, Proposal & Capture",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5206828007?gh_jid=5206828007"
   },
   "greenhouse:Anduril Industries:5206844007": {
     "company": "Anduril Industries",
@@ -25763,6 +26045,18 @@
     "title": "System Engineer, Electrical Integration - Edge Compute and Communications",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207557007?gh_jid=5207557007"
   },
+  "greenhouse:Anduril Industries:5207647007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097228+00:00",
+    "title": "Senior Manager, Inventory Operations",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207647007?gh_jid=5207647007"
+  },
+  "greenhouse:Anduril Industries:5207653007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097238+00:00",
+    "title": "Senior Product Manager, Salesforce (Government Cloud CRM)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207653007?gh_jid=5207653007"
+  },
   "greenhouse:Anduril Industries:5207725007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-10T11:43:32.580939+00:00",
@@ -25840,6 +26134,150 @@
     "first_seen": "2026-08-10T11:43:32.580943+00:00",
     "title": "Senior Logistics Coordinator",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207744007?gh_jid=5207744007"
+  },
+  "greenhouse:Anduril Industries:5207872007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097211+00:00",
+    "title": "Program Assistant",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207872007?gh_jid=5207872007"
+  },
+  "greenhouse:Anduril Industries:5207949007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097253+00:00",
+    "title": "Staff Technical Program Manager, Game Development",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207949007?gh_jid=5207949007"
+  },
+  "greenhouse:Anduril Industries:5207955007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097181+00:00",
+    "title": "Director of Production - IDCA",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5207955007?gh_jid=5207955007"
+  },
+  "greenhouse:Anduril Industries:5208116007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097201+00:00",
+    "title": "Manager, Proposal & Capture",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208116007?gh_jid=5208116007"
+  },
+  "greenhouse:Anduril Industries:5208194007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097179+00:00",
+    "title": "Configuration Design Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208194007?gh_jid=5208194007"
+  },
+  "greenhouse:Anduril Industries:5208200007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097172+00:00",
+    "title": "Associate Director of Finance, Maritime",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208200007?gh_jid=5208200007"
+  },
+  "greenhouse:Anduril Industries:5208229007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097230+00:00",
+    "title": "Senior Product Designer, ArsenalOS",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208229007?gh_jid=5208229007"
+  },
+  "greenhouse:Anduril Industries:5208262007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097222+00:00",
+    "title": "Senior Configuration Design Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208262007?gh_jid=5208262007"
+  },
+  "greenhouse:Anduril Industries:5208269007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097240+00:00",
+    "title": "Senior Technical Program Manager",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208269007?gh_jid=5208269007"
+  },
+  "greenhouse:Anduril Industries:5208437007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097247+00:00",
+    "title": "Senior Technical Recruiter, Production Engineering (Intelligence Systems)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208437007?gh_jid=5208437007"
+  },
+  "greenhouse:Anduril Industries:5208441007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097251+00:00",
+    "title": "Senior Technical Recruiter, Supply Chain (Intelligence Systems)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208441007?gh_jid=5208441007"
+  },
+  "greenhouse:Anduril Industries:5208464007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097245+00:00",
+    "title": "Senior Technical Recruiter, Production Engineering (Intelligence Systems)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208464007?gh_jid=5208464007"
+  },
+  "greenhouse:Anduril Industries:5208542007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097260+00:00",
+    "title": "Technical Recruiter (Contract)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208542007?gh_jid=5208542007"
+  },
+  "greenhouse:Anduril Industries:5208543007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097258+00:00",
+    "title": "Technical Recruiter (Contract)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208543007?gh_jid=5208543007"
+  },
+  "greenhouse:Anduril Industries:5208572007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097205+00:00",
+    "title": "Principal Electrical Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208572007?gh_jid=5208572007"
+  },
+  "greenhouse:Anduril Industries:5208581007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097249+00:00",
+    "title": "Senior Technical Recruiter, Production Engineering (Intelligence Systems)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208581007?gh_jid=5208581007"
+  },
+  "greenhouse:Anduril Industries:5208587007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097265+00:00",
+    "title": "Technical Recruiter (Contract)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208587007?gh_jid=5208587007"
+  },
+  "greenhouse:Anduril Industries:5208592007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097262+00:00",
+    "title": "Technical Recruiter (Contract)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208592007?gh_jid=5208592007"
+  },
+  "greenhouse:Anduril Industries:5208709007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097215+00:00",
+    "title": "Program Manager, Connected Warfare (Active Clearance)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208709007?gh_jid=5208709007"
+  },
+  "greenhouse:Anduril Industries:5208726007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097189+00:00",
+    "title": "Inventory Control Supervisor",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208726007?gh_jid=5208726007"
+  },
+  "greenhouse:Anduril Industries:5208747007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097187+00:00",
+    "title": "Hydrostatic Test Technician",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208747007?gh_jid=5208747007"
+  },
+  "greenhouse:Anduril Industries:5208754007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097233+00:00",
+    "title": "Senior Product Manager, 5. Senior Product Manager, Ruggedized Systems & Tactical Interfaces",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208754007?gh_jid=5208754007"
+  },
+  "greenhouse:Anduril Industries:5208756007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097235+00:00",
+    "title": "Senior Product Manager, Ground Control Systems (Hardware + Software Platform)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208756007?gh_jid=5208756007"
+  },
+  "greenhouse:Anduril Industries:5208757007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-11T11:40:46.097218+00:00",
+    "title": "Program Manager, Connected Warfare (Active Clearance)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208757007?gh_jid=5208757007"
   },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
@@ -26314,6 +26752,12 @@
     "first_seen": "2026-08-05T23:39:15.191600+00:00",
     "title": "Growth Account Executive, Startups",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008"
+  },
+  "greenhouse:Anthropic:5082402008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020796+00:00",
+    "title": "Partner Alliance Manager \u2013 Regional & Specialist Systems Integrators",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082402008"
   },
   "greenhouse:Anthropic:5096041008": {
     "company": "Anthropic",
@@ -27107,6 +27551,12 @@
     "title": "Senior Data Center Capacity Delivery Manager, AUS",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215130008"
   },
+  "greenhouse:Anthropic:5215141008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020781+00:00",
+    "title": "Data Center OFE Strategic Sourcing Lead",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215141008"
+  },
   "greenhouse:Anthropic:5216208008": {
     "company": "Anthropic",
     "first_seen": "2026-08-05T23:39:15.191708+00:00",
@@ -27226,6 +27676,12 @@
     "first_seen": "2026-08-05T23:39:15.191614+00:00",
     "title": "Head of Consolidations & Intercompany",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229804008"
+  },
+  "greenhouse:Anthropic:5230394008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020800+00:00",
+    "title": "Staff+ Site Reliability Engineer, Safeguards ML Infra",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5230394008"
   },
   "greenhouse:Anthropic:5230755008": {
     "company": "Anthropic",
@@ -28019,6 +28475,18 @@
     "title": "Finance Systems Engineer, Tax",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357947008"
   },
+  "greenhouse:Anthropic:5358090008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020787+00:00",
+    "title": "Finance & Strategy, Deal Strategy",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358090008"
+  },
+  "greenhouse:Anthropic:5358092008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020790+00:00",
+    "title": "Finance & Strategy, Product Intelligence",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358092008"
+  },
   "greenhouse:Anthropic:5358094008": {
     "company": "Anthropic",
     "first_seen": "2026-08-05T23:39:15.191480+00:00",
@@ -28036,6 +28504,12 @@
     "first_seen": "2026-08-05T23:39:15.191387+00:00",
     "title": "Cash Manager, Treasury",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358112008"
+  },
+  "greenhouse:Anthropic:5358118008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020793+00:00",
+    "title": "International Indirect Tax, VAT/GST",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358118008"
   },
   "greenhouse:Anthropic:5358120008": {
     "company": "Anthropic",
@@ -28307,11 +28781,29 @@
     "title": "Internal Communications Manager, Tech",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383388008"
   },
+  "greenhouse:Anthropic:5383596008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020784+00:00",
+    "title": "Developer Relations",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008"
+  },
   "greenhouse:Anthropic:5383610008": {
     "company": "Anthropic",
     "first_seen": "2026-08-08T11:23:20.408713+00:00",
     "title": "Staff Software Engineer, Claude Code",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008"
+  },
+  "greenhouse:Anthropic:5383702008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020798+00:00",
+    "title": "Personnel Security Management Specialist",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383702008"
+  },
+  "greenhouse:Anthropic:5383710008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-11T11:40:49.020776+00:00",
+    "title": "AV Operations Specialist",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383710008"
   },
   "greenhouse:Asana:6174752": {
     "company": "Asana",
@@ -28618,6 +29110,12 @@
     "first_seen": "2026-08-05T23:39:34.992244+00:00",
     "title": "Security Technical Program Manager",
     "url": "https://www.asana.com/jobs/apply/7959069?gh_jid=7959069"
+  },
+  "greenhouse:Asana:7961442": {
+    "company": "Asana",
+    "first_seen": "2026-08-11T11:40:51.158433+00:00",
+    "title": "Software Engineer",
+    "url": "https://www.asana.com/jobs/apply/7961442?gh_jid=7961442"
   },
   "greenhouse:Asana:7961454": {
     "company": "Asana",
@@ -29033,6 +29531,12 @@
     "title": "Strategic Enterprise Account Executive, Amazon",
     "url": "https://www.asana.com/jobs/apply/8054355?gh_jid=8054355"
   },
+  "greenhouse:Asana:8054364": {
+    "company": "Asana",
+    "first_seen": "2026-08-11T11:40:51.158431+00:00",
+    "title": "Senior Technical Consultant",
+    "url": "https://www.asana.com/jobs/apply/8054364?gh_jid=8054364"
+  },
   "greenhouse:Asana:8054689": {
     "company": "Asana",
     "first_seen": "2026-08-05T23:39:34.992122+00:00",
@@ -29224,6 +29728,24 @@
     "first_seen": "2026-08-07T11:41:42.124549+00:00",
     "title": "Senior Product Manager, AI Agents Experience",
     "url": "https://www.asana.com/jobs/apply/8113068?gh_jid=8113068"
+  },
+  "greenhouse:Asana:8113282": {
+    "company": "Asana",
+    "first_seen": "2026-08-11T11:40:51.158429+00:00",
+    "title": "Field Marketing Manager",
+    "url": "https://www.asana.com/jobs/apply/8113282?gh_jid=8113282"
+  },
+  "greenhouse:Asana:8119581": {
+    "company": "Asana",
+    "first_seen": "2026-08-11T11:40:51.158426+00:00",
+    "title": "Enterprise Account Executive - Dutch Speaking",
+    "url": "https://www.asana.com/jobs/apply/8119581?gh_jid=8119581"
+  },
+  "greenhouse:Asana:8119695": {
+    "company": "Asana",
+    "first_seen": "2026-08-11T11:40:51.158409+00:00",
+    "title": "Director of Engineering, AI Agents",
+    "url": "https://www.asana.com/jobs/apply/8119695?gh_jid=8119695"
   },
   "greenhouse:Astranis:4004153006": {
     "company": "Astranis",
@@ -32237,6 +32759,12 @@
     "title": "Account Executive, PE Standard",
     "url": "https://job-boards.greenhouse.io/carta/jobs/7824339003"
   },
+  "greenhouse:Carta:7824731003": {
+    "company": "Carta",
+    "first_seen": "2026-08-11T11:40:32.724586+00:00",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7824731003"
+  },
   "greenhouse:Carta:7832101003": {
     "company": "Carta",
     "first_seen": "2026-08-08T11:23:11.737290+00:00",
@@ -32248,6 +32776,18 @@
     "first_seen": "2026-08-07T11:41:31.956808+00:00",
     "title": "Counsel  (Contracts)",
     "url": "https://job-boards.greenhouse.io/carta/jobs/7833368003"
+  },
+  "greenhouse:Carta:7848840003": {
+    "company": "Carta",
+    "first_seen": "2026-08-11T11:40:32.724584+00:00",
+    "title": "Customer Success Manager",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7848840003"
+  },
+  "greenhouse:Carta:7849783003": {
+    "company": "Carta",
+    "first_seen": "2026-08-11T11:40:32.724580+00:00",
+    "title": "Counsel",
+    "url": "https://job-boards.greenhouse.io/carta/jobs/7849783003"
   },
   "greenhouse:Charles River Associates:1056520": {
     "company": "Charles River Associates",
@@ -33101,6 +33641,24 @@
     "title": "Lifecycle Marketing Manager",
     "url": "https://boards.greenhouse.io/chime/jobs/8672245002?gh_jid=8672245002"
   },
+  "greenhouse:Chime:8681191002": {
+    "company": "Chime",
+    "first_seen": "2026-08-11T11:40:33.074503+00:00",
+    "title": "Software Engineer, Communication Platform",
+    "url": "https://boards.greenhouse.io/chime/jobs/8681191002?gh_jid=8681191002"
+  },
+  "greenhouse:Chime:8681193002": {
+    "company": "Chime",
+    "first_seen": "2026-08-11T11:40:33.074500+00:00",
+    "title": "Director Engineering",
+    "url": "https://boards.greenhouse.io/chime/jobs/8681193002?gh_jid=8681193002"
+  },
+  "greenhouse:Chime:8694087002": {
+    "company": "Chime",
+    "first_seen": "2026-08-11T11:40:33.074484+00:00",
+    "title": "2026 - Product Manager, Transaction Risk Decisioning",
+    "url": "https://boards.greenhouse.io/chime/jobs/8694087002?gh_jid=8694087002"
+  },
   "greenhouse:Coinbase:6784618": {
     "company": "Coinbase",
     "first_seen": "2026-08-05T23:38:16.127222+00:00",
@@ -33952,6 +34510,12 @@
     "first_seen": "2026-08-05T23:38:16.126928+00:00",
     "title": "Group Marketing Manager, Base Chain",
     "url": "https://www.coinbase.com/careers/positions/8075021?gh_jid=8075021"
+  },
+  "greenhouse:Coinbase:8077090": {
+    "company": "Coinbase",
+    "first_seen": "2026-08-11T11:40:28.574705+00:00",
+    "title": "Senior Product Marketing Manager, Trading",
+    "url": "https://www.coinbase.com/careers/positions/8077090?gh_jid=8077090"
   },
   "greenhouse:Coinbase:8078239": {
     "company": "Coinbase",
@@ -35159,6 +35723,12 @@
     "title": "Events Specialist",
     "url": "https://job-boards.greenhouse.io/drweng/jobs/8113694"
   },
+  "greenhouse:DRW:8121103": {
+    "company": "DRW",
+    "first_seen": "2026-08-11T11:40:15.150474+00:00",
+    "title": "Portfolio Manager ECM US",
+    "url": "https://job-boards.greenhouse.io/drweng/jobs/8121103"
+  },
   "greenhouse:DRW:981628": {
     "company": "DRW",
     "first_seen": "2026-08-05T23:38:04.470428+00:00",
@@ -35890,6 +36460,12 @@
     "first_seen": "2026-08-05T23:39:06.246176+00:00",
     "title": "Engineering Manager - UI Platform",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002"
+  },
+  "greenhouse:Databricks:8015848002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315653+00:00",
+    "title": "AI Engineer, FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002"
   },
   "greenhouse:Databricks:8025494002": {
     "company": "Databricks",
@@ -36868,6 +37444,12 @@
     "first_seen": "2026-08-05T23:39:06.247180+00:00",
     "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423296002"
+  },
+  "greenhouse:Databricks:8423310002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315694+00:00",
+    "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002"
   },
   "greenhouse:Databricks:8423972002": {
     "company": "Databricks",
@@ -39011,6 +39593,12 @@
     "title": "Strategic Enterprise Account Executive - Insurance",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8596443002"
   },
+  "greenhouse:Databricks:8597642002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315671+00:00",
+    "title": "Delivery Solutions Architect - Healthcare & Life Sciences",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8597642002"
+  },
   "greenhouse:Databricks:8598012002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.246021+00:00",
@@ -39953,6 +40541,12 @@
     "title": "Sr. Solutions Engineer - Digital Native Business, Named Accounts",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8646516002"
   },
+  "greenhouse:Databricks:8646549002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315687+00:00",
+    "title": "Sr. Delivery Solutions Architect - Digital Native Business",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8646549002"
+  },
   "greenhouse:Databricks:8647667002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.247197+00:00",
@@ -40037,6 +40631,12 @@
     "title": "Forward Deployed Engineering - Senior Architect",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656202002"
   },
+  "greenhouse:Databricks:8656207002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315690+00:00",
+    "title": "Sr. Forward Deployed Engineer - Architect - Full Stack",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656207002"
+  },
   "greenhouse:Databricks:8656210002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.247799+00:00",
@@ -40055,6 +40655,12 @@
     "title": "Senior Applied ML Engineer - ML4Sys",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002"
   },
+  "greenhouse:Databricks:8657543002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315696+00:00",
+    "title": "Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (Azure)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8657543002"
+  },
   "greenhouse:Databricks:8657746002": {
     "company": "Databricks",
     "first_seen": "2026-08-05T23:39:06.247481+00:00",
@@ -40066,6 +40672,12 @@
     "first_seen": "2026-08-05T23:39:06.246500+00:00",
     "title": "Named Enterprise Account Executive, Financial Services",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8660983002"
+  },
+  "greenhouse:Databricks:8661245002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315679+00:00",
+    "title": "Solutions Architect",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661245002"
   },
   "greenhouse:Databricks:8661359002": {
     "company": "Databricks",
@@ -40192,6 +40804,30 @@
     "first_seen": "2026-08-08T11:23:19.885917+00:00",
     "title": "Staff Software Engineer - Access Management",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002"
+  },
+  "greenhouse:Databricks:8692962002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315684+00:00",
+    "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002"
+  },
+  "greenhouse:Databricks:8693320002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315676+00:00",
+    "title": "Director, Field Engineering (CPG & Retail)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8693320002"
+  },
+  "greenhouse:Databricks:8694074002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315682+00:00",
+    "title": "Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8694074002"
+  },
+  "greenhouse:Databricks:8694515002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-11T11:40:47.315699+00:00",
+    "title": "Sr. Specialist Solutions Architect - Cloud Platform & Infrastructure (GCP)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8694515002"
   },
   "greenhouse:Discord:8214127002": {
     "company": "Discord",
@@ -40475,6 +41111,12 @@
     "title": "Senior Software Engineer, Enterprise Platform",
     "url": "https://job-boards.greenhouse.io/discord/jobs/8675277002"
   },
+  "greenhouse:Discord:8678376002": {
+    "company": "Discord",
+    "first_seen": "2026-08-11T11:40:51.455650+00:00",
+    "title": "Regional Security Manager, Bay Area",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8678376002"
+  },
   "greenhouse:Discord:8680047002": {
     "company": "Discord",
     "first_seen": "2026-08-05T23:39:37.448533+00:00",
@@ -40486,6 +41128,12 @@
     "first_seen": "2026-08-07T11:41:42.260559+00:00",
     "title": "Advertising Operations Manager",
     "url": "https://job-boards.greenhouse.io/discord/jobs/8686353002"
+  },
+  "greenhouse:Discord:8691572002": {
+    "company": "Discord",
+    "first_seen": "2026-08-11T11:40:51.455668+00:00",
+    "title": "Staff Data Engineer - Data Infrastructure",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002"
   },
   "greenhouse:Epirus:5633454004": {
     "company": "Epirus",
@@ -40708,6 +41356,24 @@
     "first_seen": "2026-08-08T11:23:13.579254+00:00",
     "title": "Principal Manufacturing Engineer",
     "url": "https://www.epirusinc.com/open-roles?gh_jid=6135835004"
+  },
+  "greenhouse:Epirus:6137175004": {
+    "company": "Epirus",
+    "first_seen": "2026-08-11T11:40:39.836782+00:00",
+    "title": "Senior Systems Integration Engineer",
+    "url": "https://www.epirusinc.com/open-roles?gh_jid=6137175004"
+  },
+  "greenhouse:Epirus:6138323004": {
+    "company": "Epirus",
+    "first_seen": "2026-08-11T11:40:39.836766+00:00",
+    "title": "Senior Principal Manufacturing Engineer - SMT/PCBA",
+    "url": "https://www.epirusinc.com/open-roles?gh_jid=6138323004"
+  },
+  "greenhouse:Figma:5220003004": {
+    "company": "Figma",
+    "first_seen": "2026-08-11T11:40:49.180879+00:00",
+    "title": "Data Engineer",
+    "url": "https://boards.greenhouse.io/figma/jobs/5220003004?gh_jid=5220003004"
   },
   "greenhouse:Figma:5364702004": {
     "company": "Figma",
@@ -41729,6 +42395,12 @@
     "title": "Director, Data Science",
     "url": "https://boards.greenhouse.io/figma/jobs/6130865004?gh_jid=6130865004"
   },
+  "greenhouse:Figma:6131089004": {
+    "company": "Figma",
+    "first_seen": "2026-08-11T11:40:49.180901+00:00",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+  },
   "greenhouse:Figma:6132269004": {
     "company": "Figma",
     "first_seen": "2026-08-05T23:39:18.002432+00:00",
@@ -41752,6 +42424,18 @@
     "first_seen": "2026-08-07T11:41:41.116212+00:00",
     "title": "Manager, Solutions Consulting (Tokyo, Japan)",
     "url": "https://boards.greenhouse.io/figma/jobs/6134908004?gh_jid=6134908004"
+  },
+  "greenhouse:Figma:6135721004": {
+    "company": "Figma",
+    "first_seen": "2026-08-11T11:40:49.180896+00:00",
+    "title": "Manager, Software Engineering - Data Platform",
+    "url": "https://boards.greenhouse.io/figma/jobs/6135721004?gh_jid=6135721004"
+  },
+  "greenhouse:Figma:6139275004": {
+    "company": "Figma",
+    "first_seen": "2026-08-11T11:40:49.180899+00:00",
+    "title": "Senior Revenue Analyst",
+    "url": "https://boards.greenhouse.io/figma/jobs/6139275004?gh_jid=6139275004"
   },
   "greenhouse:Flexport:5578487": {
     "company": "Flexport",
@@ -42773,6 +43457,12 @@
     "title": "Principal Software Engineer - Pay Group Engineering",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/7027020"
   },
+  "greenhouse:Gusto:7096996": {
+    "company": "Gusto",
+    "first_seen": "2026-08-11T11:40:51.906288+00:00",
+    "title": "Dedicated Service Advisor",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/7096996"
+  },
   "greenhouse:Gusto:7254336": {
     "company": "Gusto",
     "first_seen": "2026-08-05T23:39:41.134066+00:00",
@@ -43198,6 +43888,12 @@
     "first_seen": "2026-08-05T23:39:41.133986+00:00",
     "title": "Expansion Account Manager, PE",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8069947"
+  },
+  "greenhouse:Gusto:8073232": {
+    "company": "Gusto",
+    "first_seen": "2026-08-11T11:40:51.906292+00:00",
+    "title": "Software Engineer, ML Platform",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8073232"
   },
   "greenhouse:Gusto:8075901": {
     "company": "Gusto",
@@ -43901,6 +44597,12 @@
     "title": "Office Manager",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4853592101"
   },
+  "greenhouse:IMC Trading:4855353101": {
+    "company": "IMC Trading",
+    "first_seen": "2026-08-11T11:40:15.772417+00:00",
+    "title": "Market Data Quality Analyst",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4855353101"
+  },
   "greenhouse:IMC Trading:4855354101": {
     "company": "IMC Trading",
     "first_seen": "2026-08-05T23:38:10.795486+00:00",
@@ -44368,6 +45070,12 @@
     "first_seen": "2026-08-05T23:39:36.940521+00:00",
     "title": "Fraud & Identity Specialist (Contract)",
     "url": "https://instacart.careers/job/?gh_jid=4995818"
+  },
+  "greenhouse:Instacart:6932499": {
+    "company": "Instacart",
+    "first_seen": "2026-08-11T11:40:51.322160+00:00",
+    "title": "Senior Technical Program Manager, Enterprise",
+    "url": "https://instacart.careers/job/?gh_jid=6932499"
   },
   "greenhouse:Instacart:7144697": {
     "company": "Instacart",
@@ -45059,6 +45767,12 @@
     "title": "Senior Revenue Operations Manager - Eversight",
     "url": "https://instacart.careers/job/?gh_jid=8104343"
   },
+  "greenhouse:Instacart:8110286": {
+    "company": "Instacart",
+    "first_seen": "2026-08-11T11:40:51.322163+00:00",
+    "title": "Staff Software Engineer, Orders Platform",
+    "url": "https://instacart.careers/job/?gh_jid=8110286"
+  },
   "greenhouse:Instacart:8112136": {
     "company": "Instacart",
     "first_seen": "2026-08-07T11:41:42.204924+00:00",
@@ -45088,6 +45802,12 @@
     "first_seen": "2026-08-08T11:23:21.282972+00:00",
     "title": "Insights Lead, Instacart Business",
     "url": "https://instacart.careers/job/?gh_jid=8115836"
+  },
+  "greenhouse:Instacart:8120705": {
+    "company": "Instacart",
+    "first_seen": "2026-08-11T11:40:51.322145+00:00",
+    "title": "Director IT, Internal Audit",
+    "url": "https://instacart.careers/job/?gh_jid=8120705"
   },
   "greenhouse:Jump Trading:3115552": {
     "company": "Jump Trading",
@@ -46667,6 +47387,12 @@
     "title": "Engineering Manager, Global Growth",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8662378002?gh_jid=8662378002"
   },
+  "greenhouse:Lyft:8662388002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990040+00:00",
+    "title": "Senior Security Assurance Analyst",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8662388002?gh_jid=8662388002"
+  },
   "greenhouse:Lyft:8662488002": {
     "company": "Lyft",
     "first_seen": "2026-08-05T23:39:33.508439+00:00",
@@ -46769,6 +47495,12 @@
     "title": "Counsel, Litigation & Risk",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8687405002?gh_jid=8687405002"
   },
+  "greenhouse:Lyft:8688631002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990047+00:00",
+    "title": "Staff Software Engineer, Lyft Business",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8688631002?gh_jid=8688631002"
+  },
   "greenhouse:Lyft:8688637002": {
     "company": "Lyft",
     "first_seen": "2026-08-08T11:23:21.171445+00:00",
@@ -46804,6 +47536,30 @@
     "first_seen": "2026-08-08T11:23:21.171457+00:00",
     "title": "Software Engineer, Async Platform",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8691539002?gh_jid=8691539002"
+  },
+  "greenhouse:Lyft:8693500002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990042+00:00",
+    "title": "Senior Software Engineer, Places and Search",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8693500002?gh_jid=8693500002"
+  },
+  "greenhouse:Lyft:8693503002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990033+00:00",
+    "title": "Operations Specialist, Bluebikes",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8693503002?gh_jid=8693503002"
+  },
+  "greenhouse:Lyft:8693957002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990038+00:00",
+    "title": "Paralegal, Litigation",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8693957002?gh_jid=8693957002"
+  },
+  "greenhouse:Lyft:8695848002": {
+    "company": "Lyft",
+    "first_seen": "2026-08-11T11:40:50.990044+00:00",
+    "title": "Software Engineer, MapXP",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8695848002?gh_jid=8695848002"
   },
   "greenhouse:Marqeta:6908099": {
     "company": "Marqeta",
@@ -47074,6 +47830,12 @@
     "first_seen": "2026-08-05T23:38:23.718968+00:00",
     "title": "Technical Success Analyst - EU / UK",
     "url": "https://job-boards.greenhouse.io/marqeta/jobs/8089854"
+  },
+  "greenhouse:Marqeta:8096548": {
+    "company": "Marqeta",
+    "first_seen": "2026-08-11T11:40:32.915749+00:00",
+    "title": "Staff Salesforce Architect",
+    "url": "https://job-boards.greenhouse.io/marqeta/jobs/8096548"
   },
   "greenhouse:Mercury:5775685004": {
     "company": "Mercury",
@@ -47423,6 +48185,12 @@
     "title": "Senior Product Operations Specialist",
     "url": "https://job-boards.greenhouse.io/mercury/jobs/6138978004"
   },
+  "greenhouse:Mercury:6140395004": {
+    "company": "Mercury",
+    "first_seen": "2026-08-11T11:40:33.348806+00:00",
+    "title": "Executive Producer - Brand Creative",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6140395004"
+  },
   "greenhouse:Old Mission Capital:4455441003": {
     "company": "Old Mission Capital",
     "first_seen": "2026-08-05T23:38:12.750661+00:00",
@@ -47626,6 +48394,12 @@
     "first_seen": "2026-08-05T23:38:12.750609+00:00",
     "title": "Compliance and Risk Co-Op",
     "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7828063003"
+  },
+  "greenhouse:Old Mission Capital:7832843003": {
+    "company": "Old Mission Capital",
+    "first_seen": "2026-08-11T11:40:16.035837+00:00",
+    "title": "Legal Intern - Summer 2027",
+    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7832843003"
   },
   "greenhouse:Pinterest:4813946": {
     "company": "Pinterest",
@@ -48893,6 +49667,12 @@
     "title": "Client Account Manager, Enterprise Nordics (English Speaking)",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075678"
   },
+  "greenhouse:Pinterest:8075888": {
+    "company": "Pinterest",
+    "first_seen": "2026-08-11T11:40:50.355228+00:00",
+    "title": "Staff Software Engineer, Web Product Enablement",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888"
+  },
   "greenhouse:Pinterest:8077735": {
     "company": "Pinterest",
     "first_seen": "2026-08-05T23:39:31.235443+00:00",
@@ -48965,6 +49745,12 @@
     "title": "Client Account Manager II, CPG (Nestle)",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8085092"
   },
+  "greenhouse:Pinterest:8088867": {
+    "company": "Pinterest",
+    "first_seen": "2026-08-11T11:40:50.355224+00:00",
+    "title": "Sr. Staff Software Engineer, Pinterest Assistant",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8088867"
+  },
   "greenhouse:Pinterest:8089250": {
     "company": "Pinterest",
     "first_seen": "2026-08-05T23:39:31.235374+00:00",
@@ -49030,6 +49816,12 @@
     "first_seen": "2026-08-06T12:53:53.243709+00:00",
     "title": "Sr. Software Engineer",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8106377"
+  },
+  "greenhouse:Pinterest:8108629": {
+    "company": "Pinterest",
+    "first_seen": "2026-08-11T11:40:50.355207+00:00",
+    "title": "Senior Manager, Measurement - APAC",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8108629"
   },
   "greenhouse:Pinterest:8112792": {
     "company": "Pinterest",
@@ -49522,6 +50314,12 @@
     "first_seen": "2026-08-05T23:38:00.911603+00:00",
     "title": "Point72 Fund Flow Strategist",
     "url": "https://boards.greenhouse.io/point72/jobs/8187982002?gh_jid=8187982002"
+  },
+  "greenhouse:Point72:8191564002": {
+    "company": "Point72",
+    "first_seen": "2026-08-11T11:40:14.982443+00:00",
+    "title": "Quantitative Developer",
+    "url": "https://boards.greenhouse.io/point72/jobs/8191564002?gh_jid=8191564002"
   },
   "greenhouse:Point72:8222788002": {
     "company": "Point72",
@@ -51575,11 +52373,35 @@
     "title": "Lead Physical Security Engineer",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8108528"
   },
+  "greenhouse:Reddit:8112967": {
+    "company": "Reddit",
+    "first_seen": "2026-08-11T11:40:50.552369+00:00",
+    "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8112967"
+  },
+  "greenhouse:Reddit:8114666": {
+    "company": "Reddit",
+    "first_seen": "2026-08-11T11:40:50.552347+00:00",
+    "title": "Client Partner, Mid-Market Sales (Services - Acquisitions)",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8114666"
+  },
   "greenhouse:Reddit:8115838": {
     "company": "Reddit",
     "first_seen": "2026-08-08T11:23:20.982106+00:00",
     "title": "Staff Machine Learning Engineer, Shopping Ads",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8115838"
+  },
+  "greenhouse:Reddit:8120566": {
+    "company": "Reddit",
+    "first_seen": "2026-08-11T11:40:50.552371+00:00",
+    "title": "Staff Product Designer, Presence",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8120566"
+  },
+  "greenhouse:Reddit:8121099": {
+    "company": "Reddit",
+    "first_seen": "2026-08-11T11:40:50.552365+00:00",
+    "title": "Country Lead, Business Marketing, UK",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8121099"
   },
   "greenhouse:Robinhood:4738660": {
     "company": "Robinhood",
@@ -51808,6 +52630,12 @@
     "first_seen": "2026-08-05T23:38:15.025059+00:00",
     "title": "Chief of Staff, Brokerage Product",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7839130?t=gh_src=&gh_jid=7839130"
+  },
+  "greenhouse:Robinhood:7847485": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-11T11:40:16.568953+00:00",
+    "title": "Senior Corporate Security Engineer",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485"
   },
   "greenhouse:Robinhood:7868994": {
     "company": "Robinhood",
@@ -52799,6 +53627,18 @@
     "title": "Avionics Test and Launch Engineer II / Senior",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660596003"
   },
+  "greenhouse:Rocket Lab:7660827003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094558+00:00",
+    "title": "Spacecraft GNC Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660827003"
+  },
+  "greenhouse:Rocket Lab:7660829003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094561+00:00",
+    "title": "Spacecraft GNC Engineer I/II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7660829003"
+  },
   "greenhouse:Rocket Lab:7660870003": {
     "company": "Rocket Lab",
     "first_seen": "2026-08-05T23:38:35.638219+00:00",
@@ -53440,6 +54280,12 @@
     "first_seen": "2026-08-05T23:38:35.631593+00:00",
     "title": "Avionics Engineer I - Electron Avionics Systems",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7773614003"
+  },
+  "greenhouse:Rocket Lab:7774006003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094553+00:00",
+    "title": "Senior Ground Software Engineer I - Secret Clearance",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7774006003"
   },
   "greenhouse:Rocket Lab:7774871003": {
     "company": "Rocket Lab",
@@ -54371,6 +55217,12 @@
     "title": "Sourcing Specialist II",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815648003"
   },
+  "greenhouse:Rocket Lab:7815713003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094535+00:00",
+    "title": "Harness Technician II/III - A Shift",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7815713003"
+  },
   "greenhouse:Rocket Lab:7815756003": {
     "company": "Rocket Lab",
     "first_seen": "2026-08-05T23:38:35.631948+00:00",
@@ -54935,6 +55787,12 @@
     "title": "Senior Manufacturing Engineer I \u2013 Assembly, Integration and Test",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7830730003"
   },
+  "greenhouse:Rocket Lab:7834232003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094537+00:00",
+    "title": "Learning & Development Advisor II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7834232003"
+  },
   "greenhouse:Rocket Lab:7836059003": {
     "company": "Rocket Lab",
     "first_seen": "2026-08-08T11:23:13.313929+00:00",
@@ -54947,11 +55805,77 @@
     "title": "Senior Production Planner I",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836068003"
   },
+  "greenhouse:Rocket Lab:7836127003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094563+00:00",
+    "title": "Spacecraft Mechanical Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836127003"
+  },
+  "greenhouse:Rocket Lab:7836465003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094556+00:00",
+    "title": "Senior Material Planner I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836465003"
+  },
   "greenhouse:Rocket Lab:7836593003": {
     "company": "Rocket Lab",
     "first_seen": "2026-08-08T11:23:13.313926+00:00",
     "title": "Office Administrator",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7836593003"
+  },
+  "greenhouse:Rocket Lab:7849073003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094540+00:00",
+    "title": "Manufacturing Engineer II - Assembly & Integration",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7849073003"
+  },
+  "greenhouse:Rocket Lab:7849335003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094532+00:00",
+    "title": "Driver II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7849335003"
+  },
+  "greenhouse:Rocket Lab:7850062003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094548+00:00",
+    "title": "Senior Flight Software Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850062003"
+  },
+  "greenhouse:Rocket Lab:7850072003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094551+00:00",
+    "title": "Senior Flight Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850072003"
+  },
+  "greenhouse:Rocket Lab:7850474003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094524+00:00",
+    "title": "Avionics Automation Test Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850474003"
+  },
+  "greenhouse:Rocket Lab:7850667003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094546+00:00",
+    "title": "Propulsion Design Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7850667003"
+  },
+  "greenhouse:Rocket Lab:7852687003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094543+00:00",
+    "title": "Production Test Technician",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7852687003"
+  },
+  "greenhouse:Rocket Lab:7853632003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094530+00:00",
+    "title": "Composite Development Technician, all levels",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7853632003"
+  },
+  "greenhouse:Rocket Lab:7853671003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-11T11:40:38.094527+00:00",
+    "title": "Avionics Technician, all levels",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7853671003"
   },
   "greenhouse:Samsara:5868615": {
     "company": "Samsara",
@@ -56225,6 +57149,12 @@
     "title": "Sr. Director, Enablement - Shared Services",
     "url": "https://www.samsara.com/company/careers/roles/8041428?gh_jid=8041428"
   },
+  "greenhouse:Samsara:8042109": {
+    "company": "Samsara",
+    "first_seen": "2026-08-11T11:40:49.379007+00:00",
+    "title": "Product Manager - Revenue Tools",
+    "url": "https://www.samsara.com/company/careers/roles/8042109?gh_jid=8042109"
+  },
   "greenhouse:Samsara:8042135": {
     "company": "Samsara",
     "first_seen": "2026-08-05T23:39:22.850459+00:00",
@@ -56410,6 +57340,12 @@
     "first_seen": "2026-08-05T23:39:22.850404+00:00",
     "title": "Customer Success Manager",
     "url": "https://www.samsara.com/company/careers/roles/8068410?gh_jid=8068410"
+  },
+  "greenhouse:Samsara:8068523": {
+    "company": "Samsara",
+    "first_seen": "2026-08-11T11:40:49.378989+00:00",
+    "title": "Manager I, Customer Success Manager",
+    "url": "https://www.samsara.com/company/careers/roles/8068523?gh_jid=8068523"
   },
   "greenhouse:Samsara:8069516": {
     "company": "Samsara",
@@ -56728,6 +57664,18 @@
     "first_seen": "2026-08-05T23:39:22.850757+00:00",
     "title": "Senior Marketing Analytics Manager - BI & Data Architecture",
     "url": "https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653"
+  },
+  "greenhouse:Samsara:8103641": {
+    "company": "Samsara",
+    "first_seen": "2026-08-11T11:40:49.379010+00:00",
+    "title": "Senior Sales Operations Analyst",
+    "url": "https://www.samsara.com/company/careers/roles/8103641?gh_jid=8103641"
+  },
+  "greenhouse:Samsara:8103806": {
+    "company": "Samsara",
+    "first_seen": "2026-08-11T11:40:49.379012+00:00",
+    "title": "Specialist Seller, EMEA Enterprise",
+    "url": "https://www.samsara.com/company/careers/roles/8103806?gh_jid=8103806"
   },
   "greenhouse:Samsara:8104166": {
     "company": "Samsara",
@@ -58108,6 +59056,12 @@
     "first_seen": "2026-08-08T11:23:20.853908+00:00",
     "title": "Operations Program Manager / Associate, Industrial Partnerships - Robotics",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722445005"
+  },
+  "greenhouse:Scale AI:4722811005": {
+    "company": "Scale AI",
+    "first_seen": "2026-08-11T11:40:49.723027+00:00",
+    "title": "Sr. Director, Forward Deployed Engineering",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4722811005"
   },
   "greenhouse:Schonfeld:5460823": {
     "company": "Schonfeld",
@@ -61228,6 +62182,12 @@
     "first_seen": "2026-08-05T23:38:31.270928+00:00",
     "title": "Design Criteria Engineer (Starshield)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8492189002?gh_jid=8492189002"
+  },
+  "greenhouse:SpaceX:8492384002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089386+00:00",
+    "title": "Propulsion Technician (Raptor Manufacturing Systems)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8492384002?gh_jid=8492384002"
   },
   "greenhouse:SpaceX:8492506002": {
     "company": "SpaceX",
@@ -70637,6 +71597,12 @@
     "title": "Optical Engineer, Satellites (Starlink)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8656990002?gh_jid=8656990002"
   },
+  "greenhouse:SpaceX:8657082002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089368+00:00",
+    "title": "Business Analyst (Starlink Market Analysis)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002"
+  },
   "greenhouse:SpaceX:8657271002": {
     "company": "SpaceX",
     "first_seen": "2026-08-05T23:38:31.272713+00:00",
@@ -71093,6 +72059,12 @@
     "title": "Sourcing Manager, Food & Facilities",
     "url": "https://boards.greenhouse.io/spacex/jobs/8673066002?gh_jid=8673066002"
   },
+  "greenhouse:SpaceX:8673107002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089365+00:00",
+    "title": "Build Coordinator (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8673107002?gh_jid=8673107002"
+  },
   "greenhouse:SpaceX:8673635002": {
     "company": "SpaceX",
     "first_seen": "2026-08-05T23:38:31.272897+00:00",
@@ -71284,6 +72256,12 @@
     "first_seen": "2026-08-07T11:41:33.381857+00:00",
     "title": "RF Engineer (Starshield)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8676060002?gh_jid=8676060002"
+  },
+  "greenhouse:SpaceX:8676063002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089384+00:00",
+    "title": "PCB Designer (Starshield)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676063002?gh_jid=8676063002"
   },
   "greenhouse:SpaceX:8676210002": {
     "company": "SpaceX",
@@ -71554,6 +72532,12 @@
     "first_seen": "2026-08-05T23:38:31.270474+00:00",
     "title": "Apprentice Controls Technician - 2nd Shift",
     "url": "https://boards.greenhouse.io/spacex/jobs/8683682002?gh_jid=8683682002"
+  },
+  "greenhouse:SpaceX:8683685002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089379+00:00",
+    "title": "Legal Analyst, Product (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8683685002?gh_jid=8683685002"
   },
   "greenhouse:SpaceX:8684001002": {
     "company": "SpaceX",
@@ -71891,6 +72875,12 @@
     "title": "Sr. Sales Manager (Global Starlink Enterprise Sales)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8689192002?gh_jid=8689192002"
   },
+  "greenhouse:SpaceX:8689246002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089374+00:00",
+    "title": "Facilities Technician (Starlink) - 2nd shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8689246002?gh_jid=8689246002"
+  },
   "greenhouse:SpaceX:8689262002": {
     "company": "SpaceX",
     "first_seen": "2026-08-07T11:41:33.381927+00:00",
@@ -71927,6 +72917,12 @@
     "title": "Satellite Policy Manager (Starlink Mobile)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8691166002?gh_jid=8691166002"
   },
+  "greenhouse:SpaceX:8691691002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089372+00:00",
+    "title": "EDM Machinist (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8691691002?gh_jid=8691691002"
+  },
   "greenhouse:SpaceX:8691749002": {
     "company": "SpaceX",
     "first_seen": "2026-08-10T11:43:24.394121+00:00",
@@ -71944,6 +72940,18 @@
     "first_seen": "2026-08-08T11:23:13.059360+00:00",
     "title": "Lab Architect",
     "url": "https://boards.greenhouse.io/spacex/jobs/8691821002?gh_jid=8691821002"
+  },
+  "greenhouse:SpaceX:8692083002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089392+00:00",
+    "title": "Sr. Automation and Controls Engineer, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692083002?gh_jid=8692083002"
+  },
+  "greenhouse:SpaceX:8692214002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089377+00:00",
+    "title": "Inventory Specialist (Starlink) - Weekend Shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692214002?gh_jid=8692214002"
   },
   "greenhouse:SpaceX:8692387002": {
     "company": "SpaceX",
@@ -71993,6 +73001,12 @@
     "title": "Sr. Network Engineer",
     "url": "https://boards.greenhouse.io/spacex/jobs/8692506002?gh_jid=8692506002"
   },
+  "greenhouse:SpaceX:8692510002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089389+00:00",
+    "title": "Sourcing Manager, Software & Services",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692510002?gh_jid=8692510002"
+  },
   "greenhouse:SpaceX:8692894002": {
     "company": "SpaceX",
     "first_seen": "2026-08-10T11:43:24.394125+00:00",
@@ -72004,6 +73018,78 @@
     "first_seen": "2026-08-10T11:43:24.394128+00:00",
     "title": "Sr. Power Electronics Engineer (Starship)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8692896002?gh_jid=8692896002"
+  },
+  "greenhouse:SpaceX:8693196002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089370+00:00",
+    "title": "Construction Superintendent (Starship Pad Build)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8693196002?gh_jid=8693196002"
+  },
+  "greenhouse:SpaceX:8693932002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089405+00:00",
+    "title": "Supplier Development Engineer, Manufacturing (Raptor)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8693932002?gh_jid=8693932002"
+  },
+  "greenhouse:SpaceX:8694175002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089415+00:00",
+    "title": "TIG Welder (Merlin)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694175002?gh_jid=8694175002"
+  },
+  "greenhouse:SpaceX:8694468002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089381+00:00",
+    "title": "Market Analysis Lead (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694468002?gh_jid=8694468002"
+  },
+  "greenhouse:SpaceX:8694471002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089397+00:00",
+    "title": "Sr. Manager, Security",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694471002?gh_jid=8694471002"
+  },
+  "greenhouse:SpaceX:8694524002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089395+00:00",
+    "title": "Sr. Aviation Development Engineer (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694524002?gh_jid=8694524002"
+  },
+  "greenhouse:SpaceX:8694671002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089417+00:00",
+    "title": "Welder (Starship) \u2013 Temporary",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694671002?gh_jid=8694671002"
+  },
+  "greenhouse:SpaceX:8694846002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089400+00:00",
+    "title": "Sr. Technical Recruiter (Bastrop)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694846002?gh_jid=8694846002"
+  },
+  "greenhouse:SpaceX:8694852002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089407+00:00",
+    "title": "Technical Recruiter (Bastrop)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694852002?gh_jid=8694852002"
+  },
+  "greenhouse:SpaceX:8694879002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089403+00:00",
+    "title": "Sr. Technical Recruiter (Redmond)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694879002?gh_jid=8694879002"
+  },
+  "greenhouse:SpaceX:8694882002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089413+00:00",
+    "title": "Technical Recruiter (Redmond)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8694882002?gh_jid=8694882002"
+  },
+  "greenhouse:SpaceX:8695154002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-11T11:40:36.089410+00:00",
+    "title": "Technical Recruiter (Palo Alto)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8695154002?gh_jid=8695154002"
   },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
@@ -72359,6 +73445,12 @@
     "title": "Network Specialist - Reliability",
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=7068166&gh_jid=7068166"
   },
+  "greenhouse:Squarepoint Capital:7231006": {
+    "company": "Squarepoint Capital",
+    "first_seen": "2026-08-11T11:40:15.452268+00:00",
+    "title": "Intern Software Developer - London - 2027",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=7231006&gh_jid=7231006"
+  },
   "greenhouse:Squarepoint Capital:7312980": {
     "company": "Squarepoint Capital",
     "first_seen": "2026-08-05T23:38:07.954999+00:00",
@@ -72520,6 +73612,12 @@
     "first_seen": "2026-08-05T23:38:07.955052+00:00",
     "title": "Software Developer - Data Platform",
     "url": "https://www.squarepoint-capital.com/open-opportunities?id=8092777&gh_jid=8092777"
+  },
+  "greenhouse:Squarepoint Capital:8121038": {
+    "company": "Squarepoint Capital",
+    "first_seen": "2026-08-11T11:40:15.452251+00:00",
+    "title": "Human Resources Manager",
+    "url": "https://www.squarepoint-capital.com/open-opportunities?id=8121038&gh_jid=8121038"
   },
   "greenhouse:Squarepoint Capital:953511": {
     "company": "Squarepoint Capital",
@@ -73379,6 +74477,12 @@
     "title": "Product Manager, Capital",
     "url": "https://stripe.com/jobs/search?gh_jid=7721834"
   },
+  "greenhouse:Stripe:7722943": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103761+00:00",
+    "title": "Credit Operations Collections Analyst",
+    "url": "https://stripe.com/jobs/search?gh_jid=7722943"
+  },
   "greenhouse:Stripe:7728365": {
     "company": "Stripe",
     "first_seen": "2026-08-05T23:39:11.729498+00:00",
@@ -74123,6 +75227,12 @@
     "title": "Talent and Development Facilitator",
     "url": "https://stripe.com/jobs/search?gh_jid=7954511"
   },
+  "greenhouse:Stripe:7955051": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103774+00:00",
+    "title": "Operations Associate - Bridge (CDMX)",
+    "url": "https://stripe.com/jobs/search?gh_jid=7955051"
+  },
   "greenhouse:Stripe:7955056": {
     "company": "Stripe",
     "first_seen": "2026-08-05T23:39:11.730642+00:00",
@@ -74254,6 +75364,12 @@
     "first_seen": "2026-08-05T23:39:11.729945+00:00",
     "title": "Hong Kong Regulatory Compliance & Money Laundering Reporting Officer",
     "url": "https://stripe.com/jobs/search?gh_jid=7976163"
+  },
+  "greenhouse:Stripe:7976710": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103757+00:00",
+    "title": "Contracting Operations Specialist",
+    "url": "https://stripe.com/jobs/search?gh_jid=7976710"
   },
   "greenhouse:Stripe:7976987": {
     "company": "Stripe",
@@ -74764,6 +75880,12 @@
     "first_seen": "2026-08-05T23:39:11.729935+00:00",
     "title": "Head of Sales, Stripe Billing - APAC",
     "url": "https://stripe.com/jobs/search?gh_jid=8029041"
+  },
+  "greenhouse:Stripe:8029043": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103745+00:00",
+    "title": "Account Executive, Product Sales, Billing (Hunter)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8029043"
   },
   "greenhouse:Stripe:8029128": {
     "company": "Stripe",
@@ -75310,6 +76432,12 @@
     "first_seen": "2026-08-05T23:39:11.730448+00:00",
     "title": "Solutions Architect, Enterprise (German fluency)",
     "url": "https://stripe.com/jobs/search?gh_jid=8066953"
+  },
+  "greenhouse:Stripe:8067276": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103769+00:00",
+    "title": "Integrated Campaigns Manager - Stablecoins, Crypto, and Bridge",
+    "url": "https://stripe.com/jobs/search?gh_jid=8067276"
   },
   "greenhouse:Stripe:8068521": {
     "company": "Stripe",
@@ -75893,6 +77021,12 @@
     "title": "Manager, Solution Architecture Platforms",
     "url": "https://stripe.com/jobs/search?gh_jid=8104302"
   },
+  "greenhouse:Stripe:8104427": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103777+00:00",
+    "title": "Partner Development Manager",
+    "url": "https://stripe.com/jobs/search?gh_jid=8104427"
+  },
   "greenhouse:Stripe:8104481": {
     "company": "Stripe",
     "first_seen": "2026-08-08T11:23:20.021780+00:00",
@@ -75910,6 +77044,12 @@
     "first_seen": "2026-08-05T23:39:11.729776+00:00",
     "title": "Engineering Manager, Payments",
     "url": "https://stripe.com/jobs/search?gh_jid=8104767"
+  },
+  "greenhouse:Stripe:8107136": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103726+00:00",
+    "title": "Account Executive, Enterprise (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8107136"
   },
   "greenhouse:Stripe:8107302": {
     "company": "Stripe",
@@ -75935,6 +77075,12 @@
     "title": "Solutions Architect (Greater China)",
     "url": "https://stripe.com/jobs/search?gh_jid=8108889"
   },
+  "greenhouse:Stripe:8108891": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103752+00:00",
+    "title": "Account Executive - SEA, Platforms (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8108891"
+  },
   "greenhouse:Stripe:8109426": {
     "company": "Stripe",
     "first_seen": "2026-08-05T23:39:11.730076+00:00",
@@ -75947,11 +77093,23 @@
     "title": "Monetization Operations Analyst",
     "url": "https://stripe.com/jobs/search?gh_jid=8109554"
   },
+  "greenhouse:Stripe:8109607": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103764+00:00",
+    "title": "Enterprise Account Executive - Hunter",
+    "url": "https://stripe.com/jobs/search?gh_jid=8109607"
+  },
   "greenhouse:Stripe:8110261": {
     "company": "Stripe",
     "first_seen": "2026-08-07T11:41:40.904297+00:00",
     "title": "Account Executive, Strategics",
     "url": "https://stripe.com/jobs/search?gh_jid=8110261"
+  },
+  "greenhouse:Stripe:8111799": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103772+00:00",
+    "title": "Legal Operations Team Lead",
+    "url": "https://stripe.com/jobs/search?gh_jid=8111799"
   },
   "greenhouse:Stripe:8112037": {
     "company": "Stripe",
@@ -75989,6 +77147,12 @@
     "title": "Staff Fullstack Engineer, User Auth Experience",
     "url": "https://stripe.com/jobs/search?gh_jid=8113221"
   },
+  "greenhouse:Stripe:8113337": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103755+00:00",
+    "title": "ARG Engineering Manager",
+    "url": "https://stripe.com/jobs/search?gh_jid=8113337"
+  },
   "greenhouse:Stripe:8114155": {
     "company": "Stripe",
     "first_seen": "2026-08-08T11:23:20.021770+00:00",
@@ -76012,6 +77176,30 @@
     "first_seen": "2026-08-08T11:23:20.021796+00:00",
     "title": "IT SOX Controls Specialist",
     "url": "https://stripe.com/jobs/search?gh_jid=8114514"
+  },
+  "greenhouse:Stripe:8114738": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103749+00:00",
+    "title": "Account Executive, Product Sales (Data)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8114738"
+  },
+  "greenhouse:Stripe:8115022": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103782+00:00",
+    "title": "Solution Architect Enablement Business Partner",
+    "url": "https://stripe.com/jobs/search?gh_jid=8115022"
+  },
+  "greenhouse:Stripe:8118931": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103766+00:00",
+    "title": "Head of Startup & Investor Partnership, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8118931"
+  },
+  "greenhouse:Stripe:8119834": {
+    "company": "Stripe",
+    "first_seen": "2026-08-11T11:40:48.103780+00:00",
+    "title": "People Consultant",
+    "url": "https://stripe.com/jobs/search?gh_jid=8119834"
   },
   "greenhouse:Ursa Major:4347615005": {
     "company": "Ursa Major",
@@ -76499,6 +77687,36 @@
     "title": "Senior Systems Safety Engineer - Interim Hazard Classification",
     "url": "https://ursamajor.com/careers/?gh_jid=4722114005"
   },
+  "greenhouse:Ursa Major:4722623005": {
+    "company": "Ursa Major",
+    "first_seen": "2026-08-11T11:40:39.986844+00:00",
+    "title": "Avionics Design Manager",
+    "url": "https://ursamajor.com/careers/?gh_jid=4722623005"
+  },
+  "greenhouse:Ursa Major:4722625005": {
+    "company": "Ursa Major",
+    "first_seen": "2026-08-11T11:40:39.986865+00:00",
+    "title": "Senior Electrical Engineer",
+    "url": "https://ursamajor.com/careers/?gh_jid=4722625005"
+  },
+  "greenhouse:Ursa Major:4722627005": {
+    "company": "Ursa Major",
+    "first_seen": "2026-08-11T11:40:39.986861+00:00",
+    "title": "Senior Avionics Test Engineer",
+    "url": "https://ursamajor.com/careers/?gh_jid=4722627005"
+  },
+  "greenhouse:Ursa Major:4722637005": {
+    "company": "Ursa Major",
+    "first_seen": "2026-08-11T11:40:39.986869+00:00",
+    "title": "Senior Test Software Engineer",
+    "url": "https://ursamajor.com/careers/?gh_jid=4722637005"
+  },
+  "greenhouse:Ursa Major:4722655005": {
+    "company": "Ursa Major",
+    "first_seen": "2026-08-11T11:40:39.986867+00:00",
+    "title": "Senior Project Manager",
+    "url": "https://ursamajor.com/careers/?gh_jid=4722655005"
+  },
   "greenhouse:Vannevar Labs:4172631007": {
     "company": "Vannevar Labs",
     "first_seen": "2026-08-05T23:38:46.448607+00:00",
@@ -76702,6 +77920,12 @@
     "first_seen": "2026-08-05T23:38:46.448595+00:00",
     "title": "Engineering Manager, Collection",
     "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5198399007"
+  },
+  "greenhouse:Vannevar Labs:5208631007": {
+    "company": "Vannevar Labs",
+    "first_seen": "2026-08-11T11:40:40.263726+00:00",
+    "title": "Engineering Manager, AI Platform",
+    "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5208631007"
   },
   "greenhouse:Zipline:5465339003": {
     "company": "Zipline",
@@ -78323,6 +79547,12 @@
     "title": "Coordinateur(trice) des Partenariats, C\u00f4te d'Ivoire",
     "url": "https://www.zipline.com/open-roles?gh_jid=7830186003"
   },
+  "greenhouse:Zipline:7833402003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555443+00:00",
+    "title": "Head of Public Affairs",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7833402003"
+  },
   "greenhouse:Zipline:7833476003": {
     "company": "Zipline",
     "first_seen": "2026-08-07T11:41:33.880958+00:00",
@@ -78334,6 +79564,60 @@
     "first_seen": "2026-08-08T11:23:13.476201+00:00",
     "title": "Head of Product Operations",
     "url": "https://www.zipline.com/open-roles?gh_jid=7833503003"
+  },
+  "greenhouse:Zipline:7848901003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555451+00:00",
+    "title": "Marketing Manager, DFW",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7848901003"
+  },
+  "greenhouse:Zipline:7848909003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555433+00:00",
+    "title": "Embedded Software Engineer, Validation",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7848909003"
+  },
+  "greenhouse:Zipline:7848978003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555446+00:00",
+    "title": "HW Test Engineer, Battery and Power Electronics",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7848978003"
+  },
+  "greenhouse:Zipline:7848983003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555438+00:00",
+    "title": "Field Sales Representative",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7848983003"
+  },
+  "greenhouse:Zipline:7849058003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555448+00:00",
+    "title": "Lead, Avionics Technician",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7849058003"
+  },
+  "greenhouse:Zipline:7849112003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555460+00:00",
+    "title": "Senior Mechanical Test Engineer, SMI",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7849112003"
+  },
+  "greenhouse:Zipline:7849130003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555457+00:00",
+    "title": "Mechanical / Mechatronics Test Engineer, Dropbox",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7849130003"
+  },
+  "greenhouse:Zipline:7849204003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555454+00:00",
+    "title": "Mechanical Design Engineer - Droid SMI",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7849204003"
+  },
+  "greenhouse:Zipline:7851438003": {
+    "company": "Zipline",
+    "first_seen": "2026-08-11T11:40:39.555441+00:00",
+    "title": "Global Supply Manager, Hardware & Consumables",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7851438003"
   },
   "lever:Belvedere Trading:10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
     "company": "Belvedere Trading",
@@ -78466,6 +79750,12 @@
     "first_seen": "2026-08-05T23:38:52.231990+00:00",
     "title": "Senior Mechanisms Engineer",
     "url": "https://jobs.lever.co/hermeus/1a68bff9-1ab1-4a47-8088-a28b21c5543c"
+  },
+  "lever:Hermeus:1b10faab-f6d5-49da-a03b-1ca97e9eb316": {
+    "company": "Hermeus",
+    "first_seen": "2026-08-11T11:40:41.684230+00:00",
+    "title": "Sr Purchasing Specialist - Avionics & Mission Systems",
+    "url": "https://jobs.lever.co/hermeus/1b10faab-f6d5-49da-a03b-1ca97e9eb316"
   },
   "lever:Hermeus:1fefe7a1-1e77-43f6-85b0-86b6990bd8b1": {
     "company": "Hermeus",
@@ -78802,6 +80092,12 @@
     "first_seen": "2026-08-05T23:38:52.231984+00:00",
     "title": "Senior GNC Engineer - Navigation & System Integration",
     "url": "https://jobs.lever.co/hermeus/9b1e1f9a-5cf9-4cc1-af21-d0ab9ce3fe12"
+  },
+  "lever:Hermeus:9c34a3d8-a0f2-4174-807f-53b47dea802b": {
+    "company": "Hermeus",
+    "first_seen": "2026-08-11T11:40:41.684225+00:00",
+    "title": "Senior Strategic Sourcing Manager, Indirect",
+    "url": "https://jobs.lever.co/hermeus/9c34a3d8-a0f2-4174-807f-53b47dea802b"
   },
   "lever:Hermeus:a3325ef3-551f-4b0a-8172-c61f2dc110cb": {
     "company": "Hermeus",
@@ -79217,6 +80513,12 @@
     "title": "Forward Deployed Software Engineer, New Grad - Commercial",
     "url": "https://jobs.lever.co/palantir/2aa14e4f-d406-486e-9aa8-6ff3358d70a0"
   },
+  "lever:Palantir:2ad0ab10-34c3-410d-883b-8052864a95cd": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493739+00:00",
+    "title": "Forward Deployed Software Engineer, Internship - Commercial",
+    "url": "https://jobs.lever.co/palantir/2ad0ab10-34c3-410d-883b-8052864a95cd"
+  },
   "lever:Palantir:2add8e90-c65a-4684-8c0d-6dfa7a541871": {
     "company": "Palantir",
     "first_seen": "2026-08-05T23:38:53.974769+00:00",
@@ -79295,6 +80597,12 @@
     "title": "Deployment Strategist - UK Government",
     "url": "https://jobs.lever.co/palantir/2f3a0a57-8f77-44d2-99c3-18aef115374f"
   },
+  "lever:Palantir:2f618c30-14ce-44a0-a823-2af55d2ac2ed": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493744+00:00",
+    "title": "Technical Program Manager - US Government",
+    "url": "https://jobs.lever.co/palantir/2f618c30-14ce-44a0-a823-2af55d2ac2ed"
+  },
   "lever:Palantir:30c2563d-9a16-4dd7-81e8-b6f646384199": {
     "company": "Palantir",
     "first_seen": "2026-08-05T23:38:53.974816+00:00",
@@ -79330,6 +80638,12 @@
     "first_seen": "2026-08-05T23:38:53.974882+00:00",
     "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
     "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0"
+  },
+  "lever:Palantir:341d5cae-a473-4813-9a6c-0f67fcc1b253": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493742+00:00",
+    "title": "Forward Deployed Software Engineer, New Grad - Commercial",
+    "url": "https://jobs.lever.co/palantir/341d5cae-a473-4813-9a6c-0f67fcc1b253"
   },
   "lever:Palantir:34b3a697-6e22-4751-befd-0b7921abbd5f": {
     "company": "Palantir",
@@ -80291,6 +81605,12 @@
     "title": "Technical Program Manager (TPM) - Defense",
     "url": "https://jobs.lever.co/palantir/bd16f7ad-3bee-48fd-9902-b3ee9698b608"
   },
+  "lever:Palantir:bd34525c-6e4e-44ea-88c8-d8dac9747feb": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493746+00:00",
+    "title": "Technical Program Manager - US Government",
+    "url": "https://jobs.lever.co/palantir/bd34525c-6e4e-44ea-88c8-d8dac9747feb"
+  },
   "lever:Palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
     "company": "Palantir",
     "first_seen": "2026-08-05T23:38:53.975225+00:00",
@@ -80447,6 +81767,12 @@
     "title": "Software Engineer, New Grad",
     "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e"
   },
+  "lever:Palantir:d3b2f261-3f10-4edc-8802-8b3b37977d0a": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493748+00:00",
+    "title": "Technical Program Manager - US Government",
+    "url": "https://jobs.lever.co/palantir/d3b2f261-3f10-4edc-8802-8b3b37977d0a"
+  },
   "lever:Palantir:d40d5d19-8f9e-4e6b-b4d3-b7457c90adec": {
     "company": "Palantir",
     "first_seen": "2026-08-05T23:38:53.975143+00:00",
@@ -80470,6 +81796,12 @@
     "first_seen": "2026-08-05T23:38:53.975201+00:00",
     "title": "Software Engineer - Environment Platform",
     "url": "https://jobs.lever.co/palantir/d5d83a8f-cb96-41cc-9612-c7224fbb2fbc"
+  },
+  "lever:Palantir:d5f11334-3a73-4094-b7e0-d05b54e475b8": {
+    "company": "Palantir",
+    "first_seen": "2026-08-11T11:40:42.493734+00:00",
+    "title": "Deployment Strategist, New Grad - Commercial",
+    "url": "https://jobs.lever.co/palantir/d5f11334-3a73-4094-b7e0-d05b54e475b8"
   },
   "lever:Palantir:d7030550-f80f-422c-965f-3120db433dea": {
     "company": "Palantir",
@@ -81406,6 +82738,12 @@
     "first_seen": "2026-08-05T23:38:51.014065+00:00",
     "title": "Staff Engineer, Mechanical (R4887)",
     "url": "https://jobs.lever.co/shieldai/36691848-fa43-4c4b-9152-736f539f323c"
+  },
+  "lever:Shield AI:36a00500-87ea-4737-8372-83efcb0c9e2b": {
+    "company": "Shield AI",
+    "first_seen": "2026-08-11T11:40:41.128550+00:00",
+    "title": "Associate Facilities Coordinator (R5453)",
+    "url": "https://jobs.lever.co/shieldai/36a00500-87ea-4737-8372-83efcb0c9e2b"
   },
   "lever:Shield AI:37fa20c1-57dc-4aa1-9515-ecc87f22f31b": {
     "company": "Shield AI",
@@ -83183,6 +84521,12 @@
     "title": "Staff BD Account Executive, Autonomy Specialist - Australia (R5135)",
     "url": "https://jobs.lever.co/shieldai/e13c8e7b-97cf-414c-b17b-4554c7e52b11"
   },
+  "lever:Shield AI:e150495c-3eae-43a1-96c5-fc171ec393d8": {
+    "company": "Shield AI",
+    "first_seen": "2026-08-11T11:40:41.128555+00:00",
+    "title": "Senior Manager, Facilities Operations, International (R5600)",
+    "url": "https://jobs.lever.co/shieldai/e150495c-3eae-43a1-96c5-fc171ec393d8"
+  },
   "lever:Shield AI:e1b78ed6-0a52-49e1-9014-735873dab5a5": {
     "company": "Shield AI",
     "first_seen": "2026-08-05T23:38:51.013865+00:00",
@@ -83446,6 +84790,12 @@
     "first_seen": "2026-08-05T23:38:51.013711+00:00",
     "title": "Senior Engineer, Full-stack Software - Foundry Applications (R4933)",
     "url": "https://jobs.lever.co/shieldai/faf6d4fb-bcef-4b9f-9a6c-e27dd3af5d21"
+  },
+  "lever:Shield AI:fbf3de07-810f-4e45-a2b6-4a14eeaa189b": {
+    "company": "Shield AI",
+    "first_seen": "2026-08-11T11:40:41.128558+00:00",
+    "title": "Sr Manager, Aerostructures Design,  X-BAT",
+    "url": "https://jobs.lever.co/shieldai/fbf3de07-810f-4e45-a2b6-4a14eeaa189b"
   },
   "lever:Shield AI:fc6f9e65-4928-4523-ab19-bf955465cd90": {
     "company": "Shield AI",
