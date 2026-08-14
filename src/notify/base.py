@@ -19,7 +19,9 @@ class Channel(ABC):
         """True when this channel has the config/secrets it needs."""
 
     @abstractmethod
-    def send(self, subject: str, body: str) -> bool:
+    def send(self, subject: str, body: str, html: str = None) -> bool:
+        """`html` is an optional rich rendering. Channels that are inherently
+        plain text (SMS, push) ignore it and use `body`."""
         ...
 
 
@@ -30,7 +32,7 @@ class DryRunChannel(Channel):
     def enabled(self) -> bool:
         return True
 
-    def send(self, subject: str, body: str) -> bool:
+    def send(self, subject: str, body: str, html: str = None) -> bool:
         print("\n" + "=" * 78)
         print(f"[DRY RUN] would send: {subject}")
         print("=" * 78)
@@ -38,7 +40,8 @@ class DryRunChannel(Channel):
         return True
 
 
-def dispatch(channels: list[Channel], subject: str, body: str) -> dict:
+def dispatch(channels: list[Channel], subject: str, body: str,
+             html: str = None) -> dict:
     """Fan out to every enabled channel. One failure never blocks the others."""
     results = {}
     for ch in channels:
@@ -46,7 +49,7 @@ def dispatch(channels: list[Channel], subject: str, body: str) -> dict:
             results[ch.name] = "disabled"
             continue
         try:
-            results[ch.name] = "sent" if ch.send(subject, body) else "failed"
+            results[ch.name] = "sent" if ch.send(subject, body, html) else "failed"
         except Exception as e:
             results[ch.name] = f"error: {type(e).__name__}: {e}"
     return results

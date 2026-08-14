@@ -54,15 +54,18 @@ class EmailChannel(Channel):
             return bool(_env("RESEND_API_KEY"))
         return bool(_env("SMTP_HOST") and _env("SMTP_PASSWORD"))
 
-    def send(self, subject: str, body: str) -> bool:
-        return self._resend(subject, body) if self.backend == "resend" else self._smtp(subject, body)
+    def send(self, subject: str, body: str, html: str = None) -> bool:
+        # Fall back to the <pre> wrapper only when no rich rendering was supplied.
+        html = html or _html(body)
+        return (self._resend(subject, body, html) if self.backend == "resend"
+                else self._smtp(subject, body, html))
 
-    def _resend(self, subject: str, body: str) -> bool:
+    def _resend(self, subject: str, body: str, html: str) -> bool:
         payload = json.dumps({
             "from": self.sender,
             "to": [a.strip() for a in self.to.split(",") if a.strip()],
             "subject": subject,
-            "html": _html(body),
+            "html": html,
             "text": body,
         }).encode()
         # A User-Agent is required: Resend's API is behind Cloudflare, which
@@ -89,13 +92,13 @@ class EmailChannel(Channel):
                 pass
             raise RuntimeError(f"Resend rejected send: HTTP {e.code} {detail}") from None
 
-    def _smtp(self, subject: str, body: str) -> bool:
+    def _smtp(self, subject: str, body: str, html: str) -> bool:
         msg = EmailMessage()
         msg["Subject"] = subject
         msg["From"] = self.sender
         msg["To"] = self.to
         msg.set_content(body)
-        msg.add_alternative(_html(body), subtype="html")
+        msg.add_alternative(html, subtype="html")
         host = _env("SMTP_HOST")
         port = int(_env("SMTP_PORT", "587") or 587)
         with smtplib.SMTP(host, port, timeout=30) as s:

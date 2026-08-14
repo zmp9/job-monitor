@@ -68,7 +68,7 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     gated_log = state.load_gated()
     gated_keys = {g["key"] for g in gated_log}
 
-    matches, errors, new_count, total = [], [], 0, 0
+    matches, standing, errors, new_count, total = [], [], [], 0, 0
     # Every fetched posting, not just the unseen ones: the dashboard needs the
     # full population to answer "how many match at threshold X".
     snapshot_rows = []
@@ -96,6 +96,15 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
             } for p in postings)
         fresh = [p for p in postings if p.key not in seen]
         new_count += len(fresh)
+
+        # Score every open posting, not only the unseen ones. Dedupe decides what
+        # counts as *new*; it should not decide what you're allowed to see. Emails
+        # were arriving with 2-4 items while ~40 matches sat open and invisible.
+        for p in postings:
+            if p.key in seen:
+                r = score_posting(p, profile, compiled)
+                if not r.excluded and not r.gated and r.score >= threshold:
+                    standing.append((p, r))
 
         scored, hydrate_queue = [], []
         for p in fresh:
@@ -134,11 +143,19 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
                            "company": p.company, "url": p.url}
 
     matches.sort(key=lambda x: -x[1].score)
+    standing.sort(key=lambda x: -x[1].score)
+    all_open = matches + standing
 
-    if matches:
-        body = render_matches(matches, threshold, new_count, total, errors)
-        subject = f"[jobs] {len(matches)} match{'es' if len(matches) != 1 else ''} — top: {matches[0][0].title[:50]}"
-        report_dispatch("aggregator", dispatch(channels, subject, body), len(matches))
+    if all_open:
+        body = render_matches(matches, standing, threshold, new_count, total, errors)
+        html = render_matches_html(matches, standing, threshold, new_count, total, errors)
+        if matches:
+            subject = (f"[jobs] {len(matches)} new — top: {matches[0][0].title[:44]}"
+                       f" (+{len(standing)} still open)")
+        else:
+            subject = f"[jobs] no new today — {len(standing)} still open"
+        report_dispatch("aggregator", dispatch(channels, subject, body, html),
+                        len(all_open))
     else:
         print(f"aggregator: no matches >= {threshold} "
               f"({new_count} new of {total} postings scanned)")
@@ -159,9 +176,21 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     return len(matches)
 
 
-def render_matches(matches, threshold, new_count, total, errors) -> str:
-    lines = [f"{len(matches)} new posting(s) scored >= {threshold}.",
-             f"Scanned {total} open postings, {new_count} new since last run.", ""]
+def render_matches(matches, standing, threshold, new_count, total, errors) -> str:
+    """Plain-text body.
+
+    Two sections: what's new since the last run, then every currently-open match.
+    The standing list is compact — one line each — so a 40-match email stays
+    scannable while still being complete.
+    """
+    lines = []
+    if matches:
+        lines.append(f"{len(matches)} NEW posting(s) scoring >= {threshold}:")
+    else:
+        lines.append(f"No new postings today. {len(standing)} match(es) still open.")
+    lines.append(f"Scanned {total} open postings, {new_count} new since last run.")
+    lines.append("")
+
     for p, r in matches:
         lines += [
             f"[{r.score}] {p.title}",
@@ -173,10 +202,90 @@ def render_matches(matches, threshold, new_count, total, errors) -> str:
         for reason in r.reasons:
             lines.append(f"    {reason}")
         lines.append("")
+
+    if standing:
+        lines += ["", f"--- ALL {len(standing)} OTHER OPEN MATCHES ---", ""]
+        for p, r in standing:
+            lines.append(f"[{r.score}] {p.title} — {p.company}"
+                         f" ({p.location or 'n/a'})")
+            lines.append(f"  {p.url}")
+        lines.append("")
+
     if errors:
         lines += ["", f"{len(errors)} board(s) failed this run:"]
         lines += [f"  {e}" for e in errors]
     return "\n".join(lines)
+
+
+def render_matches_html(matches, standing, threshold, new_count, total, errors) -> str:
+    """HTML body.
+
+    The previous email wrapped plain text in a single <pre>, which rendered as a
+    terminal dump and left URLs as unclickable text in most clients. This builds
+    real markup: anchored links, a score badge per row, and the standing list as
+    a compact table.
+    """
+    def esc(s):
+        return (str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+    F = ("font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,"
+         "Helvetica,Arial,sans-serif")
+    out = [f'<div style="{F};font-size:15px;line-height:1.5;color:#1a1d21;'
+           f'max-width:680px;margin:0 auto">']
+
+    if matches:
+        out.append(f'<p style="margin:0 0 4px"><strong>{len(matches)} new</strong> '
+                   f'posting(s) scoring &ge; {threshold}'
+                   + (f', <strong>{len(standing)}</strong> still open' if standing else '')
+                   + '.</p>')
+    else:
+        out.append(f'<p style="margin:0 0 4px">No new postings today. '
+                   f'<strong>{len(standing)}</strong> match(es) still open.</p>')
+    out.append(f'<p style="margin:0 0 18px;color:#6b7280;font-size:13px">'
+               f'Scanned {total} open postings, {new_count} new since last run.</p>')
+
+    for p, r in matches:
+        out.append(
+            '<div style="border:1px solid #e5e7eb;border-radius:8px;padding:12px 14px;'
+            'margin:0 0 10px">'
+            f'<div style="font-size:12px;font-weight:700;color:#2b6cb0">{r.score}</div>'
+            f'<div style="font-weight:600;margin:2px 0">'
+            f'<a href="{esc(p.url)}" style="color:#111827;text-decoration:none">'
+            f'{esc(p.title)}</a></div>'
+            f'<div style="color:#4b5563;font-size:13px">{esc(p.company)} &middot; '
+            f'{esc(p.location or "location not listed")}'
+            + (f' &middot; posted {esc(p.posted_at[:10])}' if p.posted_at else '')
+            + '</div>'
+            f'<div style="color:#6b7280;font-size:12px;margin-top:6px">'
+            + '<br>'.join(esc(x) for x in r.reasons) + '</div>'
+            f'<div style="margin-top:8px"><a href="{esc(p.url)}" '
+            f'style="color:#2b6cb0;font-size:13px">Open posting &rarr;</a></div>'
+            '</div>')
+
+    if standing:
+        out.append(f'<h3 style="{F};font-size:13px;text-transform:uppercase;'
+                   f'letter-spacing:.05em;color:#6b7280;margin:24px 0 8px">'
+                   f'All {len(standing)} other open matches</h3>')
+        out.append('<table style="width:100%;border-collapse:collapse;font-size:14px">')
+        for p, r in standing:
+            out.append(
+                '<tr>'
+                f'<td style="padding:6px 8px 6px 0;color:#2b6cb0;font-weight:700;'
+                f'width:34px;vertical-align:top">{r.score}</td>'
+                f'<td style="padding:6px 0;border-bottom:1px solid #f0f1f3">'
+                f'<a href="{esc(p.url)}" style="color:#111827;text-decoration:none">'
+                f'{esc(p.title)}</a>'
+                f'<div style="color:#6b7280;font-size:12px">{esc(p.company)} &middot; '
+                f'{esc(p.location or "n/a")}</div></td></tr>')
+        out.append('</table>')
+
+    if errors:
+        out.append(f'<p style="color:#b45309;font-size:13px;margin-top:20px">'
+                   f'{len(errors)} board(s) failed this run:<br>'
+                   + '<br>'.join(esc(e) for e in errors) + '</p>')
+
+    out.append('</div>')
+    return "".join(out)
 
 
 # ---------------------------------------------------------------------------

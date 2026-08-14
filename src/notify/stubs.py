@@ -47,7 +47,7 @@ class SMSChannel(Channel):
         return all(_env(k) for k in
                    ("TWILIO_ACCOUNT_SID", "TWILIO_AUTH_TOKEN", "TWILIO_FROM", "SMS_TO"))
 
-    def send(self, subject: str, body: str) -> bool:
+    def send(self, subject: str, body: str, html: str = None) -> bool:
         raise NotImplementedError("Twilio SMS not wired yet — see TODO in stubs.py")
 
 
@@ -95,7 +95,7 @@ class PushChannel(Channel):
             out += f"\n+{total - len(picked)} more — see email"
         return out
 
-    def send(self, subject: str, body: str) -> bool:
+    def send(self, subject: str, body: str, html: str = None) -> bool:
         topic = _env("NTFY_TOPIC")
         payload = self.summarize(subject, body).encode("utf-8")
         req = urllib.request.Request(
