@@ -33,6 +33,15 @@ boards:
   - {provider: ashby,      slug: ramp,       company: Ramp}
   - {provider: ashby,      slug: plaid,      company: Plaid}
 
+  # --- workday tenants ---
+  # Workday portals render client-side but expose a public JSON API; see
+  # src/providers/workday.py. Slug format is tenant/wdhost/site, taken from the
+  # myworkdayjobs.com URL on the firm's careers page. These reach firms that are
+  # on none of Greenhouse/Lever/Ashby.
+  - {provider: workday, slug: "boeing/wd1/EXTERNAL_CAREERS",  company: Boeing}
+  - {provider: workday, slug: "capitalone/wd12/Capital_One",  company: Capital One}
+  - {provider: workday, slug: "ms/wd5/External",              company: Morgan Stanley}
+
   # --- aviation / industrials / defense ---
   - {provider: greenhouse, slug: spacex,        company: SpaceX}
   - {provider: greenhouse, slug: rocketlab,     company: Rocket Lab}

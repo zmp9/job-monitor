@@ -34,5 +34,31 @@ def get_json(url: str, headers: dict | None = None):
     return json.loads(get_bytes(url, headers).decode("utf-8", "replace"))
 
 
+def get_json_post(url: str, payload, headers: dict | None = None):
+    """POST JSON and parse the reply. Workday's board API is POST-only.
+
+    Shares the retry/backoff policy above; a GET-only helper would have meant
+    duplicating it.
+    """
+    h = {"User-Agent": UA, "Content-Type": "application/json",
+         "Accept": "application/json"}
+    h.update(headers or {})
+    body = json.dumps(payload).encode() if payload is not None else b"{}"
+    last = None
+    for attempt in range(RETRIES):
+        try:
+            req = urllib.request.Request(url, data=body, headers=h, method="POST")
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as f:
+                return json.loads(f.read().decode("utf-8", "replace"))
+        except urllib.error.HTTPError as e:
+            if e.code != 429 and 400 <= e.code < 500:
+                raise
+            last = e
+        except Exception as e:
+            last = e
+        time.sleep(2 ** attempt)
+    raise last
+
+
 def get_text(url: str, headers: dict | None = None) -> str:
     return get_bytes(url, headers).decode("utf-8", "replace")

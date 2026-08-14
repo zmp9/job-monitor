@@ -16,7 +16,7 @@ from datetime import datetime, timezone
 import yaml
 
 from src import monitor, state
-from src.providers import ashby, greenhouse, lever
+from src.providers import ashby, greenhouse, lever, workday
 from src.scoring import (DEFAULT_THRESHOLD, compile_profile, resolve_threshold,
                          score_posting)
 from src.notify.base import DryRunChannel, dispatch
@@ -24,13 +24,21 @@ from src.notify.email import EmailChannel
 from src.notify.stubs import PushChannel, SMSChannel
 
 CONFIG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config")
-PROVIDERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby}
+PROVIDERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
+             "workday": workday}
 
 MAX_HYDRATE = 40          # bound description fetches per run
 HYDRATE_MARGIN = 25       # rescore borderline postings with full text
 DIGEST_WEEKDAY = 0        # Monday
 DIGEST_SOFT_CAP = 60      # max postings listed in one digest email
 DIGEST_PER_COMPANY = 6
+
+# Directory of every currently-open match, committed each run so it is readable
+# on a phone via GitHub without needing Pages (which private repos don't get free).
+MATCHES_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "MATCHES.md")
+REPO_URL = os.environ.get(
+    "REPO_URL", "https://github.com/zmp9/job-monitor").rstrip("/")
+MATCHES_URL = f"{REPO_URL}/blob/main/MATCHES.md" 
 
 
 def load_yaml(name: str) -> dict:
@@ -146,6 +154,9 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     standing.sort(key=lambda x: -x[1].score)
     all_open = matches + standing
 
+    if not dry_run or snapshot:
+        write_matches_file(all_open, threshold, total)
+
     if all_open:
         body = render_matches(matches, standing, threshold, new_count, total, errors)
         html = render_matches_html(matches, standing, threshold, new_count, total, errors)
@@ -176,6 +187,32 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     return len(matches)
 
 
+def write_matches_file(all_open, threshold, total) -> None:
+    """Write MATCHES.md — the full ranked directory the emails link to."""
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    lines = ["# Open matches", "",
+             f"_{len(all_open)} postings scoring >= {threshold}, "
+             f"of {total} scanned. Updated {ts}._", ""]
+    by_company = {}
+    for p, r in all_open:
+        by_company.setdefault(p.company, []).append((p, r))
+    lines += ["| Score | Role | Company | Location |", "|---:|---|---|---|"]
+    for p, r in all_open:
+        title = p.title.replace("|", "\\|")
+        lines.append(f"| {r.score} | [{title}]({p.url}) | {p.company} | "
+                     f"{(p.location or 'n/a').replace('|', '/')} |")
+    lines += ["", "## By company", ""]
+    for company in sorted(by_company, key=lambda c: -len(by_company[c])):
+        items = by_company[company]
+        lines.append(f"- **{company}** ({len(items)}) — top "
+                     f"[{items[0][0].title}]({items[0][0].url}) at {items[0][1].score}")
+    try:
+        with open(MATCHES_FILE, "w") as f:
+            f.write("\n".join(lines) + "\n")
+    except Exception as e:
+        print(f"aggregator: could not write MATCHES.md: {e}", file=sys.stderr)
+
+
 def render_matches(matches, standing, threshold, new_count, total, errors) -> str:
     """Plain-text body.
 
@@ -204,11 +241,13 @@ def render_matches(matches, standing, threshold, new_count, total, errors) -> st
         lines.append("")
 
     if standing:
-        lines += ["", f"--- ALL {len(standing)} OTHER OPEN MATCHES ---", ""]
-        for p, r in standing:
+        lines += ["", f"--- {len(standing)} other matches still open ---",
+                  f"Full ranked directory: {MATCHES_URL}", ""]
+        for p, r in standing[:10]:
             lines.append(f"[{r.score}] {p.title} — {p.company}"
                          f" ({p.location or 'n/a'})")
-            lines.append(f"  {p.url}")
+        if len(standing) > 10:
+            lines.append(f"...and {len(standing) - 10} more — see the directory above.")
         lines.append("")
 
     if errors:
@@ -265,9 +304,12 @@ def render_matches_html(matches, standing, threshold, new_count, total, errors) 
     if standing:
         out.append(f'<h3 style="{F};font-size:13px;text-transform:uppercase;'
                    f'letter-spacing:.05em;color:#6b7280;margin:24px 0 8px">'
-                   f'All {len(standing)} other open matches</h3>')
+                   f'{len(standing)} other matches still open</h3>')
+        out.append(f'<p style="margin:0 0 10px"><a href="{MATCHES_URL}" '
+                   f'style="color:#2b6cb0;font-weight:600">'
+                   f'Open the full ranked directory &rarr;</a></p>')
         out.append('<table style="width:100%;border-collapse:collapse;font-size:14px">')
-        for p, r in standing:
+        for p, r in standing[:10]:
             out.append(
                 '<tr>'
                 f'<td style="padding:6px 8px 6px 0;color:#2b6cb0;font-weight:700;'
@@ -278,6 +320,10 @@ def render_matches_html(matches, standing, threshold, new_count, total, errors) 
                 f'<div style="color:#6b7280;font-size:12px">{esc(p.company)} &middot; '
                 f'{esc(p.location or "n/a")}</div></td></tr>')
         out.append('</table>')
+        if len(standing) > 10:
+            out.append(f'<p style="margin:10px 0 0"><a href="{MATCHES_URL}" '
+                       f'style="color:#2b6cb0;font-size:13px">and '
+                       f'{len(standing) - 10} more &rarr;</a></p>')
 
     if errors:
         out.append(f'<p style="color:#b45309;font-size:13px;margin-top:20px">'
