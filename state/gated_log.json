@@ -25486,5 +25486,3869 @@
     "location": "North America",
     "title": "Solutions Engineer",
     "url": "https://jobs.ashbyhq.com/linear/a8041e0e-350e-47d0-9190-454089216fb8"
+  },
+  {
+    "company": "Robinhood",
+    "first_seen": "2026-08-15T00:43:45.044410+00:00",
+    "key": "greenhouse:Robinhood:8072886",
+    "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+    "title": "Executive Recruiter",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8072886?t=gh_src=&gh_jid=8072886"
+  },
+  {
+    "company": "Affirm",
+    "first_seen": "2026-08-15T00:43:45.500657+00:00",
+    "key": "greenhouse:Affirm:7860016003",
+    "location": "New York, New York, United States",
+    "title": "IT Support Administrator I",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7860016003"
+  },
+  {
+    "company": "SoFi",
+    "first_seen": "2026-08-15T00:43:46.052521+00:00",
+    "key": "greenhouse:SoFi:7865456003",
+    "location": "CA - Sacramento",
+    "title": "Branch Operations Supervisor",
+    "url": "https://sofi.com/careers/job/7865456003?gh_jid=7865456003"
+  },
+  {
+    "company": "Ramp",
+    "first_seen": "2026-08-15T00:43:47.014005+00:00",
+    "key": "ashby:Ramp:157bb000-868b-4a6d-9143-67619871812f",
+    "location": "New York, NY (HQ)",
+    "title": "Solutions Consultant, Public Sector",
+    "url": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f"
+  },
+  {
+    "company": "Plaid",
+    "first_seen": "2026-08-15T00:43:47.223853+00:00",
+    "key": "ashby:Plaid:add52eef-327d-4dcf-aad1-82ae6b9abc50",
+    "location": "San Francisco HQ; Seattle Office; New York City Office",
+    "title": "Product Designer",
+    "url": "https://jobs.ashbyhq.com/plaid/add52eef-327d-4dcf-aad1-82ae6b9abc50"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042136+00:00",
+    "key": "workday:Boeing:JR2026519682",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Integration Engineer - Entry / Experienced (Anti-Tamper)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Integration-Engineer---Entry---Experienced--Anti-Tamper-_JR2026519682"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042149+00:00",
+    "key": "workday:Boeing:JR2026517264",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Procurement Agent 2",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Procurement-Agent-2_JR2026517264-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042152+00:00",
+    "key": "workday:Boeing:JR2026511782",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Engineering Technical Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Engineering-Technical-Specialist_JR2026511782-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042154+00:00",
+    "key": "workday:Boeing:JR2026501460",
+    "location": "USA - Chicago, IL",
+    "title": "Executive Assistant - Elected Officer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Chicago-IL/Executive-Assistant---Elected-Officer_JR2026501460-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042156+00:00",
+    "key": "workday:Boeing:JR2026507634",
+    "location": "USA - Miami, FL",
+    "title": "Training Systems Integrator (Subject Matter Expert or Consultant)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Miami-FL/Training-Systems-Integrator--Subject-Matter-Expert-or-Consultant-_JR2026507634-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042158+00:00",
+    "key": "workday:Boeing:JR2026517332",
+    "location": "USA - North Charleston, SC",
+    "title": "Experienced Structural Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Experienced-Structural-Analysis-Engineer_JR2026517332-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042160+00:00",
+    "key": "workday:Boeing:JR2026517329",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Structural Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Structural-Analysis-Engineer_JR2026517329-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042162+00:00",
+    "key": "workday:Boeing:JR2026521909",
+    "location": "USA - Berkeley, MO",
+    "title": "Quality Assembly Mechanic - Nondestructive Test (NDT) Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Quality-Assembly-Mechanic---Nondestructive-Test--NDT--Technician_JR2026521909"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042164+00:00",
+    "key": "workday:Boeing:JR2026492682",
+    "location": "2 Locations",
+    "title": "Tool and Die Maker - 76010",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Tool-and-Die-Maker---76010_JR2026492682-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042166+00:00",
+    "key": "workday:Boeing:JR2026514457",
+    "location": "USA - Everett, WA",
+    "title": "Experienced Procurement Agent",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Experienced-Procurement-Agent_JR2026514457-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042167+00:00",
+    "key": "workday:Boeing:JR2026519330",
+    "location": "2 Locations",
+    "title": "Linux System Administrator",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Linux-System-Administrator_JR2026519330-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042169+00:00",
+    "key": "workday:Boeing:JR2026510166",
+    "location": "USA - Tukwila, WA",
+    "title": "Mid-Level Industrial Security Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mid-Level-Industrial-Security-Specialist_JR2026510166-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042171+00:00",
+    "key": "workday:Boeing:JR2026520866",
+    "location": "USA - Hazelwood, MO",
+    "title": "Experienced Systems Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Systems-Engineer_JR2026520866"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042172+00:00",
+    "key": "workday:Boeing:JR2026503169",
+    "location": "2 Locations",
+    "title": "Quality Workplace Coach",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Quality-Workplace-Coach_JR2026503169-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042174+00:00",
+    "key": "workday:Boeing:JR2026516779",
+    "location": "2 Locations",
+    "title": "Production Chief Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Production-Chief-Engineer_JR2026516779-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042176+00:00",
+    "key": "workday:Boeing:JR2026522078",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Avionics Repair and Modification Technician - B-52 (2400)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Repair-and-Modification-Technician---B-52--2400-_JR2026522078-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042177+00:00",
+    "key": "workday:Boeing:JR2026522072",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced General Repair and Modification Technician - B-52 (2400)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-General-Repair-and-Modification-Technician---B-52--2400-_JR2026522072-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042179+00:00",
+    "key": "workday:Boeing:JR2026513996",
+    "location": "USA - Seal Beach, CA",
+    "title": "Experienced Payloads Design Engineer (Interiors)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Payloads-Design-Engineer--Interiors-_JR2026513996-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042181+00:00",
+    "key": "workday:Boeing:JR2026512890",
+    "location": "USA - Seal Beach, CA",
+    "title": "Experienced Design Engineer - Mechanical Flight Controls",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Design-Engineer---Mechanical-Flight-Controls_JR2026512890-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042183+00:00",
+    "key": "workday:Boeing:JR2026518646",
+    "location": "USA - El Segundo, CA",
+    "title": "Industrial Security Specialist \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026518646-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042185+00:00",
+    "key": "workday:Boeing:JR2026511935",
+    "location": "USA - Berkeley, MO",
+    "title": "Phantom Works Experienced Industrial Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Experienced-Industrial-Engineer_JR2026511935-3"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042187+00:00",
+    "key": "workday:Boeing:JR2026521329",
+    "location": "USA - El Segundo, CA",
+    "title": "Data Platform Architect \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Data-Platform-Architect---Millennium-Space-Systems_JR2026521329-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042189+00:00",
+    "key": "workday:Boeing:JR2026514167",
+    "location": "USA - El Segundo, CA",
+    "title": "Material Planner - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Material-Planner---Millennium-Space-Systems_JR2026514167-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042191+00:00",
+    "key": "workday:Boeing:JR2026517543",
+    "location": "USA - El Segundo, CA",
+    "title": "Industrial Security Specialist \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Industrial-Security-Specialist---Millennium-Space-Systems_JR2026517543"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042193+00:00",
+    "key": "workday:Boeing:JR2026519617",
+    "location": "USA - Hazelwood, MO",
+    "title": "Experienced Quality Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Quality-Engineer_JR2026519617-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042195+00:00",
+    "key": "workday:Boeing:JR2026518974",
+    "location": "USA - Oklahoma City, OK",
+    "title": "BDS Electrical Lab Experienced Technical Designer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/BDS-Electrical-Lab-Experienced-Technical-Designer_JR2026518974-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042197+00:00",
+    "key": "workday:Boeing:JR2026518796",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Aircraft Stability & Control Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Aircraft-Stability---Control-Engineer_JR2026518796"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042199+00:00",
+    "key": "workday:Boeing:JR2026520954",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Product Review Engineer (Liaison Engineering)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Review-Engineer--Liaison-Engineering-_JR2026520954-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042201+00:00",
+    "key": "workday:Boeing:JR2026512823",
+    "location": "USA - El Segundo, CA",
+    "title": "Procurement Agent - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Procurement-Agent---Millennium-Space-Systems_JR2026512823-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042202+00:00",
+    "key": "workday:Boeing:JR2026516718",
+    "location": "USA - El Segundo, CA",
+    "title": "IT Systems Administrator - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Systems-Administrator---Millennium-Space-Systems_JR2026516718-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042204+00:00",
+    "key": "workday:Boeing:JR2026511644",
+    "location": "USA - El Segundo, CA",
+    "title": "IT Systems Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/IT-Systems-Engineer---Millennium-Space-Systems_JR2026511644-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042205+00:00",
+    "key": "workday:Boeing:JR2026521895",
+    "location": "USA - Portland, OR",
+    "title": "Electronic Maintenance Technician 87510",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Portland-OR/Electronic-Maintenance-Technician-87510_JR2026521895-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042207+00:00",
+    "key": "workday:Boeing:JR2026505933",
+    "location": "2 Locations",
+    "title": "Assembly Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Mechanic_JR2026505933-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042209+00:00",
+    "key": "workday:Boeing:JR2026497106",
+    "location": "USA - Mesa, AZ",
+    "title": "MP&P Engineer - NDE",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042210+00:00",
+    "key": "workday:Boeing:JR2026521970",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Avionics Repair and Modification Technician - Executive Fleet (2742)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Avionics-Repair-and-Modification-Technician---Executive-Fleet--2742-_JR2026521970-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042212+00:00",
+    "key": "workday:Boeing:JR2026521962",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Electrical Repair and Modification Technician - Executive Fleet (2742)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Electrical-Repair-and-Modification-Technician---Executive-Fleet--2742-_JR2026521962-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042213+00:00",
+    "key": "workday:Boeing:JR2026521958",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Structures Repair and Modification Technician - Executive Fleet (2742)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Structures-Repair-and-Modification-Technician---Executive-Fleet--2742-_JR2026521958-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042215+00:00",
+    "key": "workday:Boeing:JR2026516711",
+    "location": "USA - Maryland Heights, MO",
+    "title": "Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Project-Management-Specialist_JR2026516711-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042217+00:00",
+    "key": "workday:Boeing:JR2026521934",
+    "location": "USA - El Segundo, CA",
+    "title": "Procurement Agent \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Procurement-Agent---Millennium-Space-Systems_JR2026521934-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042219+00:00",
+    "key": "workday:Boeing:JR2026521919",
+    "location": "USA - Ridley Park, PA",
+    "title": "Maintenance Electronics Worker A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Maintenance-Electronics-Worker-A_JR2026521919"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042220+00:00",
+    "key": "workday:Boeing:JR2026518581",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Mid-Level Electrical Lab Technical Designer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Mid-Level-Electrical-Lab-Technical-Designer_JR2026518581-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042222+00:00",
+    "key": "workday:Boeing:JR2026505178",
+    "location": "2 Locations",
+    "title": "Assembly Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Assembly-Mechanic_JR2026505178-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042223+00:00",
+    "key": "workday:Boeing:JR2026504866",
+    "location": "2 Locations",
+    "title": "Flight Operations Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mascoutah-IL/Flight-Operations-Mechanic_JR2026504866-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042225+00:00",
+    "key": "workday:Boeing:JR2026521719",
+    "location": "USA - Mesa, AZ",
+    "title": "Fabrication Specialist (Preparing and Painting)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Fabrication-Specialist--Preparing-and-Painting-_JR2026521719-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042227+00:00",
+    "key": "workday:Boeing:JR2026521726",
+    "location": "USA - Mesa, AZ",
+    "title": "Aircraft Machinist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Aircraft-Machinist_JR2026521726-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042229+00:00",
+    "key": "workday:Boeing:JR2026504913",
+    "location": "USA - Berkeley, MO",
+    "title": "Metrology Tooling Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Metrology-Tooling-Mechanic_JR2026504913"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042230+00:00",
+    "key": "workday:Boeing:JR2026516634",
+    "location": "USA - North Charleston, SC",
+    "title": "Non-Destructive Quality Test Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Non-Destructive-Quality-Test-Specialist_JR2026516634-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042232+00:00",
+    "key": "workday:Boeing:JR2026521858",
+    "location": "USA - El Segundo, CA",
+    "title": "Build Reliability Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Build-Reliability-Engineer---Millennium-Space-Systems_JR2026521858"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042234+00:00",
+    "key": "workday:Boeing:JR2026503921",
+    "location": "USA - El Segundo, CA",
+    "title": "Spacecraft Thermal Engineer (Early Career) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Early-Career----Millennium-Space-Systems_JR2026503921-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042236+00:00",
+    "key": "workday:Boeing:JR2026521311",
+    "location": "USA - Hialeah, FL",
+    "title": "Experienced Quality Systems Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hialeah-FL/Experienced-Quality-Systems-Specialist_JR2026521311-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042238+00:00",
+    "key": "workday:Boeing:JR2026521078",
+    "location": "USA - Wichita, KS",
+    "title": "Experienced Quality Production Specialist (FAI)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Wichita-KS/Experienced-Quality-Production-Specialist--FAI-_JR2026521078-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042239+00:00",
+    "key": "workday:Boeing:JR2026517286",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Procurement Agent (Multi Level)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Procurement-Agent--Multi-Level-_JR2026517286-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042241+00:00",
+    "key": "workday:Boeing:JR2026518404",
+    "location": "USA - San Antonio, TX",
+    "title": "Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Project-Management-Specialist_JR2026518404-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042243+00:00",
+    "key": "workday:Boeing:JR2026521824",
+    "location": "USA - Hialeah, FL",
+    "title": "Experienced Quality Workplace Coach",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hialeah-FL/Experienced-Quality-Workplace-Coach_JR2026521824-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042244+00:00",
+    "key": "workday:Boeing:JR2026514785",
+    "location": "USA - Ridley Park, PA",
+    "title": "Human Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Human-Engineer_JR2026514785-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042246+00:00",
+    "key": "workday:Boeing:JR2026514162",
+    "location": "USA - North Charleston, SC",
+    "title": "Fabrication Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Fabrication-Specialist_JR2026514162-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042247+00:00",
+    "key": "workday:Boeing:JR2026510647",
+    "location": "USA - Hazelwood, MO",
+    "title": "Tooling Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Tooling-Mechanic_JR2026510647-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042249+00:00",
+    "key": "workday:Boeing:JR2026516709",
+    "location": "2 Locations",
+    "title": "Software Test Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Test-Engineer_JR2026516709-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042254+00:00",
+    "key": "workday:Boeing:JR2026501757",
+    "location": "USA - Long Beach, CA",
+    "title": "C-17 Mid-Level Structural Design Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/C-17-Mid-Level-Structural-Design-Engineer_JR2026501757-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042256+00:00",
+    "key": "workday:Boeing:JR2026513176",
+    "location": "USA - Huntsville, AL",
+    "title": "Material Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Material-Specialist_JR2026513176-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042257+00:00",
+    "key": "workday:Boeing:JR2026514095",
+    "location": "USA - Miami, FL",
+    "title": "Customer Technical Structures Training Specialist\u200b (Customer Training Delivery) (Career or Expert)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Miami-FL/Customer-Technical-Structures-Training-Specialist---Customer-Training-Delivery---Career-or-Expert-_JR2026514095-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042259+00:00",
+    "key": "workday:Boeing:JR2026516819",
+    "location": "USA - Hazelwood, MO",
+    "title": "Mid-Level Integrated Planning & Scheduling Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Mid-Level-Integrated-Planning---Scheduling-Specialist_JR2026516819-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042260+00:00",
+    "key": "workday:Boeing:JR2026518610",
+    "location": "USA - Heath, OH",
+    "title": "Industrial Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Heath-OH/Industrial-Engineer_JR2026518610"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042262+00:00",
+    "key": "workday:Boeing:JR2026512338",
+    "location": "USA - North Charleston, SC",
+    "title": "Aircraft Painter",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Painter_JR2026512338-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042264+00:00",
+    "key": "workday:Boeing:JR2026508779",
+    "location": "USA - North Charleston, SC",
+    "title": "Aircraft Painter (Level B or Level C)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Painter--Level-B-or-Level-C-_JR2026508779-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042265+00:00",
+    "key": "workday:Boeing:JR2026515525",
+    "location": "USA - Berkeley, MO",
+    "title": "2nd Shift Composites Manufacturing Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/XMLNAME-2nd-Shift-Composites-Manufacturing-Engineer_JR2026515525"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042267+00:00",
+    "key": "workday:Boeing:JR2026513465",
+    "location": "2 Locations",
+    "title": "Logistics Support Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---RAF-Lossiemouth-United-Kingdom/Logistics-Support-Analysis-Engineer_JR2026513465"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042269+00:00",
+    "key": "workday:Boeing:JR2026515664",
+    "location": "KWT - Al-Mubarak AB, Kuwait",
+    "title": "C-17 Mechanical Aircraft Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Mechanical-Aircraft-Technician_JR2026515664"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042270+00:00",
+    "key": "workday:Boeing:JR2025476274",
+    "location": "2 Locations",
+    "title": "Substation Electrician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Substation-Electrician_JR2025476274-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042272+00:00",
+    "key": "workday:Boeing:JR2026518074",
+    "location": "USA - Mesa, AZ",
+    "title": "Experienced Configuration Design Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-Configuration-Design-Engineer_JR2026518074-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042273+00:00",
+    "key": "workday:Boeing:JR2026513885",
+    "location": "USA - Seattle, WA",
+    "title": "Consultant Aircrew Training Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Consultant-Aircrew-Training-Specialist_JR2026513885"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042275+00:00",
+    "key": "workday:Boeing:JR2026521721",
+    "location": "USA - El Segundo, CA",
+    "title": "Manufacturing Engineer - EGSE (Electrical Ground Support Equipment) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Manufacturing-Engineer---EGSE--Electrical-Ground-Support-Equipment----Millennium-Space-Systems_JR2026521721-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042276+00:00",
+    "key": "workday:Boeing:JR2026515816",
+    "location": "USA - Tukwila, WA",
+    "title": "Mechanical Systems Design & Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mechanical-Systems-Design---Analysis-Engineer_JR2026515816-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042278+00:00",
+    "key": "workday:Boeing:JR2026515814",
+    "location": "USA - Tukwila, WA",
+    "title": "Mechanical Systems Design & Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Mechanical-Systems-Design---Analysis-Engineer_JR2026515814-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042280+00:00",
+    "key": "workday:Boeing:JR2026521688",
+    "location": "USA - Des Moines, WA",
+    "title": "Inspector Ship & Receiving B",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Des-Moines-WA/Inspector-Ship---Receiving-B_JR2026521688-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042282+00:00",
+    "key": "workday:Boeing:JR2025485784",
+    "location": "USA - Berkeley, MO",
+    "title": "Tooling Mechanic - Large Structure Fabrication",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Tooling-Mechanic---Large-Structure-Fabrication_JR2025485784"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042283+00:00",
+    "key": "workday:Boeing:JR2026519232",
+    "location": "USA - Berkeley, MO",
+    "title": "Project Management Specialist (General Project Mgmt)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026519232-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042285+00:00",
+    "key": "workday:Boeing:JR2026520774",
+    "location": "USA - El Segundo, CA",
+    "title": "Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Project-Management-Specialist_JR2026520774-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042287+00:00",
+    "key": "workday:Boeing:JR2026514504",
+    "location": "USA - Everett, WA",
+    "title": "Aviation Maintenance Inspector - 97110",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Aviation-Maintenance-Inspector---97110_JR2026514504-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042289+00:00",
+    "key": "workday:Boeing:JR2026519262",
+    "location": "USA - Moses Lake, WA",
+    "title": "Aviation Maintenance Inspector - 97110",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Moses-Lake-WA/Aviation-Maintenance-Inspector---97110_JR2026519262-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042291+00:00",
+    "key": "workday:Boeing:JR2026513000",
+    "location": "USA - Berkeley, MO",
+    "title": "Maintenance Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Maintenance-Mechanic_JR2026513000-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042292+00:00",
+    "key": "workday:Boeing:JR2026521604",
+    "location": "USA - Auburn, WA",
+    "title": "Parts Forming C - 13404",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Parts-Forming-C---13404_JR2026521604-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042294+00:00",
+    "key": "workday:Boeing:JR2026509071",
+    "location": "2 Locations",
+    "title": "Assembly Mechanic - Quality",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Mechanic---Quality_JR2026509071-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042296+00:00",
+    "key": "workday:Boeing:JR2026515665",
+    "location": "KWT - Al-Mubarak AB, Kuwait",
+    "title": "C-17 Product Repair & Modifications Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Product-Repair---Modifications-Technician_JR2026515665-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042298+00:00",
+    "key": "workday:Boeing:JR2026500609",
+    "location": "USA - Everett, WA",
+    "title": "Interiors Fabricator and Assembler Mech C - 20503",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Interiors-Fabricator-and-Assembler-Mech-C---20503_JR2026500609-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042300+00:00",
+    "key": "workday:Boeing:JR2026513048",
+    "location": "USA - Berkeley, MO",
+    "title": "Mid-Level Video Conferencing and Multimedia Technician **Sign on Bonus Potential**",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Mid-Level-Video-Conferencing-and-Multimedia-Technician---Sign-on-Bonus-Potential--_JR2026513048-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042302+00:00",
+    "key": "workday:Boeing:JR2026515587",
+    "location": "USA - Long Beach, CA",
+    "title": "Engineering Multi-Skill Mgr (Eng Multi-Skill LDR Management)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026515587"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042304+00:00",
+    "key": "workday:Boeing:JR2026521251",
+    "location": "USA - Colorado Springs, CO",
+    "title": "Mission Operations Engineer, Colorado Springs - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Mission-Operations-Engineer--Colorado-Springs---Millennium-Space-Systems_JR2026521251-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042306+00:00",
+    "key": "workday:Boeing:JR2026518794",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Aerodynamics Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Aerodynamics-Engineer_JR2026518794-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042308+00:00",
+    "key": "workday:Boeing:JR2026516153",
+    "location": "3 Locations",
+    "title": "Experienced Supplier Quality Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Newark-NJ/Experienced-Supplier-Quality-Engineer_JR2026516153-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042310+00:00",
+    "key": "workday:Boeing:JR2026508474",
+    "location": "2 Locations",
+    "title": "Cybersecurity - Information System Security Officer (ISSO)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Cybersecurity---Information-System-Security-Officer--ISSO-_JR2026508474-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042312+00:00",
+    "key": "workday:Boeing:JR2026498108",
+    "location": "USA - Tukwila, WA",
+    "title": "Design and Analysis Engineer (Electronic Sys Design & Analy)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2026498108-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042313+00:00",
+    "key": "workday:Boeing:JR2026513673",
+    "location": "USA - Huntsville, AL",
+    "title": "Test Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Test-Technician_JR2026513673"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042315+00:00",
+    "key": "workday:Boeing:JR2026521346",
+    "location": "USA - Renton, WA",
+    "title": "Tool Maker C - 75506",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Tool-Maker-C---75506_JR2026521346-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042317+00:00",
+    "key": "workday:Boeing:JR2026521217",
+    "location": "USA - Berkeley, MO",
+    "title": "Design and Analysis Engineer (Electrical Systems Design)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Design-and-Analysis-Engineer--Electrical-Systems-Design-_JR2026521217-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042319+00:00",
+    "key": "workday:Boeing:JR2026515729",
+    "location": "USA - Berkeley, MO",
+    "title": "Phantom Works Structural Analysis Engineer (Structural Analysis)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Phantom-Works-Structural-Analysis-Engineer--Structural-Analysis-_JR2026515729-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042320+00:00",
+    "key": "workday:Boeing:JR2026514961",
+    "location": "USA - Ogden, UT",
+    "title": "Radiation Effects Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ogden-UT/Radiation-Effects-Engineer_JR2026514961-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042322+00:00",
+    "key": "workday:Boeing:JR2026518018",
+    "location": "2 Locations",
+    "title": "Oracle EBS Functional Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/Oracle-EBS-Functional-Specialist_JR2026518018-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042324+00:00",
+    "key": "workday:Boeing:JR2026520952",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Product Review Engineer (Liaison Engineering)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Review-Engineer--Liaison-Engineering-_JR2026520952"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042326+00:00",
+    "key": "workday:Boeing:JR2026512293",
+    "location": "USA - El Segundo, CA",
+    "title": "Mission Operations Engineer (Mid Level) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Operations-Engineer--Mid-Level----Millennium-Space-Systems_JR2026512293-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042327+00:00",
+    "key": "workday:Boeing:JR2026518410",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Product Security Engineer (Software) ***Signing Bonus Potential***",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Security-Engineer--Software-----Signing-Bonus-Potential---_JR2026518410-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042329+00:00",
+    "key": "workday:Boeing:JR2026515748",
+    "location": "USA - Berkeley, MO",
+    "title": "Design and Analysis Engineer (Electronic Sys Design & Analy)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2026515748-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042331+00:00",
+    "key": "workday:Boeing:JR2026518000",
+    "location": "USA - El Segundo, CA",
+    "title": "Mid-Level Spacecraft RF Payload Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mid-Level-Spacecraft-RF-Payload-Engineer---Millennium-Space-Systems_JR2026518000-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042332+00:00",
+    "key": "workday:Boeing:JR2026502947",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Avionics Hardware Engineer - Fighters Mission Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Avionics-Hardware-Engineer---Fighters-Mission-Systems_JR2026502947-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042334+00:00",
+    "key": "workday:Boeing:JR2026501451",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Low Observables (LO) Design & Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Low-Observables--LO--Design---Integration-Engineer_JR2026501451"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042336+00:00",
+    "key": "workday:Boeing:JR2026501449",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Low Observables Mission Systems Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Low-Observables-Mission-Systems-Integration-Engineer_JR2026501449"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042337+00:00",
+    "key": "workday:Boeing:JR2026496641",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Product Security Engineer (Integration)***Signing Bonus Potential***",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Security-Engineer--Integration----Signing-Bonus-Potential---_JR2026496641"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042339+00:00",
+    "key": "workday:Boeing:JR2026508995",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Product Security Engineer (Integration)***Signing Bonus Potential***",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Product-Security-Engineer--Integration----Signing-Bonus-Potential---_JR2026508995"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042341+00:00",
+    "key": "workday:Boeing:JR2026521472",
+    "location": "USA - Berkeley, MO",
+    "title": "Design and Analysis Engineer (Electronic Sys Design & Analy)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2026521472-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042343+00:00",
+    "key": "workday:Boeing:JR2026518572",
+    "location": "USA - Colorado Springs, CO",
+    "title": "Network Security Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Network-Security-Engineer_JR2026518572-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042344+00:00",
+    "key": "workday:Boeing:JR2026518786",
+    "location": "USA - El Segundo, CA",
+    "title": "Spacecraft Thermal Engineer (Mid-Career) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Thermal-Engineer--Mid-Career----Millennium-Space-Systems_JR2026518786-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042346+00:00",
+    "key": "workday:Boeing:JR2026520982",
+    "location": "USA - Enfield, CT",
+    "title": "Experienced Quality Inspector",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Enfield-CT/Experienced-Quality-Inspector_JR2026520982-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042347+00:00",
+    "key": "workday:Boeing:JR2026514533",
+    "location": "USA - Everett, WA",
+    "title": "Calibration Technician\u00a0A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Calibration-Technician-A_JR2026514533-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042349+00:00",
+    "key": "workday:Boeing:JR2026510349",
+    "location": "2 Locations",
+    "title": "MS&B Labs Experienced Electrical Design Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/MS-B-Labs-Experienced-Electrical-Design-Engineer_JR2026510349-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042350+00:00",
+    "key": "workday:Boeing:JR2026521413",
+    "location": "USA - El Segundo, CA",
+    "title": "Facility Security Officer \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Facility-Security-Officer---Millennium-Space-Systems_JR2026521413"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042352+00:00",
+    "key": "workday:Boeing:JR2026515354",
+    "location": "3 Locations",
+    "title": "Press Operator Hydraulic & Mechanical A - 13706",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Press-Operator-Hydraulic---Mechanical-A---13706_JR2026515354-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042353+00:00",
+    "key": "workday:Boeing:JR2026516676",
+    "location": "USA - Maryland Heights, MO",
+    "title": "Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Project-Management-Specialist_JR2026516676-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042355+00:00",
+    "key": "workday:Boeing:JR2026520685",
+    "location": "USA - Mesa, AZ",
+    "title": "Experienced Structural Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Experienced-Structural-Analysis-Engineer_JR2026520685-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042357+00:00",
+    "key": "workday:Boeing:JR2026518526",
+    "location": "USA - Ridley Park, PA",
+    "title": "Wire Design & Install Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer_JR2026518526-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042358+00:00",
+    "key": "workday:Boeing:JR2026512879",
+    "location": "USA - El Segundo, CA",
+    "title": "Mid-Level Spacecraft Integration and Test Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-ATLO--Assembly--Test----Launch-Operations--Engineer---Millennium-Space-Systems_JR2026512879-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042360+00:00",
+    "key": "workday:Boeing:JR2026515369",
+    "location": "USA - El Segundo, CA",
+    "title": "Subject Matter Expert - Space Electronics Packaging and Mechanical Product Design and Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Elect-Design-and-Analy-Engr--Electronic-Packaging-Design-_JR2026515369-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042369+00:00",
+    "key": "workday:Boeing:JR2026514734",
+    "location": "USA - Albuquerque, NM",
+    "title": "Directed Energy Laser Subject Matter Expert (SME) Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Albuquerque-NM/Directed-Energy-Laser-Subject-Matter-Expert--SME--Engineer_JR2026514734-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042371+00:00",
+    "key": "workday:Boeing:JR2026520232",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Experienced Mechanical Systems Design & Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Experienced-Mechanical-Systems-Design---Analysis-Engineer_JR2026520232-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042372+00:00",
+    "key": "workday:Boeing:JR2026518251",
+    "location": "USA - El Segundo, CA",
+    "title": "Harness Technician B Second Shift - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Harness-Technician-B-Second-Shift---Millennium-Space-Systems_JR2026518251-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042374+00:00",
+    "key": "workday:Boeing:JR2026521315",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Aircraft Sheet Metal Structures Mechanic - B-52 (2400)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Aircraft-Sheet-Metal-Structures-Mechanic---B-52--2400-_JR2026521315-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042375+00:00",
+    "key": "workday:Boeing:JR2026518778",
+    "location": "2 Locations",
+    "title": "Experienced Electromagnetic Effects Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Experienced-Electromagnetic-Effects-Engineer_JR2026518778-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042377+00:00",
+    "key": "workday:Boeing:JR2026518178",
+    "location": "USA - Kent, WA",
+    "title": "Experienced Software Developer Engineer (P-8 Mission Systems)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Kent-WA/Experienced-Software-Developer-Engineer--P-8-Mission-Systems-_JR2026518178-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042379+00:00",
+    "key": "workday:Boeing:JR2026512628",
+    "location": "USA - Hazelwood, MO",
+    "title": "Experienced Systems Engineer - Product Owner",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Systems-Engineer---Product-Owner_JR2026512628-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042380+00:00",
+    "key": "workday:Boeing:JR2026505614",
+    "location": "USA - Berkeley, MO",
+    "title": "Tooling Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Tooling-Mechanic_JR2026505614-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042382+00:00",
+    "key": "workday:Boeing:JR2026521283",
+    "location": "USA - El Segundo, CA",
+    "title": "Contracts Management Specialist \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Contracts-Management-Specialist---Millennium-Space-Systems_JR2026521283-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042384+00:00",
+    "key": "workday:Boeing:JR2026518336",
+    "location": "USA - Daytona Beach, FL",
+    "title": "Experienced Support Engineering Data Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Daytona-Beach-FL/Experienced-Support-Engineering-Data-Specialist_JR2026518336-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042385+00:00",
+    "key": "workday:Boeing:JR2026521280",
+    "location": "USA - El Segundo, CA",
+    "title": "Contracts Management Specialist \u2013 Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Contracts-Management-Specialist---Millennium-Space-Systems_JR2026521280-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042387+00:00",
+    "key": "workday:Boeing:JR2026520720",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Reliability, Maintainability, and System Health Engineer (Level 2, 3 and 4)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Reliability--Maintainability--and-System-Health-Engineer--Level-2--3-and-4-_JR2026520720-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042388+00:00",
+    "key": "workday:Boeing:JR2026517825",
+    "location": "8 Locations",
+    "title": "Aircraft Mechanic (C-17)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---CFB-Trenton-Canada/Aircraft-Mechanic--C-17-_JR2026517825-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042390+00:00",
+    "key": "workday:Boeing:JR2026516495",
+    "location": "7 Locations",
+    "title": "Aircraft Avionics Technician (CH147F)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Petawawa-Canada/Aircraft-Avionics-Technician--CH147F-_JR2026516495-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042391+00:00",
+    "key": "workday:Boeing:JR2025483868",
+    "location": "USA - Tukwila, WA",
+    "title": "Aviation Maintenance Technician and Inspector",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Aviation-Maintenance-Technician-and-Inspector_JR2025483868-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042393+00:00",
+    "key": "workday:Boeing:JR2026509448",
+    "location": "USA - El Segundo, CA",
+    "title": "Subject Matter Expert Electronics Design and Analysis Engineer (Electronic Packaging Design)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Subject-Matter-Expert-Electronics-Design-and-Analysis-Engineer--Electronic-Packaging-Design-_JR2026509448-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042394+00:00",
+    "key": "workday:Boeing:JR2026516382",
+    "location": "USA - El Segundo, CA",
+    "title": "Engineering Specialist - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Engineering-Specialist---Millennium-Space-Systems_JR2026516382-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042396+00:00",
+    "key": "workday:Boeing:JR2026514779",
+    "location": "USA - Mesa, AZ",
+    "title": "RT Level II Nondestructive Test (NDT) Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Mesa-AZ/RT-Level-II-Nondestructive-Test--NDT--Technician_JR2026514779-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042397+00:00",
+    "key": "workday:Boeing:JR2026514238",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Structures Design Engineer - Wing & Empennage",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Structures-Design-Engineer---Wing---Empennage_JR2026514238-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042399+00:00",
+    "key": "workday:Boeing:JR2026514236",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Structural Analysis Engineer \u2013 Wing & Empennage",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/JR2026514236-Mid-Level-Structural-Analysis-Engineer---Wing---Empennage_JR2026514236-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042401+00:00",
+    "key": "workday:Boeing:JR2026514234",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Structural Analysis Engineer \u2013 Systems Stress",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Structural-Analysis-Engineer---Systems-Stress_JR2026514234-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042402+00:00",
+    "key": "workday:Boeing:JR2026514224",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Structural Analysis Engineer \u2013 Interiors Stress",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Structural-Analysis-Engineer---Interiors-Stress_JR2026514224-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042403+00:00",
+    "key": "workday:Boeing:JR2026518890",
+    "location": "USA - North Charleston, SC",
+    "title": "Entry-Level Product Review Engineer (Liaison Engineer)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Entry-Level-Product-Review-Engineer--Liaison-Engineer-_JR2026518890-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042405+00:00",
+    "key": "workday:Boeing:JR2026516660",
+    "location": "3 Locations",
+    "title": "Experienced Software Simulation Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Software-Simulation-Engineer_JR2026516660-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042407+00:00",
+    "key": "workday:Boeing:JR2026504792",
+    "location": "USA - North Charleston, SC",
+    "title": "Technical Design (Interiors)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Technical-Design--Interiors-_JR2026504792-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042408+00:00",
+    "key": "workday:Boeing:JR2026501669",
+    "location": "USA - North Charleston, SC",
+    "title": "Structures & Payload Design Engineer (Payload Systems Design) - Consultant",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Structures---Payload-Design-Engineer--Payload-Systems-Design----Consultant_JR2026501669-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042410+00:00",
+    "key": "workday:Boeing:JR2026514365",
+    "location": "2 Locations",
+    "title": "Procurement Agents",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Experienced-Supply-Chain-Analysts---Operations-Procurement-Agents_JR2026514365-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042411+00:00",
+    "key": "workday:Boeing:JR2026513124",
+    "location": "USA - San Antonio, TX",
+    "title": "Experienced Electrical Mechanic - B-52 (2400)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Experienced-Electrical-Mechanic---B-52--2400-_JR2026513124-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042413+00:00",
+    "key": "workday:Boeing:JR2026516012",
+    "location": "3 Locations",
+    "title": "Expert Systems Engineer - Product Owner",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Expert-Systems-Engineer---Product-Owner_JR2026516012-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042415+00:00",
+    "key": "workday:Boeing:JR2026516174",
+    "location": "USA - Seattle, WA",
+    "title": "Flight Test Maintenance Operations Subject Matter Expert",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Flight-Test-Maintenance-Operations-Subject-Matter-Expert_JR2026516174-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042416+00:00",
+    "key": "workday:Boeing:JR2026521194",
+    "location": "USA - Ridley Park, PA",
+    "title": "Maintenance Metal Fabricator/Welder A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Maintenance-Metal-Fabricator-Welder-A_JR2026521194-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042418+00:00",
+    "key": "workday:Boeing:JR2026513080",
+    "location": "2 Locations",
+    "title": "Aircraft Painter",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Aircraft-Painter_JR2026513080"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042419+00:00",
+    "key": "workday:Boeing:JR2026516042",
+    "location": "USA - Hazelwood, MO",
+    "title": "Software Systems Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Systems-Engineer_JR2026516042-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042421+00:00",
+    "key": "workday:Boeing:JR2026520464",
+    "location": "USA - North Charleston, SC",
+    "title": "Manufacturing Systems and Simulation MP&P Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Manufacturing-Systems-and-Simulation-MP-P-Engineer_JR2026520464-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042422+00:00",
+    "key": "workday:Boeing:JR2026521156",
+    "location": "USA - Huntsville, AL",
+    "title": "Test Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Test-Technician_JR2026521156-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042424+00:00",
+    "key": "workday:Boeing:JR2026505117",
+    "location": "2 Locations",
+    "title": "Mission Planning SME",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Eglin-AFB-FL/Mission-Planning-SME_JR2026505117-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042425+00:00",
+    "key": "workday:Boeing:JR2026515692",
+    "location": "USA - Ridley Park, PA",
+    "title": "Inspector \u2013 Non Destructive Testing",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Nondestructive-Test--NDT--Inspector---Radiography--RT-_JR2026515692"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042427+00:00",
+    "key": "workday:Boeing:JR2026513243",
+    "location": "USA - Auburn, WA",
+    "title": "Boring Machine Operator A - 70009",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Boring-Machine-Operator-A---70009_JR2026513243-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042428+00:00",
+    "key": "workday:Boeing:JR2026516875",
+    "location": "USA - Long Beach, CA",
+    "title": "Experienced Structure & Payload Design Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Experienced-Structure---Payload-Design-Engineer_JR2026516875-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042430+00:00",
+    "key": "workday:Boeing:JR2026508171",
+    "location": "USA - North Charleston, SC",
+    "title": "Flight Readiness Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Flight-Readiness-Technician_JR2026508171-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042431+00:00",
+    "key": "workday:Boeing:JR2026490319",
+    "location": "USA - North Charleston, SC",
+    "title": "Flight Line Group Coordinator",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Flight-Line-Group-Coordinator_JR2026490319-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042432+00:00",
+    "key": "workday:Boeing:JR2026515824",
+    "location": "USA - Everett, WA",
+    "title": "Supplier Rate Readiness Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Supplier-Rate-Readiness-Specialist_JR2026515824-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042434+00:00",
+    "key": "workday:Boeing:JR2026512639",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Experienced Mission Systems Integration Engineer (Systems Engineer)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Experienced-Mission-Systems-Integration-Engineer--Systems-Engineer-_JR2026512639-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042435+00:00",
+    "key": "workday:Boeing:JR2026520550",
+    "location": "USA - San Antonio, TX",
+    "title": "Office Administrator \u2013 VC-25B",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Office-Administrator---VC-25B_JR2026520550-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042437+00:00",
+    "key": "workday:Boeing:JR2026515949",
+    "location": "USA - Hazelwood, MO",
+    "title": "Fighter/Attack Aircrew Training SME (Subject Matter Expert)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Fighter-Attack-Aircrew-Training-SME--Subject-Matter-Expert-_JR2026515949-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042438+00:00",
+    "key": "workday:Boeing:JR2026519090",
+    "location": "USA - Oklahoma City, OK",
+    "title": "Antenna & Propagation Design and Analysis Engineers (Levels 3, 4 & 5)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Antenna---Propagation-Design-and-Analysis-Engineers--Levels-3--4---5-_JR2026519090-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042440+00:00",
+    "key": "workday:Boeing:JR2026520407",
+    "location": "2 Locations",
+    "title": "Experienced Weights and Mass Properties Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Weights-and-Mass-Properties-Engineer_JR2026520407"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042442+00:00",
+    "key": "workday:Boeing:JR2026511717",
+    "location": "USA - Seal Beach, CA",
+    "title": "Experienced Software Quality Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Software-Quality-Engineer_JR2026511717-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042443+00:00",
+    "key": "workday:Boeing:JR2026517570",
+    "location": "USA - Berkeley, MO",
+    "title": "Project Management Specialist (General Project Mgmt)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Project-Management-Specialist--General-Project-Mgmt-_JR2026517570-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042445+00:00",
+    "key": "workday:Boeing:JR2026520159",
+    "location": "USA - Hazelwood, MO",
+    "title": "Advanced Technologist - Mid-Level Cloud Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Advanced-Technologist---Mid-Level-Cloud-Engineer_JR2026520159"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042446+00:00",
+    "key": "workday:Boeing:JR2026515533",
+    "location": "USA - Hazelwood, MO",
+    "title": "Electronic Warfare Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Electronic-Warfare-Engineer_JR2026515533"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042448+00:00",
+    "key": "workday:Boeing:JR2026519985",
+    "location": "3 Locations",
+    "title": "Entry Level Engineers - Satellite/Space Systems Rotational Program",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Engineers---Satellite-Space-Systems-Rotational-Program_JR2026519985-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042450+00:00",
+    "key": "workday:Boeing:JR2026519793",
+    "location": "USA - Hazelwood, MO",
+    "title": "Experienced Digital Engineering (DE) Process Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Digital-Engineering--DE--Process-Engineer_JR2026519793-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042451+00:00",
+    "key": "workday:Boeing:JR2026510769",
+    "location": "USA - El Segundo, CA",
+    "title": "Entry-Level Systems Engineer (Digital Comm & Networks Sys Engrg)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-Systems-Engineer--Digital-Comm---Networks-Sys-Engrg-_JR2026510769-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042453+00:00",
+    "key": "workday:Boeing:JR2026516432",
+    "location": "USA - Berkeley, MO",
+    "title": "Structural Analysis Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Structural-Analysis-Engineer_JR2026516432-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042455+00:00",
+    "key": "workday:Boeing:JR2026519926",
+    "location": "USA - El Segundo, CA",
+    "title": "Satellite Battery Electro-Mechanical Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Satellite-Battery-Electro-Mechanical-Engineer_JR2026519926-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042456+00:00",
+    "key": "workday:Boeing:JR2026516836",
+    "location": "USA - El Segundo, CA",
+    "title": "Mechanical Design and Analysis Engineer (Solar Array and Battery)\u2013 Satellites Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mechanical-Design-and-Analysis-Engineer--Solar-Array-and-Battery---Satellites-Systems_JR2026516836-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042458+00:00",
+    "key": "workday:Boeing:JR2026520838",
+    "location": "USA - Hazelwood, MO",
+    "title": "F-15SA Modifications Mechanic - Electrical - Saudi Arabia **Sign-On Bonus Potential**",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/F-15SA-Modifications-Mechanic---Electrical---Saudi-Arabia---Sign-On-Bonus-Potential--_JR2026520838-3"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042460+00:00",
+    "key": "workday:Boeing:JR2026514911",
+    "location": "USA - Berkeley, MO",
+    "title": "Flight Operations Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Flight-Operations-Mechanic_JR2026514911-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042462+00:00",
+    "key": "workday:Boeing:JR2026516171",
+    "location": "USA - Puyallup, WA",
+    "title": "Numerical Control Tape Laminator Operator - 57006",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Puyallup-WA/Numerical-Control-Tape-Laminator-Operator---57006_JR2026516171"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042463+00:00",
+    "key": "workday:Boeing:JR2026520787",
+    "location": "USA - El Segundo, CA",
+    "title": "Experienced Production Operations Specialist (SPAM) 2nd Shift- Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Experienced-Production-Operations-Specialist--SPAM--2nd-Shift--Millennium-Space-Systems_JR2026520787-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042464+00:00",
+    "key": "workday:Boeing:JR2026501876",
+    "location": "2 Locations",
+    "title": "Electrical Systems - Assembler Installer - 30104",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrical-Systems---Assembler-Installer---30104_JR2026501876-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042466+00:00",
+    "key": "workday:Boeing:JR2026515553",
+    "location": "USA - Everett, WA",
+    "title": "Refrigeration & Air Conditioning (HVAC) Technician - 69210",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Refrigeration---Air-Conditioning--HVAC--Technician---69210_JR2026515553-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042467+00:00",
+    "key": "workday:Boeing:JR2026507555",
+    "location": "USA - Renton, WA",
+    "title": "Refrigeration & Air Conditioning (HVAC) Technician  - 69210",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Refrigeration---Air-Conditioning--HVAC--Technician----69210_JR2026507555"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042469+00:00",
+    "key": "workday:Boeing:JR2026515663",
+    "location": "KWT - Al-Mubarak AB, Kuwait",
+    "title": "C-17 Avionics Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/KWT---Al-Mubarak-AB-Kuwait/C-17-Avionics-Technician_JR2026515663-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042470+00:00",
+    "key": "workday:Boeing:JR2026512239",
+    "location": "USA - El Segundo, CA",
+    "title": "DSP Algorithms Engineer (Entry-Level)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Level-DSP-Algorithms-Engineer_JR2026512239-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042471+00:00",
+    "key": "workday:Boeing:JR2026520305",
+    "location": "USA - El Segundo, CA",
+    "title": "Mission Analysis Engineer (Mid-career) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mission-Analysis-Engineer--Mid-career----Millennium-Space-Systems_JR2026520305-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042473+00:00",
+    "key": "workday:Boeing:JR2026507793",
+    "location": "USA - El Segundo, CA",
+    "title": "Mid-level Ground Systems Engineer for MILSATCOM Program",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Mid-level-Ground-Systems-Engineer-for-MILSATCOM-Program_JR2026507793-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042474+00:00",
+    "key": "workday:Boeing:JR2026510564",
+    "location": "USA - El Segundo, CA",
+    "title": "Product Owner - Manufacturing Harness - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Product-Owner---Manufacturing-Harness---Millennium-Space-Systems_JR2026510564-4"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042476+00:00",
+    "key": "workday:Boeing:JR2026516617",
+    "location": "USA - El Segundo, CA",
+    "title": "Manufacturing Engineer - Structures & Propulsion - 1st Shift - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Manufacturing-Engineer---Structures---Propulsion---1st-Shift---Millennium-Space-Systems_JR2026516617-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042477+00:00",
+    "key": "workday:Boeing:JR2026517946",
+    "location": "USA - El Segundo, CA",
+    "title": "Manufacturing Engineer - Structures & Propulsion - 2nd Shift - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Manufacturing-Engineer---Structures---Propulsion---2nd-Shift---Millennium-Space-Systems_JR2026517946-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042479+00:00",
+    "key": "workday:Boeing:JR2026519184",
+    "location": "USA - El Segundo, CA",
+    "title": "Environmental Test Engineer - 2nd Shift - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---2nd-Shift---Millennium-Space-Systems_JR2026519184-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042480+00:00",
+    "key": "workday:Boeing:JR2026519182",
+    "location": "USA - El Segundo, CA",
+    "title": "Environmental Test Engineer - 1st Shift - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Early-Career-Environmental-Test-Engineer---1st-Shift---Millennium-Space-Systems_JR2026519182-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042481+00:00",
+    "key": "workday:Boeing:JR2026508689",
+    "location": "USA - El Segundo, CA",
+    "title": "Experienced Production Operations Specialist (Harness) 1st Shift- Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Production-Operations-Specialist---Millennium-Space-Systems_JR2026508689"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042483+00:00",
+    "key": "workday:Boeing:JR2026518113",
+    "location": "USA - North Charleston, SC",
+    "title": "Product Security Engineer (Mid-Level)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Product-Security-Engineer--Mid-Level-_JR2026518113-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042484+00:00",
+    "key": "workday:Boeing:JR2026515145",
+    "location": "USA - El Segundo, CA",
+    "title": "Spacecraft Harness Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Harness-Engineer---Millennium-Space-Systems_JR2026515145"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042486+00:00",
+    "key": "workday:Boeing:JR2026513908",
+    "location": "USA - Hazelwood, MO",
+    "title": "F-15SA Modifications Tool Room Coordinator - Saudi Arabia **Sign-On Bonus Potential**",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/F-15SA-Modifications-Tool-Room-Coordinator---Saudi-Arabia_JR2026513908-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042487+00:00",
+    "key": "workday:Boeing:JR2026508418",
+    "location": "USA - Berkeley, MO",
+    "title": "Nondestructive Test (NDT) Technician - UT & RT",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Nondestructive-Test--NDT--Technician---UT---RT_JR2026508418"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042489+00:00",
+    "key": "workday:Boeing:JR2026507771",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Low Observables Mission Systems Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Low-Observables-Mission-Systems-Integration-Engineer_JR2026507771"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042490+00:00",
+    "key": "workday:Boeing:JR2026507776",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced Low Observables Design & Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-Low-Observables-Design---Integration-Engineer_JR2026507776"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042492+00:00",
+    "key": "workday:Boeing:JR2026509553",
+    "location": "USA - Berkeley, MO",
+    "title": "Experienced LO Propulsion Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-LO-Propulsion-Integration-Engineer_JR2026509553"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042493+00:00",
+    "key": "workday:Boeing:JR2026519598",
+    "location": "2 Locations",
+    "title": "Supplier Quality Specialist (Supplier Quality Systems)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/FRA---Issoudun-France/Supplier-Quality-Specialist--Supplier-Quality-Systems-_JR2026519598-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042494+00:00",
+    "key": "workday:Boeing:JR2026506706",
+    "location": "USA - Hazelwood, MO",
+    "title": "Experienced Guidance Navigation & Control (GNC) Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Guidance-Navigation---Control--GNC--Engineer_JR2026506706"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042496+00:00",
+    "key": "workday:Boeing:JR2026512862",
+    "location": "USA - Puyallup, WA",
+    "title": "Special Projects Mechanic B- 98206",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Puyallup-WA/Special-Projects-Mechanic-B--98206_JR2026512862-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042497+00:00",
+    "key": "workday:Boeing:JR2026518651",
+    "location": "4 Locations",
+    "title": "Experienced Fault & Autonomy Engineer - Experimental Space Programs",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Experienced-Fault---Autonomy-Engineer---Experimental-Space-Programs_JR2026518651-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042498+00:00",
+    "key": "workday:Boeing:JR2026493915",
+    "location": "USA - Everett, WA",
+    "title": "Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Project-Management-Specialist_JR2026493915-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042500+00:00",
+    "key": "workday:Boeing:JR2026514187",
+    "location": "4 Locations",
+    "title": "Numerical Control Multiple Tool - Milling Machine Operator - C4608",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Numerical-Control-Multiple-Tool---Milling-Machine-Operator---C4608_JR2026514187-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042501+00:00",
+    "key": "workday:Boeing:JR2026501889",
+    "location": "2 Locations",
+    "title": "Multi Axis Numerical Control Drilling Machine Operator- 74407",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Puyallup-WA/Multi-Axis-Numerical-Control-Drilling-Machine-Operator--74407_JR2026501889-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042503+00:00",
+    "key": "workday:Boeing:JR2026509298",
+    "location": "2 Locations",
+    "title": "Assembler Installer Doors B-30605",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Assembler-Installer-Doors-B-30605_JR2026509298"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042504+00:00",
+    "key": "workday:Boeing:JR2026504403",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Propulsion Fuels Systems Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Propulsion-Fuels-Systems-Engineer_JR2026504403-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042505+00:00",
+    "key": "workday:Boeing:JR2026511893",
+    "location": "USA - Hazelwood, MO",
+    "title": "Software Test Automation Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Software-Engineer---Test-Automation_JR2026511893-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042507+00:00",
+    "key": "workday:Boeing:JR2026513344",
+    "location": "USA - Auburn, WA",
+    "title": "Multiple Axis N/C Routing Machine Operator - 75307",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Multiple-Axis-N-C-Routing-Machine-Operator---75307_JR2026513344"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042508+00:00",
+    "key": "workday:Boeing:JR2026519045",
+    "location": "USA - North Charleston, SC",
+    "title": "Mid-Level Propulsion System Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Mid-Level-Propulsion-System-Integration-Engineer_JR2026519045"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042510+00:00",
+    "key": "workday:Boeing:JR2026511888",
+    "location": "USA - Hazelwood, MO",
+    "title": "Software Test Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer---Test---Verification_JR2026511888-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042511+00:00",
+    "key": "workday:Boeing:JR2026518754",
+    "location": "USA - Everett, WA",
+    "title": "Electrician Install & Maint A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Electrician-Install---Maint-A_JR2026518754-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042513+00:00",
+    "key": "workday:Boeing:JR2026518733",
+    "location": "7 Locations",
+    "title": "Maintenance Plumber",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Maintenance-Plumber_JR2026518733-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042514+00:00",
+    "key": "workday:Boeing:JR2026518719",
+    "location": "USA - Everett, WA",
+    "title": "Maintenance Plumber",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Maintenance-Plumber_JR2026518719-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042515+00:00",
+    "key": "workday:Boeing:JR2026517861",
+    "location": "8 Locations",
+    "title": "Electronic Technician - Precision Machine Tool Maintenance - 87210",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Electronic-Technician---Precision-Machine-Tool-Maintenance---87210_JR2026517861-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042517+00:00",
+    "key": "workday:Boeing:JR2026517860",
+    "location": "8 Locations",
+    "title": "Machine Repair Mechanic - 89509",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Machine-Repair-Mechanic---89509_JR2026517860-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042518+00:00",
+    "key": "workday:Boeing:JR2026518605",
+    "location": "USA - North Charleston, SC",
+    "title": "Product Acceptance Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Product-Acceptance-Specialist_JR2026518605"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042520+00:00",
+    "key": "workday:Boeing:JR2026512420",
+    "location": "USA - North Charleston, SC",
+    "title": "2nd or 3rd Shift - Entry-Level Product Review Engineer (Liaison Engineering)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/XMLNAME-2nd-or-3rd-Shift---Entry-Level-Product-Review-Engineer--Liaison-Engineering-_JR2026512420"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042521+00:00",
+    "key": "workday:Boeing:JR2026511001",
+    "location": "USA - Scott AFB, IL",
+    "title": "Software Application Tester",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Scott-AFB-IL/Software-Application-Tester_JR2026511001-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042522+00:00",
+    "key": "workday:Boeing:JR2026516338",
+    "location": "USA - Everett, WA",
+    "title": "Silk Screener Decorative Panels B - 79805",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Silk-Screener-Decorative-Panels-B---79805_JR2026516338-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042524+00:00",
+    "key": "workday:Boeing:JR2026516549",
+    "location": "6 Locations",
+    "title": "Crane Main Mech A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Crane-Main-Mech-A_JR2026516549-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042525+00:00",
+    "key": "workday:Boeing:JR2026516451",
+    "location": "6 Locations",
+    "title": "Electronic Tech Infrastructure Maint",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Electronic-Tech-Infrastructure-Maint_JR2026516451-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042526+00:00",
+    "key": "workday:Boeing:JR2026516065",
+    "location": "2 Locations",
+    "title": "Instructional Systems Designer (ISD)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Instructional-Systems-Designer--ISD-_JR2026516065-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042528+00:00",
+    "key": "workday:Boeing:JR2026516437",
+    "location": "USA - Everett, WA",
+    "title": "Power Plant Operator A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Power-Plant-Operator-A_JR2026516437"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042529+00:00",
+    "key": "workday:Boeing:JR2026516442",
+    "location": "6 Locations",
+    "title": "Power Plant Operator A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Power-Plant-Operator-A_JR2026516442-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042530+00:00",
+    "key": "workday:Boeing:JR2026516662",
+    "location": "USA - Auburn, WA",
+    "title": "Optical Instrument Technician - 94011",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Auburn-WA/Optical-Instrument-Technician---94011_JR2026516662-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042532+00:00",
+    "key": "workday:Boeing:JR2026508292",
+    "location": "USA - Berkeley, MO",
+    "title": "Assembly Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Assembly-Mechanic_JR2026508292-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042533+00:00",
+    "key": "workday:Boeing:JR2026515876",
+    "location": "2 Locations",
+    "title": "MRO Systems Support Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/MRO-Systems-Support-Specialist_JR2026515876-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042534+00:00",
+    "key": "workday:Boeing:JR2026492067",
+    "location": "2 Locations",
+    "title": "Assembler Power Plant B - 91104",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Assembler-Power-Plant-B---91104_JR2026492067-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042535+00:00",
+    "key": "workday:Boeing:JR2026515121",
+    "location": "USA - Berkeley, MO",
+    "title": "HVAC Maintenance Electrician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/HVAC-Maintenance-Electrician_JR2026515121"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042537+00:00",
+    "key": "workday:Boeing:JR2026512314",
+    "location": "USA - North Charleston, SC",
+    "title": "Aircraft Assembler Production Test Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Assembler-Production-Test-Mechanic_JR2026512314-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042538+00:00",
+    "key": "workday:Boeing:JR2026512315",
+    "location": "USA - North Charleston, SC",
+    "title": "Aircraft Assembly Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Assembly-Mechanic_JR2026512315-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042540+00:00",
+    "key": "workday:Boeing:JR2026512311",
+    "location": "USA - North Charleston, SC",
+    "title": "Aircraft Assembly Structures Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Assembly-Structures-Mechanic_JR2026512311-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042541+00:00",
+    "key": "workday:Boeing:JR2026512312",
+    "location": "USA - North Charleston, SC",
+    "title": "Composite Fabrication Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Composite-Fabrication-Specialist_JR2026512312-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042543+00:00",
+    "key": "workday:Boeing:JR2026508261",
+    "location": "2 Locations",
+    "title": "Inspector Assembly & Installation - 51406",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Inspector-Assembly---Installation---51406_JR2026508261-5"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042544+00:00",
+    "key": "workday:Boeing:JR2026495888",
+    "location": "2 Locations",
+    "title": "Inspector Integral Fuel Cells - 59007",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Inspector-Integral-Fuel-Cells---59007_JR2026495888"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042546+00:00",
+    "key": "workday:Boeing:JR2026503428",
+    "location": "4 Locations",
+    "title": "Procurement Agent - Supplier Operations and Performance",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Procurement-Agent---Supplier-Operations-and-Performance_JR2026503428"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042547+00:00",
+    "key": "workday:Boeing:JR2026500099",
+    "location": "USA - Everett, WA",
+    "title": "Factory Service Attendant-8820A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Factory-Service-Attendant-8820A_JR2026500099"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042549+00:00",
+    "key": "workday:Boeing:JR2026500093",
+    "location": "6 Locations",
+    "title": "Factory Service Attendant-8820A",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Factory-Service-Attendant-8820A_JR2026500093-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042550+00:00",
+    "key": "workday:Boeing:JR2025467927",
+    "location": "2 Locations",
+    "title": "Assembler Installer Cable Controlled Systems B - 30204",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Renton-WA/Assembler-Installer-Cable-Controlled-Systems-B---30204_JR2025467927-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-15T00:44:26.042552+00:00",
+    "key": "workday:Boeing:00000267573",
+    "location": "USA - Sylmar, CA",
+    "title": "Semiconductor Assembler",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Sylmar-CA/Semiconductor-Assembler_00000267573"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700686+00:00",
+    "key": "workday:Capital One:R248037",
+    "location": "Irving, TX",
+    "title": "Full Time Branch Ambassador - O'Connor",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Irving-TX/Full-Time-Branch-Ambassador---O-Connor_R248037-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700701+00:00",
+    "key": "workday:Capital One:R249226",
+    "location": "2 Locations",
+    "title": "Work From Home Dealer Funding - Concierge Agent",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Work-From-Home-Dealer-Funding---Concierge-Agent_R249226-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700703+00:00",
+    "key": "workday:Capital One:R249319",
+    "location": "3 Locations",
+    "title": "Distinguished Front End Engineer (Angular React)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Distinguished-Front-End-Engineer--Angular-React-_R249319-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700706+00:00",
+    "key": "workday:Capital One:R244432",
+    "location": "2 Locations",
+    "title": "Full Time Branch Ambassador - Bogalusa Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bogalusa-LA/Full-Time-Branch-Ambassador---Bogalusa-Area_R244432-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700707+00:00",
+    "key": "workday:Capital One:R244567",
+    "location": "Alexandria, LA",
+    "title": "Full Time Branch Ambassador - MacArthur",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alexandria-LA/Full-Time-Branch-Ambassador---MacArthur_R244567-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700709+00:00",
+    "key": "workday:Capital One:R247145",
+    "location": "Covington, LA",
+    "title": "Full Time Branch Ambassador - Collins Blvd",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Covington-LA/Full-Time-Branch-Ambassador---Collins-Blvd_R247145-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700711+00:00",
+    "key": "workday:Capital One:R244174",
+    "location": "New Iberia, LA",
+    "title": "Full Time Branch Ambassador - New Iberia",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-Iberia-LA/Full-Time-Branch-Ambassador---New-Iberia_R244174-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700712+00:00",
+    "key": "workday:Capital One:R249086",
+    "location": "Mandeville, LA",
+    "title": "Full Time Branch Ambassador - Mandeville",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Mandeville-LA/Full-Time-Branch-Ambassador---Mandeville_R249086-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700714+00:00",
+    "key": "workday:Capital One:R249081",
+    "location": "10 Locations",
+    "title": "Treasury Management Sales Officer (TMSO)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Treasury-Management-Sales-Officer--TMSO-_R249081-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700716+00:00",
+    "key": "workday:Capital One:R249096",
+    "location": "Walnut Creek, CA",
+    "title": "Caf\u00e9 Ambassador- Walnut Creek (Part Time)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Walnut-Creek-CA/Caf-Ambassador--Walnut-Creek--Part-Time-_R249096-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700718+00:00",
+    "key": "workday:Capital One:R248925",
+    "location": "Washington, DC",
+    "title": "Full Time Branch Ambassador - DC Cluster",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Washington-DC/Full-Time-Branch-Ambassador---DC-Cluster_R248925-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700719+00:00",
+    "key": "workday:Capital One:R248930",
+    "location": "4 Locations",
+    "title": "Distinguished Engineer - GPN Digital Payments Technology",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Distinguished-Engineer---GPN-Digital-Payments-Technology_R248930-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700721+00:00",
+    "key": "workday:Capital One:R244054",
+    "location": "4 Locations",
+    "title": "Distinguished Engineer - Global Payment Network",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer---Global-Payment-Network_R244054-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700723+00:00",
+    "key": "workday:Capital One:R248983",
+    "location": "7 Locations",
+    "title": "Distinguished Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R248983-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700725+00:00",
+    "key": "workday:Capital One:R247848",
+    "location": "McLean, VA",
+    "title": "Financial Crimes Specialist",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Financial-Crimes-Specialist_R247848"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700726+00:00",
+    "key": "workday:Capital One:R249027",
+    "location": "Nanuet, NY",
+    "title": "Part Time, Branch Ambassador - Nanuet",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Nanuet-NY/Part-Time--Branch-Ambassador---Nanuet_R249027-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700728+00:00",
+    "key": "workday:Capital One:R248960",
+    "location": "Bronx, NY",
+    "title": "Full-Time, Branch Ambassador, The Hub",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bronx-NY/Full-Time--Branch-Ambassador--The-Hub_R248960-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700731+00:00",
+    "key": "workday:Capital One:R248996",
+    "location": "4 Locations",
+    "title": "Distinguished AI Engineer (Remote Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer--Remote-Eligible-_R248996"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700733+00:00",
+    "key": "workday:Capital One:R248848",
+    "location": "Irvine, CA",
+    "title": "Caf\u00e9 Ambassador- Irvine Spectrum",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Irvine-CA/Caf-Ambassador--Irvine-Spectrum_R248848-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700734+00:00",
+    "key": "workday:Capital One:R248657",
+    "location": "Plano, TX",
+    "title": "Compliance Tester III",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Compliance-Tester-III_R248657-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700736+00:00",
+    "key": "workday:Capital One:R248924",
+    "location": "10 Locations",
+    "title": "Part Time Branch Ambassador - Greater New Orleans Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-Orleans-LA/Part-Time-Branch-Ambassador---Greater-New-Orleans-Area_R248924"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700738+00:00",
+    "key": "workday:Capital One:R241036",
+    "location": "3 Locations",
+    "title": "Distinguished Engineer - Agentic AI (Remote-Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R241036-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700739+00:00",
+    "key": "workday:Capital One:R240765",
+    "location": "Richmond, VA",
+    "title": "Payroll Tax Specialist",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Payroll-Tax-Specialist_R240765-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700741+00:00",
+    "key": "workday:Capital One:R248724",
+    "location": "4 Locations",
+    "title": "Distinguished Engineer (Global Payment Network)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer--Global-Payment-Network-_R248724-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700742+00:00",
+    "key": "workday:Capital One:R248737",
+    "location": "2 Locations",
+    "title": "Distinguished Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R248737-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700744+00:00",
+    "key": "workday:Capital One:R248285",
+    "location": "Shreveport, LA",
+    "title": "Full Time Branch Ambassador - Southern Hills",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Shreveport-LA/Full-Time-Branch-Ambassador---Southern-Hills_R248285-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700746+00:00",
+    "key": "workday:Capital One:R248660",
+    "location": "New York, NY",
+    "title": "Administrative Assistant III- International Acceptance",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Administrative-Assistant-III--International-Acceptance_R248660-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700748+00:00",
+    "key": "workday:Capital One:R248784",
+    "location": "Riverwoods, IL",
+    "title": "Administrative Assistant III- International Acceptance, Marketing",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Administrative-Assistant-III--International-Acceptance--Marketing_R248784-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700750+00:00",
+    "key": "workday:Capital One:R248347",
+    "location": "Napoleonville, LA",
+    "title": "Part Time Branch Ambassador - Pierre Part (21/hr)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Napoleonville-LA/Part-Time-Branch-Ambassador---Pierre-Part_R248347-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700751+00:00",
+    "key": "workday:Capital One:R248751",
+    "location": "2 Locations",
+    "title": "Concierge Specialist (General Ops) - Velocity Black (UK)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/London-Eng/Concierge-Specialist--General-Ops----Velocity-Black--UK-_R248751-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700753+00:00",
+    "key": "workday:Capital One:R244612",
+    "location": "Bastrop, LA",
+    "title": "Full Time Branch Ambassador - Bastrop",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bastrop-LA/Full-Time-Branch-Ambassador---Bastrop_R244612-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700755+00:00",
+    "key": "workday:Capital One:R248609",
+    "location": "3 Locations",
+    "title": "Administrative Assistant III- Enterprise Product and Experiences",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Administrative-Assistant-III--Enterprise-Product-and-Experiences_R248609-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700757+00:00",
+    "key": "workday:Capital One:R248562",
+    "location": "4 Locations",
+    "title": "Distinguished Engineer -Developer Insights & AI Telemetry",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Distinguished-Engineer--Developer-Insights---AI-Telemetry_R248562"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700759+00:00",
+    "key": "workday:Capital One:R248010",
+    "location": "Nottingham,  Eng",
+    "title": "Service Transition Consultant",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Nottingham--Eng/Service-Transition-Consultant_R248010"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700761+00:00",
+    "key": "workday:Capital One:R240705",
+    "location": "5 Locations",
+    "title": "Distinguished Engineer (Remote - Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Distinguished-Engineer--Remote---Eligible-_R240705-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700763+00:00",
+    "key": "workday:Capital One:R248154",
+    "location": "4 Locations",
+    "title": "Compliance Tester II",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Compliance-Tester-II_R248154"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700764+00:00",
+    "key": "workday:Capital One:R248374",
+    "location": "Newark, NJ",
+    "title": "Part Time Branch Ambassador - Springfield Avenue",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Newark-NJ/Part-Time-Branch-Ambassador---Springfield-Avenue_R248374-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700767+00:00",
+    "key": "workday:Capital One:R248155",
+    "location": "Baltimore, MD",
+    "title": "Full Time Branch Ambassador - Eastern Maryland (North Cluster)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Baltimore-MD/Full-Time-Branch-Ambassador---Eastern-Maryland--North-Cluster-_R248155"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700768+00:00",
+    "key": "workday:Capital One:R245926",
+    "location": "Recruiting: Salt Lake City, UT",
+    "title": "Essential Onsite - Production Operator Coordinator",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Recruiting-Salt-Lake-City-UT/Essential-Onsite---Production-Operator-Coordinator_R245926-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700770+00:00",
+    "key": "workday:Capital One:R248414",
+    "location": "5 Locations",
+    "title": "Full Time Branch Ambassador - Northern Virginia (Arlington/Alexandria Areas)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alexandria-VA/Full-Time-Branch-Ambassador---Northern-Virginia--Arlington-Alexandria-Areas-_R248414-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700771+00:00",
+    "key": "workday:Capital One:R248410",
+    "location": "2 Locations",
+    "title": "Administrative Assistant III- Risk",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Administrative-Assistant-III--Risk_R248410-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700773+00:00",
+    "key": "workday:Capital One:R248230",
+    "location": "Plano, TX",
+    "title": "Executive Assistant- Financial Services (Human Resources)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Executive-Assistant--Financial-Services--Human-Resources-_R248230"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700775+00:00",
+    "key": "workday:Capital One:R247971",
+    "location": "Chicago, IL",
+    "title": "Digital Banking Ambassador- Chicago Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Digital-Banking-Ambassador--Chicago-Area_R247971"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700777+00:00",
+    "key": "workday:Capital One:R247972",
+    "location": "Chicago, IL",
+    "title": "Digital Banking Specialist- Chicago Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Digital-Banking-Specialist--Chicago-Area_R247972-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700778+00:00",
+    "key": "workday:Capital One:R247970",
+    "location": "Chicago, IL",
+    "title": "Caf\u00e9 Ambassador- Chicago Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Caf-Ambassador--Chicago-Area_R247970-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700780+00:00",
+    "key": "workday:Capital One:R248306",
+    "location": "Houston, TX",
+    "title": "Caf\u00e9 Ambassador - Houston Galleria",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Houston-TX/Caf-Ambassador---Houston-Galleria_R248306-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700781+00:00",
+    "key": "workday:Capital One:R248326",
+    "location": "McLean, VA",
+    "title": "Administrative Assistant III",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Administrative-Assistant-III_R248326-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700783+00:00",
+    "key": "workday:Capital One:R248175",
+    "location": "Bowie, MD",
+    "title": "Full Time Branch Ambassador - Vista Gardens",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bowie-MD/Full-Time-Branch-Ambassador---Vista-Gardens_R248175-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700785+00:00",
+    "key": "workday:Capital One:R248290",
+    "location": "5 Locations",
+    "title": "Executive Assistant- Intelligent Foundations and Experiences",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Executive-Assistant--Intelligent-Foundations-and-Experiences_R248290-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700786+00:00",
+    "key": "workday:Capital One:R237421",
+    "location": "New York, NY",
+    "title": "Caf\u00e9 Ambassador - New York City",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Caf-Ambassador---New-York-City_R237421-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700788+00:00",
+    "key": "workday:Capital One:R240034",
+    "location": "5 Locations",
+    "title": "Applied Researcher I (AI Foundations, LLM Core and Agentic AI)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations--LLM-Core-and-Agentic-AI-_R240034-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700789+00:00",
+    "key": "workday:Capital One:R239652",
+    "location": "Plano, TX",
+    "title": "Distinguished Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Distinguished-Engineer_R239652"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700791+00:00",
+    "key": "workday:Capital One:R248226",
+    "location": "Alabang, Muntinlupa City",
+    "title": "Data Annotator",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Data-Annotator_R248226"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700793+00:00",
+    "key": "workday:Capital One:R248096",
+    "location": "Knoxville,TN",
+    "title": "Part - Time Caf\u00e9 Ambassador - West Town Mall",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/KnoxvilleTN/Part---Time-Caf-Ambassador---West-Town-Mall_R248096-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700794+00:00",
+    "key": "workday:Capital One:R246832",
+    "location": "5 Locations",
+    "title": "Distinguished Engineer, Full Stack (Remote Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Distinguished-Engineer--Back-End--Remote-Eligibe-_R246832-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700796+00:00",
+    "key": "workday:Capital One:R246075",
+    "location": "Nottingham,  Eng",
+    "title": "Process Excellence Advisor",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Nottingham--Eng/Process-Architecture-and-Governance-Lead_R246075-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700797+00:00",
+    "key": "workday:Capital One:R248046",
+    "location": "McLean, VA",
+    "title": "Executive Protection Specialist",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Executive-Protection-Specialist_R248046-2"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700799+00:00",
+    "key": "workday:Capital One:R247993",
+    "location": "4 Locations",
+    "title": "Enterprise Claims Library Admin, Project Management",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Enterprise-Claims-Library-Admin--Project-Management_R247993-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700801+00:00",
+    "key": "workday:Capital One:R247995",
+    "location": "Boston, MA",
+    "title": "Caf\u00e9 Ambassador - Back Bay",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Boston-MA/Caf-Ambassador---Back-Bay_R247995-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700803+00:00",
+    "key": "workday:Capital One:R247945",
+    "location": "Pittsburgh, PA",
+    "title": "Caf\u00e9 Ambassador- Ross Park Mall",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Pittsburgh-PA/Caf-Ambassador--Ross-Park-Mall_R247945-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700817+00:00",
+    "key": "workday:Capital One:R247275",
+    "location": "Chicago, IL",
+    "title": "Caf\u00e9 Coach - Hyde Park",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Caf-Coach---Hyde-Park_R247275-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700818+00:00",
+    "key": "workday:Capital One:R247886",
+    "location": "3 Locations",
+    "title": "Distinguished Engineer - Risk Tech",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer---Risk-Tech_R247886-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700820+00:00",
+    "key": "workday:Capital One:R247833",
+    "location": "Richmond, VA",
+    "title": "Caf\u00e9 Ambassador - Short Pump",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Caf-Ambassador---Short-Pump_R247833-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700822+00:00",
+    "key": "workday:Capital One:R244764",
+    "location": "5 Locations",
+    "title": "Distinguished AI Engineer - Agentic AI Platform (Remote Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer--Agentic-AI-Platform-_R244764-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700824+00:00",
+    "key": "workday:Capital One:R247694",
+    "location": "3 Locations",
+    "title": "Cyber Product Owner",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Cyber-Product-Owner_R247694-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700825+00:00",
+    "key": "workday:Capital One:R247596",
+    "location": "3 Locations",
+    "title": "Distinguished Engineer (Message Delivery & Dispatch)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer--Message-Delivery---Dispatch-_R247596"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700827+00:00",
+    "key": "workday:Capital One:R247706",
+    "location": "5 Locations",
+    "title": "Distinguished AI Engineer (Remote Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Distinguished-AI-Engineer--Remote-Eligible-_R247706-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700829+00:00",
+    "key": "workday:Capital One:R237204",
+    "location": "4 Locations",
+    "title": "Applied Researcher I (AI Foundations)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R237204"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700831+00:00",
+    "key": "workday:Capital One:R237207",
+    "location": "4 Locations",
+    "title": "Applied Researcher II (AI Foundations)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations-_R237207"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700833+00:00",
+    "key": "workday:Capital One:R238720",
+    "location": "5 Locations",
+    "title": "Applied Researcher II",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-II_R238720"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700834+00:00",
+    "key": "workday:Capital One:R247687",
+    "location": "5 Locations",
+    "title": "Applied Researcher II",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Applied-Researcher-II_R247687-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700836+00:00",
+    "key": "workday:Capital One:R244185",
+    "location": "Nottingham,  Eng",
+    "title": "Data Developer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Nottingham--Eng/Data-and-AI-Developer_R244185-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700838+00:00",
+    "key": "workday:Capital One:R238719",
+    "location": "5 Locations",
+    "title": "Applied Researcher I",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-I_R238719-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700839+00:00",
+    "key": "workday:Capital One:R247526",
+    "location": "5 Locations",
+    "title": "Applied Researcher I",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/Applied-Researcher-I_R247526-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700841+00:00",
+    "key": "workday:Capital One:R245039",
+    "location": "New Orleans, LA",
+    "title": "Part Time Branch Ambassador - Eastover",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-Orleans-LA/Part-Time-Branch-Ambassador---Eastover_R245039-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700843+00:00",
+    "key": "workday:Capital One:R245032",
+    "location": "Luling, LA",
+    "title": "Part Time Branch Ambassador - Boutte",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Luling-LA/Part-Time-Branch-Ambassador---Boutte_R245032-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700845+00:00",
+    "key": "workday:Capital One:R247372",
+    "location": "Fort Lee, NJ",
+    "title": "Part Time Branch Ambassador - Hudson Lights",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Fort-Lee-NJ/Part-Time-Branch-Ambassador---Hudson-Lights_R247372-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700846+00:00",
+    "key": "workday:Capital One:R243935",
+    "location": "Alabang, Muntinlupa City",
+    "title": "Pr. Coordinator, Estate Operations - Planning",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Pr-Coordinator--Estate-Operations---Planning_R243935"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700848+00:00",
+    "key": "workday:Capital One:R238131",
+    "location": "2 Locations",
+    "title": "Distinguished Engineer (Card Tech)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer--Card-Tech-_R238131-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700850+00:00",
+    "key": "workday:Capital One:R234916",
+    "location": "2 Locations",
+    "title": "Distinguished Engineer (Card Tech)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer--Card-Tech-_R234916-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700853+00:00",
+    "key": "workday:Capital One:R247342",
+    "location": "Durham, NC",
+    "title": "Caf\u00e9 Ambassador- Streets at Southpoint (Part Time)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Durham-NC/Caf-Ambassador--Streets-at-Southpoint--Part-Time-_R247342-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700854+00:00",
+    "key": "workday:Capital One:R247237",
+    "location": "Gainesville, VA",
+    "title": "Part Time Branch Ambassador - Madison Crescent",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Gainesville-VA/Part-Time-Branch-Ambassador---Madison-Crescent_R247237-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700857+00:00",
+    "key": "workday:Capital One:R247290",
+    "location": "4 Locations",
+    "title": "Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Applied-Researcher-I--AI-Foundations--Recommendation-Systems--Personalization--Reinforcement-Learning-_R247290-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700858+00:00",
+    "key": "workday:Capital One:R247235",
+    "location": "Tampa, FL",
+    "title": "Caf\u00e9 Ambassador - Tampa",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Tampa-FL/Caf-Ambassador---Tampa_R247235-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700860+00:00",
+    "key": "workday:Capital One:R244338",
+    "location": "2 Locations",
+    "title": "Full time Branch Ambassador North Fork Area",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Mattituck-NY/Full-time-Branch-Ambassador-North-Form-Area_R244338-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700862+00:00",
+    "key": "workday:Capital One:R247218",
+    "location": "Alabang, Muntinlupa City",
+    "title": "AML List Screening Investigator",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/AML-List-Screening-Investigator_R247218"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700864+00:00",
+    "key": "workday:Capital One:R244280",
+    "location": "Brooklyn, NY",
+    "title": "part Time Branch Ambassador, Cypress Hills",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Brooklyn-NY/part-Time-Branch-Ambassador--Cypress-Hills_R244280"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700866+00:00",
+    "key": "workday:Capital One:R245050",
+    "location": "Gonzales, LA",
+    "title": "Full Time Branch Ambassador - Burnside",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Gonzales-LA/Full-Time-Branch-Ambassador---Burnside_R245050-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700869+00:00",
+    "key": "workday:Capital One:R247028",
+    "location": "Alabang, Muntinlupa City",
+    "title": "Process Specialist (ADP)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Process-Specialist--ADP-_R247028"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700871+00:00",
+    "key": "workday:Capital One:R245938",
+    "location": "2 Locations",
+    "title": "Distinguished Engineer ( Card Tech)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Distinguished-Engineer---Card-Tech-_R245938-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700873+00:00",
+    "key": "workday:Capital One:R246911",
+    "location": "Tukwila, WA",
+    "title": "Caf\u00e9 Ambassador - Westfield Southcenter",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Tukwila-WA/Caf-Ambassador---Westfield-Southcenter_R246911-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-15T00:44:50.700875+00:00",
+    "key": "workday:Capital One:R246910",
+    "location": "Portland, OR",
+    "title": "Caf\u00e9 Ambassador - Pioneer Courthouse Square - Portland",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Portland-OR/Caf-Ambassador---Pioneer-Courthouse-Square---Portland_R246910-2"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720946+00:00",
+    "key": "workday:Morgan Stanley:JR041565",
+    "location": "Cleveland, Ohio, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Cleveland-Ohio-United-States-of-America/Business-Service-Officer_JR041565-2"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720964+00:00",
+    "key": "workday:Morgan Stanley:JR041573",
+    "location": "New York, New York, United States of America",
+    "title": "Risk Management  - Executive Assistant",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Risk-Management----Executive-Assistant_JR041573-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720967+00:00",
+    "key": "workday:Morgan Stanley:JR040613",
+    "location": "New York, New York, United States of America",
+    "title": "International Registered CSA",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/International-Registered-CSA_JR040613-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720969+00:00",
+    "key": "workday:Morgan Stanley:JR008767",
+    "location": "2 Locations",
+    "title": "Financial Advisor",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Financial-Advisor_JR008767-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720971+00:00",
+    "key": "workday:Morgan Stanley:JR040314",
+    "location": "Dallas, Texas, United States of America",
+    "title": "Data Scientist (NLP and GenAI Specialist)",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Data-Scientist--NLP-and-GenAI-Specialist-_JR040314"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720973+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041931",
+    "location": "New York, New York, United States of America",
+    "title": "Agentic AI Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Agentic-AI-Engineer_PT-JR041931-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720975+00:00",
+    "key": "workday:Morgan Stanley:PT-JR042366",
+    "location": "New York, New York, United States of America",
+    "title": "Capital Planning and Analytics",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital-Planning-and-Analytics_PT-JR042366-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720977+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041852",
+    "location": "Budapest, Hungary",
+    "title": "Full-Stack Developer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Full-Stack-Developer_PT-JR041852"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720979+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041738",
+    "location": "Alpharetta, Georgia, United States of America",
+    "title": "Cloud Security Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Dir--P4--Lead-Cybersecurity-Eng---Job-Level---Director_PT-JR041738-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720981+00:00",
+    "key": "workday:Morgan Stanley:JR026319",
+    "location": "Budapest, Hungary",
+    "title": "Data Scientist / GenAI Developer - IFM",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Data-Scientist---GenAI-Developer---eTrading--eRates-_JR026319"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720984+00:00",
+    "key": "workday:Morgan Stanley:PT-JR042270",
+    "location": "Purchase, New York, United States of America",
+    "title": "Product Owner - AVP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Product-Owner---AVP_PT-JR042270"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720986+00:00",
+    "key": "workday:Morgan Stanley:PT-JR037158",
+    "location": "Budapest, Hungary",
+    "title": "Quantitative Developer - Financial Forecasting",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Quantitative-Strategist---Financial-Planning---Analysis_PT-JR037158-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720988+00:00",
+    "key": "workday:Morgan Stanley:JR035184",
+    "location": "2 Locations",
+    "title": "Morgan Stanley Japan, Operations Group, Equity, Fixed Income and Shared Services",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Tokyo-Japan/Morgan-Stanley-Japan--Operations-Group--Equity--Fixed-Income-and-Shared-Services_JR035184"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720990+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041436",
+    "location": "Alpharetta, Georgia, United States of America",
+    "title": "Participation Education Consultant, AVP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Participation-Education-Consultant--AVP_PT-JR041436"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720992+00:00",
+    "key": "workday:Morgan Stanley:JR041603",
+    "location": "3 Locations",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Charleston-West-Virginia-United-States-of-America/Business-Service-Officer_JR041603-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720994+00:00",
+    "key": "workday:Morgan Stanley:JR042126",
+    "location": "Budapest, Hungary",
+    "title": "French Speaking Derivatives Contract Negotiator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/French-Speaking-Derivatives-Contract-Negotiator_JR042126"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720997+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041713",
+    "location": "Alpharetta, Georgia, United States of America",
+    "title": "Mainframe CICS Systems Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Mainframe-CICS-Systems-Engineer_PT-JR041713"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.720998+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041513",
+    "location": "New York, New York, United States of America",
+    "title": "E*TRADE Fixed Income Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/E-TRADE-Fixed-Income-Specialist_PT-JR041513"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721000+00:00",
+    "key": "workday:Morgan Stanley:JR041995",
+    "location": "Ponte Vedra Beach, Florida, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Ponte-Vedra-Beach-Florida-United-States-of-America/Branch-Administrator_JR041995-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721002+00:00",
+    "key": "workday:Morgan Stanley:PT-JR042075",
+    "location": "Baltimore, Maryland, United States of America",
+    "title": "NFR Framework Policies Professional",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/NFR-Framework-Policies-Professional_PT-JR042075"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721004+00:00",
+    "key": "workday:Morgan Stanley:JR041877",
+    "location": "Boca Raton, Florida, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boca-Raton-Florida-United-States-of-America/Business-Service-Officer_JR041877-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721008+00:00",
+    "key": "workday:Morgan Stanley:PT-JR037013",
+    "location": "New York, New York, United States of America",
+    "title": "AI Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI---ML-Engineer_PT-JR037013-2"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721011+00:00",
+    "key": "workday:Morgan Stanley:JR041730",
+    "location": "2 Locations",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Frederick-Maryland-United-States-of-America/Business-Service-Officer_JR041730-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721013+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041568",
+    "location": "Budapest, Hungary",
+    "title": "Portfolio and Market Risk Stress Testing Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Portfolio-and-Market-Risk-Stress-Testing-Specialist_PT-JR041568"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721015+00:00",
+    "key": "workday:Morgan Stanley:JR038399",
+    "location": "Red Bank, New Jersey, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Red-Bank-New-Jersey-United-States-of-America/Business-Service-Officer_JR038399-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721017+00:00",
+    "key": "workday:Morgan Stanley:JR005435",
+    "location": "New York, New York, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Business-Service-Officer_JR005435"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721019+00:00",
+    "key": "workday:Morgan Stanley:JR034583",
+    "location": "2 Locations",
+    "title": "Mortgage Banker",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Mortgage-Banker_JR034583"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721021+00:00",
+    "key": "workday:Morgan Stanley:PT-JR033495",
+    "location": "New York, New York, United States of America",
+    "title": "Application Support",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/SRE-Application-Support-Engineer---AWS_PT-JR033495"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721024+00:00",
+    "key": "workday:Morgan Stanley:JR041741",
+    "location": "Columbus, Ohio, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Columbus-Ohio-United-States-of-America/Branch-Administrator_JR041741"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721026+00:00",
+    "key": "workday:Morgan Stanley:JR033963",
+    "location": "New York, New York, United States of America",
+    "title": "PWM Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/PWM-Business-Service-Officer_JR033963-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721028+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041441",
+    "location": "3 Locations",
+    "title": "Nonqualified Deferred Compensation - Plan Consultant",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-GA-3/Nonqualified-Deferred-Compensation---Plan-Consultant_PT-JR041441"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721030+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041439",
+    "location": "3 Locations",
+    "title": "Automation Solutions Project Management, AVP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Automation-Solutions-Project-Management--AVP_PT-JR041439"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721032+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040477",
+    "location": "New York, New York, United States of America",
+    "title": "Regulatory Reporting Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Regulatory-Reporting-Specialist_PT-JR040477"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721034+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040752",
+    "location": "Budapest, Hungary",
+    "title": "Strategic RFP Writer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Strategic-RFP-Writer_PT-JR040752"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721036+00:00",
+    "key": "workday:Morgan Stanley:JR040226",
+    "location": "Beverly Hills, California, United States of America",
+    "title": "Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Beverly-Hills-California-United-States-of-America/Risk-Officer_JR040226-2"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721038+00:00",
+    "key": "workday:Morgan Stanley:JR041413",
+    "location": "Lisle, Illinois, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Lisle-Illinois-United-States-of-America/Branch-Administrator_JR041413"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721040+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040507",
+    "location": "Budapest, Hungary",
+    "title": "L3 Voice Operations Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/L3-Voice-Operations-Engineer_PT-JR040507"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721042+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040503",
+    "location": "Budapest, Hungary",
+    "title": "Compensation & Analytics Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Compensation-Analytics---Market-Intelligence-Lead_PT-JR040503"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721044+00:00",
+    "key": "workday:Morgan Stanley:JR040966",
+    "location": "New York, New York, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Branch-Administrator_JR040966-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721046+00:00",
+    "key": "workday:Morgan Stanley:JR041323",
+    "location": "Budapest, Hungary",
+    "title": "AML & KYC Risk Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/AML---KYC-Risk-Specialist_JR041323"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721048+00:00",
+    "key": "workday:Morgan Stanley:JR040223",
+    "location": "Kirkland, Washington, United States of America",
+    "title": "Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Kirkland-Washington-United-States-of-America/Risk-Officer_JR040223-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721051+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041293",
+    "location": "3 Locations",
+    "title": "E*TRADE  Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/South-Towne-Corp-Center-II/E-TRADE--Risk-Officer_PT-JR041293-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721053+00:00",
+    "key": "workday:Morgan Stanley:PT-JR041222",
+    "location": "2 Locations",
+    "title": "Financial Crimes Risk: Quality Oversight UAT Coordinator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Financial-Crimes-Risk--Quality-Oversight-UAT-Coordinator_PT-JR041222"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721055+00:00",
+    "key": "workday:Morgan Stanley:JR033753",
+    "location": "Washington, District of Columbia, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Washington-District-of-Columbia-United-States-of-America/Business-Service-Officer_JR033753-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721056+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040848",
+    "location": "Purchase, New York, United States of America",
+    "title": "ICS Sales & Business Analytics, AVP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/ICS-Sales---Business-Analytics--AVP_PT-JR040848"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721059+00:00",
+    "key": "workday:Morgan Stanley:JR030094",
+    "location": "Houston, Texas, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Houston-Texas-United-States-of-America/Business-Service-Officer_JR030094-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721060+00:00",
+    "key": "workday:Morgan Stanley:PT-JR036630",
+    "location": "Purchase, New York, United States of America",
+    "title": "Institutional Consulting Business Oversight Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Institutional-Consulting-Business-Oversight-Specialist_PT-JR036630"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721062+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040959",
+    "location": "Menlo Park, California, United States of America",
+    "title": "Private Banker",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Menlo-Park-California-United-States-of-America/Private-Banker_PT-JR040959"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721064+00:00",
+    "key": "workday:Morgan Stanley:JR040789",
+    "location": "Newport Beach, California, United States of America",
+    "title": "Investment Consultant - Portfolio Management Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Newport-Beach-California-United-States-of-America/Investment-Consultant---Portfolio-Management-Specialist_JR040789"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721066+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040782",
+    "location": "Baltimore, Maryland, United States of America",
+    "title": "Fixed Income Product Controller",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Fixed-Income-Product-Controller_PT-JR040782"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721068+00:00",
+    "key": "workday:Morgan Stanley:JR040493",
+    "location": "Boston, Massachusetts, United States of America",
+    "title": "Administrative Assistant",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Administrative-Assistant_JR040493-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721070+00:00",
+    "key": "workday:Morgan Stanley:PT-JR039952",
+    "location": "New York, New York, United States of America",
+    "title": "Database Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Database-Engineer---Vice-President_PT-JR039952-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721072+00:00",
+    "key": "workday:Morgan Stanley:PT-JR037686",
+    "location": "Budapest, Hungary",
+    "title": "Finance Data Visualization & Reporting SME",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Governance-Control-Associate_PT-JR037686"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721074+00:00",
+    "key": "workday:Morgan Stanley:PT-JR040641",
+    "location": "3 Locations",
+    "title": "Path to Advice Business Control Unit AVP \u2013 Client Segment Risk",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/1-New-York-Plaza/Path-to-Advice-Business-Control-Unit-AVP---Client-Segment-Risk_PT-JR040641"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721075+00:00",
+    "key": "workday:Morgan Stanley:JR039398",
+    "location": "Budapest, Hungary",
+    "title": "Full Stack Developer \u2013 Global Capital Markets",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Quantitative-Developer---Global-Capital-Markets_JR039398"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721077+00:00",
+    "key": "workday:Morgan Stanley:JR040273",
+    "location": "Rochester, New York, United States of America",
+    "title": "Market Executive",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Rochester-New-York-United-States-of-America/Market-Executive_JR040273"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721079+00:00",
+    "key": "workday:Morgan Stanley:JR037658",
+    "location": "2 Locations",
+    "title": "PWM Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Menlo-Park-California-United-States-of-America/PWM-Business-Service-Officer_JR037658"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721081+00:00",
+    "key": "workday:Morgan Stanley:JR032494",
+    "location": "New York, New York, United States of America",
+    "title": "Global Capital Markets Roadshow Coordinator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets-Roadshow-Coordinator_JR032494-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721083+00:00",
+    "key": "workday:Morgan Stanley:JR033618",
+    "location": "2 Locations",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bellevue-Washington-United-States-of-America/Business-Service-Officer_JR033618-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721085+00:00",
+    "key": "workday:Morgan Stanley:JR027106",
+    "location": "New York, New York, United States of America",
+    "title": "Executive Administrative Assistant, MSIM Real Assets",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Executive-Administrative-Assistant--MSIM-Real-Assets_JR027106-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721088+00:00",
+    "key": "workday:Morgan Stanley:JR033305",
+    "location": "Baton Rouge, Louisiana, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baton-Rouge-Louisiana-United-States-of-America/Business-Service-Officer_JR033305-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721091+00:00",
+    "key": "workday:Morgan Stanley:JR026168",
+    "location": "4 Locations",
+    "title": "Institutional Reporting Specialist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Institutional-Reporting-Specialist_JR026168"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721093+00:00",
+    "key": "workday:Morgan Stanley:JR040087",
+    "location": "Roanoke, Virginia, United States of America",
+    "title": "Team Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Roanoke-Virginia-United-States-of-America/Team-Administrator_JR040087"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721095+00:00",
+    "key": "workday:Morgan Stanley:JR026248",
+    "location": "San Antonio, Texas, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Antonio-Texas-United-States-of-America/Business-Service-Officer_JR026248-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721096+00:00",
+    "key": "workday:Morgan Stanley:JR039890",
+    "location": "Naples, Florida, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Naples-Florida-United-States-of-America/Business-Service-Officer_JR039890-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721098+00:00",
+    "key": "workday:Morgan Stanley:JR039667",
+    "location": "Boston, Massachusetts, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Business-Service-Officer_JR039667-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721099+00:00",
+    "key": "workday:Morgan Stanley:PT-JR037347",
+    "location": "Waterloo Street",
+    "title": "Internal Auditor",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Waterloo-Street/Internal-Auditor_PT-JR037347"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721101+00:00",
+    "key": "workday:Morgan Stanley:JR014359",
+    "location": "San Mateo, California, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Mateo-California-United-States-of-America/Business-Service-Officer_JR014359"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721103+00:00",
+    "key": "workday:Morgan Stanley:JR032786",
+    "location": "Cupertino, California, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Cupertino-California-United-States-of-America/Branch-Administrator_JR032786"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721105+00:00",
+    "key": "workday:Morgan Stanley:JR039425",
+    "location": "NY - 2000 Westchester Ave",
+    "title": "Fund Services Investor Services",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/NY---2000-Westchester-Ave/Fund-Services-Investor-Services_JR039425"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721107+00:00",
+    "key": "workday:Morgan Stanley:PT-JR039346",
+    "location": "Baltimore, Maryland, United States of America",
+    "title": "Investment Management Finance Product Controller",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baltimore-Maryland-United-States-of-America/Investment-Management-Finance-Product-Controller_PT-JR039346"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721108+00:00",
+    "key": "workday:Morgan Stanley:PT-JR038479",
+    "location": "Milwaukee, Wisconsin, United States of America",
+    "title": "Private Banker",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Milwaukee-Wisconsin-United-States-of-America/Private-Banker_PT-JR038479"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721110+00:00",
+    "key": "workday:Morgan Stanley:JR037513",
+    "location": "Houston, Texas, United States of America",
+    "title": "Graduate Acquisitions & Divestitures Engineer \u2013 Houston, Texas",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Houston-Texas-United-States-of-America/Graduate-Petroleum-Engineer---Houston--Texas_JR037513-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721111+00:00",
+    "key": "workday:Morgan Stanley:JR026382",
+    "location": "Budapest, Hungary",
+    "title": "Quantitative Risk Analytics Strategist",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Business-Analytics-Strategist_JR026382"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721113+00:00",
+    "key": "workday:Morgan Stanley:PT-JR039111",
+    "location": "Purchase, New York, United States of America",
+    "title": "Risk Management and Internal Controls \u2013 Investment Solutions Products",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Risk-Management-and-Internal-Controls---Investment-Solutions-Products_PT-JR039111"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721115+00:00",
+    "key": "workday:Morgan Stanley:PT-JR038686",
+    "location": "Budapest, Hungary",
+    "title": "Taxonomist-Non-Financial Risk Data & Analytics",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Dir--P3--LCD-Data-and-Analytics---Job-Level---Director_PT-JR038686"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721117+00:00",
+    "key": "workday:Morgan Stanley:PT-JR038773",
+    "location": "Budapest, Hungary",
+    "title": "Model Application Developer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Model-Application-Developer_PT-JR038773"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721118+00:00",
+    "key": "workday:Morgan Stanley:PT-JR038483",
+    "location": "Fort Lauderdale, Florida, United States of America",
+    "title": "Private Banker",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Fort-Lauderdale-Florida-United-States-of-America/Private-Banker_PT-JR038483"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721121+00:00",
+    "key": "workday:Morgan Stanley:JR038021",
+    "location": "Houston, Texas, United States of America",
+    "title": "Branch Administrator",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Houston-Texas-United-States-of-America/Branch-Administrator_JR038021"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721123+00:00",
+    "key": "workday:Morgan Stanley:JR017119",
+    "location": "2 Locations",
+    "title": "Executive Assistant",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/1633-Broadway--NY/Executive-Assistant_JR017119"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721125+00:00",
+    "key": "workday:Morgan Stanley:PT-JR038651",
+    "location": "Oak Brook, Illinois, United States of America",
+    "title": "Private Banker",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oak-Brook-Illinois-United-States-of-America/Private-Banker_PT-JR038651"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721127+00:00",
+    "key": "workday:Morgan Stanley:JR026324",
+    "location": "Budapest, Hungary",
+    "title": "Business Analytics Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Hungary/Business-Analytics-Strategist_JR026324"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721129+00:00",
+    "key": "workday:Morgan Stanley:PT-JR037662",
+    "location": "Boston, Massachusetts, United States of America",
+    "title": "Investment Management Paralegal",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Investment-Management-Paralegal_PT-JR037662"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721131+00:00",
+    "key": "workday:Morgan Stanley:JR037989",
+    "location": "New York, New York, United States of America",
+    "title": "Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Risk-Officer_JR037989-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721133+00:00",
+    "key": "workday:Morgan Stanley:JR037995",
+    "location": "San Jose, California, United States of America",
+    "title": "Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Jose-California-United-States-of-America/Risk-Officer_JR037995-2"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721135+00:00",
+    "key": "workday:Morgan Stanley:JR038154",
+    "location": "West Palm Beach, Florida, United States of America",
+    "title": "Business Service Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/West-Palm-Beach-Florida-United-States-of-America/Business-Service-Officer_JR038154-1"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721138+00:00",
+    "key": "workday:Morgan Stanley:PT-JR036957",
+    "location": "2 Locations",
+    "title": "Digital Direct Individual Retirement Product, AVP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sandy-Utah-United-States-of-America/Digital-Direct-Individual-Retirement-Product--AVP_PT-JR036957"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-15T00:45:48.721140+00:00",
+    "key": "workday:Morgan Stanley:JR032657",
+    "location": "Nashville, Tennessee, United States of America",
+    "title": "Risk Officer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Nashville-Tennessee-United-States-of-America/Risk-Officer_JR032657-1"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963480+00:00",
+    "key": "greenhouse:SpaceX:8716124002",
+    "location": "Hawthorne, CA",
+    "title": "Environmental Health & Safety Engineer (Satellites)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716124002?gh_jid=8716124002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963494+00:00",
+    "key": "greenhouse:SpaceX:8703160002",
+    "location": "Redmond, WA",
+    "title": "Integration & Test Specialist (Starlink Propulsion) - 1st Shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703160002?gh_jid=8703160002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963496+00:00",
+    "key": "greenhouse:SpaceX:8470414002",
+    "location": "Redmond, WA",
+    "title": "Inventory Specialist (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8470414002?gh_jid=8470414002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963498+00:00",
+    "key": "greenhouse:SpaceX:8696469002",
+    "location": "Bastrop, TX",
+    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696469002?gh_jid=8696469002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963500+00:00",
+    "key": "greenhouse:SpaceX:8696490002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, Electrical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696490002?gh_jid=8696490002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963502+00:00",
+    "key": "greenhouse:SpaceX:8696105002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696105002?gh_jid=8696105002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963504+00:00",
+    "key": "greenhouse:SpaceX:8696124002",
+    "location": "Bastrop, TX",
+    "title": "New Graduate Engineer, GNC- '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696124002?gh_jid=8696124002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963506+00:00",
+    "key": "greenhouse:SpaceX:8696952002",
+    "location": "Bastrop, TX",
+    "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696952002?gh_jid=8696952002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963508+00:00",
+    "key": "greenhouse:SpaceX:8696986002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, Mechanical - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696986002?gh_jid=8696986002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963509+00:00",
+    "key": "greenhouse:SpaceX:8706885002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706885002?gh_jid=8706885002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963511+00:00",
+    "key": "greenhouse:SpaceX:8706884002",
+    "location": "Irvine, CA",
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963513+00:00",
+    "key": "greenhouse:SpaceX:8703552002",
+    "location": "Palo Alto, CA",
+    "title": "New Graduate Engineer, Silicon Engineering",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963515+00:00",
+    "key": "greenhouse:SpaceX:8696097002",
+    "location": "Bastrop, TX",
+    "title": "New Graduate Engineer, Software  - '26/'27  (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696097002?gh_jid=8696097002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963516+00:00",
+    "key": "greenhouse:SpaceX:8696080002",
+    "location": "Palo Alto, CA",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696080002?gh_jid=8696080002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963518+00:00",
+    "key": "greenhouse:SpaceX:8696058002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696058002?gh_jid=8696058002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963520+00:00",
+    "key": "greenhouse:SpaceX:8696156002",
+    "location": "Bastrop, TX",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696156002?gh_jid=8696156002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963522+00:00",
+    "key": "greenhouse:SpaceX:8696143002",
+    "location": "Redmond, WA",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696143002?gh_jid=8696143002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963523+00:00",
+    "key": "greenhouse:SpaceX:8696158002",
+    "location": "Palo Alto, CA",
+    "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696158002?gh_jid=8696158002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963525+00:00",
+    "key": "greenhouse:SpaceX:8703191002",
+    "location": "Redmond, WA",
+    "title": "Production Supervisor (Starlink) - 2nd Shift",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703191002?gh_jid=8703191002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963528+00:00",
+    "key": "greenhouse:SpaceX:8710126002",
+    "location": "Starbase, TX",
+    "title": "Supplier Development Engineer (Mechanical Engineering)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8710126002?gh_jid=8710126002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963530+00:00",
+    "key": "greenhouse:SpaceX:8716126002",
+    "location": "Hawthorne, CA",
+    "title": "Test Engineer, Powertrain Components (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716126002?gh_jid=8716126002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963532+00:00",
+    "key": "greenhouse:SpaceX:8716101002",
+    "location": "Hawthorne, CA",
+    "title": "Test Engineer, Propulsion Components (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716101002?gh_jid=8716101002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963534+00:00",
+    "key": "greenhouse:SpaceX:8703144002",
+    "location": "Redmond, WA",
+    "title": "Test Specialist - Antenna Lab, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8703144002?gh_jid=8703144002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963536+00:00",
+    "key": "greenhouse:SpaceX:8716296002",
+    "location": "Hawthorne, CA",
+    "title": "TIG Welder, Combustion Devices (RAPTOR)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716296002?gh_jid=8716296002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T00:45:52.963538+00:00",
+    "key": "greenhouse:SpaceX:8716792002",
+    "location": "Hawthorne, CA",
+    "title": "Tooling Inspector (Starship) - Level 4/5",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716792002?gh_jid=8716792002"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-15T00:45:53.908655+00:00",
+    "key": "greenhouse:Rocket Lab:7740849003",
+    "location": "Wallops Island, VA",
+    "title": "Avionics Test and Launch Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7740849003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-15T00:45:53.908672+00:00",
+    "key": "greenhouse:Rocket Lab:7871921003",
+    "location": "Middle River, MD",
+    "title": "Composite Technician, all levels - E Shift",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7871921003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-15T00:45:53.908675+00:00",
+    "key": "greenhouse:Rocket Lab:7871903003",
+    "location": "Silver Spring, MD",
+    "title": "IQC Inspector I/II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7871903003"
+  },
+  {
+    "company": "Palantir",
+    "first_seen": "2026-08-15T00:45:58.470067+00:00",
+    "key": "lever:Palantir:5614a901-ef96-4b9c-928d-4a9c338c8aad",
+    "location": "Washington, D.C.",
+    "title": "Offensive Security Engineer",
+    "url": "https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad"
+  },
+  {
+    "company": "Palantir",
+    "first_seen": "2026-08-15T00:45:58.470079+00:00",
+    "key": "lever:Palantir:5b1eac37-708b-4eb2-94f0-d2abe7945989",
+    "location": "New York, NY",
+    "title": "Offensive Security Engineer",
+    "url": "https://jobs.lever.co/palantir/5b1eac37-708b-4eb2-94f0-d2abe7945989"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683768+00:00",
+    "key": "greenhouse:Anduril Industries:5212672007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Buyer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212672007?gh_jid=5212672007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683782+00:00",
+    "key": "greenhouse:Anduril Industries:5212573007",
+    "location": "Lexington, Massachusetts, United States",
+    "title": "Electrical Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212573007?gh_jid=5212573007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683785+00:00",
+    "key": "greenhouse:Anduril Industries:5185590007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "FPGA Verification Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5185590007?gh_jid=5185590007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683787+00:00",
+    "key": "greenhouse:Anduril Industries:5212661007",
+    "location": "Lexington, Massachusetts, United States",
+    "title": "Manufacturing Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212661007?gh_jid=5212661007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683790+00:00",
+    "key": "greenhouse:Anduril Industries:5209133007",
+    "location": "Morrisville, North Carolina, United States",
+    "title": "Manufacturing Engineer, Development",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5209133007?gh_jid=5209133007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683792+00:00",
+    "key": "greenhouse:Anduril Industries:5212624007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Material Planner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212624007?gh_jid=5212624007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683794+00:00",
+    "key": "greenhouse:Anduril Industries:5211580007",
+    "location": "San Clemente, California, United States",
+    "title": "Operations Coordinator, Test Sites",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211580007?gh_jid=5211580007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683796+00:00",
+    "key": "greenhouse:Anduril Industries:5212780007",
+    "location": "Reston, Virginia, United States",
+    "title": "PCB Layout Engineer, Intelligence Systems",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212780007?gh_jid=5212780007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683798+00:00",
+    "key": "greenhouse:Anduril Industries:5073608007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Production Technician, EagleEye",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5073608007?gh_jid=5073608007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683800+00:00",
+    "key": "greenhouse:Anduril Industries:5158022007",
+    "location": "Atlanta, Georgia, United States",
+    "title": "Product Quality Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5158022007?gh_jid=5158022007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683803+00:00",
+    "key": "greenhouse:Anduril Industries:5212633007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Supply Planner",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212633007?gh_jid=5212633007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T00:46:01.683805+00:00",
+    "key": "greenhouse:Anduril Industries:5212880007",
+    "location": "Ashville, Ohio, United States",
+    "title": "Technical Writer, Autonomous Airpower",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007"
+  },
+  {
+    "company": "Databricks",
+    "first_seen": "2026-08-15T00:46:02.604199+00:00",
+    "key": "greenhouse:Databricks:8697991002",
+    "location": "United States",
+    "title": "Specialist Solutions Architect - AI/ML",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-15T00:46:04.213643+00:00",
+    "key": "greenhouse:Anthropic:5391151008",
+    "location": "San Francisco, CA",
+    "title": "AI Operations Engineer, Partnerships",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-15T00:46:04.213657+00:00",
+    "key": "greenhouse:Anthropic:5390019008",
+    "location": "San Francisco, CA | New York City, NY",
+    "title": "IT Support Engineer, Application Administrator",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390019008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-15T00:46:04.213660+00:00",
+    "key": "greenhouse:Anthropic:5379806008",
+    "location": "San Francisco, CA | New York City, NY",
+    "title": "Strategic Account Executive, Industries",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379806008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-15T00:46:04.213663+00:00",
+    "key": "greenhouse:Anthropic:5197597008",
+    "location": "San Francisco, CA",
+    "title": "Technical Specialist, Claude Code",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197597008"
+  },
+  {
+    "company": "Samsara",
+    "first_seen": "2026-08-15T00:46:05.043250+00:00",
+    "key": "greenhouse:Samsara:8121318",
+    "location": "Remote - US",
+    "title": "Enterprise Core Implementation Consultant - East/Central",
+    "url": "https://www.samsara.com/company/careers/roles/8121318?gh_jid=8121318"
+  },
+  {
+    "company": "Samsara",
+    "first_seen": "2026-08-15T00:46:05.043262+00:00",
+    "key": "greenhouse:Samsara:8121312",
+    "location": "Remote - US",
+    "title": "Enterprise Core Implementation Consultant - West",
+    "url": "https://www.samsara.com/company/careers/roles/8121312?gh_jid=8121312"
+  },
+  {
+    "company": "Scale AI",
+    "first_seen": "2026-08-15T00:46:05.421372+00:00",
+    "key": "greenhouse:Scale AI:4724276005",
+    "location": "New York, NY; Washington, DC",
+    "title": "Forward Deployed Product Designer",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4724276005"
+  },
+  {
+    "company": "Lyft",
+    "first_seen": "2026-08-15T00:46:06.203256+00:00",
+    "key": "greenhouse:Lyft:8716224002",
+    "location": "San Francisco, CA",
+    "title": "Counsel, Product & Commercial (Rideshare)",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8716224002?gh_jid=8716224002"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-15T00:46:08.283658+00:00",
+    "key": "ashby:OpenAI:978a22a5-0f0f-4da7-811e-a4b2b2fbe659",
+    "location": "New York City",
+    "title": "Product Policy Research and Advisory Partnerships",
+    "url": "https://jobs.ashbyhq.com/openai/978a22a5-0f0f-4da7-811e-a4b2b2fbe659"
+  },
+  {
+    "company": "Linear",
+    "first_seen": "2026-08-15T00:46:08.710704+00:00",
+    "key": "ashby:Linear:fb4b6076-b943-4d95-bb9b-a66aef8275f2",
+    "location": "North America",
+    "title": "Technical Recruiter",
+    "url": "https://jobs.ashbyhq.com/linear/fb4b6076-b943-4d95-bb9b-a66aef8275f2"
   }
 ]
