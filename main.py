@@ -82,6 +82,10 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     snapshot_rows = []
 
     for board in boards_cfg.get("boards", []):
+        # `enabled: false` parks a source without deleting its config, so the
+        # dashboard can toggle a flaky board off and back on.
+        if board.get("enabled") is False:
+            continue
         provider = PROVIDERS.get(board["provider"])
         if not provider:
             errors.append(f"{board['provider']}/{board['slug']}: unknown provider")
@@ -343,6 +347,8 @@ def run_monitor(pages_cfg, channels, dry_run):
     changes, errors, stale = [], [], []
 
     for page in pages_cfg.get("pages", []):
+        if page.get("enabled") is False:
+            continue
         try:
             res = monitor.check_page(page)
         except Exception as e:

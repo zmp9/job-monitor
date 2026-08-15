@@ -2,8 +2,10 @@
 
 Daily Summer 2027 internship monitor. Two subsystems, one cron:
 
-- **Aggregator** — pulls open postings from 48 Greenhouse / Lever / Ashby boards, dedupes against state, scores each against `config/profile.yaml`, emails anything at or above the threshold.
-- **Page monitor** — fetches 5 consulting-deadline aggregator pages, extracts the deadline tables, hashes them, emails a row-level diff on change.
+- **Aggregator** — pulls open postings from 61 Greenhouse / Lever / Ashby / **Workday** boards, dedupes against state, scores each against `config/profile.yaml`, emails what's new and links to `MATCHES.md` for the full ranked list.
+- **Page monitor** — fetches 8 pages (consulting-deadline aggregators plus firm careers pages with no board API), extracts the watched region, hashes it, emails a row-level diff on change.
+
+> **Workday needs no headless browser.** Its portals render client-side, but each is backed by a public JSON endpoint (`/wday/cxs/{tenant}/{site}/jobs`). That reaches firms none of the other three cover — Boeing (748 postings, 15 Summer 2027 internships), Morgan Stanley, Capital One. Slug format is `tenant/wdhost/site`, copied from the careers-page URL. Gotcha: Workday reports `total` only on the first page and 0 thereafter, so pagination must capture it once rather than trust it per page.
 
 ## Quick start
 
@@ -53,6 +55,8 @@ python dashboard.py                                 # localhost:8000
 Adjust the threshold, the nine weights, and the keyword lists; every change re-scores the whole snapshot instantly so you see the new ranking *before* saving. Click a row for the score reasons. Keyword counts show how many postings each term matches — a term sitting at 0 is dead weight.
 
 Save writes `config/profile.yaml` only. Review with `git diff` and commit yourself; the dashboard never commits or pushes.
+
+**Sources tab** — manage what gets scraped. Add or remove boards and watched pages, or untick one to pause it without deleting its config (`enabled: false`, honoured by the runner). **Test** probes the live API and shows real postings before you save, and Add stays disabled until a test passes — so a mistyped slug can't reach config. Saves to `config/boards.yaml` and `config/pages.yaml`.
 
 The preview calls the same `compile_profile()` / `score_posting()` the cron uses, so it can't drift from real behaviour. Server binds `127.0.0.1` only and adds no dependency — `requirements.txt` is installed on every CI run and the dashboard never runs there.
 

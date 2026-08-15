@@ -150,6 +150,59 @@ def read_profile() -> dict:
         return yaml.safe_load(f) or {}
 
 
+# --- source (board / page) management -------------------------------------
+BOARDS_PATH = os.path.join(ROOT, "config", "boards.yaml")
+PAGES_PATH = os.path.join(ROOT, "config", "pages.yaml")
+
+
+def read_yaml(path: str) -> dict:
+    with open(path) as f:
+        return yaml.safe_load(f) or {}
+
+
+def write_yaml(path: str, data: dict, header: str) -> None:
+    tmp = path + ".tmp"
+    with open(tmp, "w") as f:
+        f.write(header.rstrip() + "\n" + yaml.safe_dump(
+            data, sort_keys=False, allow_unicode=True,
+            default_flow_style=False, width=120))
+    os.replace(tmp, path)
+
+
+def test_source(kind: str, provider: str, slug: str, url: str = "",
+                selector: str = "table") -> dict:
+    """Probe a source live before it is saved.
+
+    Adding a board by guessing its slug is how dead entries end up in config —
+    every board in boards.yaml was originally verified by hand. This makes that
+    check part of the edit instead of a separate ritual.
+    """
+    try:
+        if kind == "page":
+            from src import monitor
+            res = monitor.check_page({"name": "test", "url": url,
+                                      "selector": selector or "table"})
+            if res["empty"]:
+                return {"ok": False,
+                        "error": f"selector '{selector}' matched no content"}
+            return {"ok": True, "count": len(res["region"].split("\n")),
+                    "sample": res["region"].split("\n")[:3]}
+
+        from src.providers import ashby, greenhouse, lever, workday
+        mod = {"greenhouse": greenhouse, "lever": lever,
+               "ashby": ashby, "workday": workday}.get(provider)
+        if not mod:
+            return {"ok": False, "error": f"unknown provider {provider!r}"}
+        postings = mod.fetch(slug, "test")
+        if not postings:
+            return {"ok": False, "error": "board resolved but returned 0 postings"}
+        return {"ok": True, "count": len(postings),
+                "sample": [f"{p.title[:60]} — {p.location[:26]}"
+                           for p in postings[:3]]}
+    except Exception as e:
+        return {"ok": False, "error": f"{type(e).__name__}: {e}"[:160]}
+
+
 WEIGHT_LABELS = {
     "positive_title": "sector keyword in the title",
     "positive_body": "sector keyword in description/department only",
@@ -239,6 +292,12 @@ class Handler(http.server.BaseHTTPRequestHandler):
             p = read_profile()
             return self._send(200, {"profile": p, "evaluation": evaluate(p),
                                     "weight_keys": list(WEIGHT_DEFAULTS)})
+        if self.path == "/api/sources":
+            return self._send(200, {
+                "boards": read_yaml(BOARDS_PATH).get("boards", []),
+                "pages": read_yaml(PAGES_PATH).get("pages", []),
+                "providers": ["greenhouse", "lever", "ashby", "workday"],
+            })
         self._send(404, {"error": "not found"})
 
     def do_POST(self):
@@ -249,6 +308,24 @@ class Handler(http.server.BaseHTTPRequestHandler):
                 profile = self._body().get("profile") or {}
                 write_profile(profile)
                 return self._send(200, {"ok": True, "path": PROFILE_PATH})
+            if self.path == "/api/test-source":
+                b = self._body()
+                return self._send(200, test_source(
+                    b.get("kind", "board"), b.get("provider", ""),
+                    b.get("slug", ""), b.get("url", ""),
+                    b.get("selector", "table")))
+            if self.path == "/api/save-sources":
+                b = self._body()
+                write_yaml(BOARDS_PATH, {"boards": b.get("boards", [])},
+                           "# Job boards polled each run. Managed by dashboard.py.\n"
+                           "# Every slug should be verified with Test before saving.\n"
+                           "# workday slugs are 'tenant/wdhost/site'.\n")
+                pages = read_yaml(PAGES_PATH)
+                pages["pages"] = b.get("pages", [])
+                write_yaml(PAGES_PATH, pages,
+                           "# Pages watched for changes. Managed by dashboard.py.\n"
+                           "# selector defaults to 'table'; verify with Test before saving.\n")
+                return self._send(200, {"ok": True})
             self._send(404, {"error": "not found"})
         except Exception as e:
             self._send(500, {"error": f"{type(e).__name__}: {e}"})
@@ -297,9 +374,28 @@ button:disabled{opacity:.5;cursor:default}
 .diff{font-variant-numeric:tabular-nums;font-size:12px}
 .up{color:var(--good)}.down{color:var(--bad)}
 a{color:inherit}
+.tabs{display:flex;gap:4px}
+.tab{background:transparent;color:var(--mut);border:1px solid var(--line);padding:5px 12px;font-size:13px}
+.tab.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+#src{display:none;padding:20px}
+#src.on{display:block}
+main.off{display:none}
+.srow{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid var(--line);font-size:13px}
+.srow .co{font-weight:500;min-width:150px}
+.srow .sl{color:var(--mut);font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis}
+.srow .pv{color:var(--mut);font-size:11px;min-width:74px}
+.srow.dis{opacity:.45}
+.tst{font-size:12px;padding:3px 9px}
+.res{font-size:12px;margin-left:6px}
+.res.ok{color:var(--good)}.res.no{color:var(--bad)}
+.addbox{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 0}
+.addbox input,.addbox select{background:var(--bg);border:1px solid var(--line);color:var(--fg);border-radius:5px;padding:5px 8px;font:inherit;font-size:13px}
+.addbox input{min-width:150px}
+.hint{color:var(--mut);font-size:12px;margin:6px 0 0}
 </style></head><body>
 <header>
-  <h1>job-monitor · tuning</h1>
+  <h1>job-monitor</h1>
+  <div class="tabs"><button class="tab on" data-t="score">Scoring</button><button class="tab" data-t="src">Sources</button></div>
   <div class="stat">matches <b id="s-match">–</b> of <b id="s-total">–</b>
     <span id="s-diff" class="diff"></span></div>
   <div class="stat">excluded <b id="s-excl">–</b> · gated <b id="s-gate">–</b></div>
@@ -331,6 +427,34 @@ a{color:inherit}
   </div>
  </div>
 </main>
+<div id="src">
+  <div class="card">
+    <h2>Job boards <span style="color:var(--mut);font-weight:400;text-transform:none;letter-spacing:0">— untick to pause a source without deleting it</span></h2>
+    <div id="boards"></div>
+    <div class="addbox">
+      <select id="nprov"></select>
+      <input id="nslug" placeholder="slug (workday: tenant/wdhost/site)">
+      <input id="nco" placeholder="company name">
+      <button class="ghost tst" id="ntest">Test</button>
+      <button id="nadd" disabled>Add</button>
+      <span id="nres" class="res"></span>
+    </div>
+    <p class="hint">Test hits the live API and shows real postings. Add stays disabled until a test passes, so a dead slug can't reach config.</p>
+  </div>
+  <div class="card">
+    <h2>Watched pages</h2>
+    <div id="pages"></div>
+    <div class="addbox">
+      <input id="pname" placeholder="name" style="min-width:120px">
+      <input id="purl" placeholder="https://..." style="min-width:230px">
+      <input id="psel" placeholder="selector (default: table)" style="min-width:150px">
+      <button class="ghost tst" id="ptest">Test</button>
+      <button id="padd" disabled>Add</button>
+      <span id="pres" class="res"></span>
+    </div>
+  </div>
+  <div class="bar"><button id="ssave">Save sources</button><span id="smsg" class="msg"></span></div>
+</div>
 <script>
 let P=null, ORIG=null, BASE=null, timer=null;
 const $=id=>document.getElementById(id);
@@ -429,6 +553,99 @@ $("reset").onclick=()=>{P=clone(ORIG);boot2()};
 async function boot2(){const r=await fetch("/api/preview",{method:"POST",
   headers:{"Content-Type":"application/json"},body:JSON.stringify({profile:P})}).then(r=>r.json());
   buildWeights(Object.keys(P.weights||{}));render(r);paintKeywords(r);note("reverted to last saved")}
+// ---- sources tab ----
+let SRC={boards:[],pages:[],providers:[]};
+document.querySelectorAll(".tab").forEach(b=>b.onclick=()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("on",x===b));
+  const src=b.dataset.t==="src";
+  document.querySelector("main").classList.toggle("off",src);
+  $("src").classList.toggle("on",src);
+  if(src&&!SRC.boards.length)loadSources();
+});
+async function loadSources(){
+  SRC=await fetch("/api/sources").then(r=>r.json());
+  $("nprov").innerHTML=SRC.providers.map(p=>`<option>${p}</option>`).join("");
+  paintSources();
+}
+function paintSources(){
+  const b=$("boards"); b.innerHTML="";
+  SRC.boards.forEach((x,i)=>{
+    const d=document.createElement("div");
+    d.className="srow"+(x.enabled===false?" dis":"");
+    d.innerHTML=`<input type="checkbox" ${x.enabled===false?"":"checked"}>
+      <span class="co">${esc(x.company||"")}</span>
+      <span class="pv">${esc(x.provider)}</span>
+      <span class="sl">${esc(x.slug)}</span>
+      <button class="ghost tst">Test</button><span class="res"></span>
+      <button class="ghost tst rm">Remove</button>`;
+    const [cb]=d.getElementsByTagName("input");
+    cb.onchange=()=>{x.enabled=cb.checked?undefined:false;
+      if(x.enabled===undefined)delete x.enabled; paintSources()};
+    const btns=d.querySelectorAll("button");
+    btns[0].onclick=()=>runTest(d.querySelector(".res"),
+      {kind:"board",provider:x.provider,slug:x.slug});
+    btns[1].onclick=()=>{SRC.boards.splice(i,1);paintSources()};
+    b.appendChild(d);
+  });
+  const pg=$("pages"); pg.innerHTML="";
+  SRC.pages.forEach((x,i)=>{
+    const d=document.createElement("div");
+    d.className="srow"+(x.enabled===false?" dis":"");
+    d.innerHTML=`<input type="checkbox" ${x.enabled===false?"":"checked"}>
+      <span class="co">${esc(x.name||"")}</span>
+      <span class="pv">${esc(x.selector||"table")}</span>
+      <span class="sl">${esc(x.url)}</span>
+      <button class="ghost tst">Test</button><span class="res"></span>
+      <button class="ghost tst rm">Remove</button>`;
+    const [cb]=d.getElementsByTagName("input");
+    cb.onchange=()=>{if(cb.checked)delete x.enabled; else x.enabled=false; paintSources()};
+    const btns=d.querySelectorAll("button");
+    btns[0].onclick=()=>runTest(d.querySelector(".res"),
+      {kind:"page",url:x.url,selector:x.selector||"table"});
+    btns[1].onclick=()=>{SRC.pages.splice(i,1);paintSources()};
+    pg.appendChild(d);
+  });
+}
+async function runTest(el,payload){
+  el.textContent="testing…"; el.className="res";
+  const r=await fetch("/api/test-source",{method:"POST",
+    headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)}).then(r=>r.json());
+  if(r.ok){el.className="res ok";el.textContent=`${r.count} ✓ ${(r.sample||[])[0]||""}`.slice(0,74)}
+  else{el.className="res no";el.textContent=r.error||"failed"}
+  return r.ok;
+}
+$("ntest").onclick=async()=>{
+  const ok=await runTest($("nres"),{kind:"board",provider:$("nprov").value,slug:$("nslug").value.trim()});
+  $("nadd").disabled=!ok;
+};
+$("nadd").onclick=()=>{
+  SRC.boards.push({provider:$("nprov").value,slug:$("nslug").value.trim(),
+                   company:$("nco").value.trim()||$("nslug").value.trim()});
+  $("nslug").value="";$("nco").value="";$("nres").textContent="";$("nadd").disabled=true;
+  paintSources();
+};
+$("ptest").onclick=async()=>{
+  const ok=await runTest($("pres"),{kind:"page",url:$("purl").value.trim(),
+    selector:$("psel").value.trim()||"table"});
+  $("padd").disabled=!ok;
+};
+$("padd").onclick=()=>{
+  SRC.pages.push({name:$("pname").value.trim()||"page",url:$("purl").value.trim(),
+                  selector:$("psel").value.trim()||"table",trust:"low"});
+  $("pname").value="";$("purl").value="";$("psel").value="";
+  $("pres").textContent="";$("padd").disabled=true; paintSources();
+};
+$("ssave").onclick=async()=>{
+  $("ssave").disabled=true;
+  const r=await fetch("/api/save-sources",{method:"POST",
+    headers:{"Content-Type":"application/json"},
+    body:JSON.stringify({boards:SRC.boards,pages:SRC.pages})}).then(r=>r.json());
+  $("ssave").disabled=false;
+  const m=$("smsg");
+  m.textContent=r.ok?"saved — review git diff, then commit":(r.error||"save failed");
+  m.className="msg"+(r.ok?"":" err");
+  setTimeout(()=>{m.textContent=""},4000);
+};
 boot();
 </script></body></html>
 """
