@@ -1,0 +1,79 @@
+#!/bin/bash
+# One-command launcher for the tuning dashboard.
+#
+#   ./tune            normal launch
+#   ./tune --refresh  force a fresh scan snapshot first
+#
+# Handles the three things that otherwise need remembering: creating the venv,
+# noticing the snapshot is stale, and picking a free port.
+
+set -u
+cd "$(dirname "${BASH_SOURCE[0]}")" || exit 1
+REPO="$PWD"
+VENV="$REPO/.venv"
+PY="$VENV/bin/python"
+SNAP="$REPO/state/last_scan.json"
+STALE_DAYS=7
+
+bold() { printf "\033[1m%s\033[0m\n" "$*"; }
+dim()  { printf "\033[2m%s\033[0m\n" "$*"; }
+warn() { printf "\033[33m%s\033[0m\n" "$*"; }
+
+bold "job-monitor tuning dashboard"
+dim  "$REPO"
+echo
+
+# --- venv -----------------------------------------------------------------
+if [ ! -x "$PY" ]; then
+  warn "No virtualenv found — creating one (first run only)..."
+  python3 -m venv "$VENV" || { warn "could not create venv"; exit 1; }
+  "$VENV/bin/pip" -q install -r "$REPO/requirements.txt" || exit 1
+  echo "  dependencies installed"
+fi
+
+# --- snapshot -------------------------------------------------------------
+need_snap=0
+if [ "${1:-}" = "--refresh" ]; then
+  need_snap=1
+  echo "Refresh requested."
+elif [ ! -s "$SNAP" ]; then
+  need_snap=1
+  warn "No snapshot yet — one is needed before tuning."
+else
+  # macOS stat; fall back to GNU stat if this ever runs on Linux
+  mtime=$(stat -f %m "$SNAP" 2>/dev/null || stat -c %Y "$SNAP" 2>/dev/null)
+  age_days=$(( ( $(date +%s) - mtime ) / 86400 ))
+  if [ "$age_days" -ge "$STALE_DAYS" ]; then
+    warn "Snapshot is ${age_days} days old — postings will be out of date."
+    printf "Refresh it now (~5 min)? [y/N] "
+    read -r ans
+    [ "${ans:-n}" = "y" ] || [ "${ans:-n}" = "Y" ] && need_snap=1
+  else
+    echo "Snapshot is ${age_days} day(s) old."
+  fi
+fi
+
+if [ "$need_snap" = "1" ]; then
+  echo "Fetching every board (~5 min; sends nothing, writes no state)..."
+  "$PY" main.py --dry-run --only-boards --snapshot || {
+    warn "snapshot failed — starting with whatever is on disk"; }
+fi
+
+if [ ! -s "$SNAP" ]; then
+  warn "Still no snapshot; cannot start. Run: ./tune --refresh"
+  exit 1
+fi
+
+# --- port -----------------------------------------------------------------
+# Reusing a busy port would fail after the ~30s index, so pick a free one first.
+PORT=8000
+while lsof -nP -iTCP:"$PORT" -sTCP:LISTEN >/dev/null 2>&1; do
+  PORT=$((PORT + 1))
+  [ "$PORT" -gt 8020 ] && { warn "no free port in 8000-8020"; exit 1; }
+done
+[ "$PORT" != "8000" ] && dim "port 8000 busy — using $PORT"
+
+echo
+bold "Starting on http://127.0.0.1:$PORT  (ctrl-c to stop)"
+echo
+DASHBOARD_PORT="$PORT" exec "$PY" dashboard.py

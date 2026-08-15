@@ -48,6 +48,14 @@ Test it end to end with `python main.py --test-email` (sends on every enabled ch
 ## Tuning dashboard
 
 ```bash
+./tune
+```
+
+Or double-click **Tune Job Monitor** in `~/Applications`. The launcher creates the venv on first run, warns when the snapshot is more than 7 days old and offers to refresh it, picks a free port if 8000 is taken, and opens the browser. `./tune --refresh` forces a fresh scan first.
+
+Manual equivalent, if you prefer:
+
+```bash
 python main.py --dry-run --only-boards --snapshot   # ~5 min, sends nothing, writes no state
 python dashboard.py                                 # localhost:8000
 ```
