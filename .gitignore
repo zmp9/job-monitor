@@ -6,3 +6,8 @@ __pycache__/
 
 # local tuning cache for dashboard.py (multi-MB, regenerate with --snapshot)
 state/last_scan.json
+
+# personal data: phone, GPA, test scores — keep out of git history
+config/applicant.yaml
+# generated application packets (contain your answers)
+applications/

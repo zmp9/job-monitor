@@ -70,6 +70,28 @@ The preview calls the same `compile_profile()` / `score_posting()` the cron uses
 
 `state/last_scan.json` is gitignored (~13k postings with descriptions). Regenerate it whenever you want fresh data; the snapshot pulls Greenhouse with `?content=true` so descriptions are present for every provider, which the daily run skips as too heavy.
 
+## Applying
+
+```bash
+cp config/applicant.example.yaml config/applicant.yaml   # fill in your details
+python apply.py                                          # top 15 unapplied matches
+```
+
+Writes one packet per posting into `applications/`: every question on the real form, your stored answer against each, and a **Needs you** list of what's left. Greenhouse publishes its exact question set, so those packets match the live form field for field (an AQR Summer Analyst packet comes out 13 of 18 pre-filled). Lever, Ashby and Workday don't publish theirs, so those fall back to standard fields and say so.
+
+`applications/autofill-bookmarklet.txt` — save as a browser bookmark, then click it on any open application form. It fills matching text fields from your stored answers and reports what it did.
+
+Track what you've sent so packets aren't rebuilt for it:
+
+```bash
+python apply.py --mark <posting-url>
+python apply.py --list
+```
+
+**It never submits, and that's deliberate.** The board APIs are read-only for applicants — submission needs employer credentials — and several forms carry an "I certify this information is accurate" attestation. The bookmarklet also never touches file inputs (the browser owns that picker) and never fills self-identification questions; those are yours to answer or decline.
+
+`config/applicant.yaml` and `applications/` are both gitignored — your phone number, GPA and drafted answers stay out of git history even though the repo is private.
+
 ## Scoring
 
 Weights live in the `weights:` block of `config/profile.yaml` (edited by the dashboard); `src/scoring.py` holds the same values as defaults, so a missing key falls back rather than breaking a run. Order of operations:

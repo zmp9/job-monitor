@@ -1,0 +1,46 @@
+# Copy to config/applicant.yaml and fill in. That file is gitignored — it holds
+# personal data (phone, GPA, test scores) that should not live in git history
+# even in a private repo.
+#
+# Only stable facts belong here. Anything role-specific stays a per-application
+# decision you make at review time.
+
+identity:
+  first_name: Zaid
+  last_name: Patankar
+  preferred_name: Zaid
+  email: zmp9@cornell.edu
+  phone: ""                       # +1 555 555 5555
+  location: "Ithaca, NY"
+  linkedin: ""                    # https://www.linkedin.com/in/...
+  website: ""                     # portfolio / personal site, optional
+
+education:
+  school: Cornell University
+  degree: "Bachelor's"
+  major: ""                       # e.g. Industrial and Labor Relations
+  minor: ""
+  grad_month: "2028-05"           # used to answer "graduation year/date"
+  grad_year: "2028"
+  gpa: ""                         # e.g. 3.75
+  sat: ""                         # optional; several finance forms ask
+  act: ""
+
+work_authorization:
+  # Phrased as most ATS forms ask it, so answers map cleanly.
+  authorized_to_work_us: true
+  will_require_sponsorship: false
+
+files:
+  # Absolute paths. File uploads always stay manual — the browser controls that
+  # picker and no autofill can set it for you. These are here so the packet can
+  # tell you exactly which file to grab.
+  resume: "~/Documents/recruiting/Zaid_Patankar_Resume.pdf"
+  transcript: "~/Documents/recruiting/Cornell_Transcript.pdf"
+  cover_letter_template: ""       # optional
+
+defaults:
+  # Free-text answers that recur across applications.
+  how_did_you_hear: "Company careers page"
+  # Left blank on purpose: demographic and self-ID questions are yours to
+  # answer or decline, and the packet will never pre-fill them.
