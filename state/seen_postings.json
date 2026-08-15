@@ -1451,6 +1451,12 @@
     "title": "AI Deployment Engineer",
     "url": "https://jobs.ashbyhq.com/openai/04435c05-7a05-4802-894d-c173327fbac8"
   },
+  "ashby:OpenAI:0444c5bd-7109-4bec-ac3e-b974e6236365": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-15T11:17:12.136850+00:00",
+    "title": "Optical Interconnect System Engineer",
+    "url": "https://jobs.ashbyhq.com/openai/0444c5bd-7109-4bec-ac3e-b974e6236365"
+  },
   "ashby:OpenAI:05280201-16cc-4d82-ac90-336badb001ca": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.017248+00:00",
@@ -7685,6 +7691,12 @@
     "title": "Shipyard Contractor & Trade Partner Integration",
     "url": "https://jobs.ashbyhq.com/saronic/3abfb985-f349-44fd-84d2-be27ebe55b79"
   },
+  "ashby:Saronic:3c27f824-6a70-40b7-be4f-f3e0a21a47c3": {
+    "company": "Saronic",
+    "first_seen": "2026-08-15T11:17:07.956692+00:00",
+    "title": "Senior Compensation Analyst",
+    "url": "https://jobs.ashbyhq.com/saronic/3c27f824-6a70-40b7-be4f-f3e0a21a47c3"
+  },
   "ashby:Saronic:3c9c69e9-c165-43bf-825c-f71d9d6aabed": {
     "company": "Saronic",
     "first_seen": "2026-08-14T15:48:03.611078+00:00",
@@ -11506,6 +11518,12 @@
     "first_seen": "2026-08-14T15:45:49.308693+00:00",
     "title": "Information Security GRC \u2013 Risk & Compliance Senior Analyst (Contract)",
     "url": "https://www.alixpartners.com/careers/7767015003?gh_jid=7767015003"
+  },
+  "greenhouse:AlixPartners:7770684003": {
+    "company": "AlixPartners",
+    "first_seen": "2026-08-15T11:15:28.015831+00:00",
+    "title": "Corporate Strategy & Transformation Analyst",
+    "url": "https://www.alixpartners.com/careers/7770684003?gh_jid=7770684003"
   },
   "greenhouse:AlixPartners:7773850003": {
     "company": "AlixPartners",
@@ -23987,6 +24005,12 @@
     "title": "Senior ERP Administrator, Oracle SCM",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205169007?gh_jid=5205169007"
   },
+  "greenhouse:Anduril Industries:5205184007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T11:17:07.329206+00:00",
+    "title": "Senior Site Reliability Engineer - Undersea Dominance",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5205184007?gh_jid=5205184007"
+  },
   "greenhouse:Anduril Industries:5205302007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-14T15:48:02.803361+00:00",
@@ -25138,6 +25162,12 @@
     "first_seen": "2026-08-15T00:46:01.683871+00:00",
     "title": "Technical Writer, Autonomous Airpower",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212880007?gh_jid=5212880007"
+  },
+  "greenhouse:Anduril Industries:5212894007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-15T11:17:07.329202+00:00",
+    "title": "Personnel Security Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5212894007?gh_jid=5212894007"
   },
   "greenhouse:Anduril Industries:5212897007": {
     "company": "Anduril Industries",
@@ -27808,6 +27838,12 @@
     "first_seen": "2026-08-15T00:46:04.213678+00:00",
     "title": "Manager, Corporate Network Engineering",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391782008"
+  },
+  "greenhouse:Anthropic:5391787008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-15T11:17:08.329777+00:00",
+    "title": "Executive Support Senior Program Manager, Tech Advisor",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391787008"
   },
   "greenhouse:Anthropic:5391995008": {
     "company": "Anthropic",
@@ -34421,6 +34457,12 @@
     "title": "Staff Fullstack Engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002"
   },
+  "greenhouse:Databricks:6709301002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-15T11:17:08.071643+00:00",
+    "title": "Senior Software Engineer (Backend)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002"
+  },
   "greenhouse:Databricks:6716344002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.718652+00:00",
@@ -35356,6 +35398,12 @@
     "first_seen": "2026-08-14T15:48:08.717181+00:00",
     "title": "Director of Engineering (Data Infrastructure)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002"
+  },
+  "greenhouse:Databricks:8294304002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-15T11:17:08.071624+00:00",
+    "title": "Senior Software Engineer (App-Framework)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002"
   },
   "greenhouse:Databricks:8295792002": {
     "company": "Databricks",
@@ -70067,6 +70115,12 @@
     "title": "Lead, Logistics (Outbound)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8716915002?gh_jid=8716915002"
   },
+  "greenhouse:SpaceX:8717607002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-15T11:17:00.764976+00:00",
+    "title": "Production Control Scheduler (Falcon)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8717607002?gh_jid=8717607002"
+  },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
     "first_seen": "2026-08-14T15:46:29.116083+00:00",
@@ -73229,6 +73283,12 @@
     "title": "People Analytics Analyst & Business Partner",
     "url": "https://stripe.com/jobs/search?gh_jid=8069694"
   },
+  "greenhouse:Stripe:8069941": {
+    "company": "Stripe",
+    "first_seen": "2026-08-15T11:17:08.173492+00:00",
+    "title": "Software Engineer, Authorization Infrastructure",
+    "url": "https://stripe.com/jobs/search?gh_jid=8069941"
+  },
   "greenhouse:Stripe:8069943": {
     "company": "Stripe",
     "first_seen": "2026-08-14T15:48:13.492416+00:00",
@@ -73504,6 +73564,12 @@
     "first_seen": "2026-08-14T15:48:13.492382+00:00",
     "title": "Lifecycle Marketing Manager, Capital",
     "url": "https://stripe.com/jobs/search?gh_jid=8082149"
+  },
+  "greenhouse:Stripe:8082847": {
+    "company": "Stripe",
+    "first_seen": "2026-08-15T11:17:08.173510+00:00",
+    "title": "Staff Software Engineer, Link",
+    "url": "https://stripe.com/jobs/search?gh_jid=8082847"
   },
   "greenhouse:Stripe:8082905": {
     "company": "Stripe",
