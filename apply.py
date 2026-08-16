@@ -107,7 +107,9 @@ BOOKMARKLET_JS = r"""
  document.querySelectorAll('input,textarea,select').forEach(function(el){
   if(el.type==='file'||el.type==='hidden'||el.disabled||el.readOnly)return;
   var L=labelFor(el);
-  if(/gender|race|ethnic|veteran|disability|pronoun|hispanic|latino|self.?identif/.test(L)){skipped++;return}
+  if(/certify|attest|under penalty/.test(L)){skipped++;return}
+  var isSelfId=/gender|race|ethnic|veteran|disab|pronoun|hispanic|latino|self.?identif/.test(L);
+  if(isSelfId&&!D.some(function(d){return new RegExp(d[0]).test(L)})){skipped++;return}
   for(var i=0;i<D.length;i++){
    var rx=new RegExp(D[i][0]);
    if(rx.test(L)){
@@ -134,6 +136,7 @@ def build_bookmarklet(applicant: dict) -> str:
     """
     ident, edu, wa, dflt = (applicant["identity"], applicant["education"],
                             applicant["work_authorization"], applicant["defaults"])
+    sid = applicant.get("self_identification") or {}
     pairs = [
         (r"preferred.*(first|name)", ident.get("preferred_name") or ident.get("first_name")),
         (r"\bfirst name\b|\bgiven name\b", ident.get("first_name")),
@@ -153,6 +156,15 @@ def build_bookmarklet(applicant: dict) -> str:
         (r"authorized to work|legally authorized", "Yes" if wa.get("authorized_to_work_us") else "No"),
         (r"sponsorship|visa", "Yes" if wa.get("will_require_sponsorship") else "No"),
         (r"how did you hear|how.*learn about", dflt.get("how_did_you_hear")),
+        (r"other opportunit|consider(ed)? for other|future (roles|openings|opportunit)",
+         "Yes" if dflt.get("consider_other_opportunities") else "No"),
+        (r"confirm receipt|acknowledg|privacy polic|terms and conditions|have read and understood",
+         "Yes" if dflt.get("confirm_acknowledgements") else ""),
+        # Self-ID only where an answer was stored; blanks drop out below.
+        (r"gender|\bsex\b", sid.get("gender")),
+        (r"race|ethnic|hispanic|latino", sid.get("race_ethnicity")),
+        (r"veteran", sid.get("veteran_status")),
+        (r"disab|cc-?305", sid.get("disability_status")),
     ]
     data = [[p, str(v)] for p, v in pairs if v]
     js = BOOKMARKLET_JS % json.dumps(data)

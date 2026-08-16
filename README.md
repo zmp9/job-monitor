@@ -88,7 +88,11 @@ python apply.py --mark <posting-url>
 python apply.py --list
 ```
 
-**It never submits, and that's deliberate.** The board APIs are read-only for applicants — submission needs employer credentials — and several forms carry an "I certify this information is accurate" attestation. The bookmarklet also never touches file inputs (the browser owns that picker) and never fills self-identification questions; those are yours to answer or decline.
+`defaults:` carries the answers that recur everywhere — `consider_other_opportunities` and `confirm_acknowledgements` handle "would you like to be considered for other roles" and privacy-policy / terms receipt boxes across all firms.
+
+`self_identification:` (gender, race/ethnicity, veteran, disability) autofills too, but **only from answers you supply** — nothing is guessed, and a field left blank is left untouched on the form. The standard EEO option wording is listed in the template so the values match what the form expects.
+
+**It never submits, and that's deliberate.** The board APIs are read-only for applicants — submission needs employer credentials. Accuracy attestations ("I certify the information provided is true") also stay manual even with `confirm_acknowledgements` on: that one asserts what you just entered is correct, so it wants your eyes on the filled form. And file inputs are never autofilled — the browser owns that picker.
 
 `config/applicant.yaml` and `applications/` are both gitignored — your phone number, GPA and drafted answers stay out of git history even though the repo is private.
 

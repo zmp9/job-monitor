@@ -55,7 +55,27 @@ FIELD_RULES = [
     (r"sponsorship|visa",             lambda a: "Yes" if a["work_authorization"]
                                       .get("will_require_sponsorship") else "No"),
     (r"how did you hear|how.*learn about", lambda a: a["defaults"].get("how_did_you_hear")),
+    (r"other opportunit|consider(ed)? for other|future (roles|openings|opportunit)",
+                                      lambda a: "Yes" if a["defaults"]
+                                      .get("consider_other_opportunities") else "No"),
+    (r"confirm receipt|acknowledg|privacy polic|terms and conditions|"
+     r"have read and understood|consent to",
+                                      lambda a: "Yes" if a["defaults"]
+                                      .get("confirm_acknowledgements") else ""),
 ]
+
+# Self-identification, filled only from an answer you supplied. Blank stays blank.
+SELF_ID_RULES = [
+    (r"gender|\bsex\b",                 "gender"),
+    (r"race|ethnic|hispanic|latino",     "race_ethnicity"),
+    (r"veteran|protected veteran",       "veteran_status"),
+    (r"disab|cc-?305",                   "disability_status"),
+]
+
+# Accuracy attestations stay manual even with confirm_acknowledgements on: they
+# assert that what you just entered is true, which wants a look at the filled form.
+ATTESTATION = re.compile(
+    r"certify|attest|under penalty|information (provided|given).*(true|accurate|complete)", re.I)
 
 # Never pre-filled: self-identification is the applicant's to answer or decline.
 SELF_ID = re.compile(
@@ -81,10 +101,18 @@ def resolve(label: str, applicant: dict) -> tuple[str, str]:
 
     status is one of: filled | self_id | file | manual
     """
-    if SELF_ID.search(label):
-        return "", "self_id"
-
     low = label.lower()
+
+    if ATTESTATION.search(label):
+        return "", "manual"
+
+    if SELF_ID.search(label):
+        sid = applicant.get("self_identification") or {}
+        for pattern, key in SELF_ID_RULES:
+            if re.search(pattern, low):
+                val = (sid.get(key) or "").strip()
+                return (val, "filled") if val else ("", "self_id")
+        return "", "self_id"
     if FILE_FIELDS.search(label):
         files = applicant.get("files", {})
         if re.search(r"resume|cv\b", low):
