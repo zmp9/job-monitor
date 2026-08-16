@@ -24827,6 +24827,12 @@
     "title": "Senior Global Sourcing Manager, Plastics",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210072007?gh_jid=5210072007"
   },
+  "greenhouse:Anduril Industries:5210350007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-16T11:16:52.913177+00:00",
+    "title": "Product Operations Technical Specialist, Maritime",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007"
+  },
   "greenhouse:Anduril Industries:5210352007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-15T00:46:01.683840+00:00",
@@ -27797,6 +27803,12 @@
     "title": "Strategic Partner Development, Product Partnerships \u2013 Semiconductors",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390028008"
   },
+  "greenhouse:Anthropic:5390155008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-16T11:16:54.037590+00:00",
+    "title": "Customer Marketing Manager, Industries",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390155008"
+  },
   "greenhouse:Anthropic:5390728008": {
     "company": "Anthropic",
     "first_seen": "2026-08-15T00:46:04.213669+00:00",
@@ -27850,6 +27862,12 @@
     "first_seen": "2026-08-15T00:46:04.213667+00:00",
     "title": "Enterprise Integrated Campaign Manager",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391995008"
+  },
+  "greenhouse:Anthropic:5392335008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-16T11:16:54.037602+00:00",
+    "title": "Staff+ Software Engineer, Platform Ecosystem",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392335008"
   },
   "greenhouse:Asana:6174752": {
     "company": "Asana",
@@ -54622,6 +54640,18 @@
     "first_seen": "2026-08-14T15:48:33.464635+00:00",
     "title": "Field Service Engineer (Automotive)",
     "url": "https://www.samsara.com/company/careers/roles/8073247?gh_jid=8073247"
+  },
+  "greenhouse:Samsara:8074109": {
+    "company": "Samsara",
+    "first_seen": "2026-08-16T11:16:54.219955+00:00",
+    "title": "Enterprise Implementation Consultant",
+    "url": "https://www.samsara.com/company/careers/roles/8074109?gh_jid=8074109"
+  },
+  "greenhouse:Samsara:8074111": {
+    "company": "Samsara",
+    "first_seen": "2026-08-16T11:16:54.219964+00:00",
+    "title": "Strategic Implementation Consultant - German Fluency",
+    "url": "https://www.samsara.com/company/careers/roles/8074111?gh_jid=8074111"
   },
   "greenhouse:Samsara:8076414": {
     "company": "Samsara",
@@ -88565,6 +88595,12 @@
     "title": "Senior Manager, Mobile Engineering, iOS (Enterprise Platforms Technology)",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Manager--Mobile-Engineering--iOS--Enterprise-Platforms-Technology-_R246799-1"
   },
+  "workday:Capital One:R246801": {
+    "company": "Capital One",
+    "first_seen": "2026-08-16T11:16:02.759399+00:00",
+    "title": "Senior Manager, Mobile Engineering, Android (Enterprise Platforms Technology)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Mobile-Engineering--Android--Enterprise-Platforms-Technology-_R246801-2"
+  },
   "workday:Capital One:R246803": {
     "company": "Capital One",
     "first_seen": "2026-08-15T00:44:50.702802+00:00",
@@ -93011,6 +93047,12 @@
     "title": "Senior Manager, Product Management - US Card, Servicing & Core Modernization",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Product-Management---US-Card--Servicing---Core-Modernization_R249124-1"
   },
+  "workday:Capital One:R249128": {
+    "company": "Capital One",
+    "first_seen": "2026-08-16T11:16:02.759386+00:00",
+    "title": "Lead Software Engineer, DevOps (Cloud Operations Resilience Engineering)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps--Cloud-Operations-Resilience-Engineering-_R249128-1"
+  },
   "workday:Capital One:R249130": {
     "company": "Capital One",
     "first_seen": "2026-08-15T00:44:50.701031+00:00",
@@ -93304,6 +93346,18 @@
     "first_seen": "2026-08-15T00:44:50.700890+00:00",
     "title": "Senior Manager, Product Management- Engineering Transformation & AI",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Manager--Product-Management--Engineering-Transformation---AI_R249330-1"
+  },
+  "workday:Capital One:R249342": {
+    "company": "Capital One",
+    "first_seen": "2026-08-16T11:16:02.759402+00:00",
+    "title": "Lead Software Engineer, Full Stack",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack_R249342-1"
+  },
+  "workday:Capital One:R249350": {
+    "company": "Capital One",
+    "first_seen": "2026-08-16T11:16:02.759396+00:00",
+    "title": "Lead Software Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R249350"
   },
   "workday:Capital One:R249356": {
     "company": "Capital One",
@@ -94288,6 +94342,12 @@
     "first_seen": "2026-08-15T00:45:48.721651+00:00",
     "title": "Data Quality Controls (DQC), Vice President, Data Management",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Data-Quality-Controls--DQC---Vice-President--Data-Management_JR036466"
+  },
+  "workday:Morgan Stanley:JR036489": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-16T11:16:47.881467+00:00",
+    "title": "Associate Market Manager",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate-Market-Manager_JR036489"
   },
   "workday:Morgan Stanley:JR036495": {
     "company": "Morgan Stanley",
