@@ -29382,5 +29382,77 @@
     "location": "Quincy, Massachusetts, United States",
     "title": "Product Operations Technical Specialist, Maritime",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-17T11:22:11.501471+00:00",
+    "key": "workday:Morgan Stanley:PT-JR042329",
+    "location": "Purchase, New York, United States of America",
+    "title": "ED, Alternative Investments Attorney",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/ED--Alternative-Investments-Attorney_PT-JR042329"
+  },
+  {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-17T11:22:11.501490+00:00",
+    "key": "workday:Morgan Stanley:JR036895",
+    "location": "New York, New York, United States of America",
+    "title": "IED - Prime Brokerage - Client Services",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/IED---Prime-Brokerage---Client-Services_JR036895-1"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-17T11:22:13.404032+00:00",
+    "key": "greenhouse:SpaceX:8719800002",
+    "location": "Hawthorne, CA",
+    "title": "Food Services Specialist - Restaurants",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8719800002?gh_jid=8719800002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-17T11:22:13.404052+00:00",
+    "key": "greenhouse:SpaceX:8716953002",
+    "location": "Starbase, TX",
+    "title": "Mechanical Engineer, Cabin Structures (Crew Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716953002?gh_jid=8716953002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-17T11:22:13.404056+00:00",
+    "key": "greenhouse:SpaceX:8692371002",
+    "location": "Starbase, TX",
+    "title": "Mechanical Engineer, Mechanisms (Crew Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8692371002?gh_jid=8692371002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-17T11:22:13.404060+00:00",
+    "key": "greenhouse:SpaceX:8706249002",
+    "location": "Starbase, TX",
+    "title": "Supply Chain Planner (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8706249002?gh_jid=8706249002"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-17T11:22:18.529953+00:00",
+    "key": "greenhouse:Anduril Industries:5213231007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Systems Engineer, Battlespace",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213231007?gh_jid=5213231007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-17T11:22:18.529970+00:00",
+    "key": "greenhouse:Anduril Industries:5213228007",
+    "location": "Broomfield, Colorado, United States",
+    "title": "Systems Engineer, Battlespace",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213228007?gh_jid=5213228007"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-17T11:22:24.879644+00:00",
+    "key": "ashby:OpenAI:5ed99d32-eed1-4679-b7b4-037de073e57c",
+    "location": "San Francisco",
+    "title": "Product Engineer, Full Stack - Agents",
+    "url": "https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c"
   }
 ]
