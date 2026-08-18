@@ -1,9 +1,10 @@
 # Open matches
 
-_59 postings scoring >= 45, of 16444 scanned. Updated 2026-08-17 11:22 UTC._
+_59 postings scoring >= 45, of 16465 scanned. Updated 2026-08-18 11:22 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
+| 58 | [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) | Capital One | McLean, VA |
 | 84 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | AQR Capital Management | Greenwich, CT |
@@ -51,7 +52,6 @@ _59 postings scoring >= 45, of 16444 scanned. Updated 2026-08-17 11:22 UTC._
 | 50 | [Boeing Summer 2027 Internship Program (Paid) – Communications Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829) | Boeing | 7 Locations |
 | 50 | [Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830-1) | Boeing | 10 Locations |
 | 50 | [Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1) | Boeing | 17 Locations |
-| 50 | [Analyst Early Internship Program - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Analyst-Early-Internship-Program---Summer-2027_R244231) | Capital One | McLean, VA |
 | 50 | [Current Master's - Data Science Internship - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | Capital One | 8 Locations |
 | 50 | [Spring 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) | SpaceX | Flexible - Any SpaceX Site |
 | 50 | [Spring 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) | SpaceX | Flexible - Any SpaceX Site |
@@ -71,7 +71,7 @@ _59 postings scoring >= 45, of 16444 scanned. Updated 2026-08-17 11:22 UTC._
 - **SpaceX** (6) — top [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) at 58
 - **Zipline** (5) — top [Quality & Manufacturing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7824311003) at 58
 - **Astranis** (4) — top [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) at 58
-- **Capital One** (3) — top [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) at 58
+- **Capital One** (3) — top [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) at 58
 - **AlixPartners** (3) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 51
 - **OpenAI** (3) — top [Subject Matter Expert, Investment Banking](https://jobs.ashbyhq.com/openai/4705a853-46e6-4f91-884c-61e54de91b0e) at 50
 - **Belvedere Trading** (2) — top [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) at 66
