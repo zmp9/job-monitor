@@ -3323,6 +3323,12 @@
     "title": "Tech Lead, Finance & Supply Chain Engineering",
     "url": "https://jobs.ashbyhq.com/openai/5f17de2e-ab3f-4fc3-be23-a6edd916337b"
   },
+  "ashby:OpenAI:5f3a6397-47ac-4ef0-9ca9-cd358851a6b9": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-23T11:17:56.433119+00:00",
+    "title": "Strategic Delivery Lead, Intelligence Community",
+    "url": "https://jobs.ashbyhq.com/openai/5f3a6397-47ac-4ef0-9ca9-cd358851a6b9"
+  },
   "ashby:OpenAI:5fe29d1d-684f-4fed-88de-eb644fe3485e": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.016889+00:00",
@@ -7024,6 +7030,12 @@
     "first_seen": "2026-08-14T15:48:03.081573+00:00",
     "title": "Senior Manager, Structures",
     "url": "https://jobs.ashbyhq.com/regent/1891a33e-9e49-4a68-b815-dbb761b33700"
+  },
+  "ashby:REGENT:1ef57221-5bc1-4e21-8243-47501ecdbcce": {
+    "company": "REGENT",
+    "first_seen": "2026-08-23T11:17:52.635825+00:00",
+    "title": "Electromechanical Techinican",
+    "url": "https://jobs.ashbyhq.com/regent/1ef57221-5bc1-4e21-8243-47501ecdbcce"
   },
   "ashby:REGENT:2d3c5122-18ce-447a-9c59-dd635ee7ee18": {
     "company": "REGENT",
@@ -27479,6 +27491,24 @@
     "title": "Manufacturing Test Engineer, Drones",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219205007?gh_jid=5219205007"
   },
+  "greenhouse:Anduril Industries:5219419007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-23T11:17:52.297659+00:00",
+    "title": "Senior Thermal Engineer, Expeditionary AI / HPC Data Centers",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219419007?gh_jid=5219419007"
+  },
+  "greenhouse:Anduril Industries:5219476007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-23T11:17:52.297662+00:00",
+    "title": "Thermal Engineer, Hypersonic Air Vehicles",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219476007?gh_jid=5219476007"
+  },
+  "greenhouse:Anduril Industries:5219512007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-23T11:17:52.297655+00:00",
+    "title": "Electrical Engineer, Intelligence Systems",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007"
+  },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758643+00:00",
@@ -28570,6 +28600,12 @@
     "first_seen": "2026-08-14T15:48:18.758655+00:00",
     "title": "Research Engineer, Model Evaluations",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198255008"
+  },
+  "greenhouse:Anthropic:5199633008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-23T11:17:53.602558+00:00",
+    "title": "Revenue Strategy & Operations",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199633008"
   },
   "greenhouse:Anthropic:5201264008": {
     "company": "Anthropic",
@@ -41951,6 +41987,12 @@
     "title": "Deployment Strategist",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8630011002"
   },
+  "greenhouse:Databricks:8632126002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-23T11:17:53.352414+00:00",
+    "title": "Full Stack Developer (AI Agents)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002"
+  },
   "greenhouse:Databricks:8632188002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.718089+00:00",
@@ -42497,6 +42539,12 @@
     "title": "Sr. Staff, Technical Program Management",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661359002"
   },
+  "greenhouse:Databricks:8661524002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-23T11:17:53.352433+00:00",
+    "title": "Staff Designated Support Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661524002"
+  },
   "greenhouse:Databricks:8661758002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.717959+00:00",
@@ -42874,6 +42922,12 @@
     "first_seen": "2026-08-22T11:17:50.681812+00:00",
     "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002"
+  },
+  "greenhouse:Databricks:8740680002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-23T11:17:53.352431+00:00",
+    "title": "Senior Designated Support Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002"
   },
   "greenhouse:Discord:8214127002": {
     "company": "Discord",
@@ -92644,6 +92698,12 @@
     "first_seen": "2026-08-15T00:44:26.042878+00:00",
     "title": "Senior Embedded Software Engineer",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Senior-Embedded-Software-Engineer_JR2026517765"
+  },
+  "workday:Boeing:JR2026517777": {
+    "company": "Boeing",
+    "first_seen": "2026-08-23T11:16:45.462800+00:00",
+    "title": "Supplier Quality Engineer (Experienced or Senior)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Supplier-Quality-Engineer--Experienced-or-Senior-_JR2026517777"
   },
   "workday:Boeing:JR2026517820": {
     "company": "Boeing",

@@ -1,15 +1,9 @@
 # Open matches
 
-_97 postings scoring >= 45, of 16744 scanned. Updated 2026-08-22 11:17 UTC._
+_97 postings scoring >= 45, of 16737 scanned. Updated 2026-08-23 11:17 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 58 | [Aerodynamics Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904518003) | Zipline | South San Francisco, California, USA |
-| 58 | [Computational Physics Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904605003) | Zipline | South San Francisco, California, USA |
-| 58 | [Materials Engineer Intern (Spring & Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7905428003) | Zipline | South San Francisco, California, USA |
-| 58 | [Sales Operations Analyst Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7929099003) | Zipline | South San Francisco, California, USA |
-| 58 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
-| 58 | [Technical Program Manager Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904471003) | Zipline | South San Francisco, California, USA |
 | 84 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | AQR Capital Management | Greenwich, CT |
@@ -34,8 +28,10 @@ _97 postings scoring >= 45, of 16744 scanned. Updated 2026-08-22 11:17 UTC._
 | 58 | [Accounting Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7893921003) | Zipline | South San Francisco, California, USA |
 | 58 | [Accounting Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7894364003) | Zipline | South San Francisco, California, USA |
 | 58 | [Aerodynamics Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904002003) | Zipline | South San Francisco, California, USA |
+| 58 | [Aerodynamics Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904518003) | Zipline | South San Francisco, California, USA |
 | 58 | [Applications Engineer Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7908677003) | Zipline | South San Francisco, California, USA |
 | 58 | [Applications Engineer Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7909946003) | Zipline | South San Francisco, California, USA |
+| 58 | [Computational Physics Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904605003) | Zipline | South San Francisco, California, USA |
 | 58 | [Computational Physics Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904720003) | Zipline | South San Francisco, California, USA |
 | 58 | [Global Supply Management Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891121003) | Zipline | South San Francisco, California, USA |
 | 58 | [Global Supply Management Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7891152003) | Zipline | South San Francisco, California, USA |
@@ -43,11 +39,14 @@ _97 postings scoring >= 45, of 16744 scanned. Updated 2026-08-22 11:17 UTC._
 | 58 | [Hardware Test Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7903483003) | Zipline | South San Francisco, California, USA |
 | 58 | [Material Planning Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891219003) | Zipline | South San Francisco, California, USA |
 | 58 | [Material Planning Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7891224003) | Zipline | South San Francisco, California, USA |
+| 58 | [Materials Engineer Intern (Spring & Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7905428003) | Zipline | South San Francisco, California, USA |
 | 58 | [Operations Experience Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7920394003) | Zipline | South San Francisco, California, USA |
 | 58 | [Operations Experience Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7920615003) | Zipline | South San Francisco, California, USA |
 | 58 | [Perception Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7909570003) | Zipline | South San Francisco, California, USA |
 | 58 | [Quality & Manufacturing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7824311003) | Zipline | South San Francisco, California, USA |
 | 58 | [Quality & Manufacturing Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7824316003) | Zipline | South San Francisco, California, USA |
+| 58 | [Sales Operations Analyst Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7929099003) | Zipline | South San Francisco, California, USA |
+| 58 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
 | 58 | [Software Systems Validation Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7893955003) | Zipline | South San Francisco, California, USA |
 | 58 | [Software Systems Validation Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7894335003) | Zipline | South San Francisco, California, USA |
 | 58 | [Strategic Engagements & Events Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7857023003) | Zipline | South San Francisco, California, USA |
@@ -57,6 +56,7 @@ _97 postings scoring >= 45, of 16744 scanned. Updated 2026-08-22 11:17 UTC._
 | 58 | [System Test Automation Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7893946003) | Zipline | South San Francisco, California, USA |
 | 58 | [System Test Automation Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7886320003) | Zipline | South San Francisco, California, USA |
 | 58 | [Technical Program Manager Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904446003) | Zipline | South San Francisco, California, USA |
+| 58 | [Technical Program Manager Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904471003) | Zipline | South San Francisco, California, USA |
 | 58 | [Video Production and Social Media Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7896577003) | Zipline | South San Francisco, California, USA |
 | 58 | [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | Astranis | San Francisco |
 | 58 | [CAD Engineer/Librarian Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | Astranis | San Francisco |
@@ -104,7 +104,7 @@ _97 postings scoring >= 45, of 16744 scanned. Updated 2026-08-22 11:17 UTC._
 
 ## By company
 
-- **Zipline** (42) — top [Aerodynamics Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904518003) at 58
+- **Zipline** (42) — top [Supply Chain Business Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891225003) at 66
 - **Boeing** (15) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 58
 - **AQR Capital Management** (10) — top [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) at 84
 - **SpaceX** (6) — top [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) at 58
