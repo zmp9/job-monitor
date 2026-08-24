@@ -2453,6 +2453,12 @@
     "title": "Applied AI Engineer, Digital Natives",
     "url": "https://jobs.ashbyhq.com/openai/3254f6a7-6353-4a77-beec-f37b832c99ae"
   },
+  "ashby:OpenAI:32905f5c-9405-4073-bc65-c57fcf55a83d": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-24T11:24:15.958787+00:00",
+    "title": "Account Director, Startups | Tokyo",
+    "url": "https://jobs.ashbyhq.com/openai/32905f5c-9405-4073-bc65-c57fcf55a83d"
+  },
   "ashby:OpenAI:3302ceaf-f6ca-4803-9846-7fff7ad48a0d": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.016906+00:00",
@@ -3983,6 +3989,12 @@
     "title": "Researcher, Alignment CoT Monitorability",
     "url": "https://jobs.ashbyhq.com/openai/82492010-ea96-449d-9949-b726b1a22616"
   },
+  "ashby:OpenAI:831e2f91-c213-4208-9eb3-4ce2cc6b9acf": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-24T11:24:15.958780+00:00",
+    "title": "Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment",
+    "url": "https://jobs.ashbyhq.com/openai/831e2f91-c213-4208-9eb3-4ce2cc6b9acf"
+  },
   "ashby:OpenAI:83730f3e-3a96-476e-afb0-15f1f045ab03": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.016184+00:00",
@@ -4816,6 +4828,12 @@
     "first_seen": "2026-08-14T15:49:08.016996+00:00",
     "title": "Regional Client Partner, Ads Solutions",
     "url": "https://jobs.ashbyhq.com/openai/ad387960-a0ec-4699-bed8-069d51aafc8a"
+  },
+  "ashby:OpenAI:ad6b55f9-fa63-4860-b852-d90592e49d1c": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-24T11:24:15.958774+00:00",
+    "title": "BIM Designer & Coordinator",
+    "url": "https://jobs.ashbyhq.com/openai/ad6b55f9-fa63-4860-b852-d90592e49d1c"
   },
   "ashby:OpenAI:aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3": {
     "company": "OpenAI",
@@ -5950,6 +5968,12 @@
     "first_seen": "2026-08-14T15:49:08.015936+00:00",
     "title": "Security Engineer, Application Security",
     "url": "https://jobs.ashbyhq.com/openai/ec5a5d98-6314-44d9-9466-8d4d7ee866f6"
+  },
+  "ashby:OpenAI:ece054ea-ac75-4b8a-bdbf-5cdf19368312": {
+    "company": "OpenAI",
+    "first_seen": "2026-08-24T11:24:15.958785+00:00",
+    "title": "Manufacturing Quality Engineer \u2013 Datacenter Infrastructure",
+    "url": "https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312"
   },
   "ashby:OpenAI:ecf1abec-898c-4acb-a984-42858836a1ff": {
     "company": "OpenAI",
@@ -27323,6 +27347,12 @@
     "title": "Vehicle Energy Systems Lead",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217019007?gh_jid=5217019007"
   },
+  "greenhouse:Anduril Industries:5217214007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-24T11:24:12.140232+00:00",
+    "title": "Recruiter",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5217214007?gh_jid=5217214007"
+  },
   "greenhouse:Anduril Industries:5217232007": {
     "company": "Anduril Industries",
     "first_seen": "2026-08-21T11:22:44.969752+00:00",
@@ -27508,6 +27538,12 @@
     "first_seen": "2026-08-23T11:17:52.297655+00:00",
     "title": "Electrical Engineer, Intelligence Systems",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007"
+  },
+  "greenhouse:Anduril Industries:5219632007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-24T11:24:12.140236+00:00",
+    "title": "Supervisor, Manufacturing Operations, Connected Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219632007?gh_jid=5219632007"
   },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
@@ -28349,6 +28385,12 @@
     "title": "Global Senior Equity Program Manager",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5162711008"
   },
+  "greenhouse:Anthropic:5163060008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-24T11:24:13.385342+00:00",
+    "title": "Finance & Strategy, GTM - Post Sales",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5163060008"
+  },
   "greenhouse:Anthropic:5164551008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758216+00:00",
@@ -28936,6 +28978,12 @@
     "first_seen": "2026-08-14T15:48:18.758429+00:00",
     "title": "Head of Global Renewals",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5237923008"
+  },
+  "greenhouse:Anthropic:5237973008": {
+    "company": "Anthropic",
+    "first_seen": "2026-08-24T11:24:13.385325+00:00",
+    "title": "Enterprise Account Executive, Manufacturing",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5237973008"
   },
   "greenhouse:Anthropic:5238296008": {
     "company": "Anthropic",
@@ -41183,6 +41231,12 @@
     "title": "Sr. Forward Deployed Engineer",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578144002"
   },
+  "greenhouse:Databricks:8578155002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914680+00:00",
+    "title": "Sr. Technical Program Manager, Professional Services",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8578155002"
+  },
   "greenhouse:Databricks:8578177002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.718627+00:00",
@@ -41518,6 +41572,12 @@
     "first_seen": "2026-08-14T15:48:08.717604+00:00",
     "title": "Real Estate Strategic Planning Lead",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603402002"
+  },
+  "greenhouse:Databricks:8603672002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914668+00:00",
+    "title": "Director, Enterprise",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8603672002"
   },
   "greenhouse:Databricks:8603684002": {
     "company": "Databricks",
@@ -42419,6 +42479,18 @@
     "title": "Sr. Forward Deployed Engineer (FDE) - Retail",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8647677002"
   },
+  "greenhouse:Databricks:8648494002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914677+00:00",
+    "title": "Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648494002"
+  },
+  "greenhouse:Databricks:8648669002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914661+00:00",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8648669002"
+  },
   "greenhouse:Databricks:8648999002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.718796+00:00",
@@ -42701,6 +42773,12 @@
     "title": "Enterprise Account Executive - CMEG",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8695183002"
   },
+  "greenhouse:Databricks:8696599002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914665+00:00",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8696599002"
+  },
   "greenhouse:Databricks:8697067002": {
     "company": "Databricks",
     "first_seen": "2026-08-19T11:22:20.307516+00:00",
@@ -42724,6 +42802,12 @@
     "first_seen": "2026-08-19T11:22:20.307487+00:00",
     "title": "Field Engineering Enablement Leader",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701065002"
+  },
+  "greenhouse:Databricks:8701067002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914675+00:00",
+    "title": "Executive Assistant II",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701067002"
   },
   "greenhouse:Databricks:8702738002": {
     "company": "Databricks",
@@ -42874,6 +42958,12 @@
     "first_seen": "2026-08-21T11:22:45.736641+00:00",
     "title": "Delivery Solutions Architect - Communications, Media, Entertainment & Games",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735569002"
+  },
+  "greenhouse:Databricks:8736500002": {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914671+00:00",
+    "title": "Emerging Enterprise Hunter Account Executive",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8736500002"
   },
   "greenhouse:Databricks:8737857002": {
     "company": "Databricks",
@@ -44543,6 +44633,12 @@
     "title": "Manager, Product - Code (London, United Kingdom)",
     "url": "https://boards.greenhouse.io/figma/jobs/6149007004?gh_jid=6149007004"
   },
+  "greenhouse:Figma:6150074004": {
+    "company": "Figma",
+    "first_seen": "2026-08-24T11:24:13.444570+00:00",
+    "title": "Executive Communications Manager",
+    "url": "https://boards.greenhouse.io/figma/jobs/6150074004?gh_jid=6150074004"
+  },
   "greenhouse:Figma:6150563004": {
     "company": "Figma",
     "first_seen": "2026-08-22T11:17:51.545188+00:00",
@@ -45461,6 +45557,12 @@
     "title": "Air Operations Associate",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8095780"
   },
+  "greenhouse:Flexport:8100073": {
+    "company": "Flexport",
+    "first_seen": "2026-08-24T11:24:13.599885+00:00",
+    "title": "Senior Systems Engineer (Identity and Access)",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8100073"
+  },
   "greenhouse:Flexport:8110066": {
     "company": "Flexport",
     "first_seen": "2026-08-14T15:48:36.370693+00:00",
@@ -45598,6 +45700,12 @@
     "first_seen": "2026-08-19T11:22:21.219500+00:00",
     "title": "Senior Software Engineer, Applied AI",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8141246"
+  },
+  "greenhouse:Flexport:8146839": {
+    "company": "Flexport",
+    "first_seen": "2026-08-24T11:24:13.599869+00:00",
+    "title": "Senior Manager, Accounts Payable & Freight Audit",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8146839"
   },
   "greenhouse:Flexport:8147315": {
     "company": "Flexport",
@@ -46211,6 +46319,12 @@
     "title": "People Partner - Product and Product Design",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8119974"
   },
+  "greenhouse:Gusto:8121732": {
+    "company": "Gusto",
+    "first_seen": "2026-08-24T11:24:14.231217+00:00",
+    "title": "Staff Software Engineer- Retirement",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8121732"
+  },
   "greenhouse:Gusto:8128426": {
     "company": "Gusto",
     "first_seen": "2026-08-20T11:23:17.006652+00:00",
@@ -46474,6 +46588,12 @@
     "first_seen": "2026-08-14T15:46:34.031619+00:00",
     "title": "Working Student - Tech",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4685421101"
+  },
+  "greenhouse:IMC Trading:4694088101": {
+    "company": "IMC Trading",
+    "first_seen": "2026-08-24T11:22:25.006221+00:00",
+    "title": "Executive Assistant",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4694088101"
   },
   "greenhouse:IMC Trading:4694175101": {
     "company": "IMC Trading",
@@ -47141,6 +47261,12 @@
     "title": "Trader Intern",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4939846101"
   },
+  "greenhouse:IMC Trading:4940343101": {
+    "company": "IMC Trading",
+    "first_seen": "2026-08-24T11:22:25.006232+00:00",
+    "title": "IMC Emerging Talent Table - Beijing",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4940343101"
+  },
   "greenhouse:IMC Trading:4940448101": {
     "company": "IMC Trading",
     "first_seen": "2026-08-14T15:46:34.031261+00:00",
@@ -47176,6 +47302,12 @@
     "first_seen": "2026-08-14T15:46:34.031410+00:00",
     "title": "IMC Trading Sim - Singapore",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942161101"
+  },
+  "greenhouse:IMC Trading:4942168101": {
+    "company": "IMC Trading",
+    "first_seen": "2026-08-24T11:22:25.006235+00:00",
+    "title": "IMC Emerging Talent Table - Shanghai / SJTU",
+    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4942168101"
   },
   "greenhouse:IMC Trading:4942171101": {
     "company": "IMC Trading",
@@ -48593,6 +48725,24 @@
     "title": "Leadership & Professional Development Coordinator",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8021872"
   },
+  "greenhouse:Jump Trading:8027900": {
+    "company": "Jump Trading",
+    "first_seen": "2026-08-24T11:22:24.716882+00:00",
+    "title": "Campus Quantitative Researcher (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027900"
+  },
+  "greenhouse:Jump Trading:8027922": {
+    "company": "Jump Trading",
+    "first_seen": "2026-08-24T11:22:24.716885+00:00",
+    "title": "Campus Quantitative Trader (Intern)",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027922"
+  },
+  "greenhouse:Jump Trading:8027938": {
+    "company": "Jump Trading",
+    "first_seen": "2026-08-24T11:22:24.716874+00:00",
+    "title": "Campus AI/ML Researcher",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8027938"
+  },
   "greenhouse:Jump Trading:8027939": {
     "company": "Jump Trading",
     "first_seen": "2026-08-14T15:46:16.131020+00:00",
@@ -48748,6 +48898,12 @@
     "first_seen": "2026-08-14T15:46:16.131138+00:00",
     "title": "Python Software Engineer",
     "url": "https://www.jumptrading.com/hr/job?gh_jid=8104832"
+  },
+  "greenhouse:Jump Trading:8105914": {
+    "company": "Jump Trading",
+    "first_seen": "2026-08-24T11:22:24.716888+00:00",
+    "title": "Quantitative Developer | Trading Team",
+    "url": "https://www.jumptrading.com/hr/job?gh_jid=8105914"
   },
   "greenhouse:Jump Trading:8122860": {
     "company": "Jump Trading",
@@ -53687,6 +53843,24 @@
     "title": "2026 Point72 Academy National Case Competition - US",
     "url": "https://boards.greenhouse.io/point72/jobs/8726366002?gh_jid=8726366002"
   },
+  "greenhouse:Point72:8729717002": {
+    "company": "Point72",
+    "first_seen": "2026-08-24T11:22:24.543536+00:00",
+    "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002"
+  },
+  "greenhouse:Point72:8729765002": {
+    "company": "Point72",
+    "first_seen": "2026-08-24T11:22:24.543557+00:00",
+    "title": "Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 \u2013 JP) (BCF)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8729765002?gh_jid=8729765002"
+  },
+  "greenhouse:Point72:8729791002": {
+    "company": "Point72",
+    "first_seen": "2026-08-24T11:22:24.543554+00:00",
+    "title": "Point72 Academy 2026 Investment Analyst Program for Experienced Professionals \u2013 Japan (BCF)",
+    "url": "https://boards.greenhouse.io/point72/jobs/8729791002?gh_jid=8729791002"
+  },
   "greenhouse:Point72:8733732002": {
     "company": "Point72",
     "first_seen": "2026-08-21T11:20:25.372391+00:00",
@@ -55438,6 +55612,12 @@
     "first_seen": "2026-08-14T15:46:43.194780+00:00",
     "title": "Market Research Strategy Intern",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src=&gh_jid=8103727"
+  },
+  "greenhouse:Robinhood:8105960": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-24T11:22:26.224284+00:00",
+    "title": "ICT Risk Oversight Lead",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8105960?t=gh_src=&gh_jid=8105960"
   },
   "greenhouse:Robinhood:8109753": {
     "company": "Robinhood",
@@ -67553,6 +67733,12 @@
     "title": "Kiln Technician, Thermal Hardware (Starship)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8571876002?gh_jid=8571876002"
   },
+  "greenhouse:SpaceX:8571902002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883171+00:00",
+    "title": "Candidate Specialist (Cape Canaveral)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8571902002?gh_jid=8571902002"
+  },
   "greenhouse:SpaceX:8571923002": {
     "company": "SpaceX",
     "first_seen": "2026-08-14T15:47:17.754873+00:00",
@@ -76289,11 +76475,23 @@
     "title": "Electrician",
     "url": "https://boards.greenhouse.io/spacex/jobs/8728544002?gh_jid=8728544002"
   },
+  "greenhouse:SpaceX:8728551002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883167+00:00",
+    "title": "Avionics Wire Harness Technician (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8728551002?gh_jid=8728551002"
+  },
   "greenhouse:SpaceX:8728563002": {
     "company": "SpaceX",
     "first_seen": "2026-08-21T11:22:14.603167+00:00",
     "title": "Weld Support Technician - 2nd Shift",
     "url": "https://boards.greenhouse.io/spacex/jobs/8728563002?gh_jid=8728563002"
+  },
+  "greenhouse:SpaceX:8728634002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883176+00:00",
+    "title": "Mechanical Engineer (Starship Structures)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8728634002?gh_jid=8728634002"
   },
   "greenhouse:SpaceX:8728750002": {
     "company": "SpaceX",
@@ -76720,6 +76918,12 @@
     "first_seen": "2026-08-22T11:17:43.454389+00:00",
     "title": "Equipment Maintenance Technician",
     "url": "https://boards.greenhouse.io/spacex/jobs/8739460002?gh_jid=8739460002"
+  },
+  "greenhouse:SpaceX:8741940002": {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883173+00:00",
+    "title": "Full Stack Software Engineer, Internal Systems",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8741940002?gh_jid=8741940002"
   },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
@@ -77344,6 +77548,12 @@
     "first_seen": "2026-08-14T15:48:13.492690+00:00",
     "title": "Sales Development Representative",
     "url": "https://stripe.com/jobs/search?gh_jid=6570253"
+  },
+  "greenhouse:Stripe:6570259": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158578+00:00",
+    "title": "Sales Development Representative (German fluency)",
+    "url": "https://stripe.com/jobs/search?gh_jid=6570259"
   },
   "greenhouse:Stripe:6606581": {
     "company": "Stripe",
@@ -80999,6 +81209,12 @@
     "title": "Strategic Account Executive, Platforms",
     "url": "https://stripe.com/jobs/search?gh_jid=8129954"
   },
+  "greenhouse:Stripe:8129956": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158552+00:00",
+    "title": "Account Executive, Enterprise Grower, Platforms (Israel)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8129956"
+  },
   "greenhouse:Stripe:8129958": {
     "company": "Stripe",
     "first_seen": "2026-08-20T11:23:14.629544+00:00",
@@ -81113,6 +81329,12 @@
     "title": "GTM Recruiter (Fixed Term)",
     "url": "https://stripe.com/jobs/search?gh_jid=8141450"
   },
+  "greenhouse:Stripe:8141453": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158575+00:00",
+    "title": "GTM Recruiter, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8141453"
+  },
   "greenhouse:Stripe:8142302": {
     "company": "Stripe",
     "first_seen": "2026-08-20T11:23:14.629565+00:00",
@@ -81143,6 +81365,12 @@
     "title": "Product Manager, Support Experience",
     "url": "https://stripe.com/jobs/search?gh_jid=8143563"
   },
+  "greenhouse:Stripe:8144212": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158586+00:00",
+    "title": "Solutions Architect, SMB (Presales)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144212"
+  },
   "greenhouse:Stripe:8144223": {
     "company": "Stripe",
     "first_seen": "2026-08-21T11:22:46.017986+00:00",
@@ -81167,6 +81395,12 @@
     "title": "GTM Strategy & Operations Analyst",
     "url": "https://stripe.com/jobs/search?gh_jid=8145119"
   },
+  "greenhouse:Stripe:8146053": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158571+00:00",
+    "title": "Global Partnerships Lead \u2014 Greater China, Hong Kong & Singapore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8146053"
+  },
   "greenhouse:Stripe:8146159": {
     "company": "Stripe",
     "first_seen": "2026-08-22T11:17:51.025255+00:00",
@@ -81178,6 +81412,18 @@
     "first_seen": "2026-08-22T11:17:51.025280+00:00",
     "title": "Staff Software Engineer, Startup Products",
     "url": "https://stripe.com/jobs/search?gh_jid=8146271"
+  },
+  "greenhouse:Stripe:8148731": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158581+00:00",
+    "title": "Sales Development Representative, Japan",
+    "url": "https://stripe.com/jobs/search?gh_jid=8148731"
+  },
+  "greenhouse:Stripe:8152145": {
+    "company": "Stripe",
+    "first_seen": "2026-08-24T11:24:13.158584+00:00",
+    "title": "Solutions Architect, Platforms (Presales)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8152145"
   },
   "greenhouse:Ursa Major:4347615005": {
     "company": "Ursa Major",
@@ -95303,6 +95549,12 @@
     "title": "Senior Manager, Enterprise Technology & Transformation \u2013 Millennium Space Systems",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Senior-Manager--Enterprise-Technology---Transformation---Millennium-Space-Systems_JR2026522777-1"
   },
+  "workday:Boeing:JR2026522791": {
+    "company": "Boeing",
+    "first_seen": "2026-08-24T11:22:55.643915+00:00",
+    "title": "Procurement Agent (Procurement Agent-General)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Gosport-UK/Procurement-Agent--Procurement-Agent-General-_JR2026522791-1"
+  },
   "workday:Boeing:JR2026522792": {
     "company": "Boeing",
     "first_seen": "2026-08-22T11:16:39.879591+00:00",
@@ -95327,11 +95579,23 @@
     "title": "Property Management Specialist \u2013 Millennium Space Systems",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Property-Management-Specialist---Millennium-Space-Systems_JR2026522867-1"
   },
+  "workday:Boeing:JR2026522884": {
+    "company": "Boeing",
+    "first_seen": "2026-08-24T11:22:55.643919+00:00",
+    "title": "ASIC / FPGA Design Verification Engineer \u2013 (Lead or Senior)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC---FPGA-Design-Verification-Engineer----Lead-or-Senior-_JR2026522884-1"
+  },
   "workday:Capital One:R216555": {
     "company": "Capital One",
     "first_seen": "2026-08-15T00:44:50.701779+00:00",
     "title": "Senior Manager, Strategy and Business Analysis",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Senior-Manager--Strategy-and-Business-Analysis_R216555"
+  },
+  "workday:Capital One:R217210": {
+    "company": "Capital One",
+    "first_seen": "2026-08-24T11:23:14.735119+00:00",
+    "title": "Sr. Analyst, Data Analysis",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Sr-Analyst--Data-Analysis_R217210"
   },
   "workday:Capital One:R219455": {
     "company": "Capital One",
@@ -95548,6 +95812,12 @@
     "first_seen": "2026-08-18T11:21:41.114456+00:00",
     "title": "Applied Researcher II (AI Foundations, LLM Core and Agentic AI)",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Applied-Researcher-II--AI-Foundations--LLM-Core-and-Agentic-AI-_R236842-1"
+  },
+  "workday:Capital One:R236894": {
+    "company": "Capital One",
+    "first_seen": "2026-08-24T11:23:14.735139+00:00",
+    "title": "Sr. Operations Representative",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Sr-Operations-Representative_R236894"
   },
   "workday:Capital One:R236901": {
     "company": "Capital One",
@@ -95854,6 +96124,12 @@
     "first_seen": "2026-08-15T00:44:50.702860+00:00",
     "title": "Network Compliance Senior Manager",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/London-Eng/Network-Compliance-Senior-Manager_R240766"
+  },
+  "workday:Capital One:R240778": {
+    "company": "Capital One",
+    "first_seen": "2026-08-24T11:23:14.735135+00:00",
+    "title": "Sr. Analyst, Data Analysis",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Alabang-Muntinlupa-City/Sr-Analyst--Data-Analysis_R240778"
   },
   "workday:Capital One:R240829": {
     "company": "Capital One",
@@ -108443,6 +108719,12 @@
     "title": "Investment Consultant - Relationship Manager",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Consultant---Relationship-Manager_JR042510-1"
   },
+  "workday:Morgan Stanley:JR042511": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260642+00:00",
+    "title": "Investment Banking Associate",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sydney-Australia/Investment-Banking-Associate_JR042511"
+  },
   "workday:Morgan Stanley:JR042513": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-22T11:17:41.168364+00:00",
@@ -108545,6 +108827,18 @@
     "title": "FSS-Legal Entity Control, Vice President, Corporate Controllers Reporting & Accounting",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/FSS-Legal-Entity-Control--Vice-President--Corporate-Controllers-Reporting---Accounting_JR042685"
   },
+  "workday:Morgan Stanley:JR042693": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260640+00:00",
+    "title": "Fund Accounting - Associate - ISG Operations",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/COMMERZ-III-OBEROI-GARDEN-CITY/Fund-Accounting---Associate---ISG-Operations_JR042693"
+  },
+  "workday:Morgan Stanley:JR042695": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260637+00:00",
+    "title": "Fund Accounting - Associate - ISG Operations",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/RMZ-Ecoworld---Campus-6A/Fund-Accounting---Associate---ISG-Operations_JR042695"
+  },
   "workday:Morgan Stanley:JR042716": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-22T11:17:41.168342+00:00",
@@ -108587,11 +108881,23 @@
     "title": "Data Governance, Vice President, Firm Risk Management",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Data-Governance--Vice-President--Firm-Risk-Management_JR042751"
   },
+  "workday:Morgan Stanley:JR042752": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260634+00:00",
+    "title": "Java Developer- Director-Software Engineer",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Java-Developer--Director-Software-Engineer_JR042752"
+  },
   "workday:Morgan Stanley:JR042776": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-22T11:17:41.168336+00:00",
     "title": "Institutional Equity Division \u2013 Director/VP, Fund Services - Documentation (New York/Purchase)",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Institutional-Equity-Division---Director-VP--Fund-Services---Documentation--New-York-Purchase-_JR042776-1"
+  },
+  "workday:Morgan Stanley:JR042806": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260621+00:00",
+    "title": "Institutional Equity Division \u2013 Associate/Vice President, Prime Brokerage Strats (Hong Kong)",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Hong-Kong-Hong-Kong/Institutional-Equity-Division---Associate-Vice-President--Prime-Brokerage-Strats--Hong-Kong-_JR042806"
   },
   "workday:Morgan Stanley:PT-JR005515": {
     "company": "Morgan Stanley",
@@ -110765,6 +111071,12 @@
     "title": "Senior Platform Engineer - Parametric",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Senior-Platform-Engineer---Parametric_PT-JR040706"
   },
+  "workday:Morgan Stanley:PT-JR040719": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260629+00:00",
+    "title": "Technology Management - Executive Director - CDRR",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Technology-Management---Executive-Director---CDRR_PT-JR040719-2"
+  },
   "workday:Morgan Stanley:PT-JR040727": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-15T00:45:48.722139+00:00",
@@ -111046,6 +111358,12 @@
     "first_seen": "2026-08-15T00:45:48.722095+00:00",
     "title": "Private Banker",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Menlo-Park-California-United-States-of-America/Private-Banker_PT-JR040959"
+  },
+  "workday:Morgan Stanley:PT-JR040967": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260624+00:00",
+    "title": "Data Product Owner, Snowflake, P4, VP",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Data-Product-Owner--Snowflake--P4--VP_PT-JR040967"
   },
   "workday:Morgan Stanley:PT-JR040976": {
     "company": "Morgan Stanley",
@@ -111695,6 +112013,12 @@
     "title": "KYC,Associate,Core Services",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/KYC-Associate-Core-Services_PT-JR041765-1"
   },
+  "workday:Morgan Stanley:PT-JR041767": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260632+00:00",
+    "title": "Third Party Risk Audit, Director,  Business Audit",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Third-Party-Risk-Audit--Director---Business-Audit_PT-JR041767"
+  },
   "workday:Morgan Stanley:PT-JR041784": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-15T00:45:48.721649+00:00",
@@ -111958,6 +112282,12 @@
     "first_seen": "2026-08-15T00:45:48.721501+00:00",
     "title": "Ultra-High Net-Worth Planning \u2013 Senior Equity Compensation Planner, Vice President",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/5251-DTC-Parkway--CO/Ultra-High-Net-Worth-Planning---Senior-Equity-Compensation-Planner--Vice-President_PT-JR042096"
+  },
+  "workday:Morgan Stanley:PT-JR042105": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260627+00:00",
+    "title": "Associate, Shared Services Banking Operations, Equity Settlements, Tokyo",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Tokyo-Japan/Associate--Shared-Services-Banking-Operations--Equity-Settlements--Tokyo_PT-JR042105"
   },
   "workday:Morgan Stanley:PT-JR042106": {
     "company": "Morgan Stanley",
@@ -112253,6 +112583,12 @@
     "title": "Product Sales Enablement Analyst, Investment Solutions, Analyst, Wealth Management",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Product-Sales-Enablement-Analyst--Investment-Solutions--Analyst--Wealth-Management_PT-JR042429"
   },
+  "workday:Morgan Stanley:PT-JR042433": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260617+00:00",
+    "title": "KYC - Executive Director - Operations",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/KYC---Executive-Director---Operations_PT-JR042433"
+  },
   "workday:Morgan Stanley:PT-JR042438": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-21T11:22:13.055240+00:00",
@@ -112378,5 +112714,11 @@
     "first_seen": "2026-08-22T11:17:41.168374+00:00",
     "title": "Hedge Fund Portfolio Manager, Outsourced Chief Investment Office (OCIO) - Vice President",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Hedge-Fund-Portfolio-Manager--Outsourced-Chief-Investment-Office--OCIO----Vice-President_PT-JR042733"
+  },
+  "workday:Morgan Stanley:PT-JR042809": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-08-24T11:24:06.260599+00:00",
+    "title": "Java Development Lead_Vice President_Software Engineering",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Mumbai-India/Java-Development-Lead-Vice-President-Software-Engineering_PT-JR042809"
   }
 }

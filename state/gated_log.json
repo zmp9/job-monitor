@@ -32502,5 +32502,61 @@
     "location": "North Kingstown, Rhode Island, USA",
     "title": "Electromechanical Techinican",
     "url": "https://jobs.ashbyhq.com/regent/1ef57221-5bc1-4e21-8243-47501ecdbcce"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-24T11:22:55.643896+00:00",
+    "key": "workday:Boeing:JR2026522791",
+    "location": "3 Locations",
+    "title": "Procurement Agent (Procurement Agent-General)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Gosport-UK/Procurement-Agent--Procurement-Agent-General-_JR2026522791-1"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883144+00:00",
+    "key": "greenhouse:SpaceX:8728551002",
+    "location": "Starbase, TX",
+    "title": "Avionics Wire Harness Technician (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8728551002?gh_jid=8728551002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883161+00:00",
+    "key": "greenhouse:SpaceX:8571902002",
+    "location": "Cape Canaveral, FL",
+    "title": "Candidate Specialist (Cape Canaveral)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8571902002?gh_jid=8571902002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-24T11:24:06.883165+00:00",
+    "key": "greenhouse:SpaceX:8728634002",
+    "location": "Starbase, TX",
+    "title": "Mechanical Engineer (Starship Structures)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8728634002?gh_jid=8728634002"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-24T11:24:12.140215+00:00",
+    "key": "greenhouse:Anduril Industries:5219632007",
+    "location": "Santa Ana, California, United States",
+    "title": "Supervisor, Manufacturing Operations, Connected Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219632007?gh_jid=5219632007"
+  },
+  {
+    "company": "Databricks",
+    "first_seen": "2026-08-24T11:24:12.914644+00:00",
+    "key": "greenhouse:Databricks:8701067002",
+    "location": "Belgrade, Serbia",
+    "title": "Executive Assistant II",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8701067002"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-24T11:24:15.958753+00:00",
+    "key": "ashby:OpenAI:ece054ea-ac75-4b8a-bdbf-5cdf19368312",
+    "location": "San Francisco",
+    "title": "Manufacturing Quality Engineer \u2013 Datacenter Infrastructure",
+    "url": "https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312"
   }
 ]
