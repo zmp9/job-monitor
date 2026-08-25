@@ -1,9 +1,10 @@
 # Open matches
 
-_97 postings scoring >= 45, of 16678 scanned. Updated 2026-08-24 11:24 UTC._
+_97 postings scoring >= 45, of 16712 scanned. Updated 2026-08-25 11:24 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
+| 58 | [Marketing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7968519003) | Zipline | South San Francisco, California, USA |
 | 84 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | AQR Capital Management | Greenwich, CT |
@@ -85,7 +86,6 @@ _97 postings scoring >= 45, of 16678 scanned. Updated 2026-08-24 11:24 UTC._
 | 50 | [Boeing Summer 2027 Internship Program (Paid) - Sales and Marketing](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Boeing-Summer-2027-Internship-Program--Paid----Sales-and-Marketing_JR2026518830-1) | Boeing | 10 Locations |
 | 50 | [Boeing Summer 2027 Internship Program (Paid) – Information Digital Technology & Security (IDT&S)](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Information-Digital-Technology---Security--IDT-S-_JR2026520791-1) | Boeing | 17 Locations |
 | 50 | [Credit Analyst - Spring/Summer 2027 - Business Cards & Payments - Hybrid](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Credit-Analyst---Spring-Summer-2027---Business-Cards---Payments---Hybrid_R249352-1) | Capital One | 2 Locations |
-| 50 | [Current Master's - Data Science Internship - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Current-Master-s---Data-Science-Internship---Summer-2027_R244285-1) | Capital One | 8 Locations |
 | 50 | [Spring 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) | SpaceX | Flexible - Any SpaceX Site |
 | 50 | [Spring 2027 Graduate Engineer Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621749002?gh_jid=8621749002) | SpaceX | Flexible - Any SpaceX Site |
 | 50 | [Summer 2027 Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) | SpaceX | Flexible - Any SpaceX Site |
@@ -104,12 +104,12 @@ _97 postings scoring >= 45, of 16678 scanned. Updated 2026-08-24 11:24 UTC._
 
 ## By company
 
-- **Zipline** (42) — top [Supply Chain Business Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891225003) at 66
+- **Zipline** (43) — top [Marketing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7968519003) at 58
 - **Boeing** (15) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 58
 - **AQR Capital Management** (10) — top [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) at 84
 - **SpaceX** (6) — top [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) at 58
-- **Capital One** (4) — top [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) at 58
 - **Astranis** (4) — top [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) at 58
+- **Capital One** (3) — top [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) at 58
 - **AlixPartners** (3) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 51
 - **Belvedere Trading** (2) — top [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) at 66
 - **DRW** (2) — top [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) at 51
