@@ -1,10 +1,10 @@
 # Open matches
 
-_97 postings scoring >= 45, of 16712 scanned. Updated 2026-08-25 11:24 UTC._
+_97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 58 | [Marketing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7968519003) | Zipline | South San Francisco, California, USA |
+| 66 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
 | 84 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | AQR Capital Management | Greenwich, CT |
@@ -38,6 +38,7 @@ _97 postings scoring >= 45, of 16712 scanned. Updated 2026-08-25 11:24 UTC._
 | 58 | [Global Supply Management Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7891152003) | Zipline | South San Francisco, California, USA |
 | 58 | [Hardware Test Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7894349003) | Zipline | South San Francisco, California, USA |
 | 58 | [Hardware Test Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7903483003) | Zipline | South San Francisco, California, USA |
+| 58 | [Marketing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7968519003) | Zipline | South San Francisco, California, USA |
 | 58 | [Material Planning Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891219003) | Zipline | South San Francisco, California, USA |
 | 58 | [Material Planning Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7891224003) | Zipline | South San Francisco, California, USA |
 | 58 | [Materials Engineer Intern (Spring & Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7905428003) | Zipline | South San Francisco, California, USA |
@@ -95,7 +96,6 @@ _97 postings scoring >= 45, of 16712 scanned. Updated 2026-08-25 11:24 UTC._
 | 50 | [Construction Management Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7894561003) | Zipline | Dallas-Fort Worth, Texas, USA |
 | 50 | [Construction Management Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904363003) | Zipline | Dallas-Fort Worth, Texas, USA |
 | 50 | [Partner Success Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904954003) | Zipline | Dallas-Fort Worth, Texas, USA |
-| 50 | [Subject Matter Expert, Investment Banking](https://jobs.ashbyhq.com/openai/4705a853-46e6-4f91-884c-61e54de91b0e) | OpenAI | San Francisco |
 | 47 | [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) | Palantir | New York, NY |
 | 47 | [Product Designer, Internship - US Government](https://jobs.lever.co/palantir/8f7bbffa-92aa-4d25-9586-943b3322a27d) | Palantir | New York, NY |
 | 46 | [Business Operations](https://jobs.ashbyhq.com/plaid/6b08e0e9-2159-4002-bf54-b30dd5bda80c) | Plaid | San Francisco HQ |
@@ -104,18 +104,18 @@ _97 postings scoring >= 45, of 16712 scanned. Updated 2026-08-25 11:24 UTC._
 
 ## By company
 
-- **Zipline** (43) — top [Marketing Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7968519003) at 58
+- **Zipline** (43) — top [Supply Chain Business Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891225003) at 66
 - **Boeing** (15) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 58
-- **AQR Capital Management** (10) — top [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) at 84
+- **AQR Capital Management** (11) — top [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) at 66
 - **SpaceX** (6) — top [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) at 58
 - **Astranis** (4) — top [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) at 58
 - **Capital One** (3) — top [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) at 58
 - **AlixPartners** (3) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 51
 - **Belvedere Trading** (2) — top [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) at 66
 - **DRW** (2) — top [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) at 51
-- **OpenAI** (2) — top [Subject Matter Expert, Investment Banking](https://jobs.ashbyhq.com/openai/4705a853-46e6-4f91-884c-61e54de91b0e) at 50
 - **Palantir** (2) — top [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) at 47
 - **Plaid** (2) — top [Business Operations](https://jobs.ashbyhq.com/plaid/6b08e0e9-2159-4002-bf54-b30dd5bda80c) at 46
 - **Notion** (1) — top [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) at 62
 - **Old Mission Capital** (1) — top [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) at 58
 - **Databricks** (1) — top [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) at 58
+- **OpenAI** (1) — top [M&A Integration](https://jobs.ashbyhq.com/openai/db3593d6-ac72-4d3e-b15c-8469e972a99a) at 46

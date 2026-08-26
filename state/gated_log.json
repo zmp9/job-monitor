@@ -32974,5 +32974,669 @@
     "location": "San Francisco",
     "title": "People Research Scientist",
     "url": "https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e"
+  },
+  {
+    "company": "AQR Capital Management",
+    "first_seen": "2026-08-26T11:23:51.875235+00:00",
+    "key": "greenhouse:AQR Capital Management:8112443",
+    "location": "Greenwich, CT",
+    "title": "Salesforce Portal Support",
+    "url": "https://careers.aqr.com/jobs?gh_jid=8112443&gh_jid=8112443"
+  },
+  {
+    "company": "Point72",
+    "first_seen": "2026-08-26T11:23:52.147465+00:00",
+    "key": "greenhouse:Point72:8729688002",
+    "location": "New York, NY",
+    "title": "AI Instructor, Point72 Academy",
+    "url": "https://boards.greenhouse.io/point72/jobs/8729688002?gh_jid=8729688002"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496213+00:00",
+    "key": "workday:Boeing:JR2026520339",
+    "location": "7 Locations",
+    "title": "Systems Engineer (Systems Engineering Engineer-General)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Systems-Engineer--Systems-Engineering-Engineer-General-_JR2026520339-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496235+00:00",
+    "key": "workday:Boeing:JR2026516392",
+    "location": "USA - NAS JRB New Orleans, LA",
+    "title": "Boeing Global Services Mid - Level Quality Production Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---NAS-JRB-New-Orleans-LA/Boeing-Global-Services-Mid---Level-Quality-Production-Specialist_JR2026516392-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496239+00:00",
+    "key": "workday:Boeing:JR2026519289",
+    "location": "USA - Everett, WA",
+    "title": "Procurement Agent",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Procurement-Agent_JR2026519289-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496242+00:00",
+    "key": "workday:Boeing:JR2026517183",
+    "location": "USA - Edwards AFB, CA",
+    "title": "Experienced Project Management Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Edwards-AFB-CA/Project-Management-Specialist--General-Project-Mgmt-_JR2026517183-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496245+00:00",
+    "key": "workday:Boeing:JR2026522653",
+    "location": "USA - Hazelwood, MO",
+    "title": "Supply Base Management Spec (Supply Base Mgmt)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Supply-Base-Management-Spec--Supply-Base-Mgmt-_JR2026522653-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496248+00:00",
+    "key": "workday:Boeing:JR2026522650",
+    "location": "USA - Hazelwood, MO",
+    "title": "Supply Base Management Spec (Supply Base Mgmt)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Supply-Base-Management-Spec--Supply-Base-Mgmt-_JR2026522650-3"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496251+00:00",
+    "key": "workday:Boeing:JR2026522482",
+    "location": "USA - Tukwila, WA",
+    "title": "Product Review Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Product-Review-Engineer_JR2026522482"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496254+00:00",
+    "key": "workday:Boeing:JR2026505731",
+    "location": "USA - Swansea, IL",
+    "title": "Cloud Operations System Administrator",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Swansea-IL/Cloud-Operations-System-Administrator_JR2026505731-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496257+00:00",
+    "key": "workday:Boeing:JR2026517648",
+    "location": "USA - Ridley Park, PA",
+    "title": "Experienced Test & Evaluation Engineer (Test Instrumentation)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Experienced-Test---Evaluation-Engineer--Test-Instrumentation-_JR2026517648-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496260+00:00",
+    "key": "workday:Boeing:JR2026522903",
+    "location": "USA - Enfield, CT",
+    "title": "Experienced Quality Inspector",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Enfield-CT/Experienced-Quality-Inspector_JR2026522903-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496263+00:00",
+    "key": "workday:Boeing:JR2026522183",
+    "location": "USA - Berkeley, MO",
+    "title": "Vehicle Management System (VMS) Hardware Engineer (Experienced)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Vehicle-Management-System--VMS--Hardware-Engineer--Experienced-_JR2026522183-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496266+00:00",
+    "key": "workday:Boeing:JR2026522962",
+    "location": "USA - El Segundo, CA",
+    "title": "Electrical Ground Support Equipment (EGSE) Engineer - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Electrical-Ground-Support-Equipment--EGSE--Engineer---Millennium-Space-Systems_JR2026522962-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496269+00:00",
+    "key": "workday:Boeing:JR2026499462",
+    "location": "USA - Tukwila, WA",
+    "title": "Technical Integration Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Technical-Integration-Engineer_JR2026499462-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496272+00:00",
+    "key": "workday:Boeing:JR2026511201",
+    "location": "USA - Tukwila, WA",
+    "title": "Engineering Multi-Skill Mgr (Eng Multi-Skill LDR Management)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Engineering-Multi-Skill-Mgr--Eng-Multi-Skill-LDR-Management-_JR2026511201-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496275+00:00",
+    "key": "workday:Boeing:JR2026517073",
+    "location": "USA - Edwards AFB, CA",
+    "title": "Experienced Test & Evaluation Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Edwards-AFB-CA/Experienced-Test---Evaluation-Engineer_JR2026517073-2"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496278+00:00",
+    "key": "workday:Boeing:JR2026523034",
+    "location": "2 Locations",
+    "title": "Support Coordinator",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Support-Coordinator_JR2026523034"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496280+00:00",
+    "key": "workday:Boeing:JR2026500059",
+    "location": "USA - Tukwila, WA",
+    "title": "Wire Installation Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Wire-Installation-Engineer_JR2026500059-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496283+00:00",
+    "key": "workday:Boeing:JR2026519839",
+    "location": "USA - Kennedy Space Center, FL",
+    "title": "Experienced Facilities Plant Maintenance Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Kennedy-Space-Center-FL/Experienced-Facilities-Plant-Maintenance-Specialist_JR2026519839-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496286+00:00",
+    "key": "workday:Boeing:JR2026516430",
+    "location": "USA - Berkeley, MO",
+    "title": "Consultant Measurement Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Consultant-Measurement-Engineer_JR2026516430-1"
+  },
+  {
+    "company": "Boeing",
+    "first_seen": "2026-08-26T11:24:25.496289+00:00",
+    "key": "workday:Boeing:JR2026510703",
+    "location": "USA - Berkeley, MO",
+    "title": "Flight Operations Mechanic",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Flight-Operations-Mechanic_JR2026510703-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-26T11:24:45.487254+00:00",
+    "key": "workday:Capital One:R999111",
+    "location": "3 Locations",
+    "title": "Distinguished Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R999111-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-26T11:24:45.487273+00:00",
+    "key": "workday:Capital One:R249941",
+    "location": "3 Locations",
+    "title": "Distinguished Engineer (Decisioning Platform)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer--Decisioning-Platform-_R249941-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-26T11:24:45.487276+00:00",
+    "key": "workday:Capital One:R233212",
+    "location": "6 Locations",
+    "title": "Distinguished AI Engineer",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-AI-Engineer_R233212-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-26T11:24:45.487279+00:00",
+    "key": "workday:Capital One:R999069",
+    "location": "Astoria, NY",
+    "title": "Part Time Branch Ambassador - Astoria-Broadway",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Astoria-NY/Part-Time-Branch-Ambassador---Astoria-Broadway_R999069-1"
+  },
+  {
+    "company": "Capital One",
+    "first_seen": "2026-08-26T11:24:45.487282+00:00",
+    "key": "workday:Capital One:R999127",
+    "location": "Brooklyn, NY",
+    "title": "Part Time Branch Ambassador, Brooklyn North",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Brooklyn-NY/Part-Time-Branch-Ambassador--Brooklyn-North_R999127-1"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674357+00:00",
+    "key": "greenhouse:SpaceX:8676188002",
+    "location": "McGregor, TX",
+    "title": "Apprentice Controls Technician",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8676188002?gh_jid=8676188002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674377+00:00",
+    "key": "greenhouse:SpaceX:8748897002",
+    "location": "Hawthorne, CA",
+    "title": "Avionics Development Specialist",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748897002?gh_jid=8748897002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674381+00:00",
+    "key": "greenhouse:SpaceX:8748902002",
+    "location": "Hawthorne, CA",
+    "title": "Avionics Development Technician",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748902002?gh_jid=8748902002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674385+00:00",
+    "key": "greenhouse:SpaceX:8748882002",
+    "location": "Hawthorne, CA",
+    "title": "Avionics System Engineer, HITL (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748882002?gh_jid=8748882002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674388+00:00",
+    "key": "greenhouse:SpaceX:8743243002",
+    "location": "Redmond, WA",
+    "title": "Build Engineer (Enterprise Products)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8743243002?gh_jid=8743243002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674391+00:00",
+    "key": "greenhouse:SpaceX:8738577002",
+    "location": "Hawthorne, CA",
+    "title": "Build Reliability Engineer (Falcon/Dragon)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8738577002?gh_jid=8738577002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674394+00:00",
+    "key": "greenhouse:SpaceX:8734515002",
+    "location": "Starbase, TX",
+    "title": "Construction Superintendent",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8734515002?gh_jid=8734515002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674397+00:00",
+    "key": "greenhouse:SpaceX:8748827002",
+    "location": "Bastrop, TX",
+    "title": "Data Scientist, Hardware Reliability (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748827002?gh_jid=8748827002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674400+00:00",
+    "key": "greenhouse:SpaceX:8747673002",
+    "location": "Redmond, WA",
+    "title": "Electrical Hardware Engineer - Optics, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747673002?gh_jid=8747673002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674403+00:00",
+    "key": "greenhouse:SpaceX:8747041002",
+    "location": "Redmond, WA",
+    "title": "Electrical On-orbit Reliability Engineer, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747041002?gh_jid=8747041002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674406+00:00",
+    "key": "greenhouse:SpaceX:8747636002",
+    "location": "Cape Canaveral, FL",
+    "title": "Electrician, Facilities (Multiple Shifts)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747636002?gh_jid=8747636002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674408+00:00",
+    "key": "greenhouse:SpaceX:8748535002",
+    "location": "Hawthorne, CA",
+    "title": "Manufacturing Engineer, Raptor Turbomachinery",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748535002?gh_jid=8748535002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674411+00:00",
+    "key": "greenhouse:SpaceX:8747961002",
+    "location": "Redmond, WA",
+    "title": "Mechanical Engineer - Optical, Satellites (Starlink)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747961002?gh_jid=8747961002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674414+00:00",
+    "key": "greenhouse:SpaceX:8748892002",
+    "location": "Hawthorne, CA",
+    "title": "NDE Level II Inspector - Multiple Shifts",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748892002?gh_jid=8748892002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674417+00:00",
+    "key": "greenhouse:SpaceX:8748856002",
+    "location": "Hawthorne, CA",
+    "title": "Optical Engineer (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8748856002?gh_jid=8748856002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674420+00:00",
+    "key": "greenhouse:SpaceX:8743978002",
+    "location": "Memphis, TN",
+    "title": "Physical Security Hardware Specialist",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8743978002?gh_jid=8743978002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674422+00:00",
+    "key": "greenhouse:SpaceX:8743990002",
+    "location": "Memphis, TN",
+    "title": "Security Operator 3",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8743990002?gh_jid=8743990002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674425+00:00",
+    "key": "greenhouse:SpaceX:8747668002",
+    "location": "Woodinville, WA",
+    "title": "Supplier Quality Specialist (Starlink Aviation)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747668002?gh_jid=8747668002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674428+00:00",
+    "key": "greenhouse:SpaceX:8747613002",
+    "location": "McGregor, TX",
+    "title": "Test Engineer (Starship Development)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8747613002?gh_jid=8747613002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674431+00:00",
+    "key": "greenhouse:SpaceX:8696461002",
+    "location": "Starbase, TX",
+    "title": "Test Specialist Supervisor (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8696461002?gh_jid=8696461002"
+  },
+  {
+    "company": "SpaceX",
+    "first_seen": "2026-08-26T11:25:42.674433+00:00",
+    "key": "greenhouse:SpaceX:8716925002",
+    "location": "Starbase, TX",
+    "title": "Thermal Control and Life Support Hardware Engineer (Crew Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8716925002?gh_jid=8716925002"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499774+00:00",
+    "key": "greenhouse:Rocket Lab:7964886003",
+    "location": "Long Beach, CA",
+    "title": "Avionics Manufacturing Technician II - A Shift",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7964886003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499793+00:00",
+    "key": "greenhouse:Rocket Lab:7891331003",
+    "location": "Auckland, NZ",
+    "title": "Development Engineer",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7891331003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499797+00:00",
+    "key": "greenhouse:Rocket Lab:7453623003",
+    "location": "Stennis Space Center, MS",
+    "title": "Electrical Technician - All levels",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7453623003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499801+00:00",
+    "key": "greenhouse:Rocket Lab:7750130003",
+    "location": "Long Beach, CA",
+    "title": "Inventory Coordinator II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7750130003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499804+00:00",
+    "key": "greenhouse:Rocket Lab:7968936003",
+    "location": "Auckland, NZ",
+    "title": "IT Systems Engineer II - Launch (Linux)",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7968936003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499807+00:00",
+    "key": "greenhouse:Rocket Lab:7954195003",
+    "location": "Albuquerque, NM",
+    "title": "Production Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7954195003"
+  },
+  {
+    "company": "Rocket Lab",
+    "first_seen": "2026-08-26T11:25:43.499810+00:00",
+    "key": "greenhouse:Rocket Lab:7964880003",
+    "location": "Long Beach, CA",
+    "title": "Test Technician III - A Shift",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7964880003"
+  },
+  {
+    "company": "Zipline",
+    "first_seen": "2026-08-26T11:25:43.664928+00:00",
+    "key": "greenhouse:Zipline:7974959003",
+    "location": "South San Francisco, California, USA",
+    "title": "Ground Test Operator",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7974959003"
+  },
+  {
+    "company": "Astranis",
+    "first_seen": "2026-08-26T11:25:43.826406+00:00",
+    "key": "greenhouse:Astranis:4594971006",
+    "location": "San Francisco",
+    "title": "Technical Recruiter (Fixed Term)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4594971006"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978153+00:00",
+    "key": "greenhouse:Anduril Industries:5220366007",
+    "location": "McHenry, Mississippi, United States",
+    "title": "Dangerous Goods Logistics Driver",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220366007?gh_jid=5220366007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978176+00:00",
+    "key": "greenhouse:Anduril Industries:5087180007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Electro-Mechanical Test Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5087180007?gh_jid=5087180007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978180+00:00",
+    "key": "greenhouse:Anduril Industries:5221522007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Field Operations Trainer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221522007?gh_jid=5221522007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978184+00:00",
+    "key": "greenhouse:Anduril Industries:5221278007",
+    "location": "Quincy, Massachusetts, United States",
+    "title": "Field Reliability Engineer - Undersea Reconnaissance & Strike",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221278007?gh_jid=5221278007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978187+00:00",
+    "key": "greenhouse:Anduril Industries:5221778007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Flight Test Instrumentation Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221778007?gh_jid=5221778007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978189+00:00",
+    "key": "greenhouse:Anduril Industries:5220401007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Fuel Systems Engineer, Air Vehicles",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220401007?gh_jid=5220401007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978193+00:00",
+    "key": "greenhouse:Anduril Industries:5162943007",
+    "location": "Santa Ana, California, United States",
+    "title": "Inventory Specialist",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162943007?gh_jid=5162943007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978195+00:00",
+    "key": "greenhouse:Anduril Industries:5221259007",
+    "location": "Irvine, California, United States",
+    "title": "Manufacturing Engineer, Electromagnetic Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221259007?gh_jid=5221259007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978198+00:00",
+    "key": "greenhouse:Anduril Industries:5221266007",
+    "location": "Irvine, California, United States",
+    "title": "Manufacturing Test Engineer, Electronic Warfare",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221266007?gh_jid=5221266007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978201+00:00",
+    "key": "greenhouse:Anduril Industries:5135784007",
+    "location": "Quonset, Rhode Island, United States",
+    "title": "NPI Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5135784007?gh_jid=5135784007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978204+00:00",
+    "key": "greenhouse:Anduril Industries:5220410007",
+    "location": "Costa Mesa, California, United States",
+    "title": "PCB Layout Engineer, Air Dominance and Strike",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5220410007?gh_jid=5220410007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978207+00:00",
+    "key": "greenhouse:Anduril Industries:5221272007",
+    "location": "Waltham, Massachusetts, United States",
+    "title": "Technical Operations Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221272007?gh_jid=5221272007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978210+00:00",
+    "key": "greenhouse:Anduril Industries:5215166007",
+    "location": "McHenry, Mississippi, United States",
+    "title": "Technical Writer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215166007?gh_jid=5215166007"
+  },
+  {
+    "company": "Anduril Industries",
+    "first_seen": "2026-08-26T11:25:58.978213+00:00",
+    "key": "greenhouse:Anduril Industries:5221918007",
+    "location": "Costa Mesa, California, United States",
+    "title": "Test Technician",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221918007?gh_jid=5221918007"
+  },
+  {
+    "company": "Saronic",
+    "first_seen": "2026-08-26T11:25:59.594686+00:00",
+    "key": "ashby:Saronic:e9621c11-6d9d-41fd-bc40-a09db0ecb35b",
+    "location": "Franklin, LA",
+    "title": "Inventory Control Specialist",
+    "url": "https://jobs.ashbyhq.com/saronic/e9621c11-6d9d-41fd-bc40-a09db0ecb35b"
+  },
+  {
+    "company": "Databricks",
+    "first_seen": "2026-08-26T11:25:59.845329+00:00",
+    "key": "greenhouse:Databricks:8631661002",
+    "location": "Maryland; Philadelphia, Pennsylvania",
+    "title": "Enterprise Account Executive, State and Local",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8631661002"
+  },
+  {
+    "company": "Stripe",
+    "first_seen": "2026-08-26T11:26:00.550452+00:00",
+    "key": "greenhouse:Stripe:8156996",
+    "location": "Chicago",
+    "title": "Account Executive, SMB (Grower)",
+    "url": "https://stripe.com/jobs/search?gh_jid=8156996"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-26T11:26:00.995846+00:00",
+    "key": "greenhouse:Anthropic:5390966008",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
+    "title": "AI Engineer, GTM Claudification",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-26T11:26:00.995866+00:00",
+    "key": "greenhouse:Anthropic:5391499008",
+    "location": "Ontario, CAN",
+    "title": "Canada Public Sector Account Executive",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391499008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-26T11:26:00.995870+00:00",
+    "key": "greenhouse:Anthropic:5361411008",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "title": "Platform Security Engineer, DRTM / Secure Launch",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361411008"
+  },
+  {
+    "company": "Anthropic",
+    "first_seen": "2026-08-26T11:26:00.995874+00:00",
+    "key": "greenhouse:Anthropic:5404390008",
+    "location": "San Francisco, CA | Washington, DC",
+    "title": "Regulatory Investigations Counsel",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5404390008"
+  },
+  {
+    "company": "Figma",
+    "first_seen": "2026-08-26T11:26:01.163554+00:00",
+    "key": "greenhouse:Figma:6158162004",
+    "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+    "title": "Forward Deployed Engineer",
+    "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004"
+  },
+  {
+    "company": "Samsara",
+    "first_seen": "2026-08-26T11:26:01.741590+00:00",
+    "key": "greenhouse:Samsara:7612462",
+    "location": "Remote - US",
+    "title": "Account Executive, Commercial",
+    "url": "https://www.samsara.com/company/careers/roles/7612462?gh_jid=7612462"
+  },
+  {
+    "company": "Samsara",
+    "first_seen": "2026-08-26T11:26:01.741609+00:00",
+    "key": "greenhouse:Samsara:8120538",
+    "location": "Remote - US",
+    "title": "Enterprise Sales Engineer - Public Sector - East",
+    "url": "https://www.samsara.com/company/careers/roles/8120538?gh_jid=8120538"
+  },
+  {
+    "company": "Instacart",
+    "first_seen": "2026-08-26T11:26:02.435435+00:00",
+    "key": "greenhouse:Instacart:8157774",
+    "location": "United States - Remote",
+    "title": "Bilingual Customer Experience Specialist",
+    "url": "https://instacart.careers/job/?gh_jid=8157774"
+  },
+  {
+    "company": "OpenAI",
+    "first_seen": "2026-08-26T11:26:04.438625+00:00",
+    "key": "ashby:OpenAI:c15d4e1b-adcf-4809-91d5-17ba6b789092",
+    "location": "San Francisco",
+    "title": "Software Security Architect, Operating Systems | Consumer Devices",
+    "url": "https://jobs.ashbyhq.com/openai/c15d4e1b-adcf-4809-91d5-17ba6b789092"
   }
 ]
