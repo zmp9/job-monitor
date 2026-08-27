@@ -1,10 +1,13 @@
 # Open matches
 
-_97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
+_100 postings scoring >= 45, of 16832 scanned. Updated 2026-08-27 20:55 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 66 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
+| 66 | [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) | AQR Capital Management | Greenwich, CT |
+| 58 | [Embedded Engineering Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7978843003) | Zipline | South San Francisco, California, USA |
+| 58 | [Marketing Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7968933003) | Zipline | South San Francisco, California, USA |
+| 58 | [CAD Engineer Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704755006) | Astranis | San Francisco |
 | 84 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Engineering Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647) | AQR Capital Management | Greenwich, CT |
@@ -15,6 +18,7 @@ _97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
 | 66 | [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
 | 66 | [2027 Risk Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) | AQR Capital Management | Greenwich, CT |
+| 66 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
 | 66 | [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) | Belvedere Trading | Chicago, Illinois |
 | 66 | [Quantitative Trading Intern - Winter Quarter 2027](https://jobs.lever.co/belvederetrading/8f06f221-8777-4a4d-b035-40882db5f4a0) | Belvedere Trading | Chicago, Illinois |
 | 66 | [Supply Chain Business Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891225003) | Zipline | South San Francisco, California, USA |
@@ -22,7 +26,6 @@ _97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
 | 62 | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Notion | San Francisco, California |
 | 58 | [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) | Old Mission Capital | Chicago, IL, United States |
 | 58 | [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) | Boeing | USA - Everett, WA |
-| 58 | [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) | Capital One | McLean, VA |
 | 58 | [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | Capital One | 5 Locations |
 | 58 | [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) | SpaceX | Flexible - Any SpaceX Site |
 | 58 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
@@ -60,9 +63,9 @@ _97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
 | 58 | [Technical Program Manager Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7904446003) | Zipline | South San Francisco, California, USA |
 | 58 | [Technical Program Manager Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7904471003) | Zipline | South San Francisco, California, USA |
 | 58 | [Video Production and Social Media Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7896577003) | Zipline | South San Francisco, California, USA |
-| 58 | [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | Astranis | San Francisco |
-| 58 | [CAD Engineer/Librarian Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | Astranis | San Francisco |
-| 58 | [CAD Engineer/Librarian Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704748006) | Astranis | San Francisco |
+| 58 | [CAD Engineer Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) | Astranis | San Francisco |
+| 58 | [CAD Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704742006) | Astranis | San Francisco |
+| 58 | [CAD Engineer Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704748006) | Astranis | San Francisco |
 | 58 | [Mechanical Associate Engineer (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704620006) | Astranis | San Francisco |
 | 58 | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Databricks | Bellevue, Washington; Mountain View, California; San Francisco, California |
 | 54 | [Boeing Summer 2027 Internship Program (Paid) – Data Analytics Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1) | Boeing | 30 Locations |
@@ -104,14 +107,14 @@ _97 postings scoring >= 45, of 16724 scanned. Updated 2026-08-26 11:26 UTC._
 
 ## By company
 
-- **Zipline** (43) — top [Supply Chain Business Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7891225003) at 66
+- **Zipline** (45) — top [Embedded Engineering Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7978843003) at 58
 - **Boeing** (15) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 58
-- **AQR Capital Management** (11) — top [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) at 66
+- **AQR Capital Management** (12) — top [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) at 66
 - **SpaceX** (6) — top [Spring 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621770002?gh_jid=8621770002) at 58
-- **Astranis** (4) — top [CAD Engineer/Librarian Intern (Spring 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704740006) at 58
-- **Capital One** (3) — top [Strategy Consulting Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1) at 58
+- **Astranis** (5) — top [CAD Engineer Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4704755006) at 58
 - **AlixPartners** (3) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 51
 - **Belvedere Trading** (2) — top [Quantitative Trading Intern - Summer 2027](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab) at 66
+- **Capital One** (2) — top [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) at 58
 - **DRW** (2) — top [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) at 51
 - **Palantir** (2) — top [Product Designer, Internship](https://jobs.lever.co/palantir/1a935143-e857-480c-bc5a-ad625d754eb6) at 47
 - **Plaid** (2) — top [Business Operations](https://jobs.ashbyhq.com/plaid/6b08e0e9-2159-4002-bf54-b30dd5bda80c) at 46
