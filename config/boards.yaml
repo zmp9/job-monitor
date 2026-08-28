@@ -79,3 +79,51 @@ boards:
   - {provider: ashby,      slug: vanta,      company: Vanta}
   - {provider: ashby,      slug: benchling,  company: Benchling}
   - {provider: ashby,      slug: linear,     company: Linear}
+
+  # --- added 2026-08-27 from firms_job_monitor.csv (148 firms probed) ---
+  # Every slug below was probed live AND identity-verified: the board's own name
+  # or its posting titles were checked against the firm. Slug guessing alone
+  # produced real collisions — `bcg` is "Bohen Consulting Group", `archer` is
+  # "Archer Veterinary Clinic", and `general` is a shared "General Interest"
+  # board that matched both General Dynamics and General Motors. All rejected.
+  #
+  # The other 86 firms on that list have no public board API — see README.
+
+  # AI / frontier
+  - {provider: ashby,      slug: perplexity, company: Perplexity}
+  - {provider: ashby,      slug: cohere,     company: Cohere}
+  - {provider: ashby,      slug: harvey,     company: Harvey}
+  - {provider: ashby,      slug: sierra,     company: Sierra}
+
+  # enterprise / SaaS
+  - {provider: ashby,      slug: snowflake,  company: Snowflake}
+  - {provider: greenhouse, slug: vercel,     company: Vercel}
+  - {provider: greenhouse, slug: faire,      company: Faire}
+  - {provider: ashby,      slug: airwallex,  company: Airwallex}
+
+  # aerospace
+  - {provider: greenhouse, slug: relativity, company: Relativity Space}
+  - {provider: workday,    slug: "wisk/wd108/Wisk_Careers", company: Wisk Aero}
+
+  # financial services — public Workday JSON, not a login-gated portal
+  - {provider: workday, slug: "citi/wd5/2",                      company: Citi}
+  - {provider: workday, slug: "mastercard/wd1/CorporateCareers", company: Mastercard}
+  - {provider: workday, slug: "aig/wd1/aig",                     company: AIG}
+  - {provider: workday, slug: "pru/wd5/Careers",                 company: Prudential Financial}
+
+  # consulting
+  - {provider: workday, slug: "accenture/wd103/AccentureCareers", company: Accenture}
+
+  # healthcare / pharma
+  - {provider: workday, slug: "jj/wd5/JJ",              company: Johnson & Johnson}
+  - {provider: workday, slug: "msd/wd5/SearchJobs",     company: Merck}
+  - {provider: workday, slug: "pfizer/wd1/PfizerCareers", company: Pfizer}
+  - {provider: workday, slug: "cigna/wd5/cignacareers", company: Cigna}
+  - {provider: workday, slug: "elevancehealth/wd1/ANT", company: Elevance Health}
+
+  # consumer / retail / telecom
+  - {provider: workday, slug: "nike/wd1/nke",                 company: Nike}
+  - {provider: workday, slug: "target/wd5/targetcareers",     company: Target}
+  - {provider: workday, slug: "homedepot/wd5/CareerDepot",    company: Home Depot}
+  - {provider: workday, slug: "att/wd1/ATTGeneral",           company: AT&T}
+  - {provider: workday, slug: "comcast/wd115/Comcast_Careers", company: Comcast}

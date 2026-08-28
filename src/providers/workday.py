@@ -24,6 +24,7 @@ Limitations worth knowing:
   - `postedOn` is human text ("Posted Today", "Posted 30+ Days Ago"), not a date.
 """
 import re
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
 from .base import Posting
@@ -31,6 +32,19 @@ from ..http import get_json_post
 
 PAGE = 20            # server-side maximum; larger values 400
 MAX_PAGES = 60       # bound one board to ~1200 postings per run
+
+# Server-side `searchText` looked like the way to skip pulling 2000 postings to
+# keep 40, but it is a fuzzy substring match, not a filter: searchText="intern"
+# on Citi returns "S.V.P. International LFO" and "International Data Strategy",
+# and `total` stays 2000 either way. Same trap the keyword matcher documents —
+# 'intern' hitting 'International'. So boards are still fetched whole, and the
+# cost is paid with concurrency instead. Kept as a parameter for callers that
+# want it; the default asks for everything.
+SEARCH_TERMS = [""]
+
+# One request is ~2s and offsets are deterministic once the first page reports
+# `total`, so the remaining pages are fetched together rather than in series.
+PAGE_WORKERS = 8
 
 
 def _parse_slug(slug: str) -> tuple[str, str, str]:
@@ -64,45 +78,61 @@ def _posted_at(text: str) -> str | None:
     return None
 
 
-def fetch(slug: str, company: str, with_content: bool = False) -> list[Posting]:
+def fetch(slug: str, company: str, with_content: bool = False,
+          search_terms: list[str] | None = None) -> list[Posting]:
+    out, seen = [], set()
+    for term in (search_terms if search_terms is not None else SEARCH_TERMS):
+        for p in _fetch_one(slug, company, term):
+            if p.job_id not in seen:
+                seen.add(p.job_id)
+                out.append(p)
+    return out
+
+
+def _fetch_one(slug: str, company: str, search_text: str = "") -> list[Posting]:
     tenant, wd, site = _parse_slug(slug)
     base = f"https://{tenant}.{wd}.myworkdayjobs.com"
     api = f"{base}/wday/cxs/{tenant}/{site}/jobs"
 
-    out, offset, total = [], 0, None
-    for _ in range(MAX_PAGES):
+    def page(offset):
         data = get_json_post(api, {"appliedFacets": {}, "limit": PAGE,
-                                   "offset": offset, "searchText": ""})
-        rows = data.get("jobPostings") or []
-        # `total` is only populated on the first page; later pages report 0.
-        # Trusting it per-page ends pagination after two pages (Boeing returned
-        # 40 of 748), so capture it once and bound the loop with that.
-        if total is None:
-            total = data.get("total") or 0
-        if not rows:
-            break
-        for j in rows:
-            path = j.get("externalPath") or ""
-            req_id = ""
-            bullets = j.get("bulletFields") or []
-            if bullets:
-                req_id = str(bullets[0])
-            # externalPath already carries the requisition suffix and is stable;
-            # fall back to it when bulletFields is empty so keys stay unique.
-            out.append(Posting(
-                provider="workday",
-                company=company,
-                job_id=req_id or path.rsplit("/", 1)[-1],
-                title=(j.get("title") or "").strip(),
-                location=(j.get("locationsText") or "").strip(),
-                url=f"{base}/en-US/{site}{path}",
-                posted_at=_posted_at(j.get("postedOn")),
-                department="",
-                description="",
-            ))
-        offset += PAGE
-        if total and offset >= total:
-            break
+                                   "offset": offset, "searchText": search_text})
+        return data.get("jobPostings") or [], data.get("total") or 0
+
+    # `total` is only populated on the first page; later pages report 0. Trusting
+    # it per-page ends pagination after two pages (Boeing returned 40 of 748), so
+    # capture it once from page 1 and derive every remaining offset from it.
+    first, total = page(0)
+    if not first:
+        return []
+    n_pages = min(MAX_PAGES, -(-total // PAGE) if total else 1)
+    rows = list(first)
+    if n_pages > 1:
+        offsets = [i * PAGE for i in range(1, n_pages)]
+        with ThreadPoolExecutor(max_workers=PAGE_WORKERS) as ex:
+            for more, _ in ex.map(lambda o: page(o), offsets):
+                rows.extend(more)
+
+    out = []
+    for j in rows:
+        path = j.get("externalPath") or ""
+        req_id = ""
+        bullets = j.get("bulletFields") or []
+        if bullets:
+            req_id = str(bullets[0])
+        # externalPath already carries the requisition suffix and is stable;
+        # fall back to it when bulletFields is empty so keys stay unique.
+        out.append(Posting(
+            provider="workday",
+            company=company,
+            job_id=req_id or path.rsplit("/", 1)[-1],
+            title=(j.get("title") or "").strip(),
+            location=(j.get("locationsText") or "").strip(),
+            url=f"{base}/en-US/{site}{path}",
+            posted_at=_posted_at(j.get("postedOn")),
+            department="",
+            description="",
+        ))
     return out
 
 

@@ -10,7 +10,9 @@
 import argparse
 import os
 import sys
+import threading
 import traceback
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
 import yaml
@@ -27,7 +29,9 @@ CONFIG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "config")
 PROVIDERS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby,
              "workday": workday}
 
-MAX_HYDRATE = 40          # bound description fetches per run
+MAX_HYDRATE = 40          # bound description fetches per board
+HYDRATE_BUDGET = 400      # …and across the whole run
+BOARD_WORKERS = 10        # boards are independent; fetch them concurrently
 HYDRATE_MARGIN = 25       # rescore borderline postings with full text
 DIGEST_WEEKDAY = 0        # Monday
 DIGEST_SOFT_CAP = 60      # max postings listed in one digest email
@@ -81,23 +85,50 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
     # full population to answer "how many match at threshold X".
     snapshot_rows = []
 
-    for board in boards_cfg.get("boards", []):
-        # `enabled: false` parks a source without deleting its config, so the
-        # dashboard can toggle a flaky board off and back on.
-        if board.get("enabled") is False:
-            continue
+    # Boards are independent and the run is almost entirely network wait — 86
+    # boards fetched in series ran past ten minutes, which no twice-daily
+    # schedule survives. Each worker returns its own results; the merge below
+    # stays single-threaded so shared state needs no locking.
+    budget = HydrateBudget(HYDRATE_BUDGET)
+    todo = [b for b in boards_cfg.get("boards", []) if b.get("enabled") is not False]
+
+    def process(board):
         provider = PROVIDERS.get(board["provider"])
         if not provider:
-            errors.append(f"{board['provider']}/{board['slug']}: unknown provider")
-            continue
+            return board, None, f"{board['provider']}/{board['slug']}: unknown provider"
         try:
             postings = provider.fetch(board["slug"], board["company"],
                                       with_content=snapshot)
         except Exception as e:
             # One dead board must not kill the run.
-            errors.append(f"{board['company']} ({board['provider']}): {type(e).__name__}: {e}")
-            continue
+            return board, None, (f"{board['company']} ({board['provider']}): "
+                                 f"{type(e).__name__}: {e}")
 
+        # Scoring now reads the JD's requirements block, so a description is not
+        # a bonus signal any more — it decides the internship and major gates.
+        # Hydrate anything whose verdict was reached without one, standing
+        # postings included: they are most of MATCHES.md and were previously
+        # scored on title and department alone, forever.
+        hydrated = 0
+        for p in postings:
+            if hydrated >= MAX_HYDRATE:
+                break
+            r = score_posting(p, profile, compiled)
+            if r.needs_description and not p.description and budget.take():
+                hydrated += 1
+                try:
+                    provider.hydrate(p, board["slug"])
+                except Exception:
+                    pass  # a failed fetch leaves the provisional score standing
+        return board, postings, None
+
+    with ThreadPoolExecutor(max_workers=BOARD_WORKERS) as ex:
+        results = list(ex.map(process, todo))
+
+    for board, postings, err in results:
+        if err:
+            errors.append(err)
+            continue
         total += len(postings)
         if snapshot:
             snapshot_rows.extend({
@@ -118,25 +149,8 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
                 if not r.excluded and not r.gated and r.score >= threshold:
                     standing.append((p, r))
 
-        scored, hydrate_queue = [], []
         for p in fresh:
             r = score_posting(p, profile, compiled)
-            if r.excluded:
-                continue
-            if not p.description and (r.gated or r.score < threshold) and \
-                    (r.gated or r.score >= threshold - HYDRATE_MARGIN):
-                hydrate_queue.append(p)
-            scored.append((p, r))
-
-        for p in hydrate_queue[:MAX_HYDRATE]:
-            try:
-                provider.hydrate(p, board["slug"])
-            except Exception:
-                pass
-        if hydrate_queue:
-            scored = [(p, score_posting(p, profile, compiled)) for p, _ in scored]
-
-        for p, r in scored:
             if r.excluded:
                 continue
             if r.gated:
@@ -154,8 +168,15 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
             seen[p.key] = {"first_seen": state.now(), "title": p.title,
                            "company": p.company, "url": p.url}
 
-    matches.sort(key=lambda x: -x[1].score)
-    standing.sort(key=lambda x: -x[1].score)
+    # Collapse duplicate listings before anything renders, so the email and the
+    # directory agree and neither shows the same role twice.
+    matches = dedupe_roles(sorted(matches, key=lambda x: -x[1].score))
+    standing = dedupe_roles(sorted(standing, key=lambda x: -x[1].score))
+    seen_roles = {(p.company.strip().lower(), " ".join(p.title.lower().split()))
+                  for p, _ in matches}
+    standing = [(p, r) for p, r in standing
+                if (p.company.strip().lower(),
+                    " ".join(p.title.lower().split())) not in seen_roles]
     all_open = matches + standing
 
     if not dry_run or snapshot:
@@ -189,6 +210,46 @@ def run_aggregator(profile, boards_cfg, threshold, channels, dry_run, snapshot=F
         state.save_seen(seen)
         state.save_gated(gated_log)
     return len(matches)
+
+
+class HydrateBudget:
+    """Run-wide cap on description fetches, shared across board workers.
+
+    A per-board cap alone stopped bounding anything once boards went parallel:
+    86 boards times 40 is 3,440 extra requests. Workers take from one pool.
+    """
+
+    def __init__(self, total):
+        self._left = total
+        self._lock = threading.Lock()
+
+    def take(self) -> bool:
+        with self._lock:
+            if self._left <= 0:
+                return False
+            self._left -= 1
+            return True
+
+
+def dedupe_roles(pairs):
+    """Collapse the same role posted under several job ids.
+
+    Boards list one opening once per location ("Business Analyst Intern -
+    Supply Chain" twice at Rocket Lab), which the provider:company:job_id key
+    treats as distinct postings. Keep the highest-scoring instance of each
+    company + title; order is otherwise preserved.
+    """
+    best, out = {}, []
+    for p, r in pairs:
+        k = (p.company.strip().lower(), " ".join((p.title or "").lower().split()))
+        if k in best:
+            if r.score > best[k][1].score:
+                out[best[k][2]] = (p, r)
+                best[k] = (p, r, best[k][2])
+            continue
+        best[k] = (p, r, len(out))
+        out.append((p, r))
+    return out
 
 
 def write_matches_file(all_open, threshold, total) -> None:

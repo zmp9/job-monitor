@@ -16,9 +16,12 @@ import re
 # ---------------------------------------------------------------------------
 W_POSITIVE_TITLE = 18      # sector keyword in the title
 W_POSITIVE_BODY = 6        # sector keyword in description/department only
+W_REQUIREMENT_MATCH = 9    # resume skill named in the JD's requirements block
+W_REQUIREMENT_MISS = -12   # JD requires a major/field Zaid does not have
 W_PROFILE_SIGNAL = 4       # something specific to Zaid's background
 W_PREFERRED_LOCATION = 8   # NYC / SF / Greenwich etc.
 W_TIMING_BOOST = 15        # title names the 2027 cycle explicitly
+W_OFF_SEASON = -20         # Fall/Winter/Spring term when Summer is the target
 W_NEGATIVE_TITLE = -30     # off-track keyword in the title
 W_NEGATIVE_BODY = -6       # off-track keyword in the body
 W_CATCHALL_BASE = 10       # cleared the gate on title shape alone, no sector hit
@@ -27,6 +30,7 @@ W_INTERNSHIP = 25          # title is an internship — the actual target
 CAP_POSITIVE_HITS = 3      # diminishing returns past this many
 CAP_SIGNAL_HITS = 4
 CAP_NEGATIVE_HITS = 3
+CAP_REQUIREMENT_HITS = 4
 
 DEFAULT_THRESHOLD = 45     # notify at or above this
 
@@ -91,10 +95,101 @@ NON_US_COUNTRIES = {
     "sydney", "melbourne", "new zealand", "south africa", "nigeria", "kenya",
     "egypt", "cairo", "uae", "dubai", "abu dhabi", "saudi", "riyadh", "qatar",
     "turkey", "istanbul", "ukraine", "sao paulo", "são paulo", "bogota",
+    "nz", "auckland", "wellington", "christchurch", "u.k.", "gb", "eire",
+    "bengaluru", "noida", "queensland", "victoria bc", "nova scotia",
     "buenos aires", "santiago", "lima", "toronto", "vancouver", "montreal",
     "ottawa", "calgary", "guadalajara", "costa rica", "panama", "uruguay",
 }
 REMOTE_RE = re.compile(r"\bremote\b|\banywhere\b|\bdistributed\b", re.I)
+
+# --- requirements extraction ------------------------------------------------
+# Job descriptions open with company boilerplate and close with EEO/benefits.
+# The part that says what the role actually wants sits between, under one of
+# these headers. Matching resume skills against that block instead of the whole
+# description is the difference between "this posting mentions Excel somewhere"
+# and "this posting asks for Excel".
+_REQ_START = re.compile(
+    r"(?:^|\n|\.\s|\s{2,})\s*(?:"
+    r"(?:basic|minimum|preferred|required|desired|key)\s+qualifications"
+    r"|qualifications"
+    r"|requirements"
+    r"|what\s+(?:you.{0,3}ll\s+need|we.{0,3}re\s+looking\s+for|you\s+bring)"
+    r"|who\s+you\s+are"
+    r"|about\s+you"
+    r"|skills\s+(?:and|&)\s+(?:experience|qualifications)"
+    r"|you\s+(?:should\s+)?have"
+    r"|we.{0,3}d\s+love\s+to\s+(?:see|hear)"
+    r"|ideal\s+candidate"
+    r")\b[:\s]", re.I)
+
+# Sections that mean the requirements block has ended.
+_REQ_END = re.compile(
+    r"(?:^|\n|\.\s|\s{2,})\s*(?:"
+    r"benefits|compensation|salary|pay\s+range|perks"
+    r"|equal\s+opportunity|eeo|e\.e\.o|affirmative\s+action"
+    r"|about\s+(?:us|the\s+company|our)"
+    r"|why\s+join|our\s+values|accommodation|disclaimer"
+    r"|to\s+apply|application\s+(?:process|deadline)"
+    r")\b", re.I)
+
+
+def extract_requirements(description: str) -> str:
+    """Return the qualifications/requirements portion of a JD.
+
+    Falls back to the whole description when no header is found — better to
+    match against everything than to score nothing at all. Returns "" only for
+    an empty description, which the caller treats as "unknown", not "no match".
+    """
+    if not description:
+        return ""
+    m = _REQ_START.search(description)
+    if not m:
+        return description
+    tail = description[m.end():]
+    end = _REQ_END.search(tail)
+    return tail[:end.start()] if end else tail
+
+
+# --- season -----------------------------------------------------------------
+_SEASONS = {
+    "summer": re.compile(r"\bsummer\b", re.I),
+    "fall": re.compile(r"\b(?:fall|autumn)\b", re.I),
+    "winter": re.compile(r"\bwinter\b", re.I),
+    "spring": re.compile(r"\bspring\b", re.I),
+}
+
+
+def detect_season(title: str) -> set:
+    """Seasons named in a title. 'Spring & Summer 2027' returns both."""
+    return {name for name, pat in _SEASONS.items() if pat.search(title or "")}
+
+
+# --- student programs -------------------------------------------------------
+# Some internships never say "intern" in the title — "Summer Analyst",
+# "Leadership Rotation Network", "Campus Program". When the title is ambiguous,
+# these phrases in the body are what distinguish a student program from a
+# full-time opening.
+_STUDENT_BODY = re.compile(
+    r"currently\s+enrolled"
+    r"|actively\s+enrolled"
+    r"|enrolled\s+in\s+(?:an?\s+)?(?:accredited\s+)?(?:undergraduate|bachelor|degree)"
+    r"|rising\s+(?:junior|senior|sophomore)"
+    r"|pursuing\s+(?:a|an|your)\s+(?:bachelor|undergraduate|b\.?s\.?|b\.?a\.?)"
+    r"|undergraduate\s+students?"
+    r"|current\s+students?"
+    r"|internship\s+program"
+    r"|summer\s+(?:analyst|associate)\s+program"
+    r"|return\s+offer"
+    r"|graduat(?:e|ing)\s+in\s+(?:20)?2[789]", re.I)
+
+
+def is_student_program(posting) -> bool:
+    """True when the posting is an internship / campus program rather than a
+    full-time opening. Title first, body as the rescue."""
+    title_n = normalize(posting.title)
+    if any(re.search(r"\b" + t + r"\b", title_n) for t in INTERNSHIP_TITLE_TOKENS):
+        return True
+    return bool(_STUDENT_BODY.search(posting.description or ""))
 
 
 def _alt(terms) -> re.Pattern:
@@ -195,10 +290,20 @@ def classify_location(location: str, profile: dict) -> tuple[str, bool]:
         )
         non_us = _NON_US_RE.search(blob) is not None
 
-        if us and not non_us:
+        # Order matters when a segment matches both sides. "San Jose, Costa
+        # Rica" hits US_CITIES on San Jose and NON_US on Costa Rica; resolving
+        # that tie as "unknown" let Accenture's LatAm postings through. An
+        # explicit country beats a city name that several countries share, but
+        # an explicit US marker beats everything — "Vancouver, WA, United
+        # States" stays US.
+        explicit_us = (any(t in US_MARKERS for t in tokens)
+                       or _US_MARKER_RE.search(blob) is not None)
+        if explicit_us:
             verdicts.append("us")
-        elif non_us and not us:
+        elif non_us:
             verdicts.append("non_us")
+        elif us:
+            verdicts.append("us")
         elif REMOTE_RE.search(seg):
             verdicts.append("remote")
         else:
@@ -219,6 +324,10 @@ class Result:
         self.excluded = False
         self.exclude_reason = ""
         self.gated = False
+        # Set when a verdict was reached without the description that would have
+        # informed it. The caller hydrates these and scores again, so a posting
+        # is never dropped on a gate its full text might have cleared.
+        self.needs_description = False
         self.reasons: list[str] = []
 
     def __repr__(self):
@@ -271,6 +380,47 @@ def score_posting(posting, profile: dict, compiled: dict,
         r.exclude_reason = f"remote-only and remote_ok is false: {posting.location}"
         return r
 
+    # Stale-cycle gate. A title naming an earlier recruiting year is a closed or
+    # closing cycle — "Financial Analyst Intern (Fall 2026)" is not the target
+    # even though it scores like one.
+    cycle_min = (profile.get("timing") or {}).get("min_cycle_year")
+    if cycle_min:
+        years = {int(y) for y in re.findall(r"\b(20[2-3]\d)\b", posting.title or "")}
+        if years and max(years) < int(cycle_min):
+            r.excluded = True
+            r.exclude_reason = f"earlier recruiting cycle: {max(years)}"
+            return r
+
+    # Internship gate. The target is a Summer 2027 internship, so a full-time
+    # opening is never applicable however well it scores — without this, broad
+    # sector keywords ("pricing", "strategic finance") pulled in senior IC roles
+    # that no seniority keyword happened to name.
+    if (profile.get("timing") or {}).get("internship_only") and not is_student_program(posting):
+        r.excluded = True
+        r.exclude_reason = "not an internship / student program"
+        # Title alone cannot rule out a campus program that never says "intern"
+        # ("Leadership Rotation Network", "Summer Analyst Program"). Without the
+        # description this verdict is provisional.
+        r.needs_description = not posting.description
+        return r
+
+    # Major gate. A JD that names only engineering/CS fields as its degree
+    # requirement is closed to an ILR student no matter how neutral the title
+    # reads — this is what catches "Perception Intern" and "CAD Associate"
+    # without needing every such title enumerated as a keyword.
+    req_n = normalize(extract_requirements(posting.description))
+    if not req_n:
+        # Scored on title and department alone. Requirements matching and the
+        # major gate both sat out, so this score is provisional too.
+        r.needs_description = True
+    if req_n:
+        bad = find_terms(compiled["disqualifying_majors"], req_n)
+        ok = find_terms(compiled["eligible_majors"], req_n)
+        if bad and not ok:
+            r.excluded = True
+            r.exclude_reason = f"requirements name only off-track majors: {', '.join(bad[:3])}"
+            return r
+
     # --- 2. positive gate ---------------------------------------------------
     pos_title = find_terms(compiled["positive"], title_n)
     pos_body = [raw for raw in find_terms(compiled["positive"], body_n)
@@ -318,7 +468,14 @@ def score_posting(posting, profile: dict, compiled: dict,
     # negative amplified the wrong roles — "Hardware Engineer Intern - Summer 2027"
     # reached 58, above the Databricks PM internship. Off-track titles get the
     # penalty without the amplifiers.
-    amplify = not neg_title
+    #
+    # They also require a real sector hit. Without that condition any 2027
+    # internship title cleared the threshold on shape alone: catchall 10 +
+    # internship 25 + timing 15 = 50, over a threshold of 45, with zero
+    # relevance. That floor put all 15 Boeing rows — EHS, Security & Fire,
+    # HR — at exactly 50, one point under a real AlixPartners Summer Analyst,
+    # which is why no threshold could separate them.
+    amplify = not neg_title and bool(pos_title or pos_body)
     if is_internship and amplify:
         r.score += w["internship"]
         r.reasons.append(f"+{w['internship']} internship title")
@@ -343,6 +500,28 @@ def score_posting(posting, profile: dict, compiled: dict,
                 r.reasons.append(f"+{w['timing_boost']} target cycle in title: {raw}")
                 break
 
+    # Resume skills named in the requirements block. This is the part that reads
+    # what the role actually asks for rather than what it is called.
+    if req_n:
+        req_hits = find_terms(compiled["resume_skills"], req_n)
+        if req_hits:
+            hits = req_hits[:CAP_REQUIREMENT_HITS]
+            pts = w["requirement_match"] * len(hits)
+            r.score += pts
+            r.reasons.append(f"+{pts} requirements match resume: {', '.join(hits)}")
+        miss = find_terms(compiled["disqualifying_majors"], req_n)
+        if miss:
+            r.score += w["requirement_miss"]
+            r.reasons.append(f"{w['requirement_miss']} requirements lean off-track: {', '.join(miss[:3])}")
+
+    # Summer is the target cycle; an off-season term is a real cost, not a
+    # disqualifier, so a strong Spring role still ranks within its band.
+    seasons = detect_season(posting.title)
+    preferred = ((profile.get("timing") or {}).get("preferred_season") or "").lower()
+    if preferred and seasons and preferred not in seasons:
+        r.score += w["off_season"]
+        r.reasons.append(f"{w['off_season']} off-season term: {', '.join(sorted(seasons))}")
+
     r.score = max(0, min(100, r.score))
     return r
 
@@ -351,9 +530,12 @@ def score_posting(posting, profile: dict, compiled: dict,
 WEIGHT_DEFAULTS = {
     "positive_title": W_POSITIVE_TITLE,
     "positive_body": W_POSITIVE_BODY,
+    "requirement_match": W_REQUIREMENT_MATCH,
+    "requirement_miss": W_REQUIREMENT_MISS,
     "profile_signal": W_PROFILE_SIGNAL,
     "preferred_location": W_PREFERRED_LOCATION,
     "timing_boost": W_TIMING_BOOST,
+    "off_season": W_OFF_SEASON,
     "negative_title": W_NEGATIVE_TITLE,
     "negative_body": W_NEGATIVE_BODY,
     "catchall_base": W_CATCHALL_BASE,
@@ -392,6 +574,9 @@ def compile_profile(profile: dict) -> dict:
         "negative": compile_terms(profile.get("negative_keywords")),
         "strong_negatives": compile_terms(profile.get("strong_negatives")),
         "signals": compile_terms(profile.get("profile_signals")),
+        "resume_skills": compile_terms(profile.get("resume_skills")),
+        "eligible_majors": compile_terms(profile.get("eligible_majors")),
+        "disqualifying_majors": compile_terms(profile.get("disqualifying_majors")),
         "timing_exclude": compile_terms(timing.get("exclude")),
         "timing_boost": compile_terms(timing.get("boost")),
     }

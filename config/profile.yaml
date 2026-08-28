@@ -1,153 +1,345 @@
 # Scoring weights and cutoff. Edited by dashboard.py; src/scoring.py holds the
 # same values as defaults, so removing a key here falls back rather than breaking.
 weights:
-  positive_title: 18        # sector keyword in the title
-  positive_body: 6          # sector keyword in description/department only
-  profile_signal: 4         # something specific to my background
-  preferred_location: 8     # NYC / SF / Greenwich etc.
-  timing_boost: 15          # title names the 2027 cycle explicitly
+  positive_title: 15        # sector keyword in the title
+  positive_body: 5          # sector keyword in description/department only
+  requirement_match: 6      # resume skill named in the JD's requirements block
+  requirement_miss: -10     # JD requires a major/skill I don't have
+  profile_signal: 3         # something specific to my background
+  preferred_location: 6     # NYC / SF / Greenwich etc.
+  timing_boost: 12          # title names the 2027 cycle explicitly
+  off_season: -18           # Fall/Winter/Spring term when Summer is the target
   negative_title: -30       # off-track keyword in the title
   negative_body: -6         # off-track keyword in the body
-  catchall_base: 10         # cleared the gate on title shape alone
-  internship: 25            # title is an internship — the actual target
+  catchall_base: 8          # cleared the gate on title shape alone
+  internship: 18            # title is an internship — the actual target
 
-threshold: 45               # notify at or above this
+threshold: 40               # notify at or above this
 
+# Hard exclusions matched against the title.
+# NOTE: `exclude` is skipped when the title is an internship, so
+# "Product Manager Intern" survives but "Strategy Manager" does not.
 timing:
-  target: "Summer 2027 internship"
-  grad_window: ["2027-12", "2028-08"]
-  # Hard exclusions matched against the title.
-  # NOTE: these are skipped when the title is an internship, so
-  # "Product Manager Intern" survives but "Strategy Manager" does not.
+  target: Summer 2027 internship
+  grad_window:
+  - 2027-12
+  - 2028-08
+  preferred_season: summer
+  internship_only: true
+  min_cycle_year: 2027
   exclude:
-    - senior
-    - sr
-    - staff
-    - principal
-    - director
-    - lead
-    - manager
-    - partner
-    - "vice president"
-    - "vp,"
-    - "head of"
-    - experienced hire
-    - "degree required in hand"
-  # Titles containing these get a timing bonus.
+  - senior
+  - sr
+  - staff
+  - principal
+  - director
+  - lead
+  - manager
+  - partner
+  - vice president
+  - vp,
+  - head of
+  - experienced hire
+  - degree required in hand
   boost:
-    - "2027"
-    - "summer 2027"
+  - '2027'
+  - summer 2027
 
 location:
-  allowed: [United States]
-  preferred: [New York, "New York City", NYC, "San Francisco", "SF", "Bay Area", Greenwich, Stamford, Boston, Chicago]
+  allowed:
+  - United States
+  preferred:
+  - New York
+  - New York City
+  - NYC
+  - San Francisco
+  - SF
+  - Bay Area
+  - Greenwich
+  - Stamford
+  - Boston
+  - Chicago
+  - Washington
+  - Washington DC
+  - Arlington
+  - McLean
   remote_ok: false
 
-sectors:   # all weighted EQUALLY — no sector multipliers
-  - consulting
-  - aviation / industrials
-  - finance          # broad: S&T, IB, wealth/asset mgmt, markets — all fine
-  - technology       # business-side only
+# All weighted EQUALLY — no sector multipliers.
+sectors:
+- consulting
+- aviation / industrials
+- finance
+- technology
 
 positive_keywords:
-  - strategy
-  - corporate strategy
-  - corporate development
-  - corp dev
-  - business operations
-  - biz ops
-  - strategy & operations
-  - strategy and operations
-  - M&A
-  - FP&A
-  - commercial strategy
-  - market analyst
-  - summer analyst
-  - summer associate
-  - business analyst intern
-  - sales & trading
-  - trading
-  - commodities
-  - investment banking
-  - wealth management
-  - asset management
+- strategy
+- corporate strategy
+- strategic initiatives
+- corporate development
+- corp dev
+- business operations
+- biz ops
+- strategy & operations
+- strategy and operations
+- management consulting
+- business analyst
+- commercial strategy
+- market analyst
+- market research
+- competitive intelligence
+- chief of staff
+- M&A
+- mergers and acquisitions
+- due diligence
+- transaction advisory
+- restructuring
+- turnaround
+- valuation
+- FP&A
+- strategic finance
+- corporate finance
+- investment banking
+- private equity
+- venture capital
+- sales & trading
+- trading
+- commodities
+- wealth management
+- asset management
+- portfolio
+- risk
+- business development
+- go-to-market
+- growth strategy
+- revenue operations
+- sales operations
+- pricing
+- pricing strategy
+- category management
+- human capital
+- people analytics
+- workforce strategy
+- labor relations
+- employee relations
+- total rewards
+- compensation
+- talent strategy
+- summer analyst
+- summer associate
+- business analyst intern
 
-negative_keywords:   # demote — not my track
-  - software engineer
-  - SWE
-  - backend
-  - frontend
-  - full-stack
-  - machine learning engineer
-  - ML engineer
-  - data engineer
-  - DevOps
-  - SRE
-  - quantitative researcher
-  - quant researcher
-  - quant trader
-  - PhD required
-  - propulsion
-  - avionics
-  - mechanical engineer
-  - electrical engineer
-  - firmware
-  - FPGA
-  # Added after the fund/prop-shop boards went in — these titles were scoring
-  # high on the Summer 2027 timing boost alone.
-  - hardware engineer
-  - platform engineer
-  - manufacturing engineer
-  - controls engineer
-  - systems engineer
-  - test engineer
-  - reliability engineer
-  - machine learning
-  - quantitative research
-  - quantitative development
-  - quantitative developer
-  - quantitative trader
-  - research scientist
-  - data scientist
-  - civil engineer
-  - structural engineer
-  - silicon engineer
-  - software engineering
-  - aerospace engineer
-  - industrial engineer
-  - quality engineer
+# Demote — not my track. Titles here lose the internship and timing
+# bonuses as well, so an off-track role cannot ride the cycle boost.
+negative_keywords:
+- software engineer
+- SWE
+- backend
+- frontend
+- full-stack
+- machine learning engineer
+- ML engineer
+- data engineer
+- DevOps
+- SRE
+- quantitative researcher
+- quant researcher
+- quant trader
+- PhD required
+- propulsion
+- avionics
+- mechanical engineer
+- electrical engineer
+- firmware
+- FPGA
+- hardware engineer
+- platform engineer
+- manufacturing engineer
+- controls engineer
+- systems engineer
+- test engineer
+- reliability engineer
+- machine learning
+- quantitative research
+- quantitative development
+- quantitative developer
+- quantitative trader
+- research scientist
+- data scientist
+- data science
+- civil engineer
+- structural engineer
+- silicon engineer
+- software engineering
+- aerospace engineer
+- industrial engineer
+- quality engineer
+- aerodynamics
+- computational physics
+- perception
+- embedded
+- CAD
+- hardware test
+- test automation
+- systems validation
+- supplier industrialization
+- materials engineer
+- maintenance tool
+- applications engineer
+- integration engineer
+- design engineer
+- product designer
+- UX
+- UI
+- software developer
+- developer
+- help desk
+- IT support
+- technician
+- machinist
+- fabrication
 
-# Strong negatives: if present in the TITLE, exclude outright (never scored).
-# Unlike timing.exclude, these are NOT waived for internship titles — that is why
-# phd/mba live here, so "PhD Research Scientist Intern" is still dropped.
+# If present in the TITLE, exclude outright (never scored).
+# Unlike timing.exclude these are NOT waived for internship titles,
+# which is why phd/mba live here: "PhD Research Scientist Intern" is dropped.
 strong_negatives:
-  - phd
-  - mba
-  - software engineer
-  - backend engineer
-  - frontend engineer
-  - full-stack engineer
-  - machine learning engineer
-  - data engineer
-  - devops
-  - site reliability
-  - quantitative researcher
-  - quant trader
+- phd
+- mba
+- software engineer
+- backend engineer
+- frontend engineer
+- full-stack engineer
+- machine learning engineer
+- data engineer
+- devops
+- site reliability
+- quantitative researcher
+- quant trader
+- engineer
+- engineering
+- quantitative
+- software developer
+- help desk
 
-profile_signals:   # what makes ME specifically a fit — smaller boost
-  - ILR
-  - applied economics
-  - industrial and labor relations
-  - aviation
-  - aerospace
-  - airline
-  - A&P
-  - maintenance
-  - M&A
-  - due diligence
-  - analytics
-  - financial modeling
-  - pricing
-  - go-to-market
-  - growth
-  - valuation
+resume_skills:
+- Excel
+- pivot table
+- VLOOKUP
+- financial model
+- financial modeling
+- PowerPoint
+- ThinkCell
+- Python
+- pandas
+- NumPy
+- data analysis
+- data analytics
+- Salesforce
+- CRM
+- Mailchimp
+- market research
+- competitive analysis
+- benchmarking
+- cost-benefit analysis
+- due diligence
+- M&A
+- valuation
+- pricing
+- go-to-market
+- business development
+- client-facing
+- stakeholder management
+- project management
+- written and verbal communication
+- presentation skills
+- problem solving
+- quantitative analysis
+- Spanish
+- bilingual
+
+eligible_majors:
+- industrial and labor relations
+- ILR
+- labor relations
+- human resources
+- economics
+- applied economics
+- business
+- business administration
+- finance
+- accounting
+- management
+- marketing
+- political science
+- public policy
+- liberal arts
+- social sciences
+- statistics
+- mathematics
+- any major
+- all majors
+
+disqualifying_majors:
+- computer science
+- computer engineering
+- electrical engineering
+- mechanical engineering
+- aerospace engineering
+- chemical engineering
+- civil engineering
+- biomedical engineering
+- materials science
+- physics
+- software engineering
+- engineering
+
+# What makes me specifically a fit — smaller boost.
+profile_signals:
+- ILR
+- industrial and labor relations
+- labor relations
+- workforce
+- human capital
+- accounting
+- political science
+- aviation
+- aerospace
+- airline
+- airport
+- FAA
+- MRO
+- fleet
+- A&P
+- M&A
+- due diligence
+- acquisition
+- valuation
+- deal sourcing
+- target screening
+- analytics
+- Salesforce
+- CRM
+- data cleanup
+- automation
+- dashboard
+- go-to-market
+- growth
+- market launch
+- customer acquisition
+- marketplace
+- pricing
+- dynamic pricing
+- benchmarking
+- e-commerce
+- financial modeling
+- cost-benefit
+- market assessment
+- client recommendations
+- budget management
+- fundraising
+- sponsorship
+- partnerships
+- nonprofit
+- Spanish
+- Hindi
+- multilingual
