@@ -1,14 +1,11 @@
 # Open matches
 
-_33 postings scoring >= 40, of 31707 scanned. Updated 2026-08-28 21:19 UTC._
+_33 postings scoring >= 40, of 31888 scanned. Updated 2026-08-29 04:00 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 87 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
-| 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
-| 56 | [(2028 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
-| 50 | [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States |
 | 100 | [Turnaround & Restructuring Summer Analyst](https://www.alixpartners.com/careers/7713880003?gh_jid=7713880003) | AlixPartners | New York |
+| 87 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | AQR Capital Management | Greenwich, CT |
 | 80 | [2027 Risk Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) | AQR Capital Management | Greenwich, CT |
@@ -17,17 +14,20 @@ _33 postings scoring >= 40, of 31707 scanned. Updated 2026-08-28 21:19 UTC._
 | 74 | [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) | AQR Capital Management | Greenwich, CT |
 | 73 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
 | 72 | [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | AQR Capital Management | Greenwich, CT |
+| 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
 | 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
 | 69 | [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) | AlixPartners | New York |
 | 69 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | DRW | Chicago, IL |
 | 65 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
 | 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
+| 56 | [(2028 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
 | 55 | [Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US)](https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002) | Point72 | Chicago, Florida, New York, San Francisco |
 | 52 | [Corporate Strategy & Transformation Analyst](https://www.alixpartners.com/careers/7770684003?gh_jid=7770684003) | AlixPartners | Chicago; New York |
 | 52 | [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) | DRW | Chicago, IL |
 | 51 | [Compliance Analyst Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) | Old Mission Capital | Chicago, IL, United States |
 | 51 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
 | 51 | [Supply Chain Business Operations Intern (Summer 2027)](https://www.zipline.com/open-roles?gh_jid=7891328003) | Zipline | South San Francisco, California, USA |
+| 50 | [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States |
 | 49 | [Associate/Economic Damages and Litigation Support (Risk, Investigations & Analytics practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/3090349) | Charles River Associates | New York, NY, United States |
 | 46 | [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) | Old Mission Capital | Chicago, IL, United States |
 | 45 | [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) | Boeing | USA - Everett, WA |
