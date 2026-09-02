@@ -1,9 +1,13 @@
 # Open matches
 
-_38 postings scoring >= 40, of 31625 scanned. Updated 2026-09-02 00:47 UTC._
+_42 postings scoring >= 40, of 31394 scanned. Updated 2026-09-02 14:54 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
+| 66 | [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) | Citi | Getzville New York United States |
+| 60 | [Functions - Risk Management, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732) | Citi | Tampa Florida United States |
+| 60 | [Functions - Risk Management, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971) | Citi | Irving Texas United States |
+| 45 | [Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Chief-Operating-Office--Summer-Analyst--Tampa---USA--2027_26990422) | Citi | Tampa Florida United States |
 | 87 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | AQR Capital Management | Greenwich, CT |
@@ -47,6 +51,7 @@ _38 postings scoring >= 40, of 31625 scanned. Updated 2026-09-02 00:47 UTC._
 
 - **AQR Capital Management** (9) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Charles River Associates** (6) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 87
+- **Citi** (5) — top [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) at 66
 - **Zipline** (4) — top [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7980889003) at 58
 - **AlixPartners** (3) — top [Investigations, Disputes & Economics Summer Analyst](https://www.alixpartners.com/careers/7725314003?gh_jid=7725314003) at 79
 - **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
@@ -56,7 +61,6 @@ _38 postings scoring >= 40, of 31625 scanned. Updated 2026-09-02 00:47 UTC._
 - **Boeing** (1) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 45
 - **Capital One** (1) — top [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) at 45
 - **SpaceX** (1) — top [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) at 45
-- **Citi** (1) — top [Banking - Corporate Banking, Summer Analyst, Houston - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650) at 45
 - **Home Depot** (1) — top [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) at 45
 - **Schonfeld** (1) — top [Operations Associate or Internship](https://job-boards.greenhouse.io/schonfeld/jobs/8094080) at 41
 - **Sierra** (1) — top [Intern, Agent Development (Summer 2027)](https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e) at 40
