@@ -1,13 +1,12 @@
 # Open matches
 
-_42 postings scoring >= 40, of 31394 scanned. Updated 2026-09-02 14:54 UTC._
+_45 postings scoring >= 40, of 31749 scanned. Updated 2026-09-03 00:55 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 66 | [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) | Citi | Getzville New York United States |
-| 60 | [Functions - Risk Management, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732) | Citi | Tampa Florida United States |
-| 60 | [Functions - Risk Management, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971) | Citi | Irving Texas United States |
-| 45 | [Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Chief-Operating-Office--Summer-Analyst--Tampa---USA--2027_26990422) | Citi | Tampa Florida United States |
+| 79 | [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7982302003) | Zipline | South San Francisco, California, USA |
+| 51 | [Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683) | Citi | San Francisco California United States |
+| 45 | [Banking - Commercial Banking, Summer Analyst, Los Angeles - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Banking---Commercial-Banking--Summer-Analyst--Los-Angeles---US--2027_26947566) | Citi | Los Angeles California United States |
 | 87 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | AQR Capital Management | Greenwich, CT |
@@ -21,8 +20,11 @@ _42 postings scoring >= 40, of 31394 scanned. Updated 2026-09-02 14:54 UTC._
 | 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
 | 69 | [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) | AlixPartners | New York |
 | 69 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | DRW | Chicago, IL |
+| 66 | [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) | Citi | Getzville New York United States |
 | 65 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
-| 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7980889003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
+| 60 | [Functions - Risk Management, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732) | Citi | Tampa Florida United States |
+| 60 | [Functions - Risk Management, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971) | Citi | Irving Texas United States |
+| 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
 | 56 | [(2028 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
 | 55 | [Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US)](https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002) | Point72 | Chicago, Florida, New York, San Francisco |
@@ -38,6 +40,7 @@ _42 postings scoring >= 40, of 31394 scanned. Updated 2026-09-02 14:54 UTC._
 | 45 | [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) | Boeing | USA - Everett, WA |
 | 45 | [Business Analyst Intern - Summer 2027](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1) | Capital One | 5 Locations |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
+| 45 | [Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Chief-Operating-Office--Summer-Analyst--Tampa---USA--2027_26990422) | Citi | Tampa Florida United States |
 | 45 | [Banking - Corporate Banking, Summer Analyst, Houston - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650) | Citi | Houston Texas United States |
 | 45 | [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) | Prudential Financial | Newark, NJ, USA |
 | 45 | [Prudential: 2027 Corporate, Finance Internship Program (FIP)](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Finance-Internship-Program--FIP-_R-124881) | Prudential Financial | Newark, NJ, USA |
@@ -50,9 +53,9 @@ _42 postings scoring >= 40, of 31394 scanned. Updated 2026-09-02 14:54 UTC._
 ## By company
 
 - **AQR Capital Management** (9) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
+- **Citi** (7) — top [Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683) at 51
 - **Charles River Associates** (6) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 87
-- **Citi** (5) — top [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) at 66
-- **Zipline** (4) — top [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7980889003) at 58
+- **Zipline** (5) — top [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles?gh_jid=7982302003) at 79
 - **AlixPartners** (3) — top [Investigations, Disputes & Economics Summer Analyst](https://www.alixpartners.com/careers/7725314003?gh_jid=7725314003) at 79
 - **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Prudential Financial** (3) — top [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) at 45
