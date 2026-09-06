@@ -9047,6 +9047,12 @@
     "title": "Customer Success Manager - Ads Solutions",
     "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457"
   },
+  "ashby:OpenAI:0b9e565a-ae5f-40fc-8350-b59f71f76df1": {
+    "company": "OpenAI",
+    "first_seen": "2026-09-06T00:32:30.841500+00:00",
+    "title": "Software Engineer, Host Assurance",
+    "url": "https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1"
+  },
   "ashby:OpenAI:0c0fe7aa-24fb-4bad-aa30-3f68f1418e37": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.017238+00:00",
@@ -82871,6 +82877,30 @@
     "title": "Senior Systems Engineer I",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987232003"
   },
+  "greenhouse:Rocket Lab:7987237003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-09-06T00:32:29.670908+00:00",
+    "title": "Senior FPGA Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987237003"
+  },
+  "greenhouse:Rocket Lab:7987626003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-09-06T00:32:29.670926+00:00",
+    "title": "Sr. FPGA Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987626003"
+  },
+  "greenhouse:Rocket Lab:7987628003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-09-06T00:32:29.670924+00:00",
+    "title": "Senior Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987628003"
+  },
+  "greenhouse:Rocket Lab:7987630003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-09-06T00:32:29.670922+00:00",
+    "title": "Senior Software Engineer II",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987630003"
+  },
   "greenhouse:Samsara:5868615": {
     "company": "Samsara",
     "first_seen": "2026-08-14T15:48:33.464712+00:00",
@@ -103757,6 +103787,12 @@
     "title": "Software Engineer (Flight Reliability)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002"
   },
+  "greenhouse:SpaceX:8783361002": {
+    "company": "SpaceX",
+    "first_seen": "2026-09-06T00:32:29.629837+00:00",
+    "title": "Supervisor, Porter",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8783361002?gh_jid=8783361002"
+  },
   "greenhouse:SpaceX:8783400002": {
     "company": "SpaceX",
     "first_seen": "2026-09-05T13:39:15.419844+00:00",
@@ -103906,6 +103942,18 @@
     "first_seen": "2026-09-05T13:39:15.419875+00:00",
     "title": "Sr. Full Stack Software Engineer",
     "url": "https://boards.greenhouse.io/spacex/jobs/8784865002?gh_jid=8784865002"
+  },
+  "greenhouse:SpaceX:8784894002": {
+    "company": "SpaceX",
+    "first_seen": "2026-09-06T00:32:29.629810+00:00",
+    "title": "Manager, Facilities Infrastructure",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8784894002?gh_jid=8784894002"
+  },
+  "greenhouse:SpaceX:8784933002": {
+    "company": "SpaceX",
+    "first_seen": "2026-09-06T00:32:29.629834+00:00",
+    "title": "Master Electrician",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8784933002?gh_jid=8784933002"
   },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
@@ -216389,6 +216437,12 @@
     "title": "DC Operations Manager",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ATLANTA-FDCBDC---5865/DC-Operations-Manager_Req192637"
   },
+  "workday:Home Depot:Req192649": {
+    "company": "Home Depot",
+    "first_seen": "2026-09-06T00:32:32.141972+00:00",
+    "title": "Yard Driver CDL",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ATLANTA-RLC---8616/Yard-Driver-CDL_Req192649"
+  },
   "workday:Home Depot:ReqPF179074": {
     "company": "Home Depot",
     "first_seen": "2026-08-28T14:14:10.961714+00:00",
@@ -217828,6 +217882,12 @@
     "first_seen": "2026-09-04T14:43:53.152039+00:00",
     "title": "Senior Strategic Key Account Manager",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Changsha-Hunan-China/Senior-Strategic-Key-Account-Manager_R-082715-1"
+  },
+  "workday:Johnson & Johnson:R-082718": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T00:32:31.845006+00:00",
+    "title": "Associate Sales Development Manager  - Immunology, Malaysia",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Petaling-Jaya-Selangor-Malaysia/Sales-Executive---Immunology--Malaysia_R-082718-1"
   },
   "workday:Johnson & Johnson:R-082743": {
     "company": "Johnson & Johnson",
@@ -220984,6 +221044,12 @@
     "first_seen": "2026-08-28T14:14:10.583484+00:00",
     "title": "MSAT Drug Product External Principal Scientist",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/MSAT-Drug-Product-External-Principal-Scientist_R-092374-1"
+  },
+  "workday:Johnson & Johnson:R-092378": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T00:32:31.845025+00:00",
+    "title": "[Innovative Medicine] \u56fa\u5f62\u816b\u760d\u4e8b\u696d\u672c\u90e8 \u30b3\u30de\u30fc\u30b7\u30e3\u30eb\u6226\u7565\u63a8\u9032\u90e8 \u55b6\u696d\u6226\u7565\u63a8\u9032 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--Innovative-Medicine-----_R-092378"
   },
   "workday:Johnson & Johnson:R-092403": {
     "company": "Johnson & Johnson",
@@ -227632,6 +227698,12 @@
     "first_seen": "2026-09-04T14:43:53.152006+00:00",
     "title": "Junior Industrial IT Systems Engineer",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gent-East-Flanders-Belgium/Junior-Industrial-IT-Systems-Engineer_R-096807"
+  },
+  "workday:Johnson & Johnson:R-096811": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T00:32:31.845028+00:00",
+    "title": "Analyst,ClinicalSales\u2013Electrophysiology",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/Analyst-ClinicalSales-Electrophysiology_R-096811"
   },
   "workday:Johnson & Johnson:R-096818": {
     "company": "Johnson & Johnson",
@@ -242872,6 +242944,12 @@
     "first_seen": "2026-08-28T14:14:10.633369+00:00",
     "title": "Scientist, Clinical Schedule Manager, Statistical Programming (Hybrid)",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Scientist--Clinical-Schedule-Manager--Statistical-Programming--Hybrid-_R414221-1"
+  },
+  "workday:Merck:R414227": {
+    "company": "Merck",
+    "first_seen": "2026-09-06T00:32:31.880842+00:00",
+    "title": "Associate Specialist, Engineering (BTS - Biotechnology and Solutions)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering--BTS---Biotechnology-and-Solutions-_R414227-1"
   },
   "workday:Merck:R414233": {
     "company": "Merck",
