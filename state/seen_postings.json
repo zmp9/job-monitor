@@ -56387,6 +56387,12 @@
     "title": "Enterprise Account Executive - Media",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841080002"
   },
+  "greenhouse:Databricks:7841778002": {
+    "company": "Databricks",
+    "first_seen": "2026-09-06T13:54:50.819313+00:00",
+    "title": "Staff Software Engineer - Search Platform",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002"
+  },
   "greenhouse:Databricks:7841782002": {
     "company": "Databricks",
     "first_seen": "2026-08-22T11:17:50.681805+00:00",
@@ -132137,6 +132143,12 @@
     "title": "IOMadridDC_Infra Transformation Associate Manager Security Consultants",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/IOMadridDC-Infra-Transformation-Associate-Manager-Security-Consultants-NATO_14343549"
   },
+  "workday:Accenture:14350946": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710200+00:00",
+    "title": "Security Managed Services specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Security-Managed-Services-specialist_14350946"
+  },
   "workday:Accenture:14354783": {
     "company": "Accenture",
     "first_seen": "2026-09-02T00:47:34.789509+00:00",
@@ -132778,6 +132790,12 @@
     "first_seen": "2026-09-04T00:41:32.561724+00:00",
     "title": "Azure Governance & Cloud Operations Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Azure-Governance---Cloud-Operations-Lead_14638199"
+  },
+  "workday:Accenture:14638693": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710235+00:00",
+    "title": "Test Automation Engineer - 6441567",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Morristown-1-Speedwell-Ave-Corp/XMLNAME--Test-Automation-Engineer---6441567_14638693-1"
   },
   "workday:Accenture:14640145": {
     "company": "Accenture",
@@ -134051,6 +134069,12 @@
     "title": "Financial Plan & Analysis Senior Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01652818-1"
   },
+  "workday:Accenture:AIOC-S01653079": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710231+00:00",
+    "title": "Analytics and Modeling Associate Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Analytics-and-Modeling-Associate-Manager_AIOC-S01653079-1"
+  },
   "workday:Accenture:AIOC-S01653529": {
     "company": "Accenture",
     "first_seen": "2026-09-01T01:34:58.467996+00:00",
@@ -134218,6 +134242,12 @@
     "first_seen": "2026-08-28T14:14:10.508990+00:00",
     "title": "Delivery Operations Associate Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Delivery-Lead-Manager_AIOC-S01660860-1"
+  },
+  "workday:Accenture:AIOC-S01660953": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710250+00:00",
+    "title": "Procurement Operations Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Operations-Analyst_AIOC-S01660953-1"
   },
   "workday:Accenture:AIOC-S01661483": {
     "company": "Accenture",
@@ -139319,6 +139349,30 @@
     "title": "Procurement Practice Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664357-1"
   },
+  "workday:Accenture:AIOC-S01664358": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710259+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664358-1"
+  },
+  "workday:Accenture:AIOC-S01664359": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710261+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664359-1"
+  },
+  "workday:Accenture:AIOC-S01664360": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710285+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664360-1"
+  },
+  "workday:Accenture:AIOC-S01664361": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710290+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664361-1"
+  },
   "workday:Accenture:AIOC-S01664362": {
     "company": "Accenture",
     "first_seen": "2026-09-05T00:35:53.288063+00:00",
@@ -139337,6 +139391,18 @@
     "title": "Procurement Practice Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664364-1"
   },
+  "workday:Accenture:AIOC-S01664365": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710294+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664365-1"
+  },
+  "workday:Accenture:AIOC-S01664366": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710298+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664366-1"
+  },
   "workday:Accenture:AIOC-S01664367": {
     "company": "Accenture",
     "first_seen": "2026-09-05T00:35:53.288007+00:00",
@@ -139349,11 +139415,41 @@
     "title": "Procurement Practice Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664368-1"
   },
+  "workday:Accenture:AIOC-S01664369": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710302+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664369-1"
+  },
+  "workday:Accenture:AIOC-S01664370": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710306+00:00",
+    "title": "Procurement Practice Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664370-1"
+  },
   "workday:Accenture:AIOC-S01664371": {
     "company": "Accenture",
     "first_seen": "2026-09-05T00:35:53.288024+00:00",
     "title": "Procurement Practice Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Analyst_AIOC-S01664371-1"
+  },
+  "workday:Accenture:AIOC-S01664372": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710253+00:00",
+    "title": "Business Advisory New Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Noida/Business-Advisory-New-Associate_AIOC-S01664372-1"
+  },
+  "workday:Accenture:AIOC-S01664373": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710256+00:00",
+    "title": "Business Advisory New Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Noida/Business-Advisory-New-Associate_AIOC-S01664373-1"
+  },
+  "workday:Accenture:AIOC-S01664374": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710309+00:00",
+    "title": "Procurement Practice Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procurement-Practice-Senior-Analyst_AIOC-S01664374-1"
   },
   "workday:Accenture:AIOC-S01664375": {
     "company": "Accenture",
@@ -139366,6 +139462,12 @@
     "first_seen": "2026-09-05T00:35:53.288003+00:00",
     "title": "Procure to Pay Operations Specialist",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Procure-to-Pay-Operations-Specialist_AIOC-S01664376-1"
+  },
+  "workday:Accenture:AIOC-S01664377": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710312+00:00",
+    "title": "Supply Chain Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Operations-Senior-Analyst_AIOC-S01664377-1"
   },
   "workday:Accenture:AIOC-S01664378": {
     "company": "Accenture",
@@ -154511,6 +154613,12 @@
     "title": "DE033363-Mandarin Procure to Pay Ops Senior Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mandaluyong/DE033363-Mandarin-Procure-to-Pay-Ops-Senior-Analyst_CXO-133383-S78925-1"
   },
+  "workday:Accenture:CXO-133517-S79737": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710220+00:00",
+    "title": "DE033682-HR Service Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Quezon-City-Cyberpark-Tower-1/DE033682-HR-Service-Delivery-Associate_CXO-133517-S79737-1"
+  },
   "workday:Accenture:CXO-133545-S80005": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.562153+00:00",
@@ -156497,6 +156605,12 @@
     "title": "Data Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London-30-Fenchurch-Street/Data-Architect_R00322243-3"
   },
+  "workday:Accenture:R00322280": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710248+00:00",
+    "title": "Quality Engineering Associate Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Glasgow/QA-Automation-Engineer---Scotland_R00322280"
+  },
   "workday:Accenture:R00322352": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.759060+00:00",
@@ -156868,6 +156982,12 @@
     "first_seen": "2026-08-28T14:14:10.507666+00:00",
     "title": "SAP Analytics Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ebene/SAP-Analytics-Developer_R00330709"
+  },
+  "workday:Accenture:R00330758": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710228+00:00",
+    "title": "Senior AI Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon-Santos-37/Senior-AI-Engineer_R00330758"
   },
   "workday:Accenture:R00330941": {
     "company": "Accenture",
@@ -158117,11 +158237,23 @@
     "title": "Contract Specialist",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Specialist_R00343182"
   },
+  "workday:Accenture:R00343193": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710238+00:00",
+    "title": "AI Transformation & Process Excellence Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Consultant_R00343193"
+  },
   "workday:Accenture:R00343194": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.507828+00:00",
     "title": "Contract Associate Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Contract-Associate-Manager_R00343194-1"
+  },
+  "workday:Accenture:R00343203": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710242+00:00",
+    "title": "AI Transformation & Process Excellence Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Manager_R00343203"
   },
   "workday:Accenture:R00343213": {
     "company": "Accenture",
@@ -158284,6 +158416,12 @@
     "first_seen": "2026-08-28T14:14:10.507788+00:00",
     "title": "AI Software Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/AI-Engineer--Agentic-Systems-_R00344521"
+  },
+  "workday:Accenture:R00344532": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710245+00:00",
+    "title": "AI Transformation & Process Excellence Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/AI-Transformation---Process-Excellence-Senior-Manager_R00344532"
   },
   "workday:Accenture:R00344568": {
     "company": "Accenture",
@@ -158650,6 +158788,12 @@
     "first_seen": "2026-08-28T14:14:10.509590+00:00",
     "title": "Incident Manager - Sales Operations",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/MSFT-Incident-Manager---Sales-Operations_R00346272-1"
+  },
+  "workday:Accenture:R00346286": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710314+00:00",
+    "title": "Enterprise AI Value Strategist - Manager (all genders)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Berlin/Enterprise-AI-Value-Strategist---Manager_R00346286"
   },
   "workday:Accenture:R00346298": {
     "company": "Accenture",
@@ -159238,6 +159382,12 @@
     "first_seen": "2026-08-31T17:48:57.093244+00:00",
     "title": "Intellera - Healthcare Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Healthcare-Manager_R00349077"
+  },
+  "workday:Accenture:R00349097": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710316+00:00",
+    "title": "Intellera - Analyst PMO IT Healthcare",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano-Via-Gaetano-de-Castillia-23/Intellera---Analyst-PMO-IT-Healthcare_R00349097"
   },
   "workday:Accenture:R00349103": {
     "company": "Accenture",
@@ -161554,6 +161704,12 @@
     "first_seen": "2026-09-05T00:35:53.287904+00:00",
     "title": "Account Manager | Analyst | Espa\u00f1ol",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Account-Manager---Analyst---Espaol_R00354631"
+  },
+  "workday:Accenture:R00354704": {
+    "company": "Accenture",
+    "first_seen": "2026-09-06T13:54:52.710224+00:00",
+    "title": "Advertising Sales Rep Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/GA---Atlanta/Advertising-Sales-Rep-Senior-Analyst_R00354704"
   },
   "workday:Accenture:R00354707": {
     "company": "Accenture",
@@ -185620,6 +185776,12 @@
     "first_seen": "2026-08-28T21:19:12.244701+00:00",
     "title": "Nurse Case Management Lead Analyst - Accredo - Work at Home",
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Nurse-Case-Management-Lead-Analyst---Accredo---Work-at-Home_26010152"
+  },
+  "workday:Cigna:26010161": {
+    "company": "Cigna",
+    "first_seen": "2026-09-06T13:54:52.891045+00:00",
+    "title": "Customer Service Representative - Express Scripts - Remote",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Missouri-Work-at-Home/Customer-Service-Representative---Express-Scripts---Remote_26010161-1"
   },
   "workday:Cigna:26010165": {
     "company": "Cigna",
@@ -217271,6 +217433,12 @@
     "title": "Principal Architect, MedTech Technology  R&D Product Lifecycle Management",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Principal-Architect--R-D-PLM_R-076744"
   },
+  "workday:Johnson & Johnson:R-076896": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T13:54:52.780563+00:00",
+    "title": "Product Specialist",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Product-Specialist_R-076896"
+  },
   "workday:Johnson & Johnson:R-077085": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-08-28T21:19:12.141970+00:00",
@@ -218602,6 +218770,12 @@
     "first_seen": "2026-08-28T14:14:10.581340+00:00",
     "title": "ServiceNow Solutions Technical Product Owner",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Bangalore-Karnataka-India/ServiceNow-Solutions-Technical-Product-Owner_R-086317"
+  },
+  "workday:Johnson & Johnson:R-086359": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T13:54:52.780541+00:00",
+    "title": "Medical Science Liaison",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Medical-Science-Liaison_R-086359"
   },
   "workday:Johnson & Johnson:R-086360": {
     "company": "Johnson & Johnson",
@@ -228455,6 +228629,12 @@
     "title": "Inventory Management Senior Analyst",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/So-Jos-dos-Campos-So-Paulo-Brazil/Inventory-Management-Senior-Analyst_R-097452"
   },
+  "workday:Johnson & Johnson:R-097455": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-06T13:54:52.780559+00:00",
+    "title": "[MedTech] Commercial Operations Coordinator - DePuy Synthes",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Seoul-Korea-Republic-of/XMLNAME--MedTech--Commercial-Operations-Coordinator---DePuy-Synthes_R-097455"
+  },
   "workday:Johnson & Johnson:R-097459": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-04T00:41:32.633094+00:00",
@@ -231838,6 +232018,12 @@
     "first_seen": "2026-08-28T14:14:10.422618+00:00",
     "title": "Senior Managing Consultant, Services Business Development",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Doha-Qatar/Senior-Managing-Consultant--Services-Business-Development_R-281371"
+  },
+  "workday:Mastercard:R-281383": {
+    "company": "Mastercard",
+    "first_seen": "2026-09-06T13:54:52.618226+00:00",
+    "title": "Manager,  Financial Planning & Analysis (Statutory and Regulatory Reporting)",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Manilla-Philippines-Transfast/Manager---Financial-Planning---Analysis--Statutory-and-Regulatory-Reporting-_R-281383"
   },
   "workday:Mastercard:R-281390": {
     "company": "Mastercard",
@@ -238606,6 +238792,12 @@
     "first_seen": "2026-08-28T14:14:10.634997+00:00",
     "title": "Maintenance Monteur - Storing & Onderhoud",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/NLD---North-Brabant---Boxmeer/Maintenance-Monteur---Storing---Onderhoud_R404573-1"
+  },
+  "workday:Merck:R404697": {
+    "company": "Merck",
+    "first_seen": "2026-09-06T13:54:52.825088+00:00",
+    "title": "Algorithm Engineer",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---North-Central-District---Netanya/Algorithm-Engineer_R404697-1"
   },
   "workday:Merck:R404734": {
     "company": "Merck",
@@ -264557,6 +264749,12 @@
     "title": "Medical Operations Associate",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Poland---Remote/Medical-Operations-Associate_4963100-1"
   },
+  "workday:Pfizer:4963102": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-06T13:54:52.857323+00:00",
+    "title": "\u4ee3\u8c22\u4e8b\u4e1a\u90e8-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458\uff08MICS\uff09-\u5e7f\u5dde",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Guangdong---Guangzhou/--MICS--_4963102-1"
+  },
   "workday:Pfizer:4963109": {
     "company": "Pfizer",
     "first_seen": "2026-09-04T14:43:53.238429+00:00",
@@ -265727,6 +265925,12 @@
     "title": "Bindery Specialist (Overnight)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8400-89th-Ave-NSte-410---TCPS-410-Brooklyn-ParkMN-55445-1872/Bindery-Specialist--Overnight-_R0000369709"
   },
+  "workday:Target:R0000370604": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095924+00:00",
+    "title": "Seasonal: 4am Inbound (Stocking) (T2385)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2661-FREEPORT-RD-Pittsburgh-PA-15238-1441/Seasonal--4am-Inbound--Stocking---T2385-_R0000370604"
+  },
   "workday:Target:R0000370856": {
     "company": "Target",
     "first_seen": "2026-08-28T14:14:10.896315+00:00",
@@ -265763,11 +265967,23 @@
     "title": "Assets Protection Specialist",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/130-S-Mannheim-Rd-HillsideIL-60162-1821/Assets-Protection-Specialist_R0000390561"
   },
+  "workday:Target:R0000391756": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095902+00:00",
+    "title": "Overnight Inbound (Stocking) (T2390)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/15560-Pilot-Knob-Rd-Apple-ValleyMN-55124-7286/Overnight-Inbound--Stocking---T2390-_R0000391756"
+  },
   "workday:Target:R0000413038": {
     "company": "Target",
     "first_seen": "2026-08-28T14:14:10.895755+00:00",
     "title": "GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Starbucks, Food Service) (T1967)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2900-Little-Rd-TrinityFL-34655-4420/GM-and-Food--General-Merchandise--Closing--Fulfillment--Inbound--Food-and-Beverage---Starbucks---T1967-_R0000413038"
+  },
+  "workday:Target:R0000414658": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095873+00:00",
+    "title": "Overnight Inbound (Stocking) (T2403)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2936-Council-Tree-Ave-Fort-Collins-CO-80525-6300/Overnight-Inbound--Stocking---T2403-_R0000414658"
   },
   "workday:Target:R0000416127": {
     "company": "Target",
@@ -268612,6 +268828,12 @@
     "first_seen": "2026-08-30T15:09:27.243591+00:00",
     "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T2908) For Non-Small Format Locations",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/361-Middletown-Warwick-Rd-MiddletownDE-19709-9529/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T2908--For-Non-Small-Format-Locations_R0000448752"
+  },
+  "workday:Target:R0000448755": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095936+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T2545) For Non-Small Format Locations",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/960-Lititz-Pike-LititzPA-17543-9328/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T2545--For-Non-Small-Format-Locations_R0000448755"
   },
   "workday:Target:R0000448822": {
     "company": "Target",
@@ -272069,6 +272291,12 @@
     "title": "Asset Protection Team Leader",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4400-N-State-Rd-7-Coral-SpringsFL-33073-3353/Asset-Protection-Team-Leader_R0000450685"
   },
+  "workday:Target:R0000450695": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095929+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1134)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/201-Sunrise-Blvd-ExtonPA-19341-2336/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1134-_R0000450695"
+  },
   "workday:Target:R0000450696": {
     "company": "Target",
     "first_seen": "2026-08-28T14:14:10.896317+00:00",
@@ -273184,6 +273412,12 @@
     "first_seen": "2026-08-28T14:14:10.895761+00:00",
     "title": "Seasonal: 4am Inbound (Stocking) (T2371)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1200-N-Muldoon-RdSte-F-AnchorageAK-99504-6103/Seasonal--4am-Inbound--Stocking---T2371-_R0000451053"
+  },
+  "workday:Target:R0000451054": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095900+00:00",
+    "title": "Lead Machine Learning Engineer - Merchandising AI (ML Ops)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Lead-Machine-Learning-Engineer---Merchandising-AI--ML-Ops-_R0000451054"
   },
   "workday:Target:R0000451055": {
     "company": "Target",
@@ -274589,6 +274823,12 @@
     "title": "4am Inbound (Stocking) (T1375)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/XMLNAME-4am-Inbound--Stocking---T1375-_R0000451685"
   },
+  "workday:Target:R0000451686": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095922+00:00",
+    "title": "Seasonal: 4am Inbound (Stocking) (T2036)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/100-Perimeter-Center-Pl-AtlantaGA-30346-1204/Seasonal--4am-Inbound--Stocking---T2036--_R0000451686"
+  },
   "workday:Target:R0000451687": {
     "company": "Target",
     "first_seen": "2026-08-31T17:48:57.473406+00:00",
@@ -274660,6 +274900,12 @@
     "first_seen": "2026-08-31T17:48:57.473337+00:00",
     "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1302) For Non-Small Format Locations",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1816-Gunbarrel-Rd-ChattanoogaTN-37421-3129/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1302--For-Non-Small-Format-Locations_R0000451704"
+  },
+  "workday:Target:R0000451705": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095934+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T2036) For Non-Small Format Locations",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/100-Perimeter-Center-Pl-AtlantaGA-30346-1204/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T2036--For-Non-Small-Format-Locations_R0000451705"
   },
   "workday:Target:R0000451707": {
     "company": "Target",
@@ -275189,6 +275435,12 @@
     "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1168)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2099-Skokie-Valley-Rd-Highland-ParkIL-60035-1728/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1168-_R0000451883"
   },
+  "workday:Target:R0000451884": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095932+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1218)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/105-Blazier-Dr-PittsburghPA-15237-6039/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1218-_R0000451884"
+  },
   "workday:Target:R0000451886": {
     "company": "Target",
     "first_seen": "2026-09-02T14:54:56.140853+00:00",
@@ -275249,11 +275501,29 @@
     "title": "Seasonal: Overnight Inbound (Stocking) (T1051)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/3625-W-Gandy-Blvd-TampaFL-33611-2607/Seasonal--Overnight-Inbound--Stocking---T1051-_R0000451896"
   },
+  "workday:Target:R0000451897": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095920+00:00",
+    "title": "Seasonal: 4am Inbound (Stocking) (T1218)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/105-Blazier-Dr-PittsburghPA-15237-6039/Seasonal--4am-Inbound--Stocking---T1218-_R0000451897"
+  },
   "workday:Target:R0000451898": {
     "company": "Target",
     "first_seen": "2026-09-01T15:22:42.586264+00:00",
     "title": "EIT GM and Food Sales",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1245-Bald-Hill-Rd-WarwickRI-02886-4233/EIT-GM-and-Food-Sales_R0000451898"
+  },
+  "workday:Target:R0000451901": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095927+00:00",
+    "title": "Seasonal: 6am Inbound (Stocking) (T1218)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/105-Blazier-Dr-PittsburghPA-15237-6039/Seasonal--6am-Inbound--Stocking---T1218-_R0000451901"
+  },
+  "workday:Target:R0000451903": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095915+00:00",
+    "title": "Seasonal: Overnight Inbound (Stocking) (T1768)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1030-Blairs-Ferry-Rd-NE-Cedar-RapidsIA-52402-1220/Seasonal--Overnight-Inbound--Stocking---T1768-_R0000451903"
   },
   "workday:Target:R0000451904": {
     "company": "Target",
@@ -275591,6 +275861,12 @@
     "title": "Target Security Specialist",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/400-Cochituate-Rd-FraminghamMA-01701-4655/Target-Security-Specialist_R0000452048"
   },
+  "workday:Target:R0000452049": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095893+00:00",
+    "title": "Overnight Inbound (Stocking) (T2457)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1415-Eglin-St-Rapid-CitySD-57701-9504/Overnight-Inbound--Stocking---T2457-_R0000452049"
+  },
   "workday:Target:R0000452050": {
     "company": "Target",
     "first_seen": "2026-09-02T14:54:56.140802+00:00",
@@ -275897,6 +276173,30 @@
     "title": "Human Resources Expert",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/10621-Carmenita-Rd-Santa-Fe-SpringsCA-90670-4017/Human-Resources-Expert_R0000452206"
   },
+  "workday:Target:R0000452210": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095904+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T0082)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2401-Kossow-Rd-WaukeshaWI-53186-2904/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T0082-_R0000452210"
+  },
+  "workday:Target:R0000452213": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095907+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T0864)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2553-Sun-Valley-Dr-DelafieldWI-53018-2333/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T0864-_R0000452213"
+  },
+  "workday:Target:R0000452214": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095910+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1311)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4798-S-Moorland-Rd-New-BerlinWI-53151-7486/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1311-_R0000452214-1"
+  },
+  "workday:Target:R0000452221": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095913+00:00",
+    "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T2546)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1250-W-Sunset-Dr-Waukesha-WI-53189-8423/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T2546-_R0000452221"
+  },
   "workday:Target:R0000452227": {
     "company": "Target",
     "first_seen": "2026-09-03T14:51:21.541167+00:00",
@@ -276197,6 +276497,12 @@
     "title": "Seasonal: Guest Advocate (Cashier), General Merchandise, Fulfillment, Food & Beverage, Front of Store Attendant (Cart Attendant), Style, Inbound (Stocking) (T1432)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/16825-E-Shea-Blvd-Fountain-HillsAZ-85268-6668/Seasonal--Guest-Advocate--Cashier---General-Merchandise--Fulfillment--Food---Beverage--Front-of-Store-Attendant--Cart-Attendant---Style--Inbound--Stocking---T1432-_R0000452393"
   },
+  "workday:Target:R0000452394": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095917+00:00",
+    "title": "4am Inbound (Stocking) (T2390)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/15560-Pilot-Knob-Rd-Apple-ValleyMN-55124-7286/XMLNAME-4am-Inbound--Stocking---T2390-_R0000452394"
+  },
   "workday:Target:R0000452395": {
     "company": "Target",
     "first_seen": "2026-09-04T14:43:53.492187+00:00",
@@ -276208,6 +276514,12 @@
     "first_seen": "2026-09-04T14:43:53.492185+00:00",
     "title": "Starbucks Barista (T1087)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7860-Rea-Rd-CharlotteNC-28277-6502/Starbucks-Barista--T1087-_R0000452396"
+  },
+  "workday:Target:R0000452403": {
+    "company": "Target",
+    "first_seen": "2026-09-06T13:54:53.095897+00:00",
+    "title": "EIT Specialty Sales",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4250-Rusty-Rd-Saint-LouisMO-63128-1973/EIT-Specialty-Sales_R0000452403"
   },
   "workday:Target:R0000452404": {
     "company": "Target",
