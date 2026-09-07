@@ -5807,6 +5807,12 @@
     "title": "Sales Development Representative (German Speaking)",
     "url": "https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224"
   },
+  "ashby:Harvey:3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c": {
+    "company": "Harvey",
+    "first_seen": "2026-09-07T00:39:25.253101+00:00",
+    "title": "Staff Software Engineer, Model Infrastructure",
+    "url": "https://jobs.ashbyhq.com/harvey/3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c"
+  },
   "ashby:Harvey:3e12bb8e-1647-40b4-9447-2dea4a5b3e25": {
     "company": "Harvey",
     "first_seen": "2026-08-28T14:14:09.722070+00:00",
@@ -6898,6 +6904,12 @@
     "first_seen": "2026-08-28T14:14:09.722379+00:00",
     "title": "Head of GTM Strategy & Operations, AMER",
     "url": "https://jobs.ashbyhq.com/harvey/b85907be-9937-4bf1-91a0-4474c35e4402"
+  },
+  "ashby:Harvey:b9c5964f-40ef-46c5-a1db-58dbdd2c314e": {
+    "company": "Harvey",
+    "first_seen": "2026-09-07T00:39:25.253086+00:00",
+    "title": "Senior Software Engineer, Model Infrastructure",
+    "url": "https://jobs.ashbyhq.com/harvey/b9c5964f-40ef-46c5-a1db-58dbdd2c314e"
   },
   "ashby:Harvey:ba1dd03d-f8fa-4097-8aa1-757fe17b2166": {
     "company": "Harvey",
@@ -11087,6 +11099,12 @@
     "title": "Full Stack Software Engineer, API Experience",
     "url": "https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e"
   },
+  "ashby:OpenAI:6668417f-6878-4244-940f-9a99ae4ebcb0": {
+    "company": "OpenAI",
+    "first_seen": "2026-09-07T00:39:24.947645+00:00",
+    "title": "Applied AI Engineer, Codex | Tokyo",
+    "url": "https://jobs.ashbyhq.com/openai/6668417f-6878-4244-940f-9a99ae4ebcb0"
+  },
   "ashby:OpenAI:667c09e2-6efc-45dc-9714-078bedf17343": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.016568+00:00",
@@ -12238,6 +12256,12 @@
     "first_seen": "2026-08-14T15:49:08.016790+00:00",
     "title": "Developer Marketing Lead, APAC",
     "url": "https://jobs.ashbyhq.com/openai/98eec6be-1d69-406d-88ba-3cb43f3fcbd7"
+  },
+  "ashby:OpenAI:98f65aa5-0f19-4942-9296-63382883dc55": {
+    "company": "OpenAI",
+    "first_seen": "2026-09-07T00:39:24.947662+00:00",
+    "title": "Site Selection Lead",
+    "url": "https://jobs.ashbyhq.com/openai/98f65aa5-0f19-4942-9296-63382883dc55"
   },
   "ashby:OpenAI:990397de-c00c-4577-b093-d8c82b4e9145": {
     "company": "OpenAI",
@@ -19409,6 +19433,12 @@
     "title": "Enterprise Sales Director - Majors, Retail",
     "url": "https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6"
   },
+  "ashby:Sierra:837a134f-6ab3-485f-9cf7-a957cc1b8992": {
+    "company": "Sierra",
+    "first_seen": "2026-09-07T00:39:25.407027+00:00",
+    "title": "Strategist, Agent Development (Norwegian speaking)",
+    "url": "https://jobs.ashbyhq.com/sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992"
+  },
   "ashby:Sierra:83a88812-d488-4a24-bb39-e1b0aa6dd240": {
     "company": "Sierra",
     "first_seen": "2026-08-28T14:14:09.843578+00:00",
@@ -19546,6 +19576,12 @@
     "first_seen": "2026-08-28T14:14:09.843493+00:00",
     "title": "Security GRC Manager: Customer Trust Enablement",
     "url": "https://jobs.ashbyhq.com/sierra/9cb28fb8-dd38-480b-81eb-ca8034b298b6"
+  },
+  "ashby:Sierra:9d54f016-7919-457b-a298-17a536ab8c5c": {
+    "company": "Sierra",
+    "first_seen": "2026-09-07T00:39:25.407011+00:00",
+    "title": "Strategist, Agent Development (Flemish speaking)",
+    "url": "https://jobs.ashbyhq.com/sierra/9d54f016-7919-457b-a298-17a536ab8c5c"
   },
   "ashby:Sierra:9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a": {
     "company": "Sierra",
@@ -19906,6 +19942,12 @@
     "first_seen": "2026-08-28T14:14:09.843320+00:00",
     "title": "Product Manager, Agent Development",
     "url": "https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c"
+  },
+  "ashby:Sierra:dcd50512-6575-46e5-8c28-b2bcd6acf81f": {
+    "company": "Sierra",
+    "first_seen": "2026-09-07T00:39:25.407024+00:00",
+    "title": "Strategist, Agent Development (Swedish speaking)",
+    "url": "https://jobs.ashbyhq.com/sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f"
   },
   "ashby:Sierra:df431e56-56f5-42ed-bc62-7d6f7041bd27": {
     "company": "Sierra",
@@ -103367,6 +103409,12 @@
     "title": "Precision Inspector (Starlink)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8769646002?gh_jid=8769646002"
   },
+  "greenhouse:SpaceX:8769675002": {
+    "company": "SpaceX",
+    "first_seen": "2026-09-07T00:39:23.765968+00:00",
+    "title": "Supervisor, NDE Operations (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8769675002?gh_jid=8769675002"
+  },
   "greenhouse:SpaceX:8769707002": {
     "company": "SpaceX",
     "first_seen": "2026-09-03T14:51:18.328420+00:00",
@@ -103594,6 +103642,12 @@
     "first_seen": "2026-09-05T00:35:50.428273+00:00",
     "title": "External Affairs Manager",
     "url": "https://boards.greenhouse.io/spacex/jobs/8778518002?gh_jid=8778518002"
+  },
+  "greenhouse:SpaceX:8779037002": {
+    "company": "SpaceX",
+    "first_seen": "2026-09-07T00:39:23.765941+00:00",
+    "title": "Sr. Executive Chef",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8779037002?gh_jid=8779037002"
   },
   "greenhouse:SpaceX:8779334002": {
     "company": "SpaceX",
@@ -109282,6 +109336,12 @@
     "first_seen": "2026-09-05T00:35:51.324723+00:00",
     "title": "User Escalation Specialist",
     "url": "https://stripe.com/jobs/search?gh_jid=8180318"
+  },
+  "greenhouse:Stripe:8181003": {
+    "company": "Stripe",
+    "first_seen": "2026-09-07T00:39:24.453666+00:00",
+    "title": "Forward Deployed Security Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8181003"
   },
   "greenhouse:Ursa Major:4347615005": {
     "company": "Ursa Major",
@@ -132119,6 +132179,12 @@
     "title": "Sr Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Melbourne/Solution-Designer_14265133"
   },
+  "workday:Accenture:14265729": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902675+00:00",
+    "title": "System\u00a0 Security Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh-KAFD-309/System--Security-Practitioner_14265729"
+  },
   "workday:Accenture:14287410": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.508630+00:00",
@@ -132196,6 +132262,12 @@
     "first_seen": "2026-08-31T01:03:56.671816+00:00",
     "title": "Connectivity Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Perth-Exchange-Tower/Connectivity-Analyst_14382935-1"
+  },
+  "workday:Accenture:14386296": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902651+00:00",
+    "title": ".NET Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brisbane-10-Eagle-Street/XMLNAME-NET-Developer_14386296"
   },
   "workday:Accenture:14430619": {
     "company": "Accenture",
@@ -132568,6 +132640,12 @@
     "first_seen": "2026-09-01T15:22:42.243549+00:00",
     "title": "AMBG Associate Director (all genders)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Munich-Balan-Campus-Building-17/AMBG-Associate-Director--all-genders-_14600386-1"
+  },
+  "workday:Accenture:14602232": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902677+00:00",
+    "title": "Business Process & AI Transformation Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Business-Process---AI-Transformation-Consultant_14602232"
   },
   "workday:Accenture:14602738": {
     "company": "Accenture",
@@ -133103,11 +133181,35 @@
     "title": "Security Delivery Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Security-Delivery-Consultant_14673466"
   },
+  "workday:Accenture:14673841": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902667+00:00",
+    "title": "SAP SD Retail Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/SAP-SD-Retail-Consultant_14673841"
+  },
+  "workday:Accenture:14673848": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902671+00:00",
+    "title": "SAP SD Retail Associate Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/SAP-SD-Retail-Associate-Manager_14673848"
+  },
+  "workday:Accenture:14673850": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902669+00:00",
+    "title": "SAP SD Retail Consultant (PMR)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/SAP-SD-Retail-Consultant--PMR-_14673850"
+  },
   "workday:Accenture:14673860": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.560674+00:00",
     "title": "^Delivery Lead - 6458683",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Miami-777-Brickell-Ave-Corp/XMLNAME--Delivery-Lead---6458683_14673860"
+  },
+  "workday:Accenture:14673874": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902663+00:00",
+    "title": "SAP SD Senior Analyst (AATP)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/SAP-SD-Senior-Analyst--AATP-_14673874"
   },
   "workday:Accenture:14673916": {
     "company": "Accenture",
@@ -133457,6 +133559,12 @@
     "title": "Rack Power Technical Program Manager 6472561",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Walnut-Creek-1255-Treat-Blvd-Corp/Rack-Power-Technical-Program-Manager-6472561_14699655"
   },
+  "workday:Accenture:14699675": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902673+00:00",
+    "title": "DevOps Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/DevOps-Engineer_14699675"
+  },
   "workday:Accenture:14699724": {
     "company": "Accenture",
     "first_seen": "2026-08-30T15:09:26.907783+00:00",
@@ -133738,6 +133846,12 @@
     "first_seen": "2026-09-02T14:54:55.758368+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Application-Support-Engineer_14716161"
+  },
+  "workday:Accenture:14716180": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902666+00:00",
+    "title": "AMS-OP-CS-DevSsr-Angular",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/AMS-OP-CS-DevSsr-Angular_14716180"
   },
   "workday:Accenture:14716512": {
     "company": "Accenture",
@@ -159143,6 +159257,12 @@
     "title": "Administraci\u00f3n de contenedores y microservicios",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Administracin-de-contenedores-y-microservicios_R00347702"
   },
+  "workday:Accenture:R00347730": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902680+00:00",
+    "title": "Product Management Specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Doha/Product-Management-Manager_R00347730"
+  },
   "workday:Accenture:R00347734": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.759092+00:00",
@@ -159154,6 +159274,12 @@
     "first_seen": "2026-08-28T14:14:10.507889+00:00",
     "title": "Customer Service Specialist with German and English (Rotational shifts)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Customer-Service-Specialist-with-German-and-English--Rotational-shifts-_R00347740"
+  },
+  "workday:Accenture:R00347762": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902679+00:00",
+    "title": "Business Design Specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Doha/Business-Design-Specialist_R00347762"
   },
   "workday:Accenture:R00347896": {
     "company": "Accenture",
@@ -160048,6 +160174,18 @@
     "first_seen": "2026-09-03T14:51:21.137221+00:00",
     "title": "T&O Transformational Change Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/T-O-Transformational-Change-Manager_R00351723"
+  },
+  "workday:Accenture:R00351724": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902681+00:00",
+    "title": "Sales Capture Senior Manager- AI and Data",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Sales-Capture-Senior-Manager--AI-and-Data_R00351724"
+  },
+  "workday:Accenture:R00351737": {
+    "company": "Accenture",
+    "first_seen": "2026-09-07T00:39:25.902683+00:00",
+    "title": "Sales Capture Senior Manager-Software Platform and Infra Engineering",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Sales-Capture-Senior-Manager-Software-Platform-and-Infra-Engineering_R00351737"
   },
   "workday:Accenture:R00351750": {
     "company": "Accenture",
@@ -199163,6 +199301,12 @@
     "title": "Vice President, Emerging Corporates Relationship Manager, Citi Commercial Bank",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Vice-President--Emerging-Corporates-Relationship-Manager--Citi-Commercial-Bank_26991316-1"
   },
+  "workday:Citi:26991344": {
+    "company": "Citi",
+    "first_seen": "2026-09-07T00:39:25.803243+00:00",
+    "title": "Banking, Financing, Full Time Analyst, London - United Kingdom 2027 (Applicable for 2026 Citi Summer interns only)",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344"
+  },
   "workday:Citi:26991349": {
     "company": "Citi",
     "first_seen": "2026-09-03T14:51:21.003361+00:00",
@@ -223973,6 +224117,12 @@
     "title": "Senior Specialist External Quality",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Latina-Italy/Senior-Specialist-External-Quality_R-094758"
   },
+  "workday:Johnson & Johnson:R-094762": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-07T00:39:25.958189+00:00",
+    "title": "Senior Product Specialist",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Singapore-Singapore/Senior-Product-Specialist_R-094762"
+  },
   "workday:Johnson & Johnson:R-094768": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-08-28T14:14:10.581615+00:00",
@@ -226793,6 +226943,12 @@
     "title": "Especialista em Contas Cl\u00ednicas Associadas (ACAS) - Eletrofisiologia | Bras\u00edlia",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/So-Paulo-Brazil/Especialista-em-Contas-Clnicas-Associadas--ACAS----Eletrofisiologia---Braslia_R-096189"
   },
+  "workday:Johnson & Johnson:R-096190": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-07T00:39:25.958174+00:00",
+    "title": "Class of 2027 Global Operations Leadership Development Program - Europe (GOLD)",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beerse-Antwerp-Belgium/Class-of-2027-Global-Operations-Leadership-Development-Program---Europe--GOLD-_R-096190"
+  },
   "workday:Johnson & Johnson:R-096194": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-01T01:34:58.519309+00:00",
@@ -228725,6 +228881,18 @@
     "title": "[Innovative Medicine] Medical Science Liaison (Immunology)",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Seoul-Korea-Republic-of/XMLNAME--Innovative-Medicine--Medical-Science-Liaison--Immunology-_R-097539"
   },
+  "workday:Johnson & Johnson:R-097545": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-07T00:39:25.958185+00:00",
+    "title": "Project Manager, Network Transition",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Bangalore-Karnataka-India/Project-Manager--Network-Transition_R-097545"
+  },
+  "workday:Johnson & Johnson:R-097554": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-07T00:39:25.958182+00:00",
+    "title": "Functional Analyst - JJMT Transformation",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Bangalore-Karnataka-India/Functional-Analyst---JJMT-Transformation_R-097554"
+  },
   "workday:Johnson & Johnson:R-097558": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-04T14:43:53.151912+00:00",
@@ -228862,6 +229030,12 @@
     "first_seen": "2026-09-04T14:43:53.151920+00:00",
     "title": "Account Manager (m/w/d) MENTOR\u00ae \u2013 Berlin/Sachsen-Anhalt/Brandenburg/Th\u00fcringen/Sachsen",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Norderstedt-Schleswig-Holstein-Germany/Account-Manager--m-w-d--MENTOR----Berlin-Sachsen-Anhalt-Brandenburg-Thringen-Sachsen_R-097783"
+  },
+  "workday:Johnson & Johnson:R-097833": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-07T00:39:25.958188+00:00",
+    "title": "Supply & Capacity Planner",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Aurangabad-Maharashtra-India/Supply---Capacity-Planner_R-097833"
   },
   "workday:Johnson & Johnson:R-097848": {
     "company": "Johnson & Johnson",
@@ -237257,6 +237431,12 @@
     "title": "Distinguished Scientist, Clinical Research, Thoracic Malignancies",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Distinguished-Scientist--Clinical-Research--Thoracic-Malignancies_R381175"
   },
+  "workday:Merck:R382529": {
+    "company": "Merck",
+    "first_seen": "2026-09-07T00:39:25.993063+00:00",
+    "title": "Technical Business Analyst (Data & Analytics)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CZE---Central-Bohemian---Prague-IT-Riverview/Technical-Business-Analyst--Data---Analytics-_R382529-1"
+  },
   "workday:Merck:R383724": {
     "company": "Merck",
     "first_seen": "2026-08-28T14:14:10.635110+00:00",
@@ -242482,6 +242662,12 @@
     "first_seen": "2026-08-28T14:14:10.634309+00:00",
     "title": "Manager, Vaccine Health Development",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CHN---Shaanxi---Xian-Jinding-Intl-building/Manager--Vaccine-Health-Development_R413459-1"
+  },
+  "workday:Merck:R413463": {
+    "company": "Merck",
+    "first_seen": "2026-09-07T00:39:25.993056+00:00",
+    "title": "Regulatory Affairs Senior Specialist",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/GBR---London---London-Moorgate-WeWork/Regulatory-Affairs-Senior-Specialist_R413463-1"
   },
   "workday:Merck:R413473": {
     "company": "Merck",
@@ -260477,6 +260663,18 @@
     "title": "Athlete\u00a0/\u00a0Asesor.a\u00a0de Venta FT 40H Tiempo Completo \u2013 TEMPORAL |\u00a0Nike Unite Punto Sur",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Tlajomulco-de-Zuniga-Mexico/Athlete---Asesora-de-Venta-FT-40H-Tiempo-Completo---TEMPORAL---Nike-Unite-Punto-Sur_R-91469-1"
   },
+  "workday:Nike:R-91481": {
+    "company": "Nike",
+    "first_seen": "2026-09-07T00:39:26.099583+00:00",
+    "title": "Athlete 40FT (\uae40\ud3ec)",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Gyeonggi-do-Korea/Athlete-40FT---_R-91481"
+  },
+  "workday:Nike:R-91498": {
+    "company": "Nike",
+    "first_seen": "2026-09-07T00:39:26.099573+00:00",
+    "title": "Apparel Production Artist I, Local Creation GC",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Shanghai-China-Mainland/Apparel-Production-Artist-I--Local-Creation-GC_R-91498"
+  },
   "workday:Pfizer:4790916": {
     "company": "Pfizer",
     "first_seen": "2026-08-28T14:14:10.671092+00:00",
@@ -268481,6 +268679,12 @@
     "title": "Specialty Sales Team Leader - Amarillo, TX",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8201-I-40-W-AmarilloTX-79121-1104/Specialty-Sales-Team-Leader---Amarillo--TX_R0000448131"
   },
+  "workday:Target:R0000448161": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206234+00:00",
+    "title": "Sr Creative Producer",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2650-Winter-St-NE-MinneapolisMN-55413-3195/Sr-Creative-Producer_R0000448161"
+  },
   "workday:Target:R0000448199": {
     "company": "Target",
     "first_seen": "2026-08-28T14:14:10.897962+00:00",
@@ -276083,6 +276287,24 @@
     "title": "Target Security Specialist",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2056-Skibo-Rd-FayettevilleNC-28314-2245/Target-Security-Specialist_R0000452146"
   },
+  "workday:Target:R0000452147": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206228+00:00",
+    "title": "General Merchandise Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/General-Merchandise-Team-Leader_R0000452147"
+  },
+  "workday:Target:R0000452148": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206226+00:00",
+    "title": "Specialty Sales Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Specialty-Sales-Team-Leader_R0000452148"
+  },
+  "workday:Target:R0000452149": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206217+00:00",
+    "title": "Assets Protection Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1106-E-North-Ave-BeltonMO-64012-5104/Assets-Protection-Team-Leader_R0000452149"
+  },
   "workday:Target:R0000452150": {
     "company": "Target",
     "first_seen": "2026-09-03T00:55:53.012911+00:00",
@@ -276604,6 +276826,18 @@
     "first_seen": "2026-09-05T00:35:53.704283+00:00",
     "title": "General Merchandise Team Leader",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/General-Merchandise-Team-Leader_R0000452492"
+  },
+  "workday:Target:R0000452541": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206230+00:00",
+    "title": "Service & Engagement Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/131-West-Reynolds-Rd-LexingtonKY-40503-3599/Service---Engagement-Team-Leader_R0000452541"
+  },
+  "workday:Target:R0000452542": {
+    "company": "Target",
+    "first_seen": "2026-09-07T00:39:26.206232+00:00",
+    "title": "Food & Beverage Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1850-NW-Chipman-Rd-Lees-SummitMO-64081-3938/Food---Beverage-Team-Leader_R0000452542"
   },
   "workday:Wisk Aero:JR100285": {
     "company": "Wisk Aero",
