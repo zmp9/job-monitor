@@ -1,6 +1,6 @@
 # Open matches
 
-_56 postings scoring >= 40, of 31843 scanned. Updated 2026-09-07 00:39 UTC._
+_55 postings scoring >= 40, of 31688 scanned. Updated 2026-09-07 16:15 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -30,7 +30,7 @@ _56 postings scoring >= 40, of 31843 scanned. Updated 2026-09-07 00:39 UTC._
 | 60 | [Functions - Risk Management, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Risk-Management--Summer-Analyst--Tampa---USA--2027_26955732) | Citi | Tampa Florida United States |
 | 60 | [Functions - Risk Management, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Risk-Management--Summer-Analyst--Irving---USA--2027_26955971) | Citi | Irving Texas United States |
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
-| 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
+| 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7980889003?gh_jid=7980889003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 57 | [Analyst/Associate - Litigation (Life Sciences practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4432386) | Charles River Associates | Washington, DC, United States |
 | 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
 | 56 | [(2028 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
@@ -51,7 +51,6 @@ _56 postings scoring >= 40, of 31843 scanned. Updated 2026-09-07 00:39 UTC._
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
 | 45 | [Banking - Commercial Banking, Summer Analyst, Los Angeles - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Banking---Commercial-Banking--Summer-Analyst--Los-Angeles---US--2027_26947566) | Citi | Los Angeles California United States |
 | 45 | [Functions - Chief Operating Office, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Chief-Operating-Office--Summer-Analyst--Tampa---USA--2027_26990422) | Citi | Tampa Florida United States |
-| 45 | [Banking - Corporate Banking, Summer Analyst, Houston - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Houston-Texas-United-States/Banking---Corporate-Banking--Summer-Analyst--Houston---US--2027_25926650) | Citi | Houston Texas United States |
 | 45 | [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) | Prudential Financial | Newark, NJ, USA |
 | 45 | [Prudential: 2027 Corporate, Finance Internship Program (FIP)](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Finance-Internship-Program--FIP-_R-124881) | Prudential Financial | Newark, NJ, USA |
 | 45 | [PGIM: 2027 Public Credit, Summer Investment Analyst Program (Portfolio Analysis Group)](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Credit--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-124835-2) | Prudential Financial | Newark, NJ, USA |
@@ -66,8 +65,8 @@ _56 postings scoring >= 40, of 31843 scanned. Updated 2026-09-07 00:39 UTC._
 - **AQR Capital Management** (9) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Schonfeld** (9) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **Charles River Associates** (7) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 87
-- **Citi** (7) — top [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) at 66
 - **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982302003?gh_jid=7982302003) at 79
+- **Citi** (6) — top [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) at 66
 - **AlixPartners** (3) — top [Investigations, Disputes & Economics Summer Analyst](https://www.alixpartners.com/careers/7725314003?gh_jid=7725314003) at 79
 - **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Prudential Financial** (3) — top [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) at 45
