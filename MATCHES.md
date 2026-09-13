@@ -1,6 +1,6 @@
 # Open matches
 
-_61 postings scoring >= 40, of 32548 scanned. Updated 2026-09-12 13:50 UTC._
+_64 postings scoring >= 40, of 32603 scanned. Updated 2026-09-13 00:35 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -15,7 +15,9 @@ _61 postings scoring >= 40, of 32548 scanned. Updated 2026-09-12 13:50 UTC._
 | 73 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
 | 72 | [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | AQR Capital Management | Greenwich, CT |
 | 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
+| 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
 | 69 | [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) | AlixPartners | New York |
+| 69 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | DRW | Chicago, IL |
 | 69 | [2027 Equity Middle Office Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172068) | Schonfeld | New York, New York, United States |
 | 66 | [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) | Citi | Getzville New York United States |
 | 65 | [2027 Trading Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8077110&gh_jid=8077110) | AQR Capital Management | Greenwich, CT |
@@ -35,6 +37,7 @@ _61 postings scoring >= 40, of 32548 scanned. Updated 2026-09-12 13:50 UTC._
 | 56 | [(2028 Bachelor's/Master's grads) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
 | 55 | [Point72 Academy Investment Analyst Program for Upcoming Graduates (2027 – US)](https://boards.greenhouse.io/point72/jobs/8541241002?gh_jid=8541241002) | Point72 | Chicago, Florida, New York, San Francisco |
 | 54 | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Coinbase | Hybrid - New York, NY |
+| 52 | [Strategy Intern](https://job-boards.greenhouse.io/drweng/jobs/7992670) | DRW | Chicago, IL |
 | 51 | [Compliance Analyst Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) | Old Mission Capital | Chicago, IL, United States |
 | 51 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles/7929801003?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
 | 51 | [Strategic Finance Intern (Summer 2027)](https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003) | Zipline | South San Francisco, California, USA |
@@ -75,6 +78,7 @@ _61 postings scoring >= 40, of 32548 scanned. Updated 2026-09-12 13:50 UTC._
 - **Coinbase** (7) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
 - **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982302003?gh_jid=7982302003) at 79
 - **Citi** (5) — top [Functions - Risk Management, Summer Analyst, Buffalo - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Risk-Management--Summer-Analyst--Buffalo---USA--2027_26955711) at 66
+- **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Prudential Financial** (3) — top [Prudential: 2027 Corporate, Risk Management Internship Program](https://pru.wd5.myworkdayjobs.com/en-US/Careers/job/Newark-NJ-USA/Prudential--2027-Corporate--Risk-Management-Internship-Program_R-124796) at 45
 - **Old Mission Capital** (2) — top [Compliance Analyst Co-Op](https://www.oldmissioncapital.com/careers/?gh_jid=7828063003) at 51
 - **AlixPartners** (1) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 69
