@@ -1,6 +1,6 @@
 # Open matches
 
-_62 postings scoring >= 40, of 32590 scanned. Updated 2026-09-13 14:46 UTC._
+_62 postings scoring >= 40, of 32539 scanned. Updated 2026-09-14 00:39 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
