@@ -1,13 +1,5 @@
 [
   {
-    "company": "Anduril Industries",
-    "first_seen": "2026-08-16T11:16:52.913160+00:00",
-    "key": "greenhouse:Anduril Industries:5210350007",
-    "location": "Quincy, Massachusetts, United States",
-    "title": "Product Operations Technical Specialist, Maritime",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210350007?gh_jid=5210350007"
-  },
-  {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-17T11:22:11.501471+00:00",
     "key": "workday:Morgan Stanley:PT-JR042329",
@@ -5646,5 +5638,13 @@
     "location": "Irving, Texas, United States of America",
     "title": "R&D Co-Op",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-15T15:25:50.438001+00:00",
+    "key": "workday:Johnson & Johnson:R-097287",
+    "location": "Somerset, New Jersey, United States of America",
+    "title": "Distribution Co-Op",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Distribution-Co-Op_R-097287"
   }
 ]
