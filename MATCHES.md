@@ -1,6 +1,6 @@
 # Open matches
 
-_80 postings scoring >= 40, of 32894 scanned. Updated 2026-09-19 00:55 UTC._
+_79 postings scoring >= 40, of 32796 scanned. Updated 2026-09-19 14:08 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -21,7 +21,6 @@ _80 postings scoring >= 40, of 32894 scanned. Updated 2026-09-19 00:55 UTC._
 | 72 | [2027 Fundamental Equity COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171778) | Schonfeld | New York, New York, United States |
 | 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
 | 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
-| 69 | [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) | AlixPartners | New York |
 | 69 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | DRW | Chicago, IL |
 | 69 | [2027 Equity Middle Office Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172068) | Schonfeld | New York, New York, United States |
 | 68 | [Brokerage Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198) | Robinhood | Chicago, IL |
@@ -97,7 +96,6 @@ _80 postings scoring >= 40, of 32894 scanned. Updated 2026-09-19 00:55 UTC._
 - **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
 - **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Point72** (2) — top [2027 Investment Services Internship - PIPELINE](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 87
-- **AlixPartners** (1) — top [eDiscovery & Digital Forensics Summer Analyst](https://www.alixpartners.com/careers/7725330003?gh_jid=7725330003) at 69
 - **Akuna Capital** (1) — top [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) at 46
 - **Old Mission Capital** (1) — top [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) at 46
 - **Boeing** (1) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 45

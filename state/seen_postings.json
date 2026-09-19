@@ -11627,6 +11627,12 @@
     "title": "Director, Technical Accounting , Revenue & Strategic Partnerships",
     "url": "https://jobs.ashbyhq.com/openai/50bf08a4-21ae-4966-9ab1-fb6e7b947374"
   },
+  "ashby:OpenAI:50e8714b-c8a2-47f0-bc7c-2a76e988b380": {
+    "company": "OpenAI",
+    "first_seen": "2026-09-19T14:08:23.107301+00:00",
+    "title": "Model Policy Manager, National Security",
+    "url": "https://jobs.ashbyhq.com/openai/50e8714b-c8a2-47f0-bc7c-2a76e988b380"
+  },
   "ashby:OpenAI:51977acc-b1f8-48af-bde6-95ddba936d65": {
     "company": "OpenAI",
     "first_seen": "2026-08-27T20:55:26.926240+00:00",
@@ -12442,6 +12448,12 @@
     "first_seen": "2026-08-14T15:49:08.016724+00:00",
     "title": "Senior Software Engineer - Research Platform, Consumer Devices",
     "url": "https://jobs.ashbyhq.com/openai/6d9925f4-3d0a-4710-8304-032d0080d12d"
+  },
+  "ashby:OpenAI:6de1fad0-a69d-4d81-9d3a-2a3c5512b940": {
+    "company": "OpenAI",
+    "first_seen": "2026-09-19T14:08:23.107280+00:00",
+    "title": "Model Policy Manager, Multimodal Safety",
+    "url": "https://jobs.ashbyhq.com/openai/6de1fad0-a69d-4d81-9d3a-2a3c5512b940"
   },
   "ashby:OpenAI:6df6a3d8-c72b-4e65-acf8-a5d91559533c": {
     "company": "OpenAI",
@@ -48611,6 +48623,12 @@
     "title": "Senior Procurement Manager",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238750007?gh_jid=5238750007"
   },
+  "greenhouse:Anduril Industries:5238763007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-09-19T14:08:22.174158+00:00",
+    "title": "Product Support Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5238763007?gh_jid=5238763007"
+  },
   "greenhouse:Anduril Industries:5238772007": {
     "company": "Anduril Industries",
     "first_seen": "2026-09-15T15:25:48.456320+00:00",
@@ -49444,6 +49462,18 @@
     "first_seen": "2026-09-19T00:55:46.789165+00:00",
     "title": "Thermal Engineer, Thermal Protection Systems (TPS)",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243043007?gh_jid=5243043007"
+  },
+  "greenhouse:Anduril Industries:5243061007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-09-19T14:08:22.174161+00:00",
+    "title": "Product Support Engineer - Product Sustainment Lifecycle",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243061007?gh_jid=5243061007"
+  },
+  "greenhouse:Anduril Industries:5243068007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-09-19T14:08:22.174138+00:00",
+    "title": "Manager, Supply Chain",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243068007?gh_jid=5243068007"
   },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
@@ -55325,6 +55355,12 @@
     "title": "Senior FPGA Engineer",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4017405006"
   },
+  "greenhouse:Astranis:4017414006": {
+    "company": "Astranis",
+    "first_seen": "2026-09-19T14:08:21.927662+00:00",
+    "title": "Avionics Engineer",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4017414006"
+  },
   "greenhouse:Astranis:4017671006": {
     "company": "Astranis",
     "first_seen": "2026-08-14T15:47:30.079458+00:00",
@@ -55450,6 +55486,12 @@
     "first_seen": "2026-08-26T11:25:43.826427+00:00",
     "title": "Senior Embedded Software Engineer",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4353821006"
+  },
+  "greenhouse:Astranis:4359278006": {
+    "company": "Astranis",
+    "first_seen": "2026-09-19T14:08:21.927684+00:00",
+    "title": "Electrical Engineer",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4359278006"
   },
   "greenhouse:Astranis:4359279006": {
     "company": "Astranis",
@@ -55948,6 +55990,18 @@
     "first_seen": "2026-08-27T20:54:50.475074+00:00",
     "title": "CAD Engineer Associate (Winter 2027)",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704767006"
+  },
+  "greenhouse:Astranis:4705255006": {
+    "company": "Astranis",
+    "first_seen": "2026-09-19T14:08:21.927692+00:00",
+    "title": "Harness Manufacturing Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705255006"
+  },
+  "greenhouse:Astranis:4705260006": {
+    "company": "Astranis",
+    "first_seen": "2026-09-19T14:08:21.927689+00:00",
+    "title": "Harness Manufacturing Associate (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705260006"
   },
   "greenhouse:Astranis:4705261006": {
     "company": "Astranis",
@@ -88462,6 +88516,12 @@
     "first_seen": "2026-09-18T14:45:37.580353+00:00",
     "title": "GNC Simulation Engineer I",
     "url": "https://boards.greenhouse.io/relativity/jobs/8819367002?gh_jid=8819367002"
+  },
+  "greenhouse:Relativity Space:8822678002": {
+    "company": "Relativity Space",
+    "first_seen": "2026-09-19T14:08:24.047661+00:00",
+    "title": "Senior Construction Design Engineer",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8822678002?gh_jid=8822678002"
   },
   "greenhouse:Relativity Space:8823748002": {
     "company": "Relativity Space",
@@ -182945,6 +183005,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5467320-S2012248-1"
   },
+  "workday:Accenture:ATCI-5467982-S2069161": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260142+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5467982-S2069161-1"
+  },
   "workday:Accenture:ATCI-5468118-S1997801": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.093122+00:00",
@@ -183610,6 +183676,12 @@
     "first_seen": "2026-09-10T14:44:47.624001+00:00",
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5481393-S2028577-1"
+  },
+  "workday:Accenture:ATCI-5481405-S2005169": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260122+00:00",
+    "title": "User Experience Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/User-Experience-Engineer_ATCI-5481405-S2005169-1"
   },
   "workday:Accenture:ATCI-5481757-S2068537": {
     "company": "Accenture",
@@ -192893,6 +192965,12 @@
     "title": "Cloud Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Cloud-Platform-Engineer_ATCI-5681835-S2059070-1"
   },
+  "workday:Accenture:ATCI-5681880-S2069151": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260145+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Indore/Packaged-SaaS-Application-Engineer_ATCI-5681880-S2069151-1"
+  },
   "workday:Accenture:ATCI-5681935-S2058320": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.561794+00:00",
@@ -199169,6 +199247,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Custom-Software-Engineering-Lead_ATCI-5727762-S2065428-1"
   },
+  "workday:Accenture:ATCI-5727782-S2070145": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260148+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5727782-S2070145-1"
+  },
   "workday:Accenture:ATCI-5727793-S2066563": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.477043+00:00",
@@ -203447,6 +203531,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ahmedabad/Custom-Software-Engineer_ATCI-5750229-S2067367-1"
   },
+  "workday:Accenture:ATCI-5750257-S2068222": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260151+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/AI---ML-Engineer_ATCI-5750257-S2068222"
+  },
   "workday:Accenture:ATCI-5750258-S2068855": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.983696+00:00",
@@ -203638,6 +203728,12 @@
     "first_seen": "2026-09-04T14:43:53.076369+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5751407-S2067939-1"
+  },
+  "workday:Accenture:ATCI-5751475-S2070144": {
+    "company": "Accenture",
+    "first_seen": "2026-09-19T14:08:24.260150+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5751475-S2070144-1"
   },
   "workday:Accenture:ATCI-5751485-S2067949": {
     "company": "Accenture",
@@ -233117,6 +233213,12 @@
     "title": "Lead Data Governance Technical Analyst",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Lead-Data-Governance-Technical-Analyst_JR2026523654-1"
   },
+  "workday:Boeing:JR2026523658": {
+    "company": "Boeing",
+    "first_seen": "2026-09-19T14:08:21.293608+00:00",
+    "title": "DSP Comm Engineer (Associate or Mid-level)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/DSP-Comm-Engineer--Associate-or-Mid-level-_JR2026523658-1"
+  },
   "workday:Boeing:JR2026523659": {
     "company": "Boeing",
     "first_seen": "2026-09-09T01:00:47.324782+00:00",
@@ -234053,6 +234155,12 @@
     "title": "Associate Human Resources Generalist",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Puyallup-WA/Associate-Human-Resources-Generalist_JR2026524537-1"
   },
+  "workday:Boeing:JR2026524540": {
+    "company": "Boeing",
+    "first_seen": "2026-09-19T14:08:21.293605+00:00",
+    "title": "Structural Analysis Engineer (Entry-level) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Structural-Analysis-Engineer--Entry-level----Millennium-Space-Systems_JR2026524540-1"
+  },
   "workday:Boeing:JR2026524552": {
     "company": "Boeing",
     "first_seen": "2026-09-19T00:55:45.904494+00:00",
@@ -234112,6 +234220,12 @@
     "first_seen": "2026-09-16T01:01:22.113994+00:00",
     "title": "Software Engineer | Vehicle Management Systems (Associate or Experienced)",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer---Vehicle-Management-Systems--Associate-or-Experienced-_JR2026524635-1"
+  },
+  "workday:Boeing:JR2026524652": {
+    "company": "Boeing",
+    "first_seen": "2026-09-19T14:08:21.293598+00:00",
+    "title": "Flight and Controls IPT Lead - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Flight-and-Controls-IPT-Lead---Millennium-Space-Systems_JR2026524652-2"
   },
   "workday:Boeing:JR2026524677": {
     "company": "Boeing",
@@ -234256,6 +234370,18 @@
     "first_seen": "2026-09-19T00:55:45.904492+00:00",
     "title": "Space Vehicle Controller/Analyst (Associate)",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Las-Cruces-NM/Space-Vehicle-Controller-Analyst--Associate-_JR2026524930-1"
+  },
+  "workday:Boeing:JR2026524944": {
+    "company": "Boeing",
+    "first_seen": "2026-09-19T14:08:21.293576+00:00",
+    "title": "Spacecraft Propulsion Engineer (Mid Career) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Propulsion-Engineer--Mid-Career----Millennium-Space-Systems_JR2026524944-1"
+  },
+  "workday:Boeing:JR2026524945": {
+    "company": "Boeing",
+    "first_seen": "2026-09-19T14:08:21.293602+00:00",
+    "title": "Astrodynamics Engineer (Entry-Level) - Millennium Space Systems",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Astrodynamics-Engineer--Entry-Level----Millennium-Space-Systems_JR2026524945-1"
   },
   "workday:Capital One:R1000000": {
     "company": "Capital One",
@@ -236296,6 +236422,12 @@
     "first_seen": "2026-09-19T00:55:45.946609+00:00",
     "title": "Integration Engineer 3",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Integration-Engineer-3_R1001001-1"
+  },
+  "workday:Capital One:R1001003": {
+    "company": "Capital One",
+    "first_seen": "2026-09-19T14:08:21.331771+00:00",
+    "title": "Director, Recruitment",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Bangalore-In/Director--Recruitment_R1001003"
   },
   "workday:Capital One:R1001019": {
     "company": "Capital One",
@@ -255394,6 +255526,12 @@
     "first_seen": "2026-09-03T00:55:52.619870+00:00",
     "title": "Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683"
+  },
+  "workday:Citi:25927678": {
+    "company": "Citi",
+    "first_seen": "2026-09-19T14:08:24.120816+00:00",
+    "title": "Java Algo Developer, Fixed Income Trading, Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Java-Algo-Developer--Fixed-Income-Trading--Vice-President_25927678"
   },
   "workday:Citi:25928258": {
     "company": "Citi",
@@ -276323,6 +276461,12 @@
     "title": "Analista de atenci\u00f3n a clientes",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-atencin-a-clientes_26994414"
   },
+  "workday:Citi:26994423": {
+    "company": "Citi",
+    "first_seen": "2026-09-19T14:08:24.120812+00:00",
+    "title": "CHOFER CORPORATIVO",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CHOFER-CORPORATIVO_26994423"
+  },
   "workday:Citi:26994425": {
     "company": "Citi",
     "first_seen": "2026-09-11T00:48:54.030899+00:00",
@@ -276334,6 +276478,12 @@
     "first_seen": "2026-09-11T00:48:54.030889+00:00",
     "title": "BANAMEX Business Analyst C11\u2013 Pensiones / Afore / Proyectos Regulatorios",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Business-Analyst-C11--Pensiones---Afore---Proyectos-Regulatorios_26994429-1"
+  },
+  "workday:Citi:26994430": {
+    "company": "Citi",
+    "first_seen": "2026-09-19T14:08:24.120795+00:00",
+    "title": "Project Senior Lead - Branch Network Real Estate, SVP",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Project-Senior-Lead---Branch-Network-Real--SVP-Estate_26994430"
   },
   "workday:Citi:26994431": {
     "company": "Citi",
@@ -298552,6 +298702,12 @@
     "first_seen": "2026-09-19T00:55:49.521967+00:00",
     "title": "Operations Assistant Store Manager in Training",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/CAROLINA-STORE---6402/Operations-Assistant-Store-Manager-in-Training_Req193805"
+  },
+  "workday:Home Depot:Req193831": {
+    "company": "Home Depot",
+    "first_seen": "2026-09-19T14:08:24.764605+00:00",
+    "title": "District Administrative Assistant",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/PAC-CENTRAL--PAC-SOUTH-OFFICE-ORANGE---9671/District-Administrative-Assistant_Req193831"
   },
   "workday:Home Depot:Req193832": {
     "company": "Home Depot",
@@ -386224,6 +386380,12 @@
     "first_seen": "2026-09-17T15:25:17.858844+00:00",
     "title": "Human Resources Expert",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/2140-E-Baseline-Rd-PhoenixAZ-85042-6910/Human-Resources-Expert_R0000453810"
+  },
+  "workday:Target:R0000453811": {
+    "company": "Target",
+    "first_seen": "2026-09-19T14:08:24.704837+00:00",
+    "title": "Kids Home Print + Product Designer",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Kids-Home-Print---Product-Designer_R0000453811"
   },
   "workday:Target:R0000453815": {
     "company": "Target",
