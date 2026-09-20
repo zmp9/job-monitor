@@ -28433,6 +28433,12 @@
     "title": "Risk Advisory Intern",
     "url": "https://www.alixpartners.com/careers/6574165003?gh_jid=6574165003"
   },
+  "greenhouse:AlixPartners:6605140003": {
+    "company": "AlixPartners",
+    "first_seen": "2026-09-20T14:26:42.056712+00:00",
+    "title": "CPG/Retail Senior Vice President",
+    "url": "https://www.alixpartners.com/careers/6605140003?gh_jid=6605140003"
+  },
   "greenhouse:AlixPartners:6690383003": {
     "company": "AlixPartners",
     "first_seen": "2026-08-14T15:45:49.308845+00:00",
@@ -49108,6 +49114,18 @@
     "first_seen": "2026-09-17T15:25:15.908946+00:00",
     "title": "Mission Analyst",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240638007?gh_jid=5240638007"
+  },
+  "greenhouse:Anduril Industries:5240664007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-09-20T14:26:43.496249+00:00",
+    "title": "Electrical Technician",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240664007?gh_jid=5240664007"
+  },
+  "greenhouse:Anduril Industries:5240667007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-09-20T14:26:43.496265+00:00",
+    "title": "Senior Mechanical Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240667007?gh_jid=5240667007"
   },
   "greenhouse:Anduril Industries:5240680007": {
     "company": "Anduril Industries",
@@ -73012,6 +73030,12 @@
     "first_seen": "2026-08-14T15:48:36.370677+00:00",
     "title": "Software Engineer I",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/7978127"
+  },
+  "greenhouse:Flexport:7978696": {
+    "company": "Flexport",
+    "first_seen": "2026-09-20T14:26:43.683043+00:00",
+    "title": "Software Engineer \u2160",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/7978696"
   },
   "greenhouse:Flexport:7981626": {
     "company": "Flexport",
@@ -151391,6 +151415,12 @@
     "title": "Security Lead (Government)",
     "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Cocoa-Florida/Security-Lead--Government-_R-122655-2"
   },
+  "workday:AT&T:R-122663": {
+    "company": "AT&T",
+    "first_seen": "2026-09-20T14:26:45.027955+00:00",
+    "title": "Call Center Customer Service Representative",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Charlotte-North-Carolina/Call-Center-Customer-Service-Representative_R-122663"
+  },
   "workday:AT&T:R-122671": {
     "company": "AT&T",
     "first_seen": "2026-09-16T01:01:24.632468+00:00",
@@ -151972,6 +152002,12 @@
     "first_seen": "2026-09-18T14:45:37.803198+00:00",
     "title": "Identity Onboarding Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ballarat-11-University-Drive/Identity-Support-Engineer_13582992"
+  },
+  "workday:Accenture:13583003": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686511+00:00",
+    "title": "Keycloak Senior Developer (Distributed Authentication Platform)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney/Keycloak-Senior-Developer--Distributed-Authentication-Platform-_13583003-1"
   },
   "workday:Accenture:13583123": {
     "company": "Accenture",
@@ -154636,6 +154672,18 @@
     "first_seen": "2026-09-09T01:00:50.227802+00:00",
     "title": "System Security Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/System-Security-Analyst_14692246"
+  },
+  "workday:Accenture:14692323": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686778+00:00",
+    "title": "SAP S/4HANA Finance Solution Architect - Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wellington/SAP-S-4HANA-EAM-Solution-Architect_14692323-4"
+  },
+  "workday:Accenture:14692390": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686513+00:00",
+    "title": "SAP S/4HANA EAM Solution Architect - Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wellington/SAP-S-4HANA-EAM-Solution-Architect---Senior-Manager_14692390-4"
   },
   "workday:Accenture:14694230": {
     "company": "Accenture",
@@ -177167,6 +177215,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Software-Development-Lead_ATCI-5141847-S1894952-1"
   },
+  "workday:Accenture:ATCI-5141947-S2064175": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686674+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5141947-S2064175-1"
+  },
   "workday:Accenture:ATCI-5142036-S1901381": {
     "company": "Accenture",
     "first_seen": "2026-09-01T01:34:58.468020+00:00",
@@ -177250,6 +177304,12 @@
     "first_seen": "2026-09-20T00:36:33.185428+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Software-Development-Lead_ATCI-5145386-S1898000-1"
+  },
+  "workday:Accenture:ATCI-5145575-S2017338": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686523+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5145575-S2017338-1"
   },
   "workday:Accenture:ATCI-5145634-S1897970": {
     "company": "Accenture",
@@ -177526,6 +177586,12 @@
     "first_seen": "2026-09-20T00:36:33.185448+00:00",
     "title": "Security Delivery Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Security-Delivery-Lead_ATCI-5155320-S1904644-1"
+  },
+  "workday:Accenture:ATCI-5155624-S2064113": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686668+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5155624-S2064113-1"
   },
   "workday:Accenture:ATCI-5155927-S1929547": {
     "company": "Accenture",
@@ -178175,6 +178241,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5212283-S1914390-1"
   },
+  "workday:Accenture:ATCI-5212530-S2034718": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686554+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Engineer_ATCI-5212530-S2034718-1"
+  },
   "workday:Accenture:ATCI-5212975-S1915921": {
     "company": "Accenture",
     "first_seen": "2026-09-08T00:53:10.294894+00:00",
@@ -178468,6 +178540,12 @@
     "first_seen": "2026-09-20T00:36:33.185572+00:00",
     "title": "Cloud Platform Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Cloud-Platform-Architect_ATCI-5219232-S1937752-1"
+  },
+  "workday:Accenture:ATCI-5219332-S1937756": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686650+00:00",
+    "title": "Cloud Platform Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Cloud-Platform-Architect_ATCI-5219332-S1937756-1"
   },
   "workday:Accenture:ATCI-5219379-S1925815": {
     "company": "Accenture",
@@ -179015,6 +179093,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5265392-S1926612-1"
   },
+  "workday:Accenture:ATCI-5266257-S1931397": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686655+00:00",
+    "title": "Business Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Business-Architect_ATCI-5266257-S1931397"
+  },
   "workday:Accenture:ATCI-5266258-S1931396": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185568+00:00",
@@ -179183,6 +179267,18 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5284623-S1931959-1"
   },
+  "workday:Accenture:ATCI-5284653-S1931960": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686653+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5284653-S1931960"
+  },
+  "workday:Accenture:ATCI-5284733-S1931450": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686649+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/AI---ML-Engineer_ATCI-5284733-S1931450"
+  },
   "workday:Accenture:ATCI-5284829-S1931459": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758351+00:00",
@@ -179200,6 +179296,12 @@
     "first_seen": "2026-09-20T00:36:33.185587+00:00",
     "title": "Data Science Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Science-Practitioner_ATCI-5284901-S1931497-1"
+  },
+  "workday:Accenture:ATCI-5284916-S1931501": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686663+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/AI---ML-Engineer_ATCI-5284916-S1931501-1"
   },
   "workday:Accenture:ATCI-5284977-S1931505": {
     "company": "Accenture",
@@ -179549,6 +179651,12 @@
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Platform-Engineer_ATCI-5286453-S1933711"
   },
+  "workday:Accenture:ATCI-5286582-S1934249": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686652+00:00",
+    "title": "Technology Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Platform-Engineer_ATCI-5286582-S1934249-1"
+  },
   "workday:Accenture:ATCI-5286642-S1934248": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185594+00:00",
@@ -179573,11 +179681,23 @@
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Platform-Engineer_ATCI-5287366-S2034740"
   },
+  "workday:Accenture:ATCI-5287369-S2034742": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686545+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Data-Platform-Engineer_ATCI-5287369-S2034742-1"
+  },
   "workday:Accenture:ATCI-5287440-S2034761": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185081+00:00",
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Platform-Engineer_ATCI-5287440-S2034761-1"
+  },
+  "workday:Accenture:ATCI-5287443-S2034763": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686641+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5287443-S2034763-1"
   },
   "workday:Accenture:ATCI-5287585-S1933717": {
     "company": "Accenture",
@@ -179681,6 +179801,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5291489-S1943808-1"
   },
+  "workday:Accenture:ATCI-5291802-S1933756": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686661+00:00",
+    "title": "Data Science Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Science-Practitioner_ATCI-5291802-S1933756-1"
+  },
   "workday:Accenture:ATCI-5291826-S1958539": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185530+00:00",
@@ -179723,11 +179849,23 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5303652-S1936269-1"
   },
+  "workday:Accenture:ATCI-5303716-S2026878": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686569+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5303716-S2026878-1"
+  },
   "workday:Accenture:ATCI-5303958-S1937366": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476802+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5303958-S1937366-1"
+  },
+  "workday:Accenture:ATCI-5303998-S1937387": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686664+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5303998-S1937387-1"
   },
   "workday:Accenture:ATCI-5304032-S1952685": {
     "company": "Accenture",
@@ -179866,6 +180004,12 @@
     "first_seen": "2026-09-14T16:45:35.247561+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5308581-S1946277-1"
+  },
+  "workday:Accenture:ATCI-5308712-S1945153": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686659+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Engineer_ATCI-5308712-S1945153-1"
   },
   "workday:Accenture:ATCI-5310139-S2030223": {
     "company": "Accenture",
@@ -180017,6 +180161,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5314804-S1938978-1"
   },
+  "workday:Accenture:ATCI-5314806-S1938980": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686656+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5314806-S1938980-1"
+  },
   "workday:Accenture:ATCI-5314883-S1938927": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185536+00:00",
@@ -180035,6 +180185,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5315246-S1938729-1"
   },
+  "workday:Accenture:ATCI-5315322-S1938770": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686657+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5315322-S1938770-1"
+  },
   "workday:Accenture:ATCI-5315400-S1938753": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758600+00:00",
@@ -180047,6 +180203,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5315403-S1938697-1"
   },
+  "workday:Accenture:ATCI-5315543-S1938730": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686658+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5315543-S1938730-1"
+  },
   "workday:Accenture:ATCI-5315581-S1938801": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185559+00:00",
@@ -180058,6 +180220,12 @@
     "first_seen": "2026-09-20T00:36:33.185541+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5315586-S1938769-1"
+  },
+  "workday:Accenture:ATCI-5315610-S1938838": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686651+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5315610-S1938838-1"
   },
   "workday:Accenture:ATCI-5315743-S1938743": {
     "company": "Accenture",
@@ -180118,6 +180286,12 @@
     "first_seen": "2026-09-12T13:50:21.650655+00:00",
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Platform-Engineer_ATCI-5317539-S1938551-1"
+  },
+  "workday:Accenture:ATCI-5317541-S1938563": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686660+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Engineer_ATCI-5317541-S1938563-1"
   },
   "workday:Accenture:ATCI-5317542-S1938562": {
     "company": "Accenture",
@@ -180238,6 +180412,12 @@
     "first_seen": "2026-09-20T00:36:33.185502+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5320368-S1939381-1"
+  },
+  "workday:Accenture:ATCI-5320371-S1939382": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686648+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5320371-S1939382"
   },
   "workday:Accenture:ATCI-5321136-S1940123": {
     "company": "Accenture",
@@ -180412,6 +180592,12 @@
     "first_seen": "2026-09-16T15:18:28.476688+00:00",
     "title": "LLM Model Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/LLM-Model-Developer_ATCI-5323635-S2059542-1"
+  },
+  "workday:Accenture:ATCI-5323784-S2006282": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686525+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5323784-S2006282-1"
   },
   "workday:Accenture:ATCI-5323911-S1958555": {
     "company": "Accenture",
@@ -181205,6 +181391,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5344807-S1947435-1"
   },
+  "workday:Accenture:ATCI-5345102-S1947662": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686698+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5345102-S1947662"
+  },
   "workday:Accenture:ATCI-5345115-S1947663": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.076538+00:00",
@@ -181979,6 +182171,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5382743-S2028592"
   },
+  "workday:Accenture:ATCI-5383343-S1959522": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686688+00:00",
+    "title": "Technology Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-Platform-Engineer_ATCI-5383343-S1959522-1"
+  },
   "workday:Accenture:ATCI-5383577-S1962511": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185254+00:00",
@@ -182536,6 +182734,12 @@
     "first_seen": "2026-09-04T14:43:53.076195+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Indore/Custom-Software-Engineer_ATCI-5416338-S1969755-1"
+  },
+  "workday:Accenture:ATCI-5416859-S1976538": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686794+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5416859-S1976538-1"
   },
   "workday:Accenture:ATCI-5417095-S1984980": {
     "company": "Accenture",
@@ -183425,6 +183629,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Technology-Platform-Engineer_ATCI-5422445-S2015606-1"
   },
+  "workday:Accenture:ATCI-5422575-S2004748": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686520+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5422575-S2004748-1"
+  },
   "workday:Accenture:ATCI-5423048-S1971146": {
     "company": "Accenture",
     "first_seen": "2026-09-07T16:15:42.814693+00:00",
@@ -183887,17 +184097,35 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5432314-S2066325-1"
   },
+  "workday:Accenture:ATCI-5432381-S1977605": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686699+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5432381-S1977605-1"
+  },
   "workday:Accenture:ATCI-5432390-S1977597": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185344+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5432390-S1977597-1"
   },
+  "workday:Accenture:ATCI-5432456-S1977537": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686700+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5432456-S1977537-1"
+  },
   "workday:Accenture:ATCI-5432463-S1977530": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185346+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5432463-S1977530-1"
+  },
+  "workday:Accenture:ATCI-5432535-S1977467": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686702+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5432535-S1977467-1"
   },
   "workday:Accenture:ATCI-5432537-S1977461": {
     "company": "Accenture",
@@ -183923,6 +184151,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435172-S1983688-1"
   },
+  "workday:Accenture:ATCI-5435211-S1977946": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686703+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5435211-S1977946-1"
+  },
   "workday:Accenture:ATCI-5435212-S1977965": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185310+00:00",
@@ -183947,11 +184181,23 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435275-S1978311-1"
   },
+  "workday:Accenture:ATCI-5435293-S1978142": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686690+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435293-S1978142-1"
+  },
   "workday:Accenture:ATCI-5435294-S1978053": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185314+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435294-S1978053-1"
+  },
+  "workday:Accenture:ATCI-5435331-S1977817": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686704+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5435331-S1977817-1"
   },
   "workday:Accenture:ATCI-5435364-S1977793": {
     "company": "Accenture",
@@ -184013,6 +184259,18 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435925-S1977944-1"
   },
+  "workday:Accenture:ATCI-5435928-S1977795": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686705+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5435928-S1977795"
+  },
+  "workday:Accenture:ATCI-5436027-S1977084": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686706+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436027-S1977084-1"
+  },
   "workday:Accenture:ATCI-5436044-S1978398": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185302+00:00",
@@ -184037,6 +184295,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5436274-S1977901-1"
   },
+  "workday:Accenture:ATCI-5436290-S1977839": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686691+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5436290-S1977839-1"
+  },
   "workday:Accenture:ATCI-5436410-S1978008": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185322+00:00",
@@ -184054,6 +184318,12 @@
     "first_seen": "2026-09-20T00:36:33.185358+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436503-S1977151-1"
+  },
+  "workday:Accenture:ATCI-5436504-S1978163": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686692+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436504-S1978163-1"
   },
   "workday:Accenture:ATCI-5436524-S1978333": {
     "company": "Accenture",
@@ -184079,6 +184349,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5436600-S1978140-1"
   },
+  "workday:Accenture:ATCI-5436648-S1978034": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686693+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436648-S1978034-1"
+  },
   "workday:Accenture:ATCI-5436652-S1977751": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185360+00:00",
@@ -184102,6 +184378,12 @@
     "first_seen": "2026-09-20T00:36:33.185330+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436751-S1978441"
+  },
+  "workday:Accenture:ATCI-5436769-S1978376": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686789+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436769-S1978376-1"
   },
   "workday:Accenture:ATCI-5436770-S1977815": {
     "company": "Accenture",
@@ -184127,6 +184409,24 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436831-S1978224-1"
   },
+  "workday:Accenture:ATCI-5436832-S1978420": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686790+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436832-S1978420-1"
+  },
+  "workday:Accenture:ATCI-5436849-S1978120": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686694+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436849-S1978120-1"
+  },
+  "workday:Accenture:ATCI-5436858-S1977753": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686695+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436858-S1977753"
+  },
   "workday:Accenture:ATCI-5436870-S1977082": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185365+00:00",
@@ -184138,6 +184438,18 @@
     "first_seen": "2026-09-20T00:36:33.185335+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436872-S1977986-1"
+  },
+  "workday:Accenture:ATCI-5436877-S1978267": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686791+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436877-S1978267-1"
+  },
+  "workday:Accenture:ATCI-5436917-S1977988": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686696+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436917-S1977988-1"
   },
   "workday:Accenture:ATCI-5436919-S1978161": {
     "company": "Accenture",
@@ -184157,11 +184469,23 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5436937-S1978245-1"
   },
+  "workday:Accenture:ATCI-5436970-S1978184": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686697+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436970-S1978184-1"
+  },
   "workday:Accenture:ATCI-5436972-S1977127": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185340+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436972-S1977127-1"
+  },
+  "workday:Accenture:ATCI-5436991-S1978462": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686792+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436991-S1978462-1"
   },
   "workday:Accenture:ATCI-5438504-S1980491": {
     "company": "Accenture",
@@ -184222,6 +184546,12 @@
     "first_seen": "2026-09-20T00:36:33.185387+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5439166-S1983737-1"
+  },
+  "workday:Accenture:ATCI-5439229-S1996553": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686557+00:00",
+    "title": "Technology Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Technology-Architect_ATCI-5439229-S1996553-1"
   },
   "workday:Accenture:ATCI-5439287-S1980301": {
     "company": "Accenture",
@@ -184397,6 +184727,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5443788-S1984003-1"
   },
+  "workday:Accenture:ATCI-5443888-S1996513": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686546+00:00",
+    "title": "Infrastructure Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Infrastructure-Engineer_ATCI-5443888-S1996513-1"
+  },
   "workday:Accenture:ATCI-5443889-S1996504": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510806+00:00",
@@ -184499,6 +184835,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5447681-S1986679-1"
   },
+  "workday:Accenture:ATCI-5447943-S1986569": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686539+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5447943-S1986569-1"
+  },
   "workday:Accenture:ATCI-5448187-S2016987": {
     "company": "Accenture",
     "first_seen": "2026-09-08T00:53:10.294847+00:00",
@@ -184558,6 +184900,12 @@
     "first_seen": "2026-09-08T00:53:10.294854+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5448624-S1993160-1"
+  },
+  "workday:Accenture:ATCI-5448991-S2012346": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686519+00:00",
+    "title": "Deployment Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Deployment-Lead_ATCI-5448991-S2012346-1"
   },
   "workday:Accenture:ATCI-5449311-S1986123": {
     "company": "Accenture",
@@ -184619,6 +184967,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5451508-S2005551-1"
   },
+  "workday:Accenture:ATCI-5451511-S2005554": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686526+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5451511-S2005554"
+  },
   "workday:Accenture:ATCI-5452375-S1987922": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.984164+00:00",
@@ -184672,6 +185026,12 @@
     "first_seen": "2026-09-20T00:36:33.185159+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Custom-Software-Engineer_ATCI-5453214-S2001347-1"
+  },
+  "workday:Accenture:ATCI-5453216-S2001349": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686540+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Custom-Software-Engineer_ATCI-5453216-S2001349"
   },
   "workday:Accenture:ATCI-5453298-S2023935": {
     "company": "Accenture",
@@ -184769,6 +185129,12 @@
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5456998-S1986460-1"
   },
+  "workday:Accenture:ATCI-5457111-S1988221": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686547+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5457111-S1988221-1"
+  },
   "workday:Accenture:ATCI-5457137-S2001413": {
     "company": "Accenture",
     "first_seen": "2026-09-09T01:00:50.227690+00:00",
@@ -184780,6 +185146,12 @@
     "first_seen": "2026-09-17T15:25:17.510223+00:00",
     "title": "Technology OpS Support Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-OpS-Support-Practitioner_ATCI-5457186-S2002005-1"
+  },
+  "workday:Accenture:ATCI-5457439-S1988083": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686548+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5457439-S1988083-1"
   },
   "workday:Accenture:ATCI-5457504-S1988194": {
     "company": "Accenture",
@@ -184798,6 +185170,12 @@
     "first_seen": "2026-09-20T00:36:33.185398+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5457729-S1988077-1"
+  },
+  "workday:Accenture:ATCI-5463674-S1990260": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686541+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5463674-S1990260-1"
   },
   "workday:Accenture:ATCI-5464041-S2015592": {
     "company": "Accenture",
@@ -184841,11 +185219,23 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5465100-S2027602-1"
   },
+  "workday:Accenture:ATCI-5466095-S2063361": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686666+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5466095-S2063361-1"
+  },
   "workday:Accenture:ATCI-5466762-S1997518": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185216+00:00",
     "title": "Performance Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Performance-Engineer_ATCI-5466762-S1997518-1"
+  },
+  "workday:Accenture:ATCI-5466772-S1997524": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686533+00:00",
+    "title": "Performance Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Performance-Engineer_ATCI-5466772-S1997524-1"
   },
   "workday:Accenture:ATCI-5466810-S2017849": {
     "company": "Accenture",
@@ -184858,6 +185248,12 @@
     "first_seen": "2026-09-14T16:45:35.247762+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5467320-S2012248-1"
+  },
+  "workday:Accenture:ATCI-5467696-S2025745": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686588+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5467696-S2025745"
   },
   "workday:Accenture:ATCI-5467982-S2069161": {
     "company": "Accenture",
@@ -185177,6 +185573,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5473091-S2002351-1"
   },
+  "workday:Accenture:ATCI-5473396-S2003050": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686537+00:00",
+    "title": "Business Process Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Business-Process-Architect_ATCI-5473396-S2003050-1"
+  },
   "workday:Accenture:ATCI-5473414-S2000372": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185174+00:00",
@@ -185303,6 +185705,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5477219-S2011056-1"
   },
+  "workday:Accenture:ATCI-5477221-S2011058": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686529+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5477221-S2011058-1"
+  },
   "workday:Accenture:ATCI-5477281-S2066971": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.093036+00:00",
@@ -185351,11 +185759,23 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5478035-S2068450-1"
   },
+  "workday:Accenture:ATCI-5478040-S1998225": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686534+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Solution-Architect_ATCI-5478040-S1998225"
+  },
   "workday:Accenture:ATCI-5478146-S2028565": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185120+00:00",
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5478146-S2028565-1"
+  },
+  "workday:Accenture:ATCI-5478150-S2028569": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686565+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5478150-S2028569"
   },
   "workday:Accenture:ATCI-5478186-S2034785": {
     "company": "Accenture",
@@ -185404,6 +185824,12 @@
     "first_seen": "2026-09-15T15:25:50.351990+00:00",
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5478336-S2068535-1"
+  },
+  "workday:Accenture:ATCI-5478432-S1999942": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686517+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5478432-S1999942-1"
   },
   "workday:Accenture:ATCI-5478713-S2003171": {
     "company": "Accenture",
@@ -185555,6 +185981,12 @@
     "title": "Program/Project Management Representativ",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Program-Project-Management-Representativ_ATCI-5481151-S2060634-1"
   },
+  "workday:Accenture:ATCI-5481160-S2026261": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686571+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5481160-S2026261-1"
+  },
   "workday:Accenture:ATCI-5481386-S1999692": {
     "company": "Accenture",
     "first_seen": "2026-09-01T15:22:42.243569+00:00",
@@ -185566,6 +185998,12 @@
     "first_seen": "2026-09-20T00:36:33.185189+00:00",
     "title": "Business Process Designer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Business-Process-Designer_ATCI-5481388-S2003043-1"
+  },
+  "workday:Accenture:ATCI-5481391-S2005171": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686535+00:00",
+    "title": "User Experience Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/User-Experience-Engineer_ATCI-5481391-S2005171-1"
   },
   "workday:Accenture:ATCI-5481393-S2028577": {
     "company": "Accenture",
@@ -185687,6 +186125,12 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5482977-S2002431"
   },
+  "workday:Accenture:ATCI-5483023-S2002496": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686542+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5483023-S2002496-1"
+  },
   "workday:Accenture:ATCI-5483029-S2002435": {
     "company": "Accenture",
     "first_seen": "2026-09-17T01:04:18.294782+00:00",
@@ -185728,6 +186172,12 @@
     "first_seen": "2026-09-11T14:49:21.894006+00:00",
     "title": "Emulation Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Emulation-Engineer_ATCI-5483708-S2002192-1"
+  },
+  "workday:Accenture:ATCI-5483712-S2002198": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686531+00:00",
+    "title": "Emulation Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Emulation-Engineer_ATCI-5483712-S2002198-1"
   },
   "workday:Accenture:ATCI-5484211-S2002425": {
     "company": "Accenture",
@@ -186311,6 +186761,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5496438-S2030272-1"
   },
+  "workday:Accenture:ATCI-5496548-S2006549": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686788+00:00",
+    "title": "Engineering Services Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Engineering-Services-Practitioner_ATCI-5496548-S2006549-1"
+  },
   "workday:Accenture:ATCI-5496562-S2007390": {
     "company": "Accenture",
     "first_seen": "2026-09-03T00:55:52.718827+00:00",
@@ -186322,6 +186778,12 @@
     "first_seen": "2026-09-20T00:36:33.185125+00:00",
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5496637-S2028994-1"
+  },
+  "workday:Accenture:ATCI-5496645-S2028996": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686563+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5496645-S2028996-1"
   },
   "workday:Accenture:ATCI-5496735-S2010970": {
     "company": "Accenture",
@@ -186413,6 +186875,12 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5499206-S2010276-1"
   },
+  "workday:Accenture:ATCI-5499240-S2010278": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686536+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5499240-S2010278-1"
+  },
   "workday:Accenture:ATCI-5499310-S2070031": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510294+00:00",
@@ -186424,6 +186892,18 @@
     "first_seen": "2026-09-08T14:51:53.627406+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Data-Architect_ATCI-5499879-S2007400-1"
+  },
+  "workday:Accenture:ATCI-5499902-S2007356": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686787+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Data-Architect_ATCI-5499902-S2007356-1"
+  },
+  "workday:Accenture:ATCI-5499904-S2007383": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686530+00:00",
+    "title": "Data Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Architect_ATCI-5499904-S2007383-1"
   },
   "workday:Accenture:ATCI-5500650-S2005704": {
     "company": "Accenture",
@@ -186454,6 +186934,12 @@
     "first_seen": "2026-09-11T14:49:21.893739+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5501117-S2016493-1"
+  },
+  "workday:Accenture:ATCI-5501374-S2010906": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686528+00:00",
+    "title": "Business Process Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Business-Process-Architect_ATCI-5501374-S2010906-1"
   },
   "workday:Accenture:ATCI-5501448-S2026551": {
     "company": "Accenture",
@@ -186539,11 +187025,23 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Custom-Software-Engineer_ATCI-5503229-S2013222-1"
   },
+  "workday:Accenture:ATCI-5503311-S2014462": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686524+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5503311-S2014462-1"
+  },
   "workday:Accenture:ATCI-5503346-S2024665": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623437+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5503346-S2024665-1"
+  },
+  "workday:Accenture:ATCI-5503392-S2030226": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686549+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5503392-S2030226-1"
   },
   "workday:Accenture:ATCI-5503786-S2011559": {
     "company": "Accenture",
@@ -186593,6 +187091,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5503991-S2012163"
   },
+  "workday:Accenture:ATCI-5503997-S2012165": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686518+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5503997-S2012165-1"
+  },
   "workday:Accenture:ATCI-5504410-S2010162": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.093268+00:00",
@@ -186610,6 +187114,12 @@
     "first_seen": "2026-08-28T14:14:10.509070+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5504523-S2009116-1"
+  },
+  "workday:Accenture:ATCI-5505421-S2009840": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686532+00:00",
+    "title": "Packaged/SaaS App Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5505421-S2009840-1"
   },
   "workday:Accenture:ATCI-5505458-S2007519": {
     "company": "Accenture",
@@ -186748,6 +187258,12 @@
     "first_seen": "2026-09-18T00:58:57.999030+00:00",
     "title": "Technology Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Technology-Support-Engineer_ATCI-5509488-S2019173-1"
+  },
+  "workday:Accenture:ATCI-5509541-S2024714": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686590+00:00",
+    "title": "Quality Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead_ATCI-5509541-S2024714-1"
   },
   "workday:Accenture:ATCI-5509542-S2024702": {
     "company": "Accenture",
@@ -187211,6 +187727,12 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5528626-S2015635-1"
   },
+  "workday:Accenture:ATCI-5528628-S2015637": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686522+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5528628-S2015637-1"
+  },
   "workday:Accenture:ATCI-5528632-S2015641": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758337+00:00",
@@ -187378,6 +187900,12 @@
     "first_seen": "2026-09-02T14:54:55.758635+00:00",
     "title": "Cloud Migration Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5530698-S2024126-1"
+  },
+  "workday:Accenture:ATCI-5530832-S2024125": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686578+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5530832-S2024125-1"
   },
   "workday:Accenture:ATCI-5531150-S2024124": {
     "company": "Accenture",
@@ -187984,6 +188512,12 @@
     "first_seen": "2026-09-04T14:43:53.076242+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5544821-S2029440-1"
+  },
+  "workday:Accenture:ATCI-5544825-S2026456": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686561+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5544825-S2026456-1"
   },
   "workday:Accenture:ATCI-5544826-S2026455": {
     "company": "Accenture",
@@ -188813,6 +189347,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5556563-S2024345"
   },
+  "workday:Accenture:ATCI-5556632-S2024603": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686584+00:00",
+    "title": "Data Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Architect_ATCI-5556632-S2024603-1"
+  },
   "workday:Accenture:ATCI-5556840-S2023283": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627575+00:00",
@@ -188902,6 +189442,12 @@
     "first_seen": "2026-09-17T15:25:17.510751+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5558082-S2024077-1"
+  },
+  "workday:Accenture:ATCI-5558457-S2026858": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686785+00:00",
+    "title": "Database Administrator",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Database-Administrator_ATCI-5558457-S2026858-1"
   },
   "workday:Accenture:ATCI-5558552-S2021820": {
     "company": "Accenture",
@@ -189017,6 +189563,12 @@
     "title": "Technology Account Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-Account-Lead_ATCI-5561068-S2069880-1"
   },
+  "workday:Accenture:ATCI-5561121-S2026988": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686579+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5561121-S2026988-1"
+  },
   "workday:Accenture:ATCI-5561122-S2026986": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185127+00:00",
@@ -189034,6 +189586,12 @@
     "first_seen": "2026-09-09T01:00:50.227641+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5561874-S2023684-1"
+  },
+  "workday:Accenture:ATCI-5561927-S2023683": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686580+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5561927-S2023683-1"
   },
   "workday:Accenture:ATCI-5561929-S2023681": {
     "company": "Accenture",
@@ -189137,6 +189695,12 @@
     "title": "Business Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5564737-S2024233-1"
   },
+  "workday:Accenture:ATCI-5564762-S2024236": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686577+00:00",
+    "title": "Business Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Business-Architect_ATCI-5564762-S2024236-1"
+  },
   "workday:Accenture:ATCI-5564833-S2023690": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.136975+00:00",
@@ -189184,6 +189748,12 @@
     "first_seen": "2026-09-07T16:15:42.814358+00:00",
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5565363-S2025012"
+  },
+  "workday:Accenture:ATCI-5565436-S2025492": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686582+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5565436-S2025492-1"
   },
   "workday:Accenture:ATCI-5565520-S2063691": {
     "company": "Accenture",
@@ -189335,6 +189905,12 @@
     "title": "Business Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5567406-S2025789-1"
   },
+  "workday:Accenture:ATCI-5567459-S2055935": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686630+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5567459-S2055935-1"
+  },
   "workday:Accenture:ATCI-5567504-S2025788": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.759069+00:00",
@@ -189382,6 +189958,12 @@
     "first_seen": "2026-09-20T00:36:33.185137+00:00",
     "title": "Prompt Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Prompt-Engineer_ATCI-5587978-S2025178-1"
+  },
+  "workday:Accenture:ATCI-5587986-S2025194": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686564+00:00",
+    "title": "LLM Model Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/LLM-Model-Developer_ATCI-5587986-S2025194-1"
   },
   "workday:Accenture:ATCI-5588138-S2025748": {
     "company": "Accenture",
@@ -189599,6 +190181,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5589957-S2025399-1"
   },
+  "workday:Accenture:ATCI-5589983-S2027184": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686572+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5589983-S2027184"
+  },
   "workday:Accenture:ATCI-5590069-S2025959": {
     "company": "Accenture",
     "first_seen": "2026-09-03T00:55:52.719065+00:00",
@@ -189737,6 +190325,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5591856-S2026831"
   },
+  "workday:Accenture:ATCI-5591888-S2025290": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686575+00:00",
+    "title": "Physical Design Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Physical-Design-Engineer_ATCI-5591888-S2025290"
+  },
   "workday:Accenture:ATCI-5592083-S2057021": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.508615+00:00",
@@ -189797,11 +190391,23 @@
     "title": "Packaged/SaaS Application Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Architect_ATCI-5593136-S2031258-1"
   },
+  "workday:Accenture:ATCI-5593437-S2026622": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686560+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5593437-S2026622-1"
+  },
   "workday:Accenture:ATCI-5593638-S2026199": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.509034+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5593638-S2026199-1"
+  },
+  "workday:Accenture:ATCI-5593722-S2057424": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686634+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5593722-S2057424-1"
   },
   "workday:Accenture:ATCI-5593832-S2026188": {
     "company": "Accenture",
@@ -189959,6 +190565,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5595841-S2027834-1"
   },
+  "workday:Accenture:ATCI-5595850-S2027838": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686573+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5595850-S2027838-1"
+  },
   "workday:Accenture:ATCI-5595874-S2027038": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.076211+00:00",
@@ -190018,6 +190630,12 @@
     "first_seen": "2026-09-08T14:51:53.627624+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5608135-S2026473-1"
+  },
+  "workday:Accenture:ATCI-5608140-S2029139": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686566+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5608140-S2029139-1"
   },
   "workday:Accenture:ATCI-5608419-S2057055": {
     "company": "Accenture",
@@ -190103,6 +190721,12 @@
     "title": "Large Language Model Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5608656-S2026882-1"
   },
+  "workday:Accenture:ATCI-5608746-S2026771": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686574+00:00",
+    "title": "Data Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Architect_ATCI-5608746-S2026771-1"
+  },
   "workday:Accenture:ATCI-5608749-S2026770": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.508869+00:00",
@@ -190126,6 +190750,12 @@
     "first_seen": "2026-09-16T15:18:28.477022+00:00",
     "title": "Application Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5609436-S2027199-1"
+  },
+  "workday:Accenture:ATCI-5609463-S2034898": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686631+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5609463-S2034898-1"
   },
   "workday:Accenture:ATCI-5609473-S2034893": {
     "company": "Accenture",
@@ -190264,6 +190894,12 @@
     "first_seen": "2026-09-11T14:49:21.894017+00:00",
     "title": "Business Process Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5610726-S2027528-1"
+  },
+  "workday:Accenture:ATCI-5610766-S2027537": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686568+00:00",
+    "title": "Business Process Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Business-Process-Architect_ATCI-5610766-S2027537-1"
   },
   "workday:Accenture:ATCI-5610768-S2057852": {
     "company": "Accenture",
@@ -190463,6 +191099,12 @@
     "title": "Application Designer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Application-Designer_ATCI-5614213-S2059285-1"
   },
+  "workday:Accenture:ATCI-5614286-S2064904": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686736+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5614286-S2064904-1"
+  },
   "workday:Accenture:ATCI-5614466-S2029435": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.076254+00:00",
@@ -190480,6 +191122,18 @@
     "first_seen": "2026-09-10T14:44:47.623650+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5614474-S2069112-1"
+  },
+  "workday:Accenture:ATCI-5614484-S2028345": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686558+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5614484-S2028345-1"
+  },
+  "workday:Accenture:ATCI-5614501-S2027428": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686567+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5614501-S2027428-1"
   },
   "workday:Accenture:ATCI-5614513-S2027426": {
     "company": "Accenture",
@@ -190511,6 +191165,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5615299-S2034008"
   },
+  "workday:Accenture:ATCI-5615333-S2058512": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686605+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/AI-Infrastructure-Architect_ATCI-5615333-S2058512-1"
+  },
   "workday:Accenture:ATCI-5615386-S2030132": {
     "company": "Accenture",
     "first_seen": "2026-09-12T13:50:21.650693+00:00",
@@ -190534,6 +191194,12 @@
     "first_seen": "2026-09-20T00:36:33.185102+00:00",
     "title": "Data Management Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Data-Management-Practitioner_ATCI-5616129-S2057310-1"
+  },
+  "workday:Accenture:ATCI-5616131-S2057312": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686619+00:00",
+    "title": "Data Management Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Data-Management-Practitioner_ATCI-5616131-S2057312-1"
   },
   "workday:Accenture:ATCI-5616278-S2029450": {
     "company": "Accenture",
@@ -190570,6 +191236,12 @@
     "first_seen": "2026-09-10T14:44:47.623225+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5616644-S2028528-1"
+  },
+  "workday:Accenture:ATCI-5616706-S2058423": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686601+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5616706-S2058423-1"
   },
   "workday:Accenture:ATCI-5616761-S2028605": {
     "company": "Accenture",
@@ -190805,6 +191477,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5618618-S2055726-1"
   },
+  "workday:Accenture:ATCI-5618889-S2031101": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686550+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5618889-S2031101-1"
+  },
   "workday:Accenture:ATCI-5618894-S2031106": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510709+00:00",
@@ -190865,6 +191543,12 @@
     "title": "Data Platform Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Architect_ATCI-5619682-S2029127-1"
   },
+  "workday:Accenture:ATCI-5619692-S2029658": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686559+00:00",
+    "title": "Process & Manufacturing Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Process---Manufacturing-Engineer_ATCI-5619692-S2029658-1"
+  },
   "workday:Accenture:ATCI-5619694-S2056416": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.137203+00:00",
@@ -190876,6 +191560,12 @@
     "first_seen": "2026-09-04T14:43:53.076626+00:00",
     "title": "Process & Manufacturing Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Process---Manufacturing-Engineer_ATCI-5619715-S2029656-1"
+  },
+  "workday:Accenture:ATCI-5619726-S2030738": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686556+00:00",
+    "title": "Program/Project Management Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Program-Project-Management-Lead_ATCI-5619726-S2030738-1"
   },
   "workday:Accenture:ATCI-5619960-S2030092": {
     "company": "Accenture",
@@ -190900,6 +191590,12 @@
     "first_seen": "2026-09-04T00:41:32.561841+00:00",
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Data-Platform-Engineer_ATCI-5620281-S2059533-1"
+  },
+  "workday:Accenture:ATCI-5620302-S2057859": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686629+00:00",
+    "title": "LLM Model Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/LLM-Model-Developer_ATCI-5620302-S2057859-1"
   },
   "workday:Accenture:ATCI-5620307-S2056895": {
     "company": "Accenture",
@@ -191273,6 +191969,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5622675-S2031632-1"
   },
+  "workday:Accenture:ATCI-5622688-S2055716": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686637+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5622688-S2055716-1"
+  },
   "workday:Accenture:ATCI-5622690-S2055714": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185101+00:00",
@@ -191597,6 +192299,12 @@
     "title": "Enterprise Technology Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Enterprise-Technology-Architect_ATCI-5623486-S2029607-1"
   },
+  "workday:Accenture:ATCI-5623510-S2056900": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686635+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5623510-S2056900-1"
+  },
   "workday:Accenture:ATCI-5623619-S2055719": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623454+00:00",
@@ -191759,6 +192467,12 @@
     "title": "Quality Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineering-Lead_ATCI-5624991-S2031652-1"
   },
+  "workday:Accenture:ATCI-5625085-S2059231": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686593+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5625085-S2059231-1"
+  },
   "workday:Accenture:ATCI-5625341-S2058027": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.137193+00:00",
@@ -191771,6 +192485,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5625532-S2057850-1"
   },
+  "workday:Accenture:ATCI-5625733-S2057671": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686603+00:00",
+    "title": "Performance Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Performance-Engineer_ATCI-5625733-S2057671-1"
+  },
   "workday:Accenture:ATCI-5625881-S2055499": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.477274+00:00",
@@ -191782,6 +192502,12 @@
     "first_seen": "2026-09-07T16:15:42.814343+00:00",
     "title": "Business Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Business-Analyst_ATCI-5625945-S2032195-1"
+  },
+  "workday:Accenture:ATCI-5626252-S2031336": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686555+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5626252-S2031336-1"
   },
   "workday:Accenture:ATCI-5626327-S2031410": {
     "company": "Accenture",
@@ -191813,6 +192539,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5626384-S2031919-1"
   },
+  "workday:Accenture:ATCI-5626435-S2032106": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686543+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5626435-S2032106-1"
+  },
   "workday:Accenture:ATCI-5626436-S2032104": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185089+00:00",
@@ -191824,6 +192556,12 @@
     "first_seen": "2026-09-08T00:53:10.294876+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5626552-S2030972-1"
+  },
+  "workday:Accenture:ATCI-5626609-S2032127": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686551+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5626609-S2032127-1"
   },
   "workday:Accenture:ATCI-5626657-S2055505": {
     "company": "Accenture",
@@ -192088,6 +192826,12 @@
     "first_seen": "2026-09-04T00:41:32.562137+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5627888-S2029825-1"
+  },
+  "workday:Accenture:ATCI-5627996-S2060281": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686591+00:00",
+    "title": "Web Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Web-Developer_ATCI-5627996-S2060281-1"
   },
   "workday:Accenture:ATCI-5628046-S2068877": {
     "company": "Accenture",
@@ -192773,6 +193517,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5634430-S2068864-1"
   },
+  "workday:Accenture:ATCI-5634437-S2031486": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686552+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5634437-S2031486-1"
+  },
   "workday:Accenture:ATCI-5634450-S2031727": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.136499+00:00",
@@ -193031,6 +193781,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5637340-S2059858-1"
   },
+  "workday:Accenture:ATCI-5637353-S2059863": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686595+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5637353-S2059863-1"
+  },
   "workday:Accenture:ATCI-5637729-S2056953": {
     "company": "Accenture",
     "first_seen": "2026-09-01T01:34:58.468119+00:00",
@@ -193042,6 +193798,12 @@
     "first_seen": "2026-09-03T14:51:21.137119+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5637851-S2034014-1"
+  },
+  "workday:Accenture:ATCI-5637863-S2057103": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686626+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5637863-S2057103-1"
   },
   "workday:Accenture:ATCI-5638067-S2033078": {
     "company": "Accenture",
@@ -193186,6 +193948,12 @@
     "first_seen": "2026-09-20T00:36:33.185073+00:00",
     "title": "Application Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5639377-S2057355-1"
+  },
+  "workday:Accenture:ATCI-5639393-S2057375": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686625+00:00",
+    "title": "Application Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Developer_ATCI-5639393-S2057375-1"
   },
   "workday:Accenture:ATCI-5639484-S2055720": {
     "company": "Accenture",
@@ -193439,6 +194207,12 @@
     "title": "Infra Tech Support Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Indore/Infra-Tech-Support-Practitioner_ATCI-5642170-S2056838-1"
   },
+  "workday:Accenture:ATCI-5642294-S2055451": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686636+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5642294-S2055451-1"
+  },
   "workday:Accenture:ATCI-5642296-S2055445": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185078+00:00",
@@ -193618,6 +194392,12 @@
     "first_seen": "2026-09-20T00:36:33.185071+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Lead_ATCI-5664403-S2056775-1"
+  },
+  "workday:Accenture:ATCI-5664442-S2056782": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686633+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5664442-S2056782-1"
   },
   "workday:Accenture:ATCI-5664657-S2058222": {
     "company": "Accenture",
@@ -193811,6 +194591,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5666060-S2058166-1"
   },
+  "workday:Accenture:ATCI-5666123-S2056158": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686628+00:00",
+    "title": "Engineering Services Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Engineering-Services-Practitioner_ATCI-5666123-S2056158-1"
+  },
   "workday:Accenture:ATCI-5666151-S2062644": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476540+00:00",
@@ -194003,6 +194789,12 @@
     "title": "Application Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Application-Developer_ATCI-5668093-S2067980-1"
   },
+  "workday:Accenture:ATCI-5668139-S2059627": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686599+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5668139-S2059627-1"
+  },
   "workday:Accenture:ATCI-5668210-S2066980": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.093097+00:00",
@@ -194110,6 +194902,12 @@
     "first_seen": "2026-09-08T14:51:53.627126+00:00",
     "title": "Application Designer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Designer_ATCI-5669472-S2063344-1"
+  },
+  "workday:Accenture:ATCI-5669731-S2056637": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686627+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5669731-S2056637-1"
   },
   "workday:Accenture:ATCI-5669914-S2056918": {
     "company": "Accenture",
@@ -194236,6 +195034,12 @@
     "first_seen": "2026-09-03T14:51:21.137091+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5671084-S2058031-1"
+  },
+  "workday:Accenture:ATCI-5671251-S2058020": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686623+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5671251-S2058020-1"
   },
   "workday:Accenture:ATCI-5671272-S2058014": {
     "company": "Accenture",
@@ -194477,6 +195281,12 @@
     "title": "AI / ML Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/AI---ML-Engineer_ATCI-5671534-S2057280-1"
   },
+  "workday:Accenture:ATCI-5671536-S2057480": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686624+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5671536-S2057480-1"
+  },
   "workday:Accenture:ATCI-5671813-S2068437": {
     "company": "Accenture",
     "first_seen": "2026-09-11T00:48:54.161877+00:00",
@@ -194512,6 +195322,12 @@
     "first_seen": "2026-09-16T15:18:28.477328+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5672454-S2069637-1"
+  },
+  "workday:Accenture:ATCI-5672487-S2059677": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686592+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5672487-S2059677-1"
   },
   "workday:Accenture:ATCI-5672526-S2060810": {
     "company": "Accenture",
@@ -194765,6 +195581,12 @@
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Test-Automation-Lead_ATCI-5676059-S2067043-1"
   },
+  "workday:Accenture:ATCI-5676061-S2065437": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686735+00:00",
+    "title": "Test Automation Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Test-Automation-Lead_ATCI-5676061-S2065437-1"
+  },
   "workday:Accenture:ATCI-5676096-S2067038": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623253+00:00",
@@ -194951,11 +195773,23 @@
     "title": "Quality Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Quality-Engineer_ATCI-5677691-S2059440-1"
   },
+  "workday:Accenture:ATCI-5677737-S2058293": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686583+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5677737-S2058293-1"
+  },
   "workday:Accenture:ATCI-5677788-S2058260": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627628+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5677788-S2058260-1"
+  },
+  "workday:Accenture:ATCI-5677817-S2058262": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686606+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5677817-S2058262-1"
   },
   "workday:Accenture:ATCI-5677832-S2059469": {
     "company": "Accenture",
@@ -195095,6 +195929,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5678804-S2058308-1"
   },
+  "workday:Accenture:ATCI-5678962-S2058317": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686622+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5678962-S2058317-1"
+  },
   "workday:Accenture:ATCI-5679051-S2060844": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.511077+00:00",
@@ -195221,6 +196061,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5680190-S2063721-1"
   },
+  "workday:Accenture:ATCI-5680259-S2058653": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686618+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5680259-S2058653-1"
+  },
   "workday:Accenture:ATCI-5680307-S2058656": {
     "company": "Accenture",
     "first_seen": "2026-09-03T00:55:52.718407+00:00",
@@ -195268,6 +196114,12 @@
     "first_seen": "2026-08-28T14:14:10.509740+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5681125-S2063203-1"
+  },
+  "workday:Accenture:ATCI-5681164-S2064931": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686731+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5681164-S2064931-1"
   },
   "workday:Accenture:ATCI-5681171-S2069403": {
     "company": "Accenture",
@@ -195323,11 +196175,23 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Nagpur/Custom-Software-Engineer_ATCI-5681888-S2058803-1"
   },
+  "workday:Accenture:ATCI-5681890-S2058805": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686596+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Custom-Software-Engineer_ATCI-5681890-S2058805-1"
+  },
   "workday:Accenture:ATCI-5681935-S2058320": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.561794+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Indore/Custom-Software-Engineer_ATCI-5681935-S2058320-1"
+  },
+  "workday:Accenture:ATCI-5682036-S2060366": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686597+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5682036-S2060366-1"
   },
   "workday:Accenture:ATCI-5682045-S2060364": {
     "company": "Accenture",
@@ -195377,6 +196241,12 @@
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5682610-S2058781-1"
   },
+  "workday:Accenture:ATCI-5682611-S2058782": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686602+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5682611-S2058782-1"
+  },
   "workday:Accenture:ATCI-5682612-S2058783": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758970+00:00",
@@ -195425,6 +196295,12 @@
     "title": "Quality Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5683360-S2067468"
   },
+  "workday:Accenture:ATCI-5683373-S2066623": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686721+00:00",
+    "title": "Test Automation Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Test-Automation-Engineer_ATCI-5683373-S2066623"
+  },
   "workday:Accenture:ATCI-5683412-S2059787": {
     "company": "Accenture",
     "first_seen": "2026-09-03T00:55:52.718437+00:00",
@@ -195442,6 +196318,12 @@
     "first_seen": "2026-09-16T15:18:28.476981+00:00",
     "title": "Business Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Business-Architect_ATCI-5683490-S2060370-1"
+  },
+  "workday:Accenture:ATCI-5683519-S2064006": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686681+00:00",
+    "title": "Inside Sales Representative",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Inside-Sales-Representative_ATCI-5683519-S2064006-1"
   },
   "workday:Accenture:ATCI-5683649-S2062928": {
     "company": "Accenture",
@@ -195472,6 +196354,18 @@
     "first_seen": "2026-09-09T15:00:11.983542+00:00",
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Platform-Engineer_ATCI-5683938-S2064208-1"
+  },
+  "workday:Accenture:ATCI-5683994-S2064204": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686678+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Engineer_ATCI-5683994-S2064204-1"
+  },
+  "workday:Accenture:ATCI-5684000-S2059426": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686620+00:00",
+    "title": "Program/Project Management Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Program-Project-Management-Lead_ATCI-5684000-S2059426-1"
   },
   "workday:Accenture:ATCI-5684401-S2059834": {
     "company": "Accenture",
@@ -195845,6 +196739,12 @@
     "title": "Technology Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5688489-S2061335-1"
   },
+  "workday:Accenture:ATCI-5688698-S2063615": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686675+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI---ML-Engineer_ATCI-5688698-S2063615-1"
+  },
   "workday:Accenture:ATCI-5688702-S2063611": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627287+00:00",
@@ -195946,6 +196846,12 @@
     "first_seen": "2026-09-08T14:51:53.627455+00:00",
     "title": "Packaged/SaaS App Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Packaged-SaaS-App-Engineering-Lead_ATCI-5689818-S2060101-1"
+  },
+  "workday:Accenture:ATCI-5689885-S2059574": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686600+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5689885-S2059574-1"
   },
   "workday:Accenture:ATCI-5689939-S2062392": {
     "company": "Accenture",
@@ -196079,6 +196985,12 @@
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5691011-S2059935-1"
   },
+  "workday:Accenture:ATCI-5691013-S2059937": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686587+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5691013-S2059937-1"
+  },
   "workday:Accenture:ATCI-5691166-S2063781": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.075730+00:00",
@@ -196108,6 +197020,12 @@
     "first_seen": "2026-09-15T15:25:50.352064+00:00",
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5691296-S2068556-1"
+  },
+  "workday:Accenture:ATCI-5691301-S2063052": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686680+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Data-Platform-Engineer_ATCI-5691301-S2063052-1"
   },
   "workday:Accenture:ATCI-5691549-S2069817": {
     "company": "Accenture",
@@ -196265,6 +197183,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5693063-S2061082-1"
   },
+  "workday:Accenture:ATCI-5693103-S2060017": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686598+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5693103-S2060017-1"
+  },
   "workday:Accenture:ATCI-5693105-S2060015": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185043+00:00",
@@ -196276,6 +197200,12 @@
     "first_seen": "2026-09-10T14:44:47.623277+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5693112-S2068449-1"
+  },
+  "workday:Accenture:ATCI-5693195-S2059992": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686589+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Packaged-SaaS-Application-Engineer_ATCI-5693195-S2059992"
   },
   "workday:Accenture:ATCI-5693197-S2059990": {
     "company": "Accenture",
@@ -196409,6 +197339,12 @@
     "title": "Enterprise Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Enterprise-Architect_ATCI-5694370-S2060961"
   },
+  "workday:Accenture:ATCI-5694371-S2060963": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686638+00:00",
+    "title": "Enterprise Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Enterprise-Architect_ATCI-5694371-S2060963-1"
+  },
   "workday:Accenture:ATCI-5694896-S2066671": {
     "company": "Accenture",
     "first_seen": "2026-09-01T15:22:42.242694+00:00",
@@ -196462,6 +197398,12 @@
     "first_seen": "2026-09-17T15:25:17.510272+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5695450-S2070089-1"
+  },
+  "workday:Accenture:ATCI-5695503-S2063525": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686676+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5695503-S2063525-1"
   },
   "workday:Accenture:ATCI-5695584-S2062760": {
     "company": "Accenture",
@@ -196624,6 +197566,12 @@
     "first_seen": "2026-09-01T01:34:58.468152+00:00",
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5696461-S2060446-1"
+  },
+  "workday:Accenture:ATCI-5696462-S2060445": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686639+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5696462-S2060445-1"
   },
   "workday:Accenture:ATCI-5696482-S2060443": {
     "company": "Accenture",
@@ -196955,6 +197903,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5698485-S2062356"
   },
+  "workday:Accenture:ATCI-5698504-S2062856": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686687+00:00",
+    "title": "Technology Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Architect_ATCI-5698504-S2062856-1"
+  },
   "workday:Accenture:ATCI-5698506-S2062858": {
     "company": "Accenture",
     "first_seen": "2026-09-01T15:22:42.243547+00:00",
@@ -197020,6 +197974,12 @@
     "first_seen": "2026-09-01T01:34:58.468155+00:00",
     "title": "Project Control Services Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Project-Control-Services-Practitioner_ATCI-5698770-S2062914-1"
+  },
+  "workday:Accenture:ATCI-5698883-S2060413": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686585+00:00",
+    "title": "DevOps Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/DevOps-Architect_ATCI-5698883-S2060413-1"
   },
   "workday:Accenture:ATCI-5698950-S2061203": {
     "company": "Accenture",
@@ -197135,6 +198095,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bhubaneswar/Custom-Software-Engineer_ATCI-5699508-S2061171-1"
   },
+  "workday:Accenture:ATCI-5699548-S2065185": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686732+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5699548-S2065185-1"
+  },
   "workday:Accenture:ATCI-5699566-S2061172": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.509293+00:00",
@@ -197177,6 +198143,12 @@
     "title": "Web Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Web-Developer_ATCI-5700077-S2067998-1"
   },
+  "workday:Accenture:ATCI-5700121-S2063241": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686684+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5700121-S2063241"
+  },
   "workday:Accenture:ATCI-5700180-S2063254": {
     "company": "Accenture",
     "first_seen": "2026-09-07T16:15:42.814389+00:00",
@@ -197195,6 +198167,90 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5700209-S2062515-1"
   },
+  "workday:Accenture:ATCI-5700720-S2062212": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686686+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5700720-S2062212-1"
+  },
+  "workday:Accenture:ATCI-5700795-S2061828": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686770+00:00",
+    "title": "Data Platform Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Architect_ATCI-5700795-S2061828-1"
+  },
+  "workday:Accenture:ATCI-5700813-S2061702": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686760+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5700813-S2061702-1"
+  },
+  "workday:Accenture:ATCI-5700839-S2061576": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686761+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5700839-S2061576-1"
+  },
+  "workday:Accenture:ATCI-5700888-S2061850": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686762+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5700888-S2061850-1"
+  },
+  "workday:Accenture:ATCI-5700925-S2061681": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686719+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5700925-S2061681-1"
+  },
+  "workday:Accenture:ATCI-5700941-S2061723": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686771+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5700941-S2061723-1"
+  },
+  "workday:Accenture:ATCI-5700950-S2061597": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686772+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5700950-S2061597-1"
+  },
+  "workday:Accenture:ATCI-5700965-S2061660": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686773+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5700965-S2061660-1"
+  },
+  "workday:Accenture:ATCI-5700982-S2061807": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686763+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/AI-Infrastructure-Architect_ATCI-5700982-S2061807-1"
+  },
+  "workday:Accenture:ATCI-5700986-S2061765": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686764+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5700986-S2061765-1"
+  },
+  "workday:Accenture:ATCI-5701019-S2061618": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686720+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5701019-S2061618-1"
+  },
+  "workday:Accenture:ATCI-5701035-S2061639": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686707+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5701035-S2061639-1"
+  },
+  "workday:Accenture:ATCI-5701038-S2061786": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686766+00:00",
+    "title": "AI Infrastructure Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/AI-Infrastructure-Architect_ATCI-5701038-S2061786-1"
+  },
   "workday:Accenture:ATCI-5701086-S2063714": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.076395+00:00",
@@ -197206,6 +198262,12 @@
     "first_seen": "2026-08-28T14:14:10.508736+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5701090-S2063716-1"
+  },
+  "workday:Accenture:ATCI-5701244-S2061936": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686685+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5701244-S2061936-1"
   },
   "workday:Accenture:ATCI-5701279-S2063272": {
     "company": "Accenture",
@@ -197273,6 +198335,18 @@
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Packaged-SaaS-Application-Engineer_ATCI-5701405-S2063250-1"
   },
+  "workday:Accenture:ATCI-5701433-S2061555": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686718+00:00",
+    "title": "Knowledge Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Knowledge-Engineer_ATCI-5701433-S2061555-1"
+  },
+  "workday:Accenture:ATCI-5701454-S2064258": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686671+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5701454-S2064258"
+  },
   "workday:Accenture:ATCI-5701488-S2061511": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185212+00:00",
@@ -197320,6 +198394,18 @@
     "first_seen": "2026-09-05T00:35:53.288344+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5701729-S2064176-1"
+  },
+  "workday:Accenture:ATCI-5701738-S2061981": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686708+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5701738-S2061981-1"
+  },
+  "workday:Accenture:ATCI-5701794-S2061959": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686710+00:00",
+    "title": "Large Language Model Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5701794-S2061959-1"
   },
   "workday:Accenture:ATCI-5701852-S2064805": {
     "company": "Accenture",
@@ -197465,6 +198551,12 @@
     "title": "Program/Project Management Representativ",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Program-Project-Management-Representativ_ATCI-5702909-S2063838-1"
   },
+  "workday:Accenture:ATCI-5703108-S2068291": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686738+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5703108-S2068291-1"
+  },
   "workday:Accenture:ATCI-5703315-S2067519": {
     "company": "Accenture",
     "first_seen": "2026-09-03T00:55:52.718673+00:00",
@@ -197488,6 +198580,12 @@
     "first_seen": "2026-08-28T14:14:10.509685+00:00",
     "title": "Forward Deployed Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Forward-Deployed-Engineer_ATCI-5703579-S2062389-1"
+  },
+  "workday:Accenture:ATCI-5703709-S2063201": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686683+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5703709-S2063201-1"
   },
   "workday:Accenture:ATCI-5703779-S2062188": {
     "company": "Accenture",
@@ -197524,6 +198622,12 @@
     "first_seen": "2026-09-12T13:50:21.650586+00:00",
     "title": "Engineering Services Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Engineering-Services-Practitioner_ATCI-5703901-S2061988-1"
+  },
+  "workday:Accenture:ATCI-5704057-S2063570": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686677+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5704057-S2063570-1"
   },
   "workday:Accenture:ATCI-5704136-S2068077": {
     "company": "Accenture",
@@ -198083,6 +199187,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5706439-S2064292-1"
   },
+  "workday:Accenture:ATCI-5706440-S2064291": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686672+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5706440-S2064291-1"
+  },
   "workday:Accenture:ATCI-5706465-S2064274": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.561805+00:00",
@@ -198293,6 +199403,12 @@
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5708066-S2070025-1"
   },
+  "workday:Accenture:ATCI-5708180-S2063808": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686673+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5708180-S2063808-1"
+  },
   "workday:Accenture:ATCI-5708288-S2067637": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758919+00:00",
@@ -198395,6 +199511,12 @@
     "title": "Operations Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5709536-S2064551-1"
   },
+  "workday:Accenture:ATCI-5709635-S2064558": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686756+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5709635-S2064558-1"
+  },
   "workday:Accenture:ATCI-5709655-S2063063": {
     "company": "Accenture",
     "first_seen": "2026-09-11T14:49:21.893729+00:00",
@@ -198406,6 +199528,12 @@
     "first_seen": "2026-09-16T15:18:28.477015+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5709711-S2068628"
+  },
+  "workday:Accenture:ATCI-5709719-S2064537": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686757+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5709719-S2064537"
   },
   "workday:Accenture:ATCI-5709749-S2068759": {
     "company": "Accenture",
@@ -198485,6 +199613,18 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Tech-Support-Practitioner_ATCI-5710198-S2063391-1"
   },
+  "workday:Accenture:ATCI-5710204-S2064580": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686758+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5710204-S2064580"
+  },
+  "workday:Accenture:ATCI-5710207-S2063413": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686682+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Technology-Support-Engineer_ATCI-5710207-S2063413-1"
+  },
   "workday:Accenture:ATCI-5710211-S2063422": {
     "company": "Accenture",
     "first_seen": "2026-09-09T01:00:50.227735+00:00",
@@ -198539,11 +199679,23 @@
     "title": "Business Function Implementation Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Business-Function-Implementation-Lead_ATCI-5710438-S2063976-1"
   },
+  "workday:Accenture:ATCI-5710610-S2064037": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686665+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5710610-S2064037-1"
+  },
   "workday:Accenture:ATCI-5710637-S2063390": {
     "company": "Accenture",
     "first_seen": "2026-09-13T00:35:05.178802+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Technology-Support-Engineer_ATCI-5710637-S2063390-1"
+  },
+  "workday:Accenture:ATCI-5710660-S2064398": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686749+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5710660-S2064398-1"
   },
   "workday:Accenture:ATCI-5710795-S2066764": {
     "company": "Accenture",
@@ -198755,6 +199907,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5712039-S2067977-1"
   },
+  "workday:Accenture:ATCI-5712081-S2064860": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686750+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5712081-S2064860-1"
+  },
   "workday:Accenture:ATCI-5712097-S2064841": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758606+00:00",
@@ -198766,6 +199924,12 @@
     "first_seen": "2026-09-07T16:15:42.814478+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5712105-S2064846-1"
+  },
+  "workday:Accenture:ATCI-5712113-S2066085": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686767+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5712113-S2066085-1"
   },
   "workday:Accenture:ATCI-5712123-S2064767": {
     "company": "Accenture",
@@ -199379,6 +200543,12 @@
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5716075-S2069347-1"
   },
+  "workday:Accenture:ATCI-5716345-S2066491": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686717+00:00",
+    "title": "Engineering Services Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Engineering-Services-Lead_ATCI-5716345-S2066491-1"
+  },
   "workday:Accenture:ATCI-5716556-S2068848": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.983685+00:00",
@@ -199787,6 +200957,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5718968-S2066705-1"
   },
+  "workday:Accenture:ATCI-5719050-S2063672": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686667+00:00",
+    "title": "Cloud Platform Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Platform-Architect_ATCI-5719050-S2063672-1"
+  },
   "workday:Accenture:ATCI-5719095-S2068751": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.983519+00:00",
@@ -199798,6 +200974,12 @@
     "first_seen": "2026-09-09T15:00:11.983521+00:00",
     "title": "Infra Tech Support Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Infra-Tech-Support-Practitioner_ATCI-5719096-S2068750-1"
+  },
+  "workday:Accenture:ATCI-5719125-S2064471": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686754+00:00",
+    "title": "LLM Model Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/LLM-Model-Developer_ATCI-5719125-S2064471-1"
   },
   "workday:Accenture:ATCI-5719137-S2067242": {
     "company": "Accenture",
@@ -200165,6 +201347,18 @@
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5720273-S2067750-1"
   },
+  "workday:Accenture:ATCI-5720275-S2064967": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686748+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5720275-S2064967-1"
+  },
+  "workday:Accenture:ATCI-5720276-S2066312": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686730+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5720276-S2066312-1"
+  },
   "workday:Accenture:ATCI-5720282-S2064737": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.136870+00:00",
@@ -200188,6 +201382,12 @@
     "first_seen": "2026-09-03T00:55:52.718618+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5720289-S2067508-1"
+  },
+  "workday:Accenture:ATCI-5720316-S2066550": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686712+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5720316-S2066550"
   },
   "workday:Accenture:ATCI-5720368-S2065251": {
     "company": "Accenture",
@@ -200326,6 +201526,12 @@
     "first_seen": "2026-08-28T14:14:10.509273+00:00",
     "title": "Quality Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Quality-Engineering-Lead_ATCI-5720820-S2066765-1"
+  },
+  "workday:Accenture:ATCI-5720823-S2064660": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686751+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5720823-S2064660-1"
   },
   "workday:Accenture:ATCI-5720835-S2067388": {
     "company": "Accenture",
@@ -200759,6 +201965,12 @@
     "title": "Service Management Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Service-Management-Lead_ATCI-5723068-S2067667"
   },
+  "workday:Accenture:ATCI-5723079-S2064336": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686743+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5723079-S2064336-1"
+  },
   "workday:Accenture:ATCI-5723152-S2064968": {
     "company": "Accenture",
     "first_seen": "2026-09-04T14:43:53.075726+00:00",
@@ -200873,6 +202085,12 @@
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Platform-Engineer_ATCI-5723299-S2067230-1"
   },
+  "workday:Accenture:ATCI-5723307-S2065238": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686729+00:00",
+    "title": "Data Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Platform-Engineer_ATCI-5723307-S2065238-1"
+  },
   "workday:Accenture:ATCI-5723310-S2067229": {
     "company": "Accenture",
     "first_seen": "2026-09-01T15:22:42.243177+00:00",
@@ -200909,6 +202127,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5723639-S2065097-1"
   },
+  "workday:Accenture:ATCI-5723653-S2065095": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686739+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5723653-S2065095-1"
+  },
   "workday:Accenture:ATCI-5723667-S2067785": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.136767+00:00",
@@ -200944,6 +202168,12 @@
     "first_seen": "2026-09-16T15:18:28.476939+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5723775-S2069804-1"
+  },
+  "workday:Accenture:ATCI-5723803-S2065011": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686753+00:00",
+    "title": "Finance Commercial Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kolkata/Finance-Commercial-Lead_ATCI-5723803-S2065011-1"
   },
   "workday:Accenture:ATCI-5723846-S2066360": {
     "company": "Accenture",
@@ -201064,6 +202294,12 @@
     "first_seen": "2026-09-10T14:44:47.623577+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Custom-Software-Engineer_ATCI-5724598-S2065989"
+  },
+  "workday:Accenture:ATCI-5724663-S2064699": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686752+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineering-Lead_ATCI-5724663-S2064699-1"
   },
   "workday:Accenture:ATCI-5724750-S2066034": {
     "company": "Accenture",
@@ -201286,6 +202522,12 @@
     "first_seen": "2026-09-03T00:55:52.718787+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5725509-S2065100"
+  },
+  "workday:Accenture:ATCI-5725651-S2068506": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686780+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5725651-S2068506-1"
   },
   "workday:Accenture:ATCI-5725660-S2067997": {
     "company": "Accenture",
@@ -201923,6 +203165,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5728070-S2065992-1"
   },
+  "workday:Accenture:ATCI-5728150-S2066513": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686711+00:00",
+    "title": "Business Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Business-Architect_ATCI-5728150-S2066513-1"
+  },
   "workday:Accenture:ATCI-5728169-S2066521": {
     "company": "Accenture",
     "first_seen": "2026-09-07T16:15:42.813912+00:00",
@@ -202066,6 +203314,12 @@
     "first_seen": "2026-08-28T14:14:10.509247+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5728816-S2066769-1"
+  },
+  "workday:Accenture:ATCI-5728854-S2065117": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686744+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5728854-S2065117-1"
   },
   "workday:Accenture:ATCI-5728856-S2066780": {
     "company": "Accenture",
@@ -202235,6 +203489,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729276-S2065917-1"
   },
+  "workday:Accenture:ATCI-5729287-S2065403": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686723+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729287-S2065403-1"
+  },
   "workday:Accenture:ATCI-5729301-S2070065": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510245+00:00",
@@ -202265,6 +203525,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729308-S2065921-1"
   },
+  "workday:Accenture:ATCI-5729322-S2065608": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686768+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729322-S2065608-1"
+  },
   "workday:Accenture:ATCI-5729330-S2070066": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510247+00:00",
@@ -202277,6 +203543,24 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5729351-S2070067-1"
   },
+  "workday:Accenture:ATCI-5729407-S2065382": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686724+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5729407-S2065382-1"
+  },
+  "workday:Accenture:ATCI-5729450-S2065542": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686713+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5729450-S2065542-1"
+  },
+  "workday:Accenture:ATCI-5729466-S2065361": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686740+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5729466-S2065361-1"
+  },
   "workday:Accenture:ATCI-5729471-S2069094": {
     "company": "Accenture",
     "first_seen": "2026-09-15T15:25:50.351996+00:00",
@@ -202288,6 +203572,30 @@
     "first_seen": "2026-09-15T15:25:50.352021+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729472-S2069093-1"
+  },
+  "workday:Accenture:ATCI-5729611-S2065587": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686725+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5729611-S2065587-1"
+  },
+  "workday:Accenture:ATCI-5729742-S2065336": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686741+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5729742-S2065336-1"
+  },
+  "workday:Accenture:ATCI-5729763-S2065518": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686742+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5729763-S2065518-1"
+  },
+  "workday:Accenture:ATCI-5729941-S2065314": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686727+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5729941-S2065314-1"
   },
   "workday:Accenture:ATCI-5730112-S2066740": {
     "company": "Accenture",
@@ -202373,6 +203681,12 @@
     "title": "Business Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5730125-S2065473-1"
   },
+  "workday:Accenture:ATCI-5730141-S2065497": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686728+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5730141-S2065497-1"
+  },
   "workday:Accenture:ATCI-5730163-S2068585": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627255+00:00",
@@ -202414,6 +203728,12 @@
     "first_seen": "2026-09-03T14:51:21.136806+00:00",
     "title": "Quality Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5730326-S2067791"
+  },
+  "workday:Accenture:ATCI-5730352-S2065564": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686714+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5730352-S2065564"
   },
   "workday:Accenture:ATCI-5730362-S2068360": {
     "company": "Accenture",
@@ -202468,6 +203788,12 @@
     "first_seen": "2026-09-09T15:00:11.984151+00:00",
     "title": "Technology Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5730625-S2065563-1"
+  },
+  "workday:Accenture:ATCI-5730635-S2065288": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686733+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5730635-S2065288-1"
   },
   "workday:Accenture:ATCI-5730648-S2066345": {
     "company": "Accenture",
@@ -202727,6 +204053,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5741919-S2066951-1"
   },
+  "workday:Accenture:ATCI-5742100-S2066185": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686722+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5742100-S2066185-1"
+  },
   "workday:Accenture:ATCI-5742116-S2066718": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.093837+00:00",
@@ -202804,6 +204136,12 @@
     "first_seen": "2026-09-03T14:51:21.136772+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Application-Support-Engineer_ATCI-5742341-S2067770"
+  },
+  "workday:Accenture:ATCI-5742395-S2066589": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686769+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5742395-S2066589-1"
   },
   "workday:Accenture:ATCI-5742438-S2068349": {
     "company": "Accenture",
@@ -203075,6 +204413,12 @@
     "title": "Data Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Architect_ATCI-5743077-S2067574-1"
   },
+  "workday:Accenture:ATCI-5743116-S2066453": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686715+00:00",
+    "title": "Data Migration Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Data-Migration-Lead_ATCI-5743116-S2066453-1"
+  },
   "workday:Accenture:ATCI-5743121-S2067575": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510838+00:00",
@@ -203212,6 +204556,12 @@
     "first_seen": "2026-09-11T14:49:21.894002+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5743650-S2066677-1"
+  },
+  "workday:Accenture:ATCI-5743654-S2066227": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686734+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5743654-S2066227-1"
   },
   "workday:Accenture:ATCI-5743684-S2069802": {
     "company": "Accenture",
@@ -203680,6 +205030,12 @@
     "first_seen": "2026-09-09T15:00:11.983823+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5744546-S2068818-1"
+  },
+  "workday:Accenture:ATCI-5744564-S2066696": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686782+00:00",
+    "title": "Application Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Application-Developer_ATCI-5744564-S2066696-1"
   },
   "workday:Accenture:ATCI-5744816-S2067032": {
     "company": "Accenture",
@@ -206165,6 +207521,12 @@
     "title": "Security Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Security-Architect_ATCI-5751279-S2068591-1"
   },
+  "workday:Accenture:ATCI-5751281-S2069662": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686774+00:00",
+    "title": "Application Tech Support Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Tech-Support-Practitioner_ATCI-5751281-S2069662"
+  },
   "workday:Accenture:ATCI-5751316-S2067451": {
     "company": "Accenture",
     "first_seen": "2026-09-15T15:25:50.351663+00:00",
@@ -207167,6 +208529,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5764212-S2069045-1"
   },
+  "workday:Accenture:ATCI-5764218-S2069081": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686775+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5764218-S2069081-1"
+  },
   "workday:Accenture:ATCI-5764226-S2069054": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623312+00:00",
@@ -207863,6 +209231,12 @@
     "title": "Data Modeler",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Modeler_ATCI-5765347-S2068143-1"
   },
+  "workday:Accenture:ATCI-5765368-S2068557": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686781+00:00",
+    "title": "Data Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Migration-Engineer_ATCI-5765368-S2068557-1"
+  },
   "workday:Accenture:ATCI-5765372-S2068247": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476717+00:00",
@@ -207953,11 +209327,23 @@
     "title": "Data Migration Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Migration-Lead_ATCI-5765426-S2068549-1"
   },
+  "workday:Accenture:ATCI-5765452-S2068427": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686745+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5765452-S2068427"
+  },
   "workday:Accenture:ATCI-5765476-S2068940": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.983578+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5765476-S2068940-1"
+  },
+  "workday:Accenture:ATCI-5765721-S2068146": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686747+00:00",
+    "title": "Data Migration Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Data-Migration-Lead_ATCI-5765721-S2068146-1"
   },
   "workday:Accenture:ATCI-5765745-S2069915": {
     "company": "Accenture",
@@ -208901,6 +210287,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5770570-S2069010-1"
   },
+  "workday:Accenture:ATCI-5770622-S2068605": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686779+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5770622-S2068605-1"
+  },
   "workday:Accenture:ATCI-5770657-S2069123": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623009+00:00",
@@ -209158,6 +210550,12 @@
     "first_seen": "2026-09-09T15:00:11.983840+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5771127-S2068827-1"
+  },
+  "workday:Accenture:ATCI-5771219-S2068120": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686759+00:00",
+    "title": "Technology Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Technology-Architect_ATCI-5771219-S2068120-1"
   },
   "workday:Accenture:ATCI-5771231-S2070034": {
     "company": "Accenture",
@@ -209573,6 +210971,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5773349-S2069771-1"
   },
+  "workday:Accenture:ATCI-5773366-S2069244": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686776+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5773366-S2069244-1"
+  },
   "workday:Accenture:ATCI-5773436-S2069122": {
     "company": "Accenture",
     "first_seen": "2026-09-10T14:44:47.623087+00:00",
@@ -209807,6 +211211,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5774054-S2069252-1"
   },
+  "workday:Accenture:ATCI-5774097-S2069614": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686783+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5774097-S2069614-1"
+  },
   "workday:Accenture:ATCI-5774235-S2069780": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476915+00:00",
@@ -210010,6 +211420,12 @@
     "first_seen": "2026-09-16T15:18:28.476918+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5775298-S2069773-1"
+  },
+  "workday:Accenture:ATCI-5775338-S2069272": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686784+00:00",
+    "title": "AI / ML Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/AI---ML-Engineer_ATCI-5775338-S2069272-1"
   },
   "workday:Accenture:ATCI-5775526-S2069580": {
     "company": "Accenture",
@@ -219293,6 +220709,12 @@
     "title": "Cybersecurity Legal Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/Cybersecurity-Legal-Manager_R00348288"
   },
+  "workday:Accenture:R00348315": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686646+00:00",
+    "title": "Threat Monitoring Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/Threat-Monitoring-Lead_R00348315"
+  },
   "workday:Accenture:R00348376": {
     "company": "Accenture",
     "first_seen": "2026-09-18T14:45:37.802250+00:00",
@@ -219965,6 +221387,12 @@
     "title": "SharePoint & Power Platform Specialist",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bratislava/SharePoint---Power-Platform-Specialist_R00350444"
   },
+  "workday:Accenture:R00350458": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686515+00:00",
+    "title": "Cost & Commercial Lead - Data Centres",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Cost---Commercial-Lead---Data-Centres_R00350458"
+  },
   "workday:Accenture:R00350475": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.507713+00:00",
@@ -220330,6 +221758,12 @@
     "first_seen": "2026-09-11T00:48:54.161675+00:00",
     "title": "Sourcing and Procurement Senior Enterprise AI Value Strategist",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Sourcing-and-Procurement-Senior-Enterprise-AI-Value-Strategist_R00351261"
+  },
+  "workday:Accenture:R00351295": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686495+00:00",
+    "title": "Employment Law Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/Employment-Law-Senior-Manager_R00351295"
   },
   "workday:Accenture:R00351297": {
     "company": "Accenture",
@@ -223937,6 +225371,12 @@
     "title": "Procurement Ops Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Procurement-Ops-Analyst_R00355580"
   },
+  "workday:Accenture:R00355592": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686645+00:00",
+    "title": "Senior Enterprise Technology Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Senior-Enterprise-Technology-Architect_R00355592"
+  },
   "workday:Accenture:R00355623": {
     "company": "Accenture",
     "first_seen": "2026-09-19T00:55:48.976702+00:00",
@@ -224794,6 +226234,12 @@
     "first_seen": "2026-09-15T15:25:50.351785+00:00",
     "title": "SAP HPS Business & Integration Arch",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Torre-Chamartin/SAP-HPS-Business---Integration-Arch_R00356858"
+  },
+  "workday:Accenture:R00356860": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686643+00:00",
+    "title": "Integrated Delivery Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dubai-One-Zaabeel-Tower/Integrated-Delivery-Lead_R00356860-1"
   },
   "workday:Accenture:R00356870": {
     "company": "Accenture",
@@ -225880,6 +227326,12 @@
     "first_seen": "2026-09-19T00:55:48.976666+00:00",
     "title": "Practicantes de Finanzas- Medell\u00edn",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Practicantes-de-Finanzas--Medelln_R00358362"
+  },
+  "workday:Accenture:R00358374": {
+    "company": "Accenture",
+    "first_seen": "2026-09-20T14:26:44.686647+00:00",
+    "title": "*CMMS Consultant*",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Perth-Exchange-Tower/XMLNAME--CMMS-Consultant-_R00358374"
   },
   "workday:Accenture:R92174": {
     "company": "Accenture",
@@ -235133,6 +236585,18 @@
     "title": "Business Improvement Specialist",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Business-Improvement-Specialist_JR2026522987-2"
   },
+  "workday:Boeing:JR2026522988": {
+    "company": "Boeing",
+    "first_seen": "2026-09-20T14:26:42.995075+00:00",
+    "title": "Plans and Schedules  P&S  - Maintenance Controller (Acft Maint Control)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/QAT---Al-Udeid-AB-Qatar/Plans-and-Schedules--P-S----Maintenance-Controller--Acft-Maint-Control-_JR2026522988-1"
+  },
+  "workday:Boeing:JR2026522990": {
+    "company": "Boeing",
+    "first_seen": "2026-09-20T14:26:42.995096+00:00",
+    "title": "Aircrew Flight Equipment Technician (AFE)_Life Support Equipment",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/QAT---Al-Udeid-AB-Qatar/Aircrew-Flight-Equipment-Technician--AFE--Life-Support-Equipment_JR2026522990-1"
+  },
   "workday:Boeing:JR2026522992": {
     "company": "Boeing",
     "first_seen": "2026-09-17T15:25:15.248317+00:00",
@@ -235144,6 +236608,12 @@
     "first_seen": "2026-09-01T15:22:39.586821+00:00",
     "title": "Experienced or Senior Supply Base Management Specialist",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Experienced-or-Senior-Supply-Base-Management-Specialist_JR2026522994"
+  },
+  "workday:Boeing:JR2026522995": {
+    "company": "Boeing",
+    "first_seen": "2026-09-20T14:26:42.995098+00:00",
+    "title": "Armament Technician",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/QAT---Al-Udeid-AB-Qatar/Armament-Technician_JR2026522995-1"
   },
   "workday:Boeing:JR2026522996": {
     "company": "Boeing",
@@ -239248,6 +240718,12 @@
     "first_seen": "2026-09-19T00:55:45.946668+00:00",
     "title": "AI Engineer 5 (AI Foundations)",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Jose-CA/AI-Engineer-5--AI-Foundations-_R1001151-1"
+  },
+  "workday:Capital One:R1001157": {
+    "company": "Capital One",
+    "first_seen": "2026-09-20T14:26:43.018007+00:00",
+    "title": "Capital One Shopping Tech, Staff Full Stack Engineer, Technical Chief of Staff (Remote - Eligible)",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Staff-Full-Stack-Engineer--Technical-Chief-of-Staff--Remote---Eligible-_R1001157"
   },
   "workday:Capital One:R1001159": {
     "company": "Capital One",
@@ -301361,6 +302837,12 @@
     "title": "Operations Assistant Store Manager in Training",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/CAROLINA-STORE---6402/Operations-Assistant-Store-Manager-in-Training_Req193805"
   },
+  "workday:Home Depot:Req193823": {
+    "company": "Home Depot",
+    "first_seen": "2026-09-20T14:26:44.975753+00:00",
+    "title": "Assistant Store Manager - Night Operations",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ELKO-NV-STORE---3320/Assistant-Store-Manager---Night-Operations_Req193823"
+  },
   "workday:Home Depot:Req193831": {
     "company": "Home Depot",
     "first_seen": "2026-09-19T14:08:24.764605+00:00",
@@ -301372,6 +302854,12 @@
     "first_seen": "2026-09-19T00:55:49.521927+00:00",
     "title": "Sales Manager, Palm City, Ft. Myers, FL",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/FLORIDA---VIRTUAL---FL01/Sales-Manager--Palm-City--Ft-Myers--FL_Req193832"
+  },
+  "workday:Home Depot:Req193844": {
+    "company": "Home Depot",
+    "first_seen": "2026-09-20T14:26:44.975750+00:00",
+    "title": "Pro Experience Manager",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/ANTELOPE-STORE---6669/Pro-Experience-Manager_Req193844"
   },
   "workday:Home Depot:Req193845": {
     "company": "Home Depot",
@@ -318365,6 +319853,12 @@
     "title": "Regional Operations Co-Op",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Regional-Operations-Co-Op_R-098405"
   },
+  "workday:Johnson & Johnson:R-098406": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-20T14:26:44.730659+00:00",
+    "title": "Supplier Development Engineer Co-Op",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Supplier-Development-Engineer-Co-Op_R-098406"
+  },
   "workday:Johnson & Johnson:R-098410": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-10T00:47:19.163571+00:00",
@@ -321581,6 +323075,12 @@
     "title": "Communications & Public Affairs Manager, EP & Neuro, EMEA",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Communications---Public-Affairs-Manager--EP---Neuro--EMEA_R-100478"
   },
+  "workday:Johnson & Johnson:R-100485": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-20T14:26:44.730660+00:00",
+    "title": "Senior Compliance Specialist",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Xian-Shaanxi-China/Senior-Compliance-Specialist_R-100485"
+  },
   "workday:Johnson & Johnson:R-100505": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-19T00:55:49.061001+00:00",
@@ -321604,6 +323104,12 @@
     "first_seen": "2026-09-19T00:55:49.060958+00:00",
     "title": "Customer Service Manager",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Bogot-Distrito-Capital-Colombia/Customer-Service-Manager_R-100536"
+  },
+  "workday:Johnson & Johnson:R-100567": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-20T14:26:44.730661+00:00",
+    "title": "Head of Market Access Strategy",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beijing-China/Head-of-Market-Access-Strategy_R-100567"
   },
   "workday:Johnson & Johnson:R-100586": {
     "company": "Johnson & Johnson",
@@ -321670,6 +323176,12 @@
     "first_seen": "2026-09-19T00:55:49.060939+00:00",
     "title": "Senior Ontologist, Biologics Discovery - BE",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beerse-Antwerp-Belgium/Senior-Ontologist--Biologics-Discovery---BE_R-100662-1"
+  },
+  "workday:Johnson & Johnson:R-100666": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-20T14:26:44.730655+00:00",
+    "title": "\u9ad8\u7ea7/\u4e13\u4e1a\u533b\u836f\u4ee3\u8868-\u7f55\u89c1\u75c5\u4ea7\u54c1\u4e1a\u52a1\u90e8-\u957f\u6c99",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Changsha-Hunan-China/---_R-100666"
   },
   "workday:Mastercard:R-207875": {
     "company": "Mastercard",
@@ -342310,6 +343822,12 @@
     "first_seen": "2026-09-08T14:51:53.814550+00:00",
     "title": "2027 Future Talent Program - Global Workplace & Enterprise Services Global Real Estate (GRES) Co-op",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Workplace---Enterprise-Services-Global-Real-Estate--GRES--Co-op_R415296"
+  },
+  "workday:Merck:R415305": {
+    "company": "Merck",
+    "first_seen": "2026-09-20T14:26:44.799065+00:00",
+    "title": "Specialist, Technical Analyst",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Specialist--Technical-Analyst_R415305-1"
   },
   "workday:Merck:R415306": {
     "company": "Merck",
@@ -370037,6 +371555,12 @@
     "title": "\u4ee3\u8c22\u4e8b\u4e1a\u90e8-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u5730\u533a\u7ecf\u7406-\u957f\u6c99",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Hunan---Changsha/--_4962932"
   },
+  "workday:Pfizer:4962933": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816262+00:00",
+    "title": "\u8f89\u745e-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u4ee3\u8c22-\u957f\u6c99",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Hunan---Changsha/---_4962933"
+  },
   "workday:Pfizer:4962936": {
     "company": "Pfizer",
     "first_seen": "2026-09-01T15:22:42.372179+00:00",
@@ -370756,6 +372280,12 @@
     "first_seen": "2026-09-08T14:51:53.849296+00:00",
     "title": "\u8f89\u745e-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u4ee3\u8c22-\u8346\u5dde",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Hubei---JingZhou/---_4963240"
+  },
+  "workday:Pfizer:4963241": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816256+00:00",
+    "title": "\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/CHN---GS---Gansu/_4963241-1"
   },
   "workday:Pfizer:4963243": {
     "company": "Pfizer",
@@ -371854,6 +373384,30 @@
     "first_seen": "2026-09-19T00:55:49.224871+00:00",
     "title": "Director, Owned Channel Audience Solutions, US Consumer",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---New-York-City/Director--Owned-Channel-Audience-Solutions--US-Consumer_4964312-1"
+  },
+  "workday:Pfizer:4964329": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816264+00:00",
+    "title": "\u9ad8\u7ea7\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u76ae\u79d1",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Sichuan---Chengdu/-_4964329"
+  },
+  "workday:Pfizer:4964332": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816261+00:00",
+    "title": "\u8f89\u745e-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u4ee3\u8c22-\u957f\u6c99",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Hunan---Changsha/---_4964332-2"
+  },
+  "workday:Pfizer:4964333": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816260+00:00",
+    "title": "\u8f89\u745e-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u4ee3\u8c22-\u5e38\u5fb7",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Hunan---ChangDe/---_4964333"
+  },
+  "workday:Pfizer:4964334": {
+    "company": "Pfizer",
+    "first_seen": "2026-09-20T14:26:44.816259+00:00",
+    "title": "\u4ee3\u8c22\u4e1a\u52a1\u90e8-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u5e7f\u5dde",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Guangdong---Guangzhou/--_4964334"
   },
   "workday:Prudential Financial:R-118222": {
     "company": "Prudential Financial",
@@ -388271,6 +389825,12 @@
     "title": "Specialty Sales Team Leader",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1200-S-Federal-Hwy-Deerfield-BeachFL-33441-7037/Specialty-Sales-Team-Leader_R0000453495"
   },
+  "workday:Target:R0000453497": {
+    "company": "Target",
+    "first_seen": "2026-09-20T14:26:44.941461+00:00",
+    "title": "Assets Protection Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8040-Mediterranean-Dr-EsteroFL-33928-8304/Assets-Protection-Team-Leader_R0000453497"
+  },
   "workday:Target:R0000453500": {
     "company": "Target",
     "first_seen": "2026-09-15T15:25:50.798101+00:00",
@@ -389476,6 +391036,12 @@
     "first_seen": "2026-09-18T14:45:38.270103+00:00",
     "title": "Human Resources Expert",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1500-Wilson-Blvd-RosslynVA-22209-2458/Human-Resources-Expert_R0000453990"
+  },
+  "workday:Target:R0000453993": {
+    "company": "Target",
+    "first_seen": "2026-09-20T14:26:44.941465+00:00",
+    "title": "Property Management Lead - East Peoria, IL",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/480-W-Washington-St-East-PeoriaIL-61611-2445/Property-Management-Lead---East-Peoria--IL_R0000453993"
   },
   "workday:Target:R0000453998": {
     "company": "Target",
