@@ -1,29 +1,5 @@
 [
   {
-    "company": "Anduril Industries",
-    "first_seen": "2026-08-23T11:17:52.297634+00:00",
-    "key": "greenhouse:Anduril Industries:5219512007",
-    "location": "Costa Mesa, California, United States",
-    "title": "Electrical Engineer, Intelligence Systems",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219512007?gh_jid=5219512007"
-  },
-  {
-    "company": "Anduril Industries",
-    "first_seen": "2026-08-23T11:17:52.297651+00:00",
-    "key": "greenhouse:Anduril Industries:5219476007",
-    "location": "Costa Mesa, California, United States",
-    "title": "Thermal Engineer, Hypersonic Air Vehicles",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219476007?gh_jid=5219476007"
-  },
-  {
-    "company": "REGENT",
-    "first_seen": "2026-08-23T11:17:52.635805+00:00",
-    "key": "ashby:REGENT:1ef57221-5bc1-4e21-8243-47501ecdbcce",
-    "location": "North Kingstown, Rhode Island, USA",
-    "title": "Electromechanical Techinican",
-    "url": "https://jobs.ashbyhq.com/regent/1ef57221-5bc1-4e21-8243-47501ecdbcce"
-  },
-  {
     "company": "Boeing",
     "first_seen": "2026-08-24T11:22:55.643896+00:00",
     "key": "workday:Boeing:JR2026522791",
@@ -2806,5 +2782,13 @@
     "location": "2 Locations",
     "title": "Innovative Medicine Procurement Co-op",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Innovative-Medicine-Procurement-Co-op_R-098642"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-09-22T15:22:33.301745+00:00",
+    "key": "workday:Johnson & Johnson:R-099381",
+    "location": "Raritan, New Jersey, United States of America",
+    "title": "Commercial Data Science & AI Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381"
   }
 ]
