@@ -1,9 +1,10 @@
 # Open matches
 
-_77 postings scoring >= 40, of 33066 scanned. Updated 2026-09-24 01:01 UTC._
+_76 postings scoring >= 40, of 33042 scanned. Updated 2026-09-24 15:41 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
+| 45 | [Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961) | Citi | Bertrange  Luxembourg |
 | 87 | [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | Point72 | New York, New York, United States, Stamford, Connecticut, United States |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | AQR Capital Management | Greenwich, CT |
@@ -28,6 +29,7 @@ _77 postings scoring >= 40, of 33066 scanned. Updated 2026-09-24 01:01 UTC._
 | 65 | [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | Schonfeld | New York, New York, United States |
 | 65 | [2027 DMFI Fixed Income Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172055) | Schonfeld | New York, New York, United States |
 | 65 | [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) | Schonfeld | New York, New York, United States |
+| 64 | [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) | Coinbase | Hybrid - New York, NY |
 | 63 | [2027 Core Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) | Schonfeld | Miami, Florida, United States |
 | 61 | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Coinbase | Hybrid - New York, NY |
 | 60 | [2027 DMFI Technology Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171772) | Schonfeld | New York, New York, United States |
@@ -49,26 +51,21 @@ _77 postings scoring >= 40, of 33066 scanned. Updated 2026-09-24 01:01 UTC._
 | 51 | [Strategic Finance Intern (Summer 2027)](https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003) | Zipline | South San Francisco, California, USA |
 | 51 | [Supply Chain Business Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7891328003?gh_jid=7891328003) | Zipline | South San Francisco, California, USA |
 | 51 | [Functions - Internal Audit, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374) | Citi | New York New York United States |
-| 51 | [Wealth - LATAM, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Wealth---LATAM--Summer-Analyst--New-York---USA--2027_26994367) | Citi | New York New York United States |
-| 51 | [Wealth – Summer Analyst, New York – USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Wealth---Summer-Analyst--New-York---USA--2027_26994344) | Citi | New York New York United States |
 | 50 | [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States |
 | 50 | [Futures & Prediction Market Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8187309?t=gh_src=&gh_jid=8187309) | Robinhood | Chicago, IL |
 | 49 | [Associate/Economic Damages and Litigation Support (Risk, Investigations & Analytics practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/3090349) | Charles River Associates | New York, NY, United States |
+| 48 | [People Analytics Intern](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) | Coinbase | Hybrid - New York, NY |
 | 47 | [Crypto Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8193484?t=gh_src=&gh_jid=8193484) | Robinhood | New York, NY |
 | 47 | [Internal Audit Intern](https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432) | Coinbase | Hybrid - New York, NY |
 | 46 | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Akuna Capital | Chicago, IL |
 | 46 | [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) | Old Mission Capital | Chicago, IL, United States |
+| 46 | [Aircraft Software Integration Intern (Summer 2027)](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | Zipline | South San Francisco, California, USA |
 | 45 | [Brokerage Risk Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src=&gh_jid=8198223) | Robinhood | Chicago, IL |
 | 45 | [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) | Boeing | USA - Everett, WA |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
 | 45 | [Commercial Strategy & Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 45 | [Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376) | Citi | Tampa Florida United States |
 | 45 | [Banking, Commercial Banking, Summer Analyst, Frankfurt - Germany 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/TAURUS/Banking--Commercial-Banking--Summer-Analyst--Frankfurt---Germany-2027_26993561) | Citi | TAURUS |
-| 45 | [Wealth - LATAM, Summer Analyst, Miami - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Miami-Florida-United-States/Wealth---LATAM--Summer-Analyst--Miami---USA--2027_26994351) | Citi | Miami Florida United States |
-| 45 | [Wealth – Summer Analyst, Dallas – USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Dallas-Texas-United-States/Wealth---Summer-Analyst--Dallas---USA--2027_26994348) | Citi | Dallas Texas United States |
-| 45 | [Wealth – Summer Analyst, Los Angeles– USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Beverly-Hills-California-United-States/Wealth---Summer-Analyst--Los-Angeles--USA--2027_26994337) | Citi | Beverly Hills California United States |
-| 45 | [Wealth – Summer Analyst, Miami– USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Miami-Florida-United-States/Wealth---Summer-Analyst--Miami--USA--2027_26994091) | Citi | Miami Florida United States |
-| 45 | [Banking - Corporate Banking, Summer Analyst, Atlanta - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Atlanta-Georgia-United-States/Banking---Corporate-Banking--Summer-Analyst--Atlanta---US--2027_26994662) | Citi | Atlanta Georgia United States |
 | 45 | [2027 Future Talent Program – Business Development Execution – Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Development-Execution---Intern_R413070) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program - Clinical Business Operations - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Clinical-Business-Operations---Intern_R413125) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program - Global Market Access: Strategy & Operations - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Market-Access--Strategy---Operations---Intern_R413314) | Merck | 2 Locations |
@@ -80,18 +77,20 @@ _77 postings scoring >= 40, of 33066 scanned. Updated 2026-09-24 01:01 UTC._
 | 45 | [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) | Home Depot | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 44 | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Robinhood | Menlo Park, CA |
 | 42 | [Associate/eDiscovery (Forensic Services practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5312426) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; New York, NY, United States; Washington, DC, United States |
-| 42 | [People Analytics Intern](https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517) | Coinbase | Hybrid - New York, NY |
+| 40 | [Real Estate & Builds Intern](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) | Coinbase | Hybrid - New York, NY |
+| 40 | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Coinbase | Hybrid - New York, NY |
+| 40 | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Coinbase | Hybrid - New York, NY |
 
 ## By company
 
 - **Robinhood** (15) — top [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) at 84
-- **Citi** (10) — top [Functions - Internal Audit, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374) at 51
 - **AQR Capital Management** (9) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Schonfeld** (9) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **Merck** (9) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
+- **Coinbase** (8) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
 - **Charles River Associates** (7) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
-- **Zipline** (5) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
-- **Coinbase** (4) — top [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) at 61
+- **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
+- **Citi** (4) — top [Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961) at 45
 - **DRW** (3) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Point72** (1) — top [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 87
 - **Akuna Capital** (1) — top [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) at 46
