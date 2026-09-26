@@ -1,6 +1,6 @@
 # Open matches
 
-_71 postings scoring >= 40, of 32977 scanned. Updated 2026-09-26 01:08 UTC._
+_72 postings scoring >= 40, of 33008 scanned. Updated 2026-09-26 14:51 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -8,6 +8,7 @@ _71 postings scoring >= 40, of 32977 scanned. Updated 2026-09-26 01:08 UTC._
 | 85 | [2027 Portfolio Solutions Group Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) | Schonfeld | Miami, Florida, United States |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
+| 84 | [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) | Robinhood | New York, NY |
 | 81 | [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | Point72 | New York, New York, United States, Stamford, Connecticut, United States |
 | 78 | [Investment Analyst Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) | Robinhood | Menlo Park, CA |
 | 76 | [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | AQR Capital Management | Greenwich, CT |
@@ -78,7 +79,7 @@ _71 postings scoring >= 40, of 32977 scanned. Updated 2026-09-26 01:08 UTC._
 
 ## By company
 
-- **Robinhood** (14) — top [Investment Analyst Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src=&gh_jid=8198187) at 78
+- **Robinhood** (15) — top [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) at 84
 - **Schonfeld** (9) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **AQR Capital Management** (8) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Coinbase** (8) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
