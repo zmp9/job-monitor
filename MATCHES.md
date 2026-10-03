@@ -1,12 +1,9 @@
 # Open matches
 
-_78 postings scoring >= 40, of 33092 scanned. Updated 2026-10-03 01:41 UTC._
+_78 postings scoring >= 40, of 33030 scanned. Updated 2026-10-03 15:02 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 45 | [Internship – Management Consulting - Banking & Captial Market as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting---Banking---Captial-Market-as-of-February-2027_R00355596) | Accenture | n/a |
-| 45 | [Internship – Management Consulting: AI & Data – as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting--AI---Data---as-of-February-2027_R00355578) | Accenture | n/a |
-| 45 | [Risk, Controls, and Assurance Intern – Summer 2027](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Risk--Controls--and-Assurance-Intern---Summer-2027_JR209093) | Elevance Health | 3 Locations |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) | Schonfeld | Miami, Florida, United States |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
@@ -68,12 +65,15 @@ _78 postings scoring >= 40, of 33092 scanned. Updated 2026-10-03 01:41 UTC._
 | 45 | [Commercial Strategy & Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 45 | [Functions - Finance, Summer Associate, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Finance--Summer-Associate--Tampa---USA--2027_26997272) | Citi | Tampa Florida United States |
 | 45 | [Citi Global Wealth, Summer Analyst, Bertrange - Luxembourg 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bertrange--Luxembourg/Citi-Global-Wealth--Summer-Analyst--Bertrange---Luxembourg-2027_26994961) | Citi | Bertrange  Luxembourg |
+| 45 | [Internship – Management Consulting - Banking & Captial Market as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting---Banking---Captial-Market-as-of-February-2027_R00355596) | Accenture | n/a |
+| 45 | [Internship – Management Consulting: AI & Data – as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting--AI---Data---as-of-February-2027_R00355578) | Accenture | n/a |
 | 45 | [2027 Future Talent Program – Business Development Execution – Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Development-Execution---Intern_R413070) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program - Global Market Access: Strategy & Operations - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Global-Market-Access--Strategy---Operations---Intern_R413314) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program - Global Supplier Management Group Digital Strategy & Insights (DS&I) - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Digital-Strategy---Insights--DS-I----Intern_R416016) | Merck | USA - New Jersey - Rahway |
 | 45 | [2027 Future Talent Program - Global Supplier Management Group Direct Advanced Strategy and Procurement - Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Direct-Advanced-Strategy-and-Procurement---Co-op_R415226) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program - Portfolio Resource Forecasting - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Portfolio-Resource-Forecasting---Intern_R414068) | Merck | 2 Locations |
 | 45 | [2027 Future Talent Program –Global Labeling Strategy - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program--Global-Labeling-Strategy---Intern_R411948) | Merck | 2 Locations |
+| 45 | [Risk, Controls, and Assurance Intern – Summer 2027](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Risk--Controls--and-Assurance-Intern---Summer-2027_JR209093) | Elevance Health | 3 Locations |
 | 45 | [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) | Home Depot | STORE SUPPORT CENTER, ATLANTA - 9090 |
 | 44 | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Robinhood | Menlo Park, CA |
 | 42 | [Associate/eDiscovery (Forensic Services practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5312426) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; New York, NY, United States; Washington, DC, United States |
@@ -93,14 +93,14 @@ _78 postings scoring >= 40, of 33092 scanned. Updated 2026-10-03 01:41 UTC._
 - **Merck** (7) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
 - **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
 - **Schonfeld** (5) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
-- **Accenture** (2) — top [Internship – Management Consulting - Banking & Captial Market as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting---Banking---Captial-Market-as-of-February-2027_R00355596) at 45
 - **DRW** (2) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
-- **Elevance Health** (1) — top [Risk, Controls, and Assurance Intern – Summer 2027](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Risk--Controls--and-Assurance-Intern---Summer-2027_JR209093) at 45
+- **Accenture** (2) — top [Internship – Management Consulting - Banking & Captial Market as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Internship---Management-Consulting---Banking---Captial-Market-as-of-February-2027_R00355596) at 45
 - **Point72** (1) — top [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
 - **Akuna Capital** (1) — top [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) at 46
 - **Old Mission Capital** (1) — top [Legal Intern - Summer 2027](https://www.oldmissioncapital.com/careers/?gh_jid=7832843003) at 46
 - **Boeing** (1) — top [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) at 45
 - **SpaceX** (1) — top [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) at 45
+- **Elevance Health** (1) — top [Risk, Controls, and Assurance Intern – Summer 2027](https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Risk--Controls--and-Assurance-Intern---Summer-2027_JR209093) at 45
 - **Home Depot** (1) — top [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) at 45
 - **IMC Trading** (1) — top [Deep Learning Research Intern - Summer 2027 - Chicago, New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) at 41
 - **Ramp** (1) — top [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) at 41
