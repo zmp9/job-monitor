@@ -1,16 +1,14 @@
 # Open matches
 
-_75 postings scoring >= 40, of 33312 scanned. Updated 2026-10-07 17:39 UTC._
+_74 postings scoring >= 40, of 33482 scanned. Updated 2026-10-08 02:26 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 97 | [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) | Zipline | South San Francisco, California, USA |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) | Schonfeld | Miami, Florida, United States |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
 | 84 | [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) | Robinhood | New York, NY |
 | 81 | [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | Point72 | New York, New York, United States, Stamford, Connecticut, United States |
-| 79 | [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982302003?gh_jid=7982302003) | Zipline | South San Francisco, California, USA |
 | 76 | [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | AQR Capital Management | Greenwich, CT |
 | 75 | [Finance and Strategy Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) | Robinhood | Menlo Park, CA |
 | 74 | [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) | AQR Capital Management | Greenwich, CT |
@@ -44,6 +42,7 @@ _75 postings scoring >= 40, of 33312 scanned. Updated 2026-10-07 17:39 UTC._
 | 56 | [(2028 Bachelor's/Master's graduates) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
 | 54 | [Business Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src=&gh_jid=8123238) | Robinhood | Washington, DC |
 | 54 | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Coinbase | Hybrid - New York, NY |
+| 54 | [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) | Zipline | South San Francisco, California, USA |
 | 51 | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Robinhood | Denver, CO |
 | 51 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles/7929801003?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
 | 51 | [Strategic Finance Intern (Summer 2027)](https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003) | Zipline | South San Francisco, California, USA |
@@ -85,10 +84,10 @@ _75 postings scoring >= 40, of 33312 scanned. Updated 2026-10-07 17:39 UTC._
 - **Robinhood** (14) — top [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) at 84
 - **Citi** (10) — top [Banking - Investment Banking, Summer Associate, New York (North America – 2027)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--Summer-Associate--New-York--North-America---2027-_26998318) at 66
 - **Coinbase** (8) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
-- **Zipline** (7) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
 - **AQR Capital Management** (7) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Charles River Associates** (7) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
 - **Merck** (7) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
+- **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
 - **Schonfeld** (4) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **DRW** (2) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Point72** (1) — top [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
