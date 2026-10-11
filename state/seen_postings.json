@@ -26405,6 +26405,12 @@
     "title": "Director, Assistant General Counsel - Litigation",
     "url": "https://jobs.ashbyhq.com/snowflake/2d5b86ac-0566-405b-b97d-b9cd3242ad8b"
   },
+  "ashby:Snowflake:2d66e411-c782-43d5-9ad5-389c4407f9c6": {
+    "company": "Snowflake",
+    "first_seen": "2026-10-11T01:31:47.117916+00:00",
+    "title": "Senior Technical Program Manager - ML/AI",
+    "url": "https://jobs.ashbyhq.com/snowflake/2d66e411-c782-43d5-9ad5-389c4407f9c6"
+  },
   "ashby:Snowflake:2deca431-fecf-45b6-be07-0d1b5c859393": {
     "company": "Snowflake",
     "first_seen": "2026-09-24T15:41:21.021978+00:00",
@@ -29026,6 +29032,12 @@
     "first_seen": "2026-08-28T14:14:09.999327+00:00",
     "title": "Strategic Finance - Strategic Engagements, Deal Lead (NoAM)",
     "url": "https://jobs.ashbyhq.com/snowflake/f3102d91-89b5-4c7c-8d77-d915751c039a"
+  },
+  "ashby:Snowflake:f38ad1b0-00a6-490d-afcf-80a78c8b8aed": {
+    "company": "Snowflake",
+    "first_seen": "2026-10-11T01:31:47.117937+00:00",
+    "title": "Staff Software Engineer \u2013 Engineering Systems, Continuous Integration Team",
+    "url": "https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed"
   },
   "ashby:Snowflake:f3dee605-c1a1-4712-b6ee-7c085a502032": {
     "company": "Snowflake",
@@ -56417,6 +56429,12 @@
     "title": "Senior Vulnerability Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249559007?gh_jid=5249559007"
   },
+  "greenhouse:Anduril Industries:5249697007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-11T01:31:45.477123+00:00",
+    "title": "Senior Software Engineer, Strategic Defense (Active Clearance)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007"
+  },
   "greenhouse:Anduril Industries:5249699007": {
     "company": "Anduril Industries",
     "first_seen": "2026-09-26T01:08:56.938165+00:00",
@@ -58277,6 +58295,12 @@
     "title": "EMC Design Engineer, Air Dominance and Strike",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260717007?gh_jid=5260717007"
   },
+  "greenhouse:Anduril Industries:5260733007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-11T01:31:45.477125+00:00",
+    "title": "Software Engineer, Strategic Defense",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007"
+  },
   "greenhouse:Anduril Industries:5261009007": {
     "company": "Anduril Industries",
     "first_seen": "2026-10-10T02:02:45.772090+00:00",
@@ -58300,6 +58324,12 @@
     "first_seen": "2026-10-08T17:41:44.152027+00:00",
     "title": "Staff AI Test and Evaluation Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261106007?gh_jid=5261106007"
+  },
+  "greenhouse:Anduril Industries:5261122007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-11T01:31:45.477119+00:00",
+    "title": "Senior Software Engineer, Strategic Defense",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007"
   },
   "greenhouse:Anduril Industries:5261149007": {
     "company": "Anduril Industries",
@@ -58636,6 +58666,12 @@
     "first_seen": "2026-10-10T02:02:45.772107+00:00",
     "title": "Senior Power Controls Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262877007?gh_jid=5262877007"
+  },
+  "greenhouse:Anduril Industries:5262987007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-11T01:31:45.477102+00:00",
+    "title": "Senior Front End Software Engineer, React",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007"
   },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
@@ -87850,6 +87886,12 @@
     "first_seen": "2026-09-19T00:55:47.129460+00:00",
     "title": "Senior IT Systems Engineer",
     "url": "https://job-boards.greenhouse.io/flexport/jobs/8213955"
+  },
+  "greenhouse:Flexport:8214366": {
+    "company": "Flexport",
+    "first_seen": "2026-10-11T01:31:45.837189+00:00",
+    "title": "Associate Program Manager",
+    "url": "https://job-boards.greenhouse.io/flexport/jobs/8214366"
   },
   "greenhouse:Flexport:8221466": {
     "company": "Flexport",
@@ -139253,6 +139295,12 @@
     "title": "Talent Sourcer - Temporary",
     "url": "https://boards.greenhouse.io/spacex/jobs/8882501002?gh_jid=8882501002"
   },
+  "greenhouse:SpaceX:8882551002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-11T01:31:44.800833+00:00",
+    "title": "Principal Mechanical Engineer (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8882551002?gh_jid=8882551002"
+  },
   "greenhouse:SpaceX:8882556002": {
     "company": "SpaceX",
     "first_seen": "2026-10-10T02:02:45.239810+00:00",
@@ -151738,6 +151786,12 @@
     "first_seen": "2026-10-09T02:43:19.082446+00:00",
     "title": "Staff Software Engineer \u2013 Integrations Platform",
     "url": "https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003"
+  },
+  "greenhouse:Zipline:8020785003": {
+    "company": "Zipline",
+    "first_seen": "2026-10-11T01:31:45.180640+00:00",
+    "title": "Accounts Payable Analyst",
+    "url": "https://www.zipline.com/open-roles/8020785003?gh_jid=8020785003"
   },
   "greenhouse:Zipline:8020863003": {
     "company": "Zipline",
@@ -260525,6 +260579,12 @@
     "title": "Test Automation Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Test-Automation-Engineer_ATCI-5694896-S2066671-1"
   },
+  "workday:Accenture:ATCI-5694907-S2061205": {
+    "company": "Accenture",
+    "first_seen": "2026-10-11T01:31:47.569569+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5694907-S2061205-1"
+  },
   "workday:Accenture:ATCI-5694916-S2061206": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185221+00:00",
@@ -312868,6 +312928,12 @@
     "first_seen": "2026-10-06T17:02:13.267229+00:00",
     "title": "Step Inside Accenture: An Evening for IT Students",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Copenhagen/Step-Inside-Accenture--An-Evening-for-IT-Students_R00362383"
+  },
+  "workday:Accenture:R00362386": {
+    "company": "Accenture",
+    "first_seen": "2026-10-11T01:31:47.569551+00:00",
+    "title": "Management Consulting Senior Analyst (CPA Candidate)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ontario---Toronto/Management-Consulting-Senior-Analyst--CPA-Candidate-_R00362386"
   },
   "workday:Accenture:R00362403": {
     "company": "Accenture",
@@ -451511,6 +451577,12 @@
     "title": "Senior Robotic Solutions Engineer - Field Service",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Robotic-Solutions-Engineer---Field-Service_R-103928-1"
   },
+  "workday:Johnson & Johnson:R-103929": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-11T01:31:47.646726+00:00",
+    "title": "Profesional Education Specialist, SV South Cluster \u2013 Buenos aires, Argentina",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Buenos-Aires-Argentina/Profesional-Education-Specialist--SV-South-Cluster---Buenos-aires--Argentina_R-103929"
+  },
   "workday:Johnson & Johnson:R-103935": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-10-09T02:43:21.583787+00:00",
@@ -481348,6 +481420,12 @@
     "first_seen": "2026-09-29T16:45:04.512379+00:00",
     "title": "Manager Data Stewardship",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Manager-Data-Stewardship_R419034-1"
+  },
+  "workday:Merck:R419035": {
+    "company": "Merck",
+    "first_seen": "2026-10-11T01:31:47.718133+00:00",
+    "title": "Lead Software Engineer \u2013 Integration",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Lead-Software-Engineer---Integration_R419035"
   },
   "workday:Merck:R419036": {
     "company": "Merck",
