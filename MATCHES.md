@@ -1,22 +1,22 @@
 # Open matches
 
-_72 postings scoring >= 40, of 33226 scanned. Updated 2026-10-12 02:01 UTC._
+_72 postings scoring >= 40, of 33171 scanned. Updated 2026-10-12 20:05 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) | Schonfeld | Miami, Florida, United States |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
+| 84 | [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) | Robinhood | New York, NY |
 | 81 | [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) | Point72 | New York, New York, United States, Stamford, Connecticut, United States |
+| 79 | [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982302003?gh_jid=7982302003) | Zipline | South San Francisco, California, USA |
 | 76 | [2027 Portfolio Implementation Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895562&gh_jid=7895562) | AQR Capital Management | Greenwich, CT |
 | 75 | [Finance and Strategy Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) | Robinhood | Menlo Park, CA |
-| 74 | [2027 Portfolio Finance Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8161563&gh_jid=8161563) | AQR Capital Management | Greenwich, CT |
 | 73 | [AQR Arbitrage - 2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | AQR Capital Management | Greenwich, CT |
 | 73 | [Crypto Accounting Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198153?t=gh_src=&gh_jid=8198153) | Robinhood | New York, NY |
 | 72 | [2027 Research Product Specialist Summer Analyst](https://careers.aqr.com/jobs?gh_jid=8123095&gh_jid=8123095) | AQR Capital Management | Greenwich, CT |
 | 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
 | 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
-| 69 | [Leadership Rotation Network Intern](https://job-boards.greenhouse.io/drweng/jobs/7993195) | DRW | Chicago, IL |
 | 68 | [Brokerage Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src=&gh_jid=8198198) | Robinhood | Chicago, IL |
 | 66 | [Banking - Investment Banking, Summer Associate, New York (North America – 2027)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--Summer-Associate--New-York--North-America---2027-_26998318) | Citi | New York New York United States |
 | 66 | [Banking - Investment Banking, Summer Associate, San Francisco Healthcare (North America – 2027)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Banking---Investment-Banking--Summer-Associate--San-Francisco-Healthcare--North-America---2027-_26998324) | Citi | San Francisco California United States |
@@ -71,7 +71,7 @@ _72 postings scoring >= 40, of 33226 scanned. Updated 2026-10-12 02:01 UTC._
 | 44 | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src=&gh_jid=8198255) | Robinhood | Menlo Park, CA |
 | 42 | [Associate/eDiscovery (Forensic Services practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/5312426) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; New York, NY, United States; Washington, DC, United States |
 | 41 | [Alumni Engagement Intern](https://www.alixpartners.com/careers/8016759003?gh_jid=8016759003) | AlixPartners | New York |
-| 41 | [Deep Learning Research Intern - Summer 2027 - Chicago, New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | IMC Trading | Chicago, United States; New York, United States |
+| 41 | [Deep Learning Research Intern - Summer 2027 - Chicago, New York](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) | IMC Trading | New York, United States |
 | 41 | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | Ramp | New York, NY (HQ) |
 | 40 | [Real Estate & Builds Intern](https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507) | Coinbase | Hybrid - New York, NY |
 | 40 | [Sales Intern](https://www.coinbase.com/careers/positions/8187551?gh_jid=8187551) | Coinbase | Hybrid - New York, NY |
@@ -79,16 +79,16 @@ _72 postings scoring >= 40, of 33226 scanned. Updated 2026-10-12 02:01 UTC._
 
 ## By company
 
-- **Robinhood** (13) — top [Finance and Strategy Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198142?t=gh_src=&gh_jid=8198142) at 75
+- **Robinhood** (14) — top [Vendor Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198097?t=gh_src=&gh_jid=8198097) at 84
 - **Citi** (10) — top [Banking - Investment Banking, Summer Associate, New York (North America – 2027)](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Investment-Banking--Summer-Associate--New-York--North-America---2027-_26998318) at 66
 - **Coinbase** (8) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
-- **AQR Capital Management** (7) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Charles River Associates** (7) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
-- **Zipline** (6) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 54
+- **Zipline** (7) — top [Commercial Marketplace Strategy and Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7982302003?gh_jid=7982302003) at 79
+- **AQR Capital Management** (6) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Schonfeld** (5) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **Merck** (3) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
-- **DRW** (2) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **Point72** (1) — top [2027 Investment Services Internship](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
+- **DRW** (1) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **SoFi** (1) — top [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) at 60
 - **Accenture** (1) — top [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) at 60
 - **Akuna Capital** (1) — top [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) at 46
