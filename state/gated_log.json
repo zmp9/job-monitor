@@ -1,70 +1,6 @@
 [
   {
     "company": "Johnson & Johnson",
-    "first_seen": "2026-09-14T16:45:35.316955+00:00",
-    "key": "workday:Johnson & Johnson:R-097003",
-    "location": "Irving, Texas, United States of America",
-    "title": "Business Intelligence Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-14T16:45:35.318521+00:00",
-    "key": "workday:Johnson & Johnson:R-092949",
-    "location": "Titusville, New Jersey, United States of America",
-    "title": "Global Supply Chain Reliability Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Titusville-New-Jersey-United-States-of-America/Global-Supply-Chain-Reliability-Co-op_R-092949-1"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-14T16:45:35.318723+00:00",
-    "key": "workday:Johnson & Johnson:R-098461",
-    "location": "2 Locations",
-    "title": "TDQ Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Co-Op_R-098461"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-14T16:45:35.319745+00:00",
-    "key": "workday:Johnson & Johnson:R-098741",
-    "location": "Raritan, New Jersey, United States of America",
-    "title": "Mentor Research and Development CoOp",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Mentor-Research-and-Development-CoOp_R-098741"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-14T16:45:35.326014+00:00",
-    "key": "workday:Johnson & Johnson:R-096872",
-    "location": "2 Locations",
-    "title": "Supply Chain Excellence Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Supply-Chain-Excellence-Co-Op_R-096872"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-15T01:09:01.133336+00:00",
-    "key": "workday:Johnson & Johnson:R-098715",
-    "location": "San Angelo, Texas, United States of America",
-    "title": "J&J Manufacturing Co-op Spring 2027",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/San-Angelo-Texas-United-States-of-America/J-J-Manufacturing-Co-op-Spring-2027_R-098715"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-15T01:09:01.133893+00:00",
-    "key": "workday:Johnson & Johnson:R-097614",
-    "location": "Wilson, North Carolina, United States of America",
-    "title": "Reliability Maintenance Technician Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Wilson-North-Carolina-United-States-of-America/Reliability-Maintenance-Technician-Co-op_R-097614"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-15T01:09:01.135339+00:00",
-    "key": "workday:Johnson & Johnson:R-098370",
-    "location": "Irving, Texas, United States of America",
-    "title": "R&D Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Irving-Texas-United-States-of-America/R-D-Co-Op_R-098370"
-  },
-  {
-    "company": "Johnson & Johnson",
     "first_seen": "2026-09-15T15:25:50.438001+00:00",
     "key": "workday:Johnson & Johnson:R-097287",
     "location": "Somerset, New Jersey, United States of America",
@@ -654,5 +590,13 @@
     "location": "West Chester, Pennsylvania, United States of America",
     "title": "Technical Operations Co-op",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Technical-Operations-Co-op_R-100885"
+  },
+  {
+    "company": "Merck",
+    "first_seen": "2026-10-15T01:11:44.947692+00:00",
+    "key": "workday:Merck:R413880",
+    "location": "USA - New Jersey - Rahway",
+    "title": "2027 Future Talent Program \u2013 Social Impact Sustainability \u2013 Co-op",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Social-Impact-Sustainability---Co-op_R413880"
   }
 ]
