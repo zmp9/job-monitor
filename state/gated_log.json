@@ -1,13 +1,5 @@
 [
   {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-09-15T15:25:50.438001+00:00",
-    "key": "workday:Johnson & Johnson:R-097287",
-    "location": "Somerset, New Jersey, United States of America",
-    "title": "Distribution Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Distribution-Co-Op_R-097287"
-  },
-  {
     "company": "Anduril Industries",
     "first_seen": "2026-09-16T01:01:22.878901+00:00",
     "key": "greenhouse:Anduril Industries:5236596007",
@@ -598,5 +590,29 @@
     "location": "USA - New Jersey - Rahway",
     "title": "2027 Future Talent Program \u2013 Social Impact Sustainability \u2013 Co-op",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Social-Impact-Sustainability---Co-op_R413880"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-15T15:28:36.228191+00:00",
+    "key": "workday:Johnson & Johnson:R-104450",
+    "location": "Somerset, New Jersey, United States of America",
+    "title": "Data Operations & Analytics Spring Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-104450"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-15T15:28:36.228362+00:00",
+    "key": "workday:Johnson & Johnson:R-103614",
+    "location": "New Brunswick, New Jersey, United States of America",
+    "title": "Trade Compliance Co-Op 2027",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Trade-Compliance-Co-Op-2027_R-103614"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-15T15:28:36.228536+00:00",
+    "key": "workday:Johnson & Johnson:R-102739",
+    "location": "Spring House, Pennsylvania, United States of America",
+    "title": "Emerging Technologies CoOp",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1"
   }
 ]
