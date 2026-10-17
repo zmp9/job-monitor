@@ -1,14 +1,6 @@
 [
   {
     "company": "Johnson & Johnson",
-    "first_seen": "2026-09-16T15:18:28.537590+00:00",
-    "key": "workday:Johnson & Johnson:R-099631",
-    "location": "Gurabo, Puerto Rico, United States of America",
-    "title": "Operations Continuous Improvement Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurabo-Puerto-Rico-United-States-of-America/Operations-Continuous-Improvement-Co-Op_R-099631"
-  },
-  {
-    "company": "Johnson & Johnson",
     "first_seen": "2026-09-17T01:04:18.351871+00:00",
     "key": "workday:Johnson & Johnson:R-099679",
     "location": "Malvern, Pennsylvania, United States of America",
@@ -542,5 +534,21 @@
     "location": "USA - Pennsylvania - West Point",
     "title": "2027 Future Talent Program - Vaccine Manufacturing Co-op",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R422481"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-17T00:59:51.954799+00:00",
+    "key": "workday:Johnson & Johnson:R-105709",
+    "location": "3 Locations",
+    "title": "CSCO Spring Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Somerset-New-Jersey-United-States-of-America/CSCO-Spring-Co-op_R-105709"
+  },
+  {
+    "company": "Merck",
+    "first_seen": "2026-10-17T00:59:52.010696+00:00",
+    "key": "workday:Merck:R422934",
+    "location": "USA - Pennsylvania - West Point",
+    "title": "2027 Future Talent Program - L&D (Learning & Development) Coordinator - Co-op",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---L-D--Learning---Development--Coordinator---Co-op_R422934"
   }
 ]
