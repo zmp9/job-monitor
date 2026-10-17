@@ -1,6 +1,6 @@
 # Open matches
 
-_52 postings scoring >= 40, of 32275 scanned. Updated 2026-10-17 00:59 UTC._
+_54 postings scoring >= 40, of 33393 scanned. Updated 2026-10-17 14:01 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -21,6 +21,7 @@ _52 postings scoring >= 40, of 32275 scanned. Updated 2026-10-17 00:59 UTC._
 | 63 | [2027 Core Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) | Schonfeld | Miami, Florida, United States |
 | 61 | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Coinbase | Hybrid - New York, NY |
 | 60 | [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) | SoFi | United States |
+| 60 | [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) | Accenture | n/a |
 | 60 | [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) | Merck | 2 Locations |
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
 | 57 | [Analyst/Associate - Litigation (Life Sciences practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4432386) | Charles River Associates | Washington, DC, United States |
@@ -45,6 +46,7 @@ _52 postings scoring >= 40, of 32275 scanned. Updated 2026-10-17 00:59 UTC._
 | 45 | [Commercial Strategy & Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 45 | [Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372) | Citi | Irving Texas United States |
 | 45 | [Banking, Commercial Banking, Summer Analyst, Frankfurt - Germany 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/TAURUS/Banking--Commercial-Banking--Summer-Analyst--Frankfurt---Germany-2027_26993561) | Citi | TAURUS |
+| 45 | [Internship – Technology Strategy & Transformation Luxembourg as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Luxembourg/Internship---Technology-Strategy---Transformation-Luxembourg---as-of-February-2027_R00355951) | Accenture | n/a |
 | 45 | [2027 Future Talent Program - Marketing Strategy & Project Management Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Marketing-Strategy---Project-Management-Co-op_R422071) | Merck | USA - New Jersey - Rahway |
 | 45 | [2027 Future Talent Program –Global Labeling Strategy - Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program--Global-Labeling-Strategy---Intern_R411948) | Merck | 2 Locations |
 | 45 | [2027 Summer Internship - Business Operations & Management](https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Business-Operations---Management_Req191941) | Home Depot | STORE SUPPORT CENTER, ATLANTA - 9090 |
@@ -66,6 +68,7 @@ _52 postings scoring >= 40, of 32275 scanned. Updated 2026-10-17 00:59 UTC._
 - **Schonfeld** (5) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
 - **Merck** (4) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
 - **Point72** (3) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
+- **Accenture** (2) — top [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) at 60
 - **Citi** (2) — top [Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372) at 45
 - **DRW** (1) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **SoFi** (1) — top [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) at 60

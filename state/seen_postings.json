@@ -67397,6 +67397,12 @@
     "title": "Technical Program Manager, SOX Compliance",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453550008"
   },
+  "greenhouse:Anthropic:5453573008": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-17T14:01:35.528888+00:00",
+    "title": "Policy Design Manager, Integrity and Authenticity",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008"
+  },
   "greenhouse:Anthropic:5453809008": {
     "company": "Anthropic",
     "first_seen": "2026-10-17T00:59:50.653045+00:00",
@@ -67420,6 +67426,12 @@
     "first_seen": "2026-10-16T00:59:04.363189+00:00",
     "title": "Applied AI Engineer, Startups (Physical AI)",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454673008"
+  },
+  "greenhouse:Anthropic:5454800008": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-17T14:01:35.528873+00:00",
+    "title": "Customer Success Manager, Enterprise Tech",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454800008"
   },
   "greenhouse:Anthropic:5454882008": {
     "company": "Anthropic",
@@ -86507,6 +86519,12 @@
     "title": "Principal Brand Content & AI Search Visibility",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860653002"
   },
+  "greenhouse:Databricks:8860657002": {
+    "company": "Databricks",
+    "first_seen": "2026-10-17T14:01:35.477201+00:00",
+    "title": "Sr. Public Relations Manager",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8860657002"
+  },
   "greenhouse:Databricks:8860663002": {
     "company": "Databricks",
     "first_seen": "2026-10-06T17:02:11.356110+00:00",
@@ -99011,6 +99029,42 @@
     "title": "Software Engineer, GovTech",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8894909002?gh_jid=8894909002"
   },
+  "greenhouse:Lyft:8896654002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571053+00:00",
+    "title": "Business Systems Engineer",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896654002?gh_jid=8896654002"
+  },
+  "greenhouse:Lyft:8896666002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571075+00:00",
+    "title": "UX Researcher",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896666002?gh_jid=8896666002"
+  },
+  "greenhouse:Lyft:8896671002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571071+00:00",
+    "title": "Data Scientist",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002"
+  },
+  "greenhouse:Lyft:8896675002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571069+00:00",
+    "title": "Data Scientist",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002"
+  },
+  "greenhouse:Lyft:8896679002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571073+00:00",
+    "title": "Software Engineer",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002"
+  },
+  "greenhouse:Lyft:8896685002": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17T14:01:35.571066+00:00",
+    "title": "Data Analyst",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896685002?gh_jid=8896685002"
+  },
   "greenhouse:Marqeta:6908099": {
     "company": "Marqeta",
     "first_seen": "2026-08-14T15:47:06.814811+00:00",
@@ -99976,6 +100030,12 @@
     "first_seen": "2026-10-15T01:11:42.871777+00:00",
     "title": "Research Operations Lead",
     "url": "https://job-boards.greenhouse.io/mercury/jobs/6218808004"
+  },
+  "greenhouse:Mercury:6220946004": {
+    "company": "Mercury",
+    "first_seen": "2026-10-17T14:01:34.153428+00:00",
+    "title": "Senior Account Executive - Credit & Lending Products",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/6220946004"
   },
   "greenhouse:Mercury:6220965004": {
     "company": "Mercury",
@@ -145511,6 +145571,12 @@
     "title": "Starlink Lifecycle Marketing Manager (Global)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8896168002?gh_jid=8896168002"
   },
+  "greenhouse:SpaceX:8896660002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-17T14:01:34.576105+00:00",
+    "title": "Pilot",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8896660002?gh_jid=8896660002"
+  },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
     "first_seen": "2026-08-14T15:46:29.116083+00:00",
@@ -161789,6 +161855,12 @@
     "title": "Power Electronics - Electrical Engineer I",
     "url": "https://jobs.lever.co/shieldai/0af53b2b-e1ba-4e73-9e94-a4a689cabab9"
   },
+  "lever:Shield AI:0b0240a5-9928-42f5-8feb-73ff8d2864f5": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080311+00:00",
+    "title": "Staff Engineer, Aircraft Configuration Design - Ranger (R6298)",
+    "url": "https://jobs.lever.co/shieldai/0b0240a5-9928-42f5-8feb-73ff8d2864f5"
+  },
   "lever:Shield AI:0b5348cc-df90-4097-b968-f6f92b47fa63": {
     "company": "Shield AI",
     "first_seen": "2026-08-14T15:47:38.439517+00:00",
@@ -161884,6 +161956,12 @@
     "first_seen": "2026-09-09T01:00:47.890723+00:00",
     "title": "Senior Manager, Materials Planning & Logistics \u2013 Development Programs (R5252)",
     "url": "https://jobs.lever.co/shieldai/10251839-d7c9-433a-ba29-ddfd103a92cc"
+  },
+  "lever:Shield AI:10343ad3-79ee-4ef8-a0da-154908c915bf": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080314+00:00",
+    "title": "Staff Engineer, Fuel Systems - Ranger (R6299)",
+    "url": "https://jobs.lever.co/shieldai/10343ad3-79ee-4ef8-a0da-154908c915bf"
   },
   "lever:Shield AI:1039fc07-1b3c-4e72-870a-494cd0f1d5a8": {
     "company": "Shield AI",
@@ -162491,6 +162569,12 @@
     "title": "Engineer II, Modelling and Simulation (R5712)",
     "url": "https://jobs.lever.co/shieldai/2a942ccb-7f31-443e-a455-044081454b81"
   },
+  "lever:Shield AI:2a9f8845-45f1-4ad9-8e50-38d8cddfddf7": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080271+00:00",
+    "title": "Capture Manager - XBAT - USAF (R6205)",
+    "url": "https://jobs.lever.co/shieldai/2a9f8845-45f1-4ad9-8e50-38d8cddfddf7"
+  },
   "lever:Shield AI:2ac71dc7-c40d-4cd4-84f7-d812ec7e71b5": {
     "company": "Shield AI",
     "first_seen": "2026-08-14T15:47:38.440153+00:00",
@@ -163001,6 +163085,12 @@
     "title": "Senior Engineer, Human Machine Teaming (R5648)",
     "url": "https://jobs.lever.co/shieldai/3e68adca-465c-414b-88f5-e4d16a26ad3b"
   },
+  "lever:Shield AI:3e90ea11-9f23-45e3-b42e-e9b0bd4bdf36": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080301+00:00",
+    "title": "Engineer II, Automated Test (R6288)",
+    "url": "https://jobs.lever.co/shieldai/3e90ea11-9f23-45e3-b42e-e9b0bd4bdf36"
+  },
   "lever:Shield AI:3ec09bbc-6f52-4adc-b79d-61935a72c098": {
     "company": "Shield AI",
     "first_seen": "2026-09-02T14:54:53.547072+00:00",
@@ -163090,6 +163180,12 @@
     "first_seen": "2026-08-14T15:47:38.439602+00:00",
     "title": "Forward Deployed Engineer, Operations & Sustainment (R5497)",
     "url": "https://jobs.lever.co/shieldai/41c56241-9a9c-473f-a5a2-b11000aa0c23"
+  },
+  "lever:Shield AI:41e7cdce-586b-4776-b947-e8e262d20326": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080298+00:00",
+    "title": "Engineer I, Mechanical Hardware Test",
+    "url": "https://jobs.lever.co/shieldai/41e7cdce-586b-4776-b947-e8e262d20326"
   },
   "lever:Shield AI:425c064c-7585-462f-973d-66d685d1ab17": {
     "company": "Shield AI",
@@ -163456,6 +163552,12 @@
     "first_seen": "2026-10-16T00:59:03.839146+00:00",
     "title": "Capture Manager - XBAT - US Army (R6198)",
     "url": "https://jobs.lever.co/shieldai/5599df7c-3628-45a9-bca2-90e930b69f19"
+  },
+  "lever:Shield AI:55c9e55c-7620-4be6-9e2d-a4af58dc048b": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080316+00:00",
+    "title": "Staff Engineer, Modelling and Simulation (R6248)",
+    "url": "https://jobs.lever.co/shieldai/55c9e55c-7620-4be6-9e2d-a4af58dc048b"
   },
   "lever:Shield AI:55e14c5c-ee01-4c42-afc1-3583cf5e93d9": {
     "company": "Shield AI",
@@ -164038,6 +164140,12 @@
     "first_seen": "2026-09-25T01:07:24.580973+00:00",
     "title": "Staff Engineer, M&P (R6072)",
     "url": "https://jobs.lever.co/shieldai/77e81745-6f43-4ebb-bff1-53ee8bdf81dd"
+  },
+  "lever:Shield AI:77ea01b8-3cc2-4b36-9d23-aa5f317ade23": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080304+00:00",
+    "title": "Manager, Infrastructure (R6154)",
+    "url": "https://jobs.lever.co/shieldai/77ea01b8-3cc2-4b36-9d23-aa5f317ade23"
   },
   "lever:Shield AI:7866a552-dd2f-4e81-89cd-67a52d1bbb39": {
     "company": "Shield AI",
@@ -165071,6 +165179,12 @@
     "title": "Sr. Manager, Enterprise Data (R6103)",
     "url": "https://jobs.lever.co/shieldai/a8c0ff24-9436-4149-8fb8-a1a5428d12b2"
   },
+  "lever:Shield AI:a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080292+00:00",
+    "title": "Engineer I, Mechanical (R6302)",
+    "url": "https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a"
+  },
   "lever:Shield AI:a918e92a-3cc6-47df-bc74-4e2781d226d4": {
     "company": "Shield AI",
     "first_seen": "2026-08-14T15:47:38.440263+00:00",
@@ -165322,6 +165436,12 @@
     "first_seen": "2026-08-14T15:47:38.439998+00:00",
     "title": "Senior Staff Engineer, Modelling and Simulation (R4924)",
     "url": "https://jobs.lever.co/shieldai/b8d0f420-0711-4ca4-9d0f-11d58da64f32"
+  },
+  "lever:Shield AI:b909c504-0bf7-47e6-9e98-7efbf664326b": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080308+00:00",
+    "title": "Senior Staff Engineer, Structural Analysis - Ranger (R6300)",
+    "url": "https://jobs.lever.co/shieldai/b909c504-0bf7-47e6-9e98-7efbf664326b"
   },
   "lever:Shield AI:b98fe442-0cf9-4901-b1d7-8b2c9d82d878": {
     "company": "Shield AI",
@@ -165958,6 +166078,12 @@
     "first_seen": "2026-10-09T17:17:01.155041+00:00",
     "title": "Senior Engineering Manager",
     "url": "https://jobs.lever.co/shieldai/d618826d-1aff-4516-b02f-8276876061f7"
+  },
+  "lever:Shield AI:d61baa89-5f07-4853-a84c-67ec3c6669d3": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-17T14:01:35.080306+00:00",
+    "title": "Senior Director, Deal Strategy Execution (R6259)",
+    "url": "https://jobs.lever.co/shieldai/d61baa89-5f07-4853-a84c-67ec3c6669d3"
   },
   "lever:Shield AI:d65d8dd1-f1c3-478f-97de-e36ed846d539": {
     "company": "Shield AI",
@@ -191225,6 +191351,12 @@
     "title": "Retail Sales Consultant",
     "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Brooklyn-New-York/Retail-Sales-Consultant_R-125773"
   },
+  "workday:AT&T:R-125781": {
+    "company": "AT&T",
+    "first_seen": "2026-10-17T14:01:37.494210+00:00",
+    "title": "NMS ServiceNow Software Designer (IT SD 2) (Government)",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Chantilly-Virginia/NMS-ServiceNow-Software-Designer--IT-SD-2---Government-_R-125781"
+  },
   "workday:AT&T:R-125790": {
     "company": "AT&T",
     "first_seen": "2026-10-16T15:08:22.246697+00:00",
@@ -195947,6 +196079,12 @@
     "title": "Sales Capture Associate Director",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Midrand/Sales-Capture-Associate-Director_14712591"
   },
+  "workday:Accenture:14712698": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011220+00:00",
+    "title": "Solution Advisory Senior Manager - Finance RP",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/NY---New-York-City/Solution-Advisory-Senior-Manager---Finance-RP_14712698"
+  },
   "workday:Accenture:14713221": {
     "company": "Accenture",
     "first_seen": "2026-10-02T16:28:13.634342+00:00",
@@ -196714,6 +196852,12 @@
     "first_seen": "2026-10-05T19:29:20.721502+00:00",
     "title": "Senior Microsoft 365 Administrator",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Collaboration-and-Communication-Platform-Management-Techs--English---Spanish--Copy-01_14724429"
+  },
+  "workday:Accenture:14724626": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011238+00:00",
+    "title": "Java Tech Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Java-Tech-Lead_14724626-1"
   },
   "workday:Accenture:14724648": {
     "company": "Accenture",
@@ -197554,6 +197698,12 @@
     "first_seen": "2026-09-26T01:08:59.066057+00:00",
     "title": "QA Sales Senior Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Atlanta-3525-Piedmont-Rd-NE-ACN-Ops/QA-Sales-Senior-Analyst_14746076"
+  },
+  "workday:Accenture:14746081": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011299+00:00",
+    "title": "SOC Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Malaga-ID6---South-Building/SOC-Engineer_14746081"
   },
   "workday:Accenture:14746171": {
     "company": "Accenture",
@@ -198959,6 +199109,12 @@
     "title": "Agente de Compras - Procurement Processor (Portugues Deseable)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Agente-de-Compras---Procurement-Processor--Portugues-Deseable-_14783809"
   },
+  "workday:Accenture:14783860": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011234+00:00",
+    "title": "Especialista em Gest\u00e3o Ativa \u2013 Presencial \u2013 Ingl\u00eas Intermedi\u00e1rio.",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Minas-Gerais---Belo-Horizonte/Especialista-em-Gesto-Ativa---Presencial---Ingls-Intermedirio_14783860"
+  },
   "workday:Accenture:14784251": {
     "company": "Accenture",
     "first_seen": "2026-10-03T01:41:49.645019+00:00",
@@ -199793,6 +199949,12 @@
     "title": "Business Analyst 6541153",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Walnut-Creek-1255-Treat-Blvd-Corp/Business-Analyst-6541153_14824598"
   },
+  "workday:Accenture:14824693": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011242+00:00",
+    "title": "Desarrollador Javascript con conocimientos en APX.",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Desarrollador-Javascript-con-conocimientos-en-APX_14824693"
+  },
   "workday:Accenture:14826211": {
     "company": "Accenture",
     "first_seen": "2026-10-09T17:17:02.948915+00:00",
@@ -199871,6 +200033,12 @@
     "title": "Human Resources Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Human-Resources-Practitioner_14828446-1"
   },
+  "workday:Accenture:14828593": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011227+00:00",
+    "title": "Automation Control Practitioner 01 Copy 01",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Automation-Control-Practitioner-01-Copy-01_14828593"
+  },
   "workday:Accenture:14829004": {
     "company": "Accenture",
     "first_seen": "2026-10-09T17:17:02.949374+00:00",
@@ -199906,6 +200074,12 @@
     "first_seen": "2026-10-13T17:54:45.642577+00:00",
     "title": "Core Financials (PPM)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Core-Financials--PPM-_14830131"
+  },
+  "workday:Accenture:14830663": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011253+00:00",
+    "title": "Consultor S\u00eanior de Gest\u00e3o Estrat\u00e9gica de Fornecedores e Categorias - Ingl\u00eas Avan\u00e7ado (H\u00edbrido)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Consultor-Snior-de-Gesto-Estratgica-de-Fornecedores-e-Categorias---Ingls-Avanado--Hbrido-_14830663"
   },
   "workday:Accenture:14831714": {
     "company": "Accenture",
@@ -200015,11 +200189,41 @@
     "title": "Energy & Utilities Value Chain Transformation Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Energy---Utilities-Value-Chain-Transformation-Manager_14842548"
   },
+  "workday:Accenture:14844339": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011225+00:00",
+    "title": "Scrum Master",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Scrum-Master_14844339"
+  },
+  "workday:Accenture:14844657": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011414+00:00",
+    "title": "Change & Release specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/Change---Release-specialist_14844657"
+  },
+  "workday:Accenture:14848054": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011282+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon-Santos-37/Custom-Software-Engineering-Lead_14848054"
+  },
+  "workday:Accenture:14848201": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011259+00:00",
+    "title": "Cloud Platform Leader",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/Cloud-Platform-Leader_14848201"
+  },
   "workday:Accenture:14848331": {
     "company": "Accenture",
     "first_seen": "2026-10-16T00:59:06.111557+00:00",
     "title": "Desenvolvedor(a) S\u00eanior ServiceNow (CSM) - Ingl\u00eas avan\u00e7ado",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Desenvolvedor-a--Snior-ServiceNow--CSM----Ingls-avanado_14848331"
+  },
+  "workday:Accenture:14848749": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011249+00:00",
+    "title": "Onshore Transition Lead - Beaker 1 Copy 01",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Monterrey/Onshore-Transition-Lead---Beaker-1-Copy-01_14848749"
   },
   "workday:Accenture:AIOC-S01568847": {
     "company": "Accenture",
@@ -201856,6 +202060,12 @@
     "first_seen": "2026-09-26T01:08:59.066333+00:00",
     "title": "Learning Exp Design & Dev Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Learning-Exp-Design---Dev-Analyst_AIOC-S01653940-1"
+  },
+  "workday:Accenture:AIOC-S01653952": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011296+00:00",
+    "title": "Bus & Technology Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Bus---Technology-Delivery-Analyst_AIOC-S01653952-1"
   },
   "workday:Accenture:AIOC-S01653980": {
     "company": "Accenture",
@@ -235097,11 +235307,71 @@
     "title": "HR Service Delivery Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Associate_AIOC-S01670858-1"
   },
+  "workday:Accenture:AIOC-S01670859": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011408+00:00",
+    "title": "Learning Exp Design & Dev Assoc Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Learning-Exp-Design---Dev-Assoc-Manager_AIOC-S01670859-1"
+  },
+  "workday:Accenture:AIOC-S01670860": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011399+00:00",
+    "title": "HR Service Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Associate_AIOC-S01670860-1"
+  },
+  "workday:Accenture:AIOC-S01670861": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011401+00:00",
+    "title": "HR Service Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Associate_AIOC-S01670861-1"
+  },
+  "workday:Accenture:AIOC-S01670862": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011403+00:00",
+    "title": "HR Service Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Associate_AIOC-S01670862-1"
+  },
+  "workday:Accenture:AIOC-S01670863": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011405+00:00",
+    "title": "HR Service Delivery Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/HR-Service-Delivery-Associate_AIOC-S01670863-1"
+  },
+  "workday:Accenture:AIOC-S01670864": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011412+00:00",
+    "title": "Learning Exp Design & Dev Specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Learning-Exp-Design---Dev-Specialist_AIOC-S01670864-1"
+  },
+  "workday:Accenture:AIOC-S01670865": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011410+00:00",
+    "title": "Learning Exp Design & Dev Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Learning-Exp-Design---Dev-Senior-Analyst_AIOC-S01670865-1"
+  },
+  "workday:Accenture:AIOC-S01670866": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011289+00:00",
+    "title": "Trust & Safety Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Trust---Safety-Senior-Analyst_AIOC-S01670866-1"
+  },
   "workday:Accenture:AIOC-S01670867": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707424+00:00",
     "title": "Procure to Pay Operations Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Procure-to-Pay-Operations-Associate_AIOC-S01670867-1"
+  },
+  "workday:Accenture:AIOC-S01670868": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011285+00:00",
+    "title": "Business Advisory Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01670868-1"
+  },
+  "workday:Accenture:AIOC-S01670869": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011287+00:00",
+    "title": "Business Advisory Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Business-Advisory-Analyst_AIOC-S01670869-1"
   },
   "workday:Accenture:AIOC-S01670870": {
     "company": "Accenture",
@@ -237502,6 +237772,12 @@
     "first_seen": "2026-09-09T15:00:11.983386+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Application-Developer_ATCI-5064551-S1890693-1"
+  },
+  "workday:Accenture:ATCI-5066207-S1880830": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011443+00:00",
+    "title": "Operations Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Operations-Engineer_ATCI-5066207-S1880830-1"
   },
   "workday:Accenture:ATCI-5066867-S1875089": {
     "company": "Accenture",
@@ -244313,6 +244589,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5285804-S1934456"
   },
+  "workday:Accenture:ATCI-5285808-S1931305": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011457+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5285808-S1931305-1"
+  },
   "workday:Accenture:ATCI-5285816-S1931296": {
     "company": "Accenture",
     "first_seen": "2026-09-30T16:38:18.874000+00:00",
@@ -248903,6 +249185,12 @@
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5355335-S1954577-1"
   },
+  "workday:Accenture:ATCI-5355338-S1954564": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011217+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5355338-S1954564-1"
+  },
   "workday:Accenture:ATCI-5355518-S1952539": {
     "company": "Accenture",
     "first_seen": "2026-09-20T00:36:33.185564+00:00",
@@ -250529,6 +250817,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5396543-S1961720-1"
   },
+  "workday:Accenture:ATCI-5396546-S1961663": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011453+00:00",
+    "title": "AI Native Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5396546-S1961663-1"
+  },
   "workday:Accenture:ATCI-5396547-S1961658": {
     "company": "Accenture",
     "first_seen": "2026-09-21T00:48:22.703068+00:00",
@@ -250654,6 +250948,12 @@
     "first_seen": "2026-09-21T16:45:35.043109+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5396781-S1961598-1"
+  },
+  "workday:Accenture:ATCI-5396782-S1961583": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011455+00:00",
+    "title": "AI Native Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5396782-S1961583-1"
   },
   "workday:Accenture:ATCI-5396784-S1961582": {
     "company": "Accenture",
@@ -252743,6 +253043,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5428678-S1983106-1"
   },
+  "workday:Accenture:ATCI-5428834-S1985268": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011382+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5428834-S1985268-1"
+  },
   "workday:Accenture:ATCI-5428995-S1983160": {
     "company": "Accenture",
     "first_seen": "2026-09-28T18:23:02.798040+00:00",
@@ -253919,6 +254225,12 @@
     "title": "AI Native Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436553-S1978068-1"
   },
+  "workday:Accenture:ATCI-5436559-S1978185": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011447+00:00",
+    "title": "AI Native Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5436559-S1978185-1"
+  },
   "workday:Accenture:ATCI-5436560-S1978325": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707833+00:00",
@@ -254896,6 +255208,18 @@
     "first_seen": "2026-10-16T15:08:21.707900+00:00",
     "title": "AI Native Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5438509-S1980519-1"
+  },
+  "workday:Accenture:ATCI-5438511-S1980264": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011449+00:00",
+    "title": "AI Native Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5438511-S1980264-1"
+  },
+  "workday:Accenture:ATCI-5438616-S1980344": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011451+00:00",
+    "title": "AI Native Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5438616-S1980344-1"
   },
   "workday:Accenture:ATCI-5438617-S1980158": {
     "company": "Accenture",
@@ -257015,6 +257339,18 @@
     "title": "Cloud Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5456904-S2027296"
   },
+  "workday:Accenture:ATCI-5456906-S2009646": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011420+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Cloud-Migration-Engineer_ATCI-5456906-S2009646-1"
+  },
+  "workday:Accenture:ATCI-5456910-S2009710": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011422+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5456910-S2009710-1"
+  },
   "workday:Accenture:ATCI-5456913-S2009707": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.137169+00:00",
@@ -257164,6 +257500,12 @@
     "first_seen": "2026-09-04T14:43:53.076525+00:00",
     "title": "",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"
+  },
+  "workday:Accenture:ATCI-5464606-S1994876": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011384+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5464606-S1994876-1"
   },
   "workday:Accenture:ATCI-5464678-S1993630": {
     "company": "Accenture",
@@ -257825,6 +258167,12 @@
     "title": "Data Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Data-Platform-Engineer_ATCI-5475753-S2013863-1"
   },
+  "workday:Accenture:ATCI-5475807-S2002008": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011429+00:00",
+    "title": "Cloud Operations Administrator",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Operations-Administrator_ATCI-5475807-S2002008-1"
+  },
   "workday:Accenture:ATCI-5475993-S2014263": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476756+00:00",
@@ -258478,6 +258826,12 @@
     "first_seen": "2026-10-08T17:41:45.774077+00:00",
     "title": "Business Process Designer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Business-Process-Designer_ATCI-5481449-S2003029-1"
+  },
+  "workday:Accenture:ATCI-5481553-S2002007": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011437+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5481553-S2002007-1"
   },
   "workday:Accenture:ATCI-5481705-S2061169": {
     "company": "Accenture",
@@ -260747,6 +261101,12 @@
     "title": "Solution Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Solution-Architect_ATCI-5513964-S2023823-1"
   },
+  "workday:Accenture:ATCI-5514027-S2027241": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011431+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5514027-S2027241-1"
+  },
   "workday:Accenture:ATCI-5514589-S2024622": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627681+00:00",
@@ -262216,6 +262576,12 @@
     "first_seen": "2026-09-03T00:55:52.718768+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5542608-S2021404-1"
+  },
+  "workday:Accenture:ATCI-5542656-S2021419": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011433+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5542656-S2021419-1"
   },
   "workday:Accenture:ATCI-5542842-S2026779": {
     "company": "Accenture",
@@ -263867,6 +264233,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5558063-S2024086-1"
   },
+  "workday:Accenture:ATCI-5558066-S2024084": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011386+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5558066-S2024084-1"
+  },
   "workday:Accenture:ATCI-5558082-S2024077": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510751+00:00",
@@ -265343,6 +265715,12 @@
     "title": "Cloud Migration Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5594380-S2027294-1"
   },
+  "workday:Accenture:ATCI-5594381-S2027290": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011441+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5594381-S2027290-1"
+  },
   "workday:Accenture:ATCI-5594387-S2027313": {
     "company": "Accenture",
     "first_seen": "2026-09-02T14:54:55.758430+00:00",
@@ -265858,6 +266236,12 @@
     "first_seen": "2026-09-10T14:44:47.624115+00:00",
     "title": "Large Language Model Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Large-Language-Model-Architect_ATCI-5608656-S2026882-1"
+  },
+  "workday:Accenture:ATCI-5608723-S2027624": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011435+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5608723-S2027624-1"
   },
   "workday:Accenture:ATCI-5608746-S2026771": {
     "company": "Accenture",
@@ -266903,6 +267287,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5618452-S2056430-1"
   },
+  "workday:Accenture:ATCI-5618463-S2056434": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011389+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5618463-S2056434-1"
+  },
   "workday:Accenture:ATCI-5618536-S2029518": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627250+00:00",
@@ -267659,6 +268049,12 @@
     "title": "Data Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Engineer_ATCI-5622692-S2055713-1"
   },
+  "workday:Accenture:ATCI-5622743-S2029654": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011390+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Cloud-Platform-Engineer_ATCI-5622743-S2029654-1"
+  },
   "workday:Accenture:ATCI-5622752-S2031389": {
     "company": "Accenture",
     "first_seen": "2026-08-31T17:48:57.092593+00:00",
@@ -268108,6 +268504,12 @@
     "first_seen": "2026-09-15T15:25:50.351777+00:00",
     "title": "Packaged/SaaS App Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5624054-S2032056-1"
+  },
+  "workday:Accenture:ATCI-5624056-S2031549": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011445+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5624056-S2031549-1"
   },
   "workday:Accenture:ATCI-5624110-S2063474": {
     "company": "Accenture",
@@ -268876,6 +269278,18 @@
     "first_seen": "2026-08-28T14:14:10.508710+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Transition-Lead_ATCI-5628245-S2031058-1"
+  },
+  "workday:Accenture:ATCI-5628248-S2033989": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011425+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5628248-S2033989-1"
+  },
+  "workday:Accenture:ATCI-5628250-S2033984": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011427+00:00",
+    "title": "Cloud Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5628250-S2033984-1"
   },
   "workday:Accenture:ATCI-5628290-S2029828": {
     "company": "Accenture",
@@ -269945,6 +270359,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5635541-S2034010"
   },
+  "workday:Accenture:ATCI-5635542-S2034012": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011418+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5635542-S2034012-1"
+  },
   "workday:Accenture:ATCI-5635744-S2034559": {
     "company": "Accenture",
     "first_seen": "2026-09-21T16:45:35.043962+00:00",
@@ -270466,6 +270886,12 @@
     "first_seen": "2026-09-04T14:43:53.075689+00:00",
     "title": "Database Administrator",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Application-Support-Engineer_ATCI-5639192-S2032090"
+  },
+  "workday:Accenture:ATCI-5639203-S2032087": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011251+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5639203-S2032087-1"
   },
   "workday:Accenture:ATCI-5639210-S2032079": {
     "company": "Accenture",
@@ -276641,6 +277067,12 @@
     "title": "Technology Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Technology-Support-Engineer_ATCI-5691138-S2059582-1"
   },
+  "workday:Accenture:ATCI-5691155-S2059578": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011439+00:00",
+    "title": "Technology Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5691155-S2059578-1"
+  },
   "workday:Accenture:ATCI-5691162-S2068478": {
     "company": "Accenture",
     "first_seen": "2026-09-22T15:22:33.222989+00:00",
@@ -279022,6 +279454,12 @@
     "first_seen": "2026-09-10T14:44:47.624013+00:00",
     "title": "Packaged/SaaS App Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-App-Engineering-Lead_ATCI-5698979-S2061193-1"
+  },
+  "workday:Accenture:ATCI-5698992-S2061380": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011300+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5698992-S2061380-1"
   },
   "workday:Accenture:ATCI-5699010-S2061192": {
     "company": "Accenture",
@@ -281422,6 +281860,12 @@
     "first_seen": "2026-09-21T00:48:22.702878+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5708190-S2063810-1"
+  },
+  "workday:Accenture:ATCI-5708282-S2072369": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011340+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5708282-S2072369-1"
   },
   "workday:Accenture:ATCI-5708288-S2067637": {
     "company": "Accenture",
@@ -293273,11 +293717,41 @@
     "title": "Inside Sales Representative",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Inside-Sales-Representative_ATCI-5763490-S2067701-1"
   },
+  "workday:Accenture:ATCI-5763832-S2072389": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011329+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763832-S2072389-1"
+  },
+  "workday:Accenture:ATCI-5763833-S2072380": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011331+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763833-S2072380-1"
+  },
+  "workday:Accenture:ATCI-5763834-S2072384": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011332+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763834-S2072384-1"
+  },
   "workday:Accenture:ATCI-5763835-S2072390": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707449+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763835-S2072390-1"
+  },
+  "workday:Accenture:ATCI-5763836-S2072381": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011334+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763836-S2072381"
+  },
+  "workday:Accenture:ATCI-5763837-S2072386": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011336+00:00",
+    "title": "Packaged/SaaS Application Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5763837-S2072386-1"
   },
   "workday:Accenture:ATCI-5763876-S2068690": {
     "company": "Accenture",
@@ -295379,6 +295853,18 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5769629-S2068813-1"
   },
+  "workday:Accenture:ATCI-5769679-S2072427": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011393+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5769679-S2072427-1"
+  },
+  "workday:Accenture:ATCI-5769680-S2072426": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011395+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5769680-S2072426-1"
+  },
   "workday:Accenture:ATCI-5769697-S2068901": {
     "company": "Accenture",
     "first_seen": "2026-09-12T13:50:21.650725+00:00",
@@ -296626,6 +297112,12 @@
     "first_seen": "2026-09-15T15:25:50.351559+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5773917-S2069561-1"
+  },
+  "workday:Accenture:ATCI-5773918-S2072388": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011308+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5773918-S2072388"
   },
   "workday:Accenture:ATCI-5773921-S2069556": {
     "company": "Accenture",
@@ -298097,6 +298589,18 @@
     "title": "Technology Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Technology-Architect_ATCI-5778949-S2069594-1"
   },
+  "workday:Accenture:ATCI-5778974-S2072385": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011323+00:00",
+    "title": "Packaged/SaaS App Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5778974-S2072385-1"
+  },
+  "workday:Accenture:ATCI-5778975-S2072393": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011325+00:00",
+    "title": "Packaged/SaaS App Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5778975-S2072393-1"
+  },
   "workday:Accenture:ATCI-5778976-S2072392": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707446+00:00",
@@ -298199,6 +298703,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5779156-S2070466-1"
   },
+  "workday:Accenture:ATCI-5779161-S2072424": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011397+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5779161-S2072424-1"
+  },
   "workday:Accenture:ATCI-5779165-S2069949": {
     "company": "Accenture",
     "first_seen": "2026-09-17T15:25:17.510567+00:00",
@@ -298282,6 +298792,24 @@
     "first_seen": "2026-10-01T17:15:06.261832+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5779385-S2070792-1"
+  },
+  "workday:Accenture:ATCI-5779520-S2072415": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011345+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5779520-S2072415-1"
+  },
+  "workday:Accenture:ATCI-5779539-S2072414": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011374+00:00",
+    "title": "Quality Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Coimbatore/Quality-Engineer_ATCI-5779539-S2072414-1"
+  },
+  "workday:Accenture:ATCI-5779557-S2072413": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011376+00:00",
+    "title": "Quality Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5779557-S2072413"
   },
   "workday:Accenture:ATCI-5779611-S2070460": {
     "company": "Accenture",
@@ -299261,6 +299789,12 @@
     "title": "Enterprise Platform Advisor",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Enterprise-Platform-Advisor_ATCI-5782585-S2070593-1"
   },
+  "workday:Accenture:ATCI-5782606-S2072422": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011343+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-5782606-S2072422-1"
+  },
   "workday:Accenture:ATCI-5782647-S2070487": {
     "company": "Accenture",
     "first_seen": "2026-10-02T01:57:22.188142+00:00",
@@ -299344,6 +299878,12 @@
     "first_seen": "2026-09-23T15:16:23.568543+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5782704-S2070475-1"
+  },
+  "workday:Accenture:ATCI-5782719-S2072370": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011347+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5782719-S2072370-1"
   },
   "workday:Accenture:ATCI-5782859-S2070497": {
     "company": "Accenture",
@@ -299897,6 +300437,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5785893-S2071038-1"
   },
+  "workday:Accenture:ATCI-5785914-S2072371": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011349+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5785914-S2072371"
+  },
   "workday:Accenture:ATCI-5785915-S2072372": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707455+00:00",
@@ -300263,11 +300809,29 @@
     "title": "Banking Processor",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Banking-Processor_ATCI-5788380-S2071209-1"
   },
+  "workday:Accenture:ATCI-5788418-S2072398": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011318+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5788418-S2072398-1"
+  },
+  "workday:Accenture:ATCI-5788419-S2072399": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011371+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5788419-S2072399"
+  },
   "workday:Accenture:ATCI-5788420-S2072400": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707442+00:00",
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Full-Stack-Engineer_ATCI-5788420-S2072400-1"
+  },
+  "workday:Accenture:ATCI-5788448-S2072401": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011338+00:00",
+    "title": "Technology Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Technology-Architect_ATCI-5788448-S2072401-1"
   },
   "workday:Accenture:ATCI-5788563-S2071713": {
     "company": "Accenture",
@@ -300292,6 +300856,12 @@
     "first_seen": "2026-10-15T15:28:36.152699+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5788566-S2071708-1"
+  },
+  "workday:Accenture:ATCI-5788621-S2072383": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011327+00:00",
+    "title": "Packaged/SaaS App Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-App-Engineering-Lead_ATCI-5788621-S2072383-1"
   },
   "workday:Accenture:ATCI-5788631-S2070814": {
     "company": "Accenture",
@@ -300557,6 +301127,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5790337-S2071030-1"
   },
+  "workday:Accenture:ATCI-5790535-S2072409": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011351+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5790535-S2072409-1"
+  },
   "workday:Accenture:ATCI-5790539-S2070596": {
     "company": "Accenture",
     "first_seen": "2026-09-25T01:07:26.920633+00:00",
@@ -300593,11 +301169,23 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5790885-S2071520-1"
   },
+  "workday:Accenture:ATCI-5790924-S2072391": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011320+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5790924-S2072391-1"
+  },
   "workday:Accenture:ATCI-5790925-S2072382": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707444+00:00",
     "title": "Full Stack Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5790925-S2072382-1"
+  },
+  "workday:Accenture:ATCI-5790926-S2072387": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011322+00:00",
+    "title": "Full Stack Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Full-Stack-Engineer_ATCI-5790926-S2072387-1"
   },
   "workday:Accenture:ATCI-5791484-S2071962": {
     "company": "Accenture",
@@ -300742,6 +301330,12 @@
     "first_seen": "2026-10-15T15:28:36.151929+00:00",
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5792453-S2072191-1"
+  },
+  "workday:Accenture:ATCI-5792464-S2072408": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011353+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5792464-S2072408-1"
   },
   "workday:Accenture:ATCI-5792531-S2071442": {
     "company": "Accenture",
@@ -301277,6 +301871,12 @@
     "title": "Technology Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Technology-Platform-Engineer_ATCI-5810063-S2071325-1"
   },
+  "workday:Accenture:ATCI-5810291-S2072397": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011306+00:00",
+    "title": "Application Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Lead_ATCI-5810291-S2072397-1"
+  },
   "workday:Accenture:ATCI-5810314-S2071227": {
     "company": "Accenture",
     "first_seen": "2026-10-07T17:39:20.191337+00:00",
@@ -301493,6 +302093,30 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5811519-S2072376-1"
   },
+  "workday:Accenture:ATCI-5811534-S2072375": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011311+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5811534-S2072375-1"
+  },
+  "workday:Accenture:ATCI-5811535-S2072377": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011313+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5811535-S2072377-1"
+  },
+  "workday:Accenture:ATCI-5811624-S2072373": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011370+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5811624-S2072373-1"
+  },
+  "workday:Accenture:ATCI-5811625-S2072378": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011315+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5811625-S2072378-1"
+  },
   "workday:Accenture:ATCI-5811626-S2072374": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707440+00:00",
@@ -301691,11 +302315,23 @@
     "title": "Quality Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Quality-Engineer_ATCI-5814687-S2071248-1"
   },
+  "workday:Accenture:ATCI-5814882-S2072395": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011309+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814882-S2072395-1"
+  },
   "workday:Accenture:ATCI-5814884-S2072396": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707436+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814884-S2072396-1"
+  },
+  "workday:Accenture:ATCI-5815160-S2072423": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011378+00:00",
+    "title": "Quality Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Quality-Engineer_ATCI-5815160-S2072423-1"
   },
   "workday:Accenture:ATCI-5815248-S2071900": {
     "company": "Accenture",
@@ -301715,6 +302351,12 @@
     "title": "Custom Software Engineering Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5815304-S2071344-1"
   },
+  "workday:Accenture:ATCI-5815316-S2072419": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011355+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5815316-S2072419-1"
+  },
   "workday:Accenture:ATCI-5815317-S2072418": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707458+00:00",
@@ -301732,6 +302374,12 @@
     "first_seen": "2026-10-09T17:17:02.949496+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Packaged-SaaS-Application-Engineer_ATCI-5815328-S2071345-1"
+  },
+  "workday:Accenture:ATCI-5815334-S2072420": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011357+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5815334-S2072420-1"
   },
   "workday:Accenture:ATCI-5815428-S2071347": {
     "company": "Accenture",
@@ -301757,6 +302405,30 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Application-Support-Engineer_ATCI-5815577-S2071899-1"
   },
+  "workday:Accenture:ATCI-5815759-S2072404": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011358+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5815759-S2072404-1"
+  },
+  "workday:Accenture:ATCI-5815760-S2072405": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011360+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5815760-S2072405-1"
+  },
+  "workday:Accenture:ATCI-5815761-S2072406": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011362+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5815761-S2072406-1"
+  },
+  "workday:Accenture:ATCI-5815762-S2072403": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011363+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5815762-S2072403-1"
+  },
   "workday:Accenture:ATCI-5815939-S2071349": {
     "company": "Accenture",
     "first_seen": "2026-10-09T17:17:02.949491+00:00",
@@ -301768,6 +302440,12 @@
     "first_seen": "2026-10-09T17:17:02.949497+00:00",
     "title": "Packaged/SaaS Application Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Packaged-SaaS-Application-Engineer_ATCI-5815943-S2071350-1"
+  },
+  "workday:Accenture:ATCI-5815951-S2072394": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011316+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5815951-S2072394-1"
   },
   "workday:Accenture:ATCI-5815970-S2071756": {
     "company": "Accenture",
@@ -301906,6 +302584,12 @@
     "first_seen": "2026-10-15T15:28:36.152801+00:00",
     "title": "Scrum Master",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Scrum-Master_ATCI-5816264-S2071785-1"
+  },
+  "workday:Accenture:ATCI-5816280-S2072412": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011380+00:00",
+    "title": "Test Automation Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Test-Automation-Engineer_ATCI-5816280-S2072412-1"
   },
   "workday:Accenture:ATCI-5816282-S2071795": {
     "company": "Accenture",
@@ -302321,6 +303005,12 @@
     "title": "Application Developer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Application-Developer_ATCI-5818115-S2072013-1"
   },
+  "workday:Accenture:ATCI-5818437-S2072410": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011366+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5818437-S2072410-1"
+  },
   "workday:Accenture:ATCI-5818452-S2072411": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707462+00:00",
@@ -302332,6 +303022,12 @@
     "first_seen": "2026-10-16T15:08:21.707465+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5818477-S2072417-1"
+  },
+  "workday:Accenture:ATCI-5818855-S2072416": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011368+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5818855-S2072416-1"
   },
   "workday:Accenture:ATCI-5819207-S2072134": {
     "company": "Accenture",
@@ -307589,6 +308285,12 @@
     "title": "SAP SuccessFactors Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/SAP-SuccessFactors-Consultant_R00256771"
   },
+  "workday:Accenture:R00256779": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011279+00:00",
+    "title": "Cyber Risk Analyst/Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/CFO---Cyber-Risk-Consultant-Manager--She-He-They----ICH-Europe_R00256779"
+  },
   "workday:Accenture:R00256934": {
     "company": "Accenture",
     "first_seen": "2026-08-28T14:14:10.508279+00:00",
@@ -308297,6 +308999,12 @@
     "title": "DIXCOVER_Programa de Pr\u00e1cticas Universitarias",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Programa-de-Prcticas-DIXCOVER-Technology-Madrid_R00283720"
   },
+  "workday:Accenture:R00284510": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011263+00:00",
+    "title": "Strategy & Consulting | Enterprise Architecture Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Strategy---Consulting---Enterprise-Architecture-Consultant_R00284510"
+  },
   "workday:Accenture:R00284545": {
     "company": "Accenture",
     "first_seen": "2026-10-12T20:05:31.881367+00:00",
@@ -308440,6 +309148,12 @@
     "first_seen": "2026-10-16T15:08:21.707371+00:00",
     "title": "#ACN I&P GN - GN - SONG - MT - Adobe CDP - Senior Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/XMLNAME--ACN-GN---Song---Service---Banking---Senior-Manager_R00286577"
+  },
+  "workday:Accenture:R00286582": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011284+00:00",
+    "title": "#ACN I&P GN - SONG - MT - Adobe MarTech AI - Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/XMLNAME--ACN-GN---SONG---Service---Google-Gen-AI---Senior-Manager_R00286582"
   },
   "workday:Accenture:R00286584": {
     "company": "Accenture",
@@ -310085,6 +310799,12 @@
     "title": "Manager SAP FI CO - H/F",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Vitrolles-Cap-Horizon/Manager-SAP-FI-CO---H-F_R00307257"
   },
+  "workday:Accenture:R00307278": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011276+00:00",
+    "title": "Data & Analytics Consultant / Analyst for the Resources Industry",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Data---Analytics-Consultant---Analyst-for-the-Resources-Industry---ICH-Europe_R00307278"
+  },
   "workday:Accenture:R00307291": {
     "company": "Accenture",
     "first_seen": "2026-09-25T01:07:26.920563+00:00",
@@ -311308,6 +312028,12 @@
     "first_seen": "2026-09-12T13:50:21.650637+00:00",
     "title": "GenAI Engineering Internship Program (She/He/They)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/GenAI-Engineering-Internship-Program--She-He-They-_R00319522"
+  },
+  "workday:Accenture:R00319662": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011272+00:00",
+    "title": "Resources Industry Consultant with AI",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Resources-Industry-Consultant-with-AI---ICH-Europe_R00319662"
   },
   "workday:Accenture:R00319784": {
     "company": "Accenture",
@@ -314183,6 +314909,12 @@
     "title": "Analytics and Modeling - Specialist Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Analytics-and-Modeling-Associate-Manager_R00337422"
   },
+  "workday:Accenture:R00337464": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011277+00:00",
+    "title": "Credit Risk Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Credit-Risk-Consultant_R00337464"
+  },
   "workday:Accenture:R00337498": {
     "company": "Accenture",
     "first_seen": "2026-09-10T00:47:19.103495+00:00",
@@ -315238,6 +315970,12 @@
     "first_seen": "2026-10-09T17:17:02.948649+00:00",
     "title": "Manager Core Bancario: Excelencia Operacional y Transformaci\u00f3n Digital",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Consultor-Senior-de-Excelencia-Operacional-y-Transformacin-Digital_R00341499"
+  },
+  "workday:Accenture:R00341559": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011240+00:00",
+    "title": "Gen AI Transformation Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Gen-AI-Transformation-Senior-Consultant_R00341559"
   },
   "workday:Accenture:R00341562": {
     "company": "Accenture",
@@ -321089,6 +321827,12 @@
     "title": "Next Gen Robotics Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Next-Gen-Robotics-Engineer_R00351869"
   },
+  "workday:Accenture:R00351886": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011230+00:00",
+    "title": "",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"
+  },
   "workday:Accenture:R00351891": {
     "company": "Accenture",
     "first_seen": "2026-09-28T18:23:02.797549+00:00",
@@ -324323,6 +325067,12 @@
     "title": "AI Forward Deployed Technology Senior Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mississauga-1-City-Centre-DCN/AI-Forward-Deployed-Technology-Senior-Manager_R00354710"
   },
+  "workday:Accenture:R00354712": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011232+00:00",
+    "title": "Cyber Intelligence Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Cyber-Intelligence-Manager--Americas_R00354712"
+  },
   "workday:Accenture:R00354714": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627015+00:00",
@@ -326470,6 +327220,12 @@
     "first_seen": "2026-09-14T16:45:35.247265+00:00",
     "title": "Strategy Consultant \u2013 AI, Data & GenAI",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Strategy-Consultant---AI--Data---GenAI_R00356711"
+  },
+  "workday:Accenture:R00356723": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011267+00:00",
+    "title": "Business Insights & Analytics - Data Analytics",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires-Parque-Patricios/Business-Insights---Analytics---Data-Analytics_R00356723"
   },
   "workday:Accenture:R00356725": {
     "company": "Accenture",
@@ -330815,6 +331571,12 @@
     "title": "Sourcing & Procurement Management Consultant - NASPFY26",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Arlington-1201-Wilson-Corp/Sourcing---Procurement-Management-Consultant---NASPFY26_R00359336"
   },
+  "workday:Accenture:R00359338": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011261+00:00",
+    "title": "Walmart Ecosystem Professional Seller",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bentonville-805-S-Walton-Blvd-Corp/Walmart-Ecosystem-Professional-Seller_R00359338"
+  },
   "workday:Accenture:R00359340": {
     "company": "Accenture",
     "first_seen": "2026-09-25T01:07:26.920526+00:00",
@@ -331924,6 +332686,12 @@
     "first_seen": "2026-09-28T18:23:02.797152+00:00",
     "title": "Collections Officer with Spanish",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Collections-Officer-with-Spanish_R00360401"
+  },
+  "workday:Accenture:R00360403": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011268+00:00",
+    "title": "Delivery Lead Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Delivery-Lead-Manager_R00360403"
   },
   "workday:Accenture:R00360405": {
     "company": "Accenture",
@@ -333353,6 +334121,12 @@
     "title": "Finance Reinvention \u2013 Financial Services Manager, EPM",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Finance-Reinvention---Financial-Services-Manager--EPM_R00361349-1"
   },
+  "workday:Accenture:R00361363": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011292+00:00",
+    "title": "Finance Reinvention \u2013 Financial Services Consultant, EPM",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Finance-Reinvention---Financial-Services-Consultant--EPM_R00361363-1"
+  },
   "workday:Accenture:R00361369": {
     "company": "Accenture",
     "first_seen": "2026-10-02T16:28:13.634440+00:00",
@@ -333839,6 +334613,12 @@
     "title": "Senior Design Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-120-Wall-Street-Song/Senior-Design-Lead_R00361726"
   },
+  "workday:Accenture:R00361731": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011304+00:00",
+    "title": "Designer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-120-Wall-Street-Song/Designer_R00361731"
+  },
   "workday:Accenture:R00361738": {
     "company": "Accenture",
     "first_seen": "2026-10-03T01:41:49.645028+00:00",
@@ -334300,6 +335080,12 @@
     "first_seen": "2026-10-06T17:02:13.266909+00:00",
     "title": "Accenture Strategy Summer Analyst - May to Aug 2027",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198"
+  },
+  "workday:Accenture:R00362234": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011199+00:00",
+    "title": "Experience Transformation Senior Manager to our team in Stockholm",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Experience-Transformation-Senior-Manager-to-our-team-in-Copenhagen_R00362234"
   },
   "workday:Accenture:R00362235": {
     "company": "Accenture",
@@ -334835,6 +335621,12 @@
     "title": "Enterprise Value Architect - CR",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Belen-La-Ribera/Enterprise-Value-Architect---CR_R00362740"
   },
+  "workday:Accenture:R00362744": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011255+00:00",
+    "title": "Technology Resources Thesis Internship",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Technology-Resources-Thesis-Internship_R00362744"
+  },
   "workday:Accenture:R00362747": {
     "company": "Accenture",
     "first_seen": "2026-10-12T20:05:31.881448+00:00",
@@ -334882,6 +335674,12 @@
     "first_seen": "2026-10-07T17:39:20.190989+00:00",
     "title": "Consultant Commercial & Project Finance Management (all genders)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Berlin/Consultant-Commercial---Project-Finance-Management--all-genders-_R00362789"
+  },
+  "workday:Accenture:R00362809": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011416+00:00",
+    "title": "Sales Capture A.Director  Finance Transformation / GBS & GCC",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Sales-Capture-ADirector--Finance-Transformation---GBS---GCC_R00362809"
   },
   "workday:Accenture:R00362824": {
     "company": "Accenture",
@@ -335704,6 +336502,12 @@
     "first_seen": "2026-10-09T17:17:02.948651+00:00",
     "title": "Project Management Sr. Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Project-Management-Sr-Analyst_R00363572"
+  },
+  "workday:Accenture:R00363575": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011291+00:00",
+    "title": "Assessor Comercial Digital - Analista Pleno",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Assessor-Comercial-Digital---Analista-Pleno_R00363575"
   },
   "workday:Accenture:R00363577": {
     "company": "Accenture",
@@ -336779,6 +337583,12 @@
     "title": "Technology Delivery Lead - Energy",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Boston-888-Boylston-Corp/Technology-Delivery-Lead---Energy_R00364764"
   },
+  "workday:Accenture:R00364803": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011257+00:00",
+    "title": "High Tech Consulting Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/High-Tech-Consulting-Manager_R00364803"
+  },
   "workday:Accenture:R00364810": {
     "company": "Accenture",
     "first_seen": "2026-10-16T00:59:06.111512+00:00",
@@ -336815,6 +337625,12 @@
     "title": "Specific Process",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Specific-Process_R00364901"
   },
+  "workday:Accenture:R00364920": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011294+00:00",
+    "title": "AI Infrastructure Architect - Infrastructure & Capital Projects Engineering (All Genders)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kronberg-Campus-Kronberg-1/AI-Infrastructure-Architect---Infrastructure---Capital-Projects-Engineering--All-Genders-_R00364920"
+  },
   "workday:Accenture:R00364924": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707816+00:00",
@@ -336826,6 +337642,12 @@
     "first_seen": "2026-10-16T15:08:21.707502+00:00",
     "title": "Electrical Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Perth/Electrical-Engineer_R00364932"
+  },
+  "workday:Accenture:R00364956": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011302+00:00",
+    "title": "Wealth Platforms Analyst \u2013 Junior QA Engineer (She/He/They)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Wealth-Platforms-Analyst---Junior-QA-Engineer--She-He-They-_R00364956"
   },
   "workday:Accenture:R00364969": {
     "company": "Accenture",
@@ -336850,6 +337672,48 @@
     "first_seen": "2026-10-16T15:08:21.707353+00:00",
     "title": "Record to Report Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Record-to-Report-Analyst_R00365030"
+  },
+  "workday:Accenture:R00365041": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011274+00:00",
+    "title": "Supply Chain & Procurement Thesis Internship",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Supply-Chain---Procurement-Thesis-Internship_R00365041"
+  },
+  "workday:Accenture:R00365046": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011270+00:00",
+    "title": "Consultant Sales Commercial PRD (Products Industry)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Consultant-Sales-Commercial-PRD--Products-Industry-_R00365046"
+  },
+  "workday:Accenture:R00365048": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011265+00:00",
+    "title": "Sales Capture A.Director Finance Transformation / GBS & GCC",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid-Castellana-85/Sales-Capture-ADirector-Finance-Transformation---GBS---GCC_R00365048"
+  },
+  "workday:Accenture:R00365062": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011246+00:00",
+    "title": "Especialista Contable (RTR)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Especialista-Contable--RTR-_R00365062"
+  },
+  "workday:Accenture:R00365069": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011244+00:00",
+    "title": "Lider HSE",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Lider-HSE_R00365069"
+  },
+  "workday:Accenture:R00365082": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011236+00:00",
+    "title": "T\u00e9cnicos en Tecnolog\u00edas On Board - Calama",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Tcnicos-en-Tecnologas-On-Board---Calama_R00365082"
+  },
+  "workday:Accenture:R00365103": {
+    "company": "Accenture",
+    "first_seen": "2026-10-17T14:01:37.011223+00:00",
+    "title": "Network Operations Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Network-Operations-Lead_R00365103"
   },
   "workday:Accenture:R92174": {
     "company": "Accenture",
@@ -352961,6 +353825,12 @@
     "title": "Aircraft Painter",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Aircraft-Painter_JR2026527113-1"
   },
+  "workday:Boeing:JR2026527171": {
+    "company": "Boeing",
+    "first_seen": "2026-10-17T14:01:34.366672+00:00",
+    "title": "Transportation Analyst",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Seattle-WA/Transportation-Analyst_JR2026527171-1"
+  },
   "workday:Capital One:R1000000": {
     "company": "Capital One",
     "first_seen": "2026-09-04T14:43:50.059482+00:00",
@@ -363220,6 +364090,12 @@
     "first_seen": "2026-10-17T00:59:49.654559+00:00",
     "title": "Lead Operations Certification & Support Consultant",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Farnborough-GBR/Lead-Operations-Certification---Support-Consultant_R1003871-1"
+  },
+  "workday:Capital One:R1003876": {
+    "company": "Capital One",
+    "first_seen": "2026-10-17T14:01:34.393989+00:00",
+    "title": "Senior Manager, Risk Management - International and Access Risk",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Risk-Management---International-and-Access-Risk_R1003876-1"
   },
   "workday:Capital One:R1003878": {
     "company": "Capital One",
@@ -394852,6 +395728,12 @@
     "first_seen": "2026-09-07T16:15:42.692017+00:00",
     "title": "Senior Relationship Manager, Global Network Banking, Hong Kong",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Senior-Relationship-Manager--Global-Network-Banking--Hong-Kong_26983698"
+  },
+  "workday:Citi:26983700": {
+    "company": "Citi",
+    "first_seen": "2026-10-17T14:01:36.904282+00:00",
+    "title": "Director Instituciones Financieras",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Director-Instituciones-Financieras_26983700"
   },
   "workday:Citi:26983706": {
     "company": "Citi",
@@ -433631,6 +434513,12 @@
     "title": "Residential Installation & Service Technician",
     "url": "https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/FL---North-Venice-3490-Technology-Dr/Residential-Installation---Service-Technician_R446467"
   },
+  "workday:Comcast:R446476": {
+    "company": "Comcast",
+    "first_seen": "2026-10-17T14:01:37.541646+00:00",
+    "title": "Xfinity Mobile Retail Service Associate",
+    "url": "https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/CA---San-Mateo-35-W-Hillsdale-Blvd-Ste-50---Retail-XFR3129/Xfinity-Mobile-Retail-Service-Associate_R446476"
+  },
   "workday:Elevance Health:JR185598": {
     "company": "Elevance Health",
     "first_seen": "2026-08-28T14:14:10.733450+00:00",
@@ -452381,6 +453269,12 @@
     "title": "Field Sales Consultant, Interiors - Charlotte, NC",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NORTH-CAROLINA---VIRTUAL---NC01/Field-Sales-Consultant--Interiors---Charlotte--NC_Req196298"
   },
+  "workday:Home Depot:Req196308": {
+    "company": "Home Depot",
+    "first_seen": "2026-10-17T14:01:37.409525+00:00",
+    "title": "Sr. Manager, Workforce Capability Strategy",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Manager--Workforce-Capability-Strategy_Req196308-1"
+  },
   "workday:Home Depot:Req196335": {
     "company": "Home Depot",
     "first_seen": "2026-10-17T00:59:52.234709+00:00",
@@ -453904,6 +454798,12 @@
     "first_seen": "2026-09-09T01:00:50.304972+00:00",
     "title": "[Innovative Medicine] Senior Manager, Oncology, Clinical Science",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--Innovative-Medicine--Senior-Manager--Oncology--Clinical-Science_R-078109"
+  },
+  "workday:Johnson & Johnson:R-078120": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-17T14:01:37.086121+00:00",
+    "title": "\uff3bMedTech\uff3dDS Business Analytics & Market Intelligence Specialist,  Strategy & Commercial Excellence, Orthopedics",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--MedTech-Business-Analytics---Market-Intelligence-Staff--Orthopedics--Strategy---Commercial-Excellence_R-078120"
   },
   "workday:Johnson & Johnson:R-078133": {
     "company": "Johnson & Johnson",
@@ -482711,6 +483611,12 @@
     "title": "Manager, Contract Management",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raynham-Massachusetts-United-States-of-America/Manager--Contract-Management_R-103499-1"
   },
+  "workday:Johnson & Johnson:R-103501": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-17T14:01:37.086142+00:00",
+    "title": "Senior Programming Lead, Oncology",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Programming-Lead--Oncology_R-103501-1"
+  },
   "workday:Johnson & Johnson:R-103507": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-10-09T17:17:03.005097+00:00",
@@ -501238,6 +502144,12 @@
     "first_seen": "2026-10-15T01:11:44.799594+00:00",
     "title": "Analyst, Product Delivery",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Mexico-City-Mexico/Analyst--Product-Delivery_R-293369"
+  },
+  "workday:Mastercard:R-293374": {
+    "company": "Mastercard",
+    "first_seen": "2026-10-17T14:01:36.937379+00:00",
+    "title": "Director, Center for Inclusive Growth - Tech for Good",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Director--Center-for-Inclusive-Growth---Tech-for-Good_R-293374-1"
   },
   "workday:Mastercard:R-293375": {
     "company": "Mastercard",
@@ -520403,6 +521315,12 @@
     "title": "Functional Area Geography Associate Director, GDMS Clinical Data Management",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/POL---Mazowieckie-Wojewodztwo---Warsaw-Trade-Center/Functional-Area-Geography-Associate-Director--GDMS-Clinical-Data-Management_R421998-1"
   },
+  "workday:Merck:R421999": {
+    "company": "Merck",
+    "first_seen": "2026-10-17T14:01:37.147524+00:00",
+    "title": "Senior Scientist, Immunology",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Massachusetts---Cambridge-320-Bent-Street/Senior-Scientist--Immunology_R421999-1"
+  },
   "workday:Merck:R422004": {
     "company": "Merck",
     "first_seen": "2026-10-14T01:34:28.546361+00:00",
@@ -535492,6 +536410,12 @@
     "first_seen": "2026-10-17T00:59:49.712813+00:00",
     "title": "Quality Assurance Manager (Service Review Unit), Vice President",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/South-Jordan-Utah-United-States-of-America/Quality-Assurance-Manager--Service-Review-Unit---Vice-President_PT-JR045647"
+  },
+  "workday:Morgan Stanley:PT-JR045650": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-10-17T14:01:34.460169+00:00",
+    "title": "Mortgage Banker - Assistant Vice President/ Vice President",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Mortgage-Banker---Assistant-Vice-President--Vice-President_PT-JR045650"
   },
   "workday:Morgan Stanley:PT-JR045664": {
     "company": "Morgan Stanley",
