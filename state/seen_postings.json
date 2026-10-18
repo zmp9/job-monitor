@@ -65117,6 +65117,12 @@
     "title": "Sales Director, Enterprise",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391344008"
   },
+  "greenhouse:Anthropic:5391356008": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-18T14:14:43.695873+00:00",
+    "title": "Manager, Account Executive",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391356008"
+  },
   "greenhouse:Anthropic:5391364008": {
     "company": "Anthropic",
     "first_seen": "2026-08-22T11:17:51.451240+00:00",
@@ -67450,6 +67456,12 @@
     "first_seen": "2026-10-17T00:59:50.653047+00:00",
     "title": "Tabletop Exercise Lead, The Anthropic Institute",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456016008"
+  },
+  "greenhouse:Anthropic:5456039008": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-18T14:14:43.695889+00:00",
+    "title": "Principal Engineer Capacity/Compute",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456039008"
   },
   "greenhouse:Asana:6174752": {
     "company": "Asana",
@@ -145577,6 +145589,12 @@
     "title": "Pilot",
     "url": "https://boards.greenhouse.io/spacex/jobs/8896660002?gh_jid=8896660002"
   },
+  "greenhouse:SpaceX:8899128002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-18T14:14:42.564074+00:00",
+    "title": "Application Software Engineer, Flight Software",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002"
+  },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
     "first_seen": "2026-08-14T15:46:29.116083+00:00",
@@ -163601,6 +163619,12 @@
     "title": "Senior Software Engineer, Autonomy Integration (R6035)",
     "url": "https://jobs.lever.co/shieldai/57d675b0-4e5e-450e-bada-8df00cf0c2bf"
   },
+  "lever:Shield AI:581cc2e0-9ad3-4a5a-98e4-d21500210ee9": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160102+00:00",
+    "title": "Director, IT Infrastructure Services (R6338)",
+    "url": "https://jobs.lever.co/shieldai/581cc2e0-9ad3-4a5a-98e4-d21500210ee9"
+  },
   "lever:Shield AI:585fcac1-a6ad-46ab-8868-4e073ac292d8": {
     "company": "Shield AI",
     "first_seen": "2026-09-09T01:00:47.890737+00:00",
@@ -163720,6 +163744,12 @@
     "first_seen": "2026-08-14T15:47:38.440131+00:00",
     "title": "Staff Engineer, Composite Manufacturing",
     "url": "https://jobs.lever.co/shieldai/5f562503-1655-4a53-91fc-b6ea72d1841b"
+  },
+  "lever:Shield AI:5f7c1dc0-2363-4667-91f2-dd365d32fa52": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160107+00:00",
+    "title": "FAA Program Coordinator (R6337)",
+    "url": "https://jobs.lever.co/shieldai/5f7c1dc0-2363-4667-91f2-dd365d32fa52"
   },
   "lever:Shield AI:5ffcacae-0859-44d0-b762-846ca20c45ae": {
     "company": "Shield AI",
@@ -164008,6 +164038,12 @@
     "first_seen": "2026-08-14T15:47:38.439771+00:00",
     "title": "Senior Business Development Lead - Hivemind - UK",
     "url": "https://jobs.lever.co/shieldai/6fde829e-7482-4990-b7b2-fffacb52c88e"
+  },
+  "lever:Shield AI:70b0a80c-fcd9-4a6f-8e80-8cfcabe52aaf": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160116+00:00",
+    "title": "Staff Engineer, Industrial (R6313)",
+    "url": "https://jobs.lever.co/shieldai/70b0a80c-fcd9-4a6f-8e80-8cfcabe52aaf"
   },
   "lever:Shield AI:70bbf24d-192d-4153-a827-be6090013dc7": {
     "company": "Shield AI",
@@ -164879,6 +164915,12 @@
     "title": "Director, Test Engineering - ACP Programs (R5044)",
     "url": "https://jobs.lever.co/shieldai/94a077e0-de57-49e9-8985-b467e46b8be1"
   },
+  "lever:Shield AI:94bf14da-9028-4691-8681-5687dccf59a0": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160119+00:00",
+    "title": "Staff Engineer, Power System - Ranger (R6326)",
+    "url": "https://jobs.lever.co/shieldai/94bf14da-9028-4691-8681-5687dccf59a0"
+  },
   "lever:Shield AI:950c7cc3-bd36-4654-9c2d-786d4dee114c": {
     "company": "Shield AI",
     "first_seen": "2026-08-14T15:47:38.440089+00:00",
@@ -165113,6 +165155,12 @@
     "title": "Staff Engineer, Mechanical Design - Launch and Recovery Systems (R4572)",
     "url": "https://jobs.lever.co/shieldai/a3dfba6d-09ec-42c3-9328-dbb2b5fbdab3"
   },
+  "lever:Shield AI:a3eae89e-5a2b-4e6a-8e9c-e315923b0c71": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160084+00:00",
+    "title": "Data Engineer, Finance (R6329)",
+    "url": "https://jobs.lever.co/shieldai/a3eae89e-5a2b-4e6a-8e9c-e315923b0c71"
+  },
   "lever:Shield AI:a4ca6614-e302-48f9-800c-fc9903ea5b5a": {
     "company": "Shield AI",
     "first_seen": "2026-08-14T15:47:38.440353+00:00",
@@ -165269,6 +165317,12 @@
     "title": "Manager, Quality (R5120)",
     "url": "https://jobs.lever.co/shieldai/ac3eb263-7cb3-4c06-a3df-bbfce7f31b46"
   },
+  "lever:Shield AI:ac52c9b2-f18d-49e5-bb0b-9e82e7b03ac9": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160110+00:00",
+    "title": "Senior Staff Engineer, Flight Control Actuation Systems - Ranger (R6327)",
+    "url": "https://jobs.lever.co/shieldai/ac52c9b2-f18d-49e5-bb0b-9e82e7b03ac9"
+  },
   "lever:Shield AI:ac75662f-e937-4870-8040-6dbe733d0a47": {
     "company": "Shield AI",
     "first_seen": "2026-10-16T15:08:19.523553+00:00",
@@ -165328,6 +165382,12 @@
     "first_seen": "2026-08-14T15:47:38.440103+00:00",
     "title": "Staff Advance Industrial Engineer (Onsite)",
     "url": "https://jobs.lever.co/shieldai/b1bc272c-ad7b-4af3-9676-1f1132485492"
+  },
+  "lever:Shield AI:b2091589-c1aa-4121-9c09-4e1a8437e771": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160113+00:00",
+    "title": "Senior Staff Engineer, Weapons Integration - Ranger (R6323)",
+    "url": "https://jobs.lever.co/shieldai/b2091589-c1aa-4121-9c09-4e1a8437e771"
   },
   "lever:Shield AI:b252cefb-8a6a-4cb7-8f5e-90d46926747e": {
     "company": "Shield AI",
@@ -166258,6 +166318,12 @@
     "first_seen": "2026-09-29T02:28:13.975849+00:00",
     "title": "Staff Electrical Specialist - Hardware Test (R6122)",
     "url": "https://jobs.lever.co/shieldai/dd58ce9c-27ad-4e24-bc2c-c6bfd9a1210d"
+  },
+  "lever:Shield AI:dd7070fb-bc02-4ab0-930f-c3c2e933353e": {
+    "company": "Shield AI",
+    "first_seen": "2026-10-18T14:14:43.160122+00:00",
+    "title": "Staff Engineer, Software (R6331)",
+    "url": "https://jobs.lever.co/shieldai/dd7070fb-bc02-4ab0-930f-c3c2e933353e"
   },
   "lever:Shield AI:dd795a91-7317-44ea-8197-caf6266eb8f8": {
     "company": "Shield AI",
@@ -200135,6 +200201,12 @@
     "title": "Graphic & Visual Designer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Graphic---Visual-Designer_14831863"
   },
+  "workday:Accenture:14832936": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456566+00:00",
+    "title": "Cybersecurity DFIR",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Cybersecurity-DFIR_14832936"
+  },
   "workday:Accenture:14833180": {
     "company": "Accenture",
     "first_seen": "2026-10-13T17:54:45.643032+00:00",
@@ -200194,6 +200266,12 @@
     "first_seen": "2026-10-15T01:11:44.856773+00:00",
     "title": "Security Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Abu-Dhabi-Sowwah-Square---Al-Sila-Tower/Security-Consultant_14840486"
+  },
+  "workday:Accenture:14840492": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456674+00:00",
+    "title": "OT Security Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/OT-Security-Manager_14840492"
   },
   "workday:Accenture:14840521": {
     "company": "Accenture",
@@ -236525,6 +236603,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Application-Lead_ATCI-4934764-S1882014-1"
   },
+  "workday:Accenture:ATCI-4936428-S1854082": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456666+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Application-Developer_ATCI-4936428-S1854082-1"
+  },
   "workday:Accenture:ATCI-4936679-S1854085": {
     "company": "Accenture",
     "first_seen": "2026-10-16T15:08:21.707968+00:00",
@@ -266111,6 +266195,18 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-5608239-S2029145-1"
   },
+  "workday:Accenture:ATCI-5608297-S2029149": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456668+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5608297-S2029149"
+  },
+  "workday:Accenture:ATCI-5608350-S2029153": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456670+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5608350-S2029153-1"
+  },
   "workday:Accenture:ATCI-5608419-S2057055": {
     "company": "Accenture",
     "first_seen": "2026-09-04T00:41:32.562115+00:00",
@@ -266128,6 +266224,12 @@
     "first_seen": "2026-09-21T16:45:35.043528+00:00",
     "title": "Solution Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Solution-Architect_ATCI-5608509-S2032149-1"
+  },
+  "workday:Accenture:ATCI-5608521-S2029155": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456672+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5608521-S2029155-1"
   },
   "workday:Accenture:ATCI-5608525-S2032146": {
     "company": "Accenture",
@@ -300485,6 +300587,30 @@
     "title": "Cloud Platform Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Cloud-Platform-Engineer_ATCI-5785960-S2072178-1"
   },
+  "workday:Accenture:ATCI-5785969-S2072448": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456615+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5785969-S2072448-1"
+  },
+  "workday:Accenture:ATCI-5785970-S2072446": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456617+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5785970-S2072446-1"
+  },
+  "workday:Accenture:ATCI-5785971-S2072447": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456619+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5785971-S2072447-1"
+  },
+  "workday:Accenture:ATCI-5786009-S2072445": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456621+00:00",
+    "title": "Cloud Platform Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Cloud-Platform-Engineer_ATCI-5786009-S2072445-1"
+  },
   "workday:Accenture:ATCI-5786078-S2071195": {
     "company": "Accenture",
     "first_seen": "2026-10-08T17:41:45.774153+00:00",
@@ -301372,6 +301498,18 @@
     "first_seen": "2026-10-06T17:02:13.267576+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5792545-S2071062-1"
+  },
+  "workday:Accenture:ATCI-5803100-S2072464": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456609+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5803100-S2072464-1"
+  },
+  "workday:Accenture:ATCI-5803145-S2072468": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456611+00:00",
+    "title": "DevOps Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/DevOps-Engineer_ATCI-5803145-S2072468-1"
   },
   "workday:Accenture:ATCI-5803165-S2070749": {
     "company": "Accenture",
@@ -302332,6 +302470,66 @@
     "first_seen": "2026-10-09T17:17:02.949055+00:00",
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5814189-S2071443-1"
+  },
+  "workday:Accenture:ATCI-5814232-S2072457": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456583+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814232-S2072457"
+  },
+  "workday:Accenture:ATCI-5814233-S2072458": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456586+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814233-S2072458-1"
+  },
+  "workday:Accenture:ATCI-5814234-S2072463": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456589+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814234-S2072463-1"
+  },
+  "workday:Accenture:ATCI-5814235-S2072456": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456591+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814235-S2072456"
+  },
+  "workday:Accenture:ATCI-5814237-S2072460": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456594+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814237-S2072460"
+  },
+  "workday:Accenture:ATCI-5814238-S2072461": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456596+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814238-S2072461-1"
+  },
+  "workday:Accenture:ATCI-5814252-S2072462": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456599+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814252-S2072462-1"
+  },
+  "workday:Accenture:ATCI-5814253-S2072454": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456602+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814253-S2072454-1"
+  },
+  "workday:Accenture:ATCI-5814255-S2072459": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456604+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814255-S2072459-1"
+  },
+  "workday:Accenture:ATCI-5814256-S2072455": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456606+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5814256-S2072455-1"
   },
   "workday:Accenture:ATCI-5814687-S2071248": {
     "company": "Accenture",
@@ -303461,6 +303659,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5821726-S2072190-1"
   },
+  "workday:Accenture:ATCI-5822106-S2072465": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456613+00:00",
+    "title": "Product Owner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Product-Owner_ATCI-5822106-S2072465-1"
+  },
   "workday:Accenture:ATCI-5822241-S2072017": {
     "company": "Accenture",
     "first_seen": "2026-10-15T15:28:36.151870+00:00",
@@ -303508,6 +303712,96 @@
     "first_seen": "2026-10-14T15:40:44.995740+00:00",
     "title": "Project Control Services Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Project-Control-Services-Practitioner_ATCI-5834499-S2072027-1"
+  },
+  "workday:Accenture:ATCI-5847172-S2072439": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456623+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847172-S2072439-1"
+  },
+  "workday:Accenture:ATCI-5847173-S2072431": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456625+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847173-S2072431-1"
+  },
+  "workday:Accenture:ATCI-5847174-S2072433": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456627+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847174-S2072433-1"
+  },
+  "workday:Accenture:ATCI-5847204-S2072440": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456629+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847204-S2072440-1"
+  },
+  "workday:Accenture:ATCI-5847205-S2072443": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456631+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847205-S2072443-1"
+  },
+  "workday:Accenture:ATCI-5847206-S2072441": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456633+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847206-S2072441-1"
+  },
+  "workday:Accenture:ATCI-5847207-S2072442": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456635+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847207-S2072442-1"
+  },
+  "workday:Accenture:ATCI-5847208-S2072438": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456637+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847208-S2072438-1"
+  },
+  "workday:Accenture:ATCI-5847209-S2072434": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456640+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5847209-S2072434-1"
+  },
+  "workday:Accenture:ATCI-5847216-S2072437": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456642+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5847216-S2072437-1"
+  },
+  "workday:Accenture:ATCI-5847217-S2072430": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456656+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5847217-S2072430-1"
+  },
+  "workday:Accenture:ATCI-5847218-S2072444": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456658+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Custom-Software-Engineer_ATCI-5847218-S2072444"
+  },
+  "workday:Accenture:ATCI-5847225-S2072435": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456660+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847225-S2072435-1"
+  },
+  "workday:Accenture:ATCI-5847226-S2072432": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456662+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847226-S2072432-1"
+  },
+  "workday:Accenture:ATCI-5847227-S2072436": {
+    "company": "Accenture",
+    "first_seen": "2026-10-18T14:14:45.456664+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5847227-S2072436-1"
   },
   "workday:Accenture:ATCI-R1-S1768202": {
     "company": "Accenture",
@@ -479615,6 +479909,12 @@
     "title": "Gastroenteroloji \u00dcr\u00fcn Uzman\u0131 - Sakarya / Kocaeli",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Sakarya/Job-Posting-Title-Gastroenteroloji-rn-Uzman---Sakarya---Kocaeli_R-101481-1"
   },
+  "workday:Johnson & Johnson:R-101483": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-18T14:14:45.543912+00:00",
+    "title": "Senior Product Specialist \u2013 Spine, Advanced Technologies & NPI",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Senior-Product-Specialist---Spine--Advanced-Technologies---NPI_R-101483-2"
+  },
   "workday:Johnson & Johnson:R-101486": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-09-25T15:43:02.075863+00:00",
@@ -487198,6 +487498,12 @@
     "first_seen": "2026-10-17T00:59:51.956117+00:00",
     "title": "Collaborative Planning Lead",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mexico-City-Mexico/Collaborative-Planning-Lead_R-105729"
+  },
+  "workday:Johnson & Johnson:R-105767": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-18T14:14:45.543895+00:00",
+    "title": "Assistant Controller",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Caesarea-Haifa-District-Israel/Assistant-Controller_R-105767"
   },
   "workday:Mastercard:R-207875": {
     "company": "Mastercard",
@@ -501544,6 +501850,12 @@
     "first_seen": "2026-10-08T02:26:10.590837+00:00",
     "title": "Director, Specialist Sales",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Purchase-New-York/Director--Specialist-Sales_R-292684-1"
+  },
+  "workday:Mastercard:R-292685": {
+    "company": "Mastercard",
+    "first_seen": "2026-10-18T14:14:45.370636+00:00",
+    "title": "Manager, Risk Management",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/London-England-Angel-Lane/Manager--Risk-Management_R-292685"
   },
   "workday:Mastercard:R-292698": {
     "company": "Mastercard",
@@ -606911,6 +607223,12 @@
     "title": "Starbucks Barista",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/14823-Pomerado-Rd-PowayCA-92064-2803/Starbucks-Barista_R0000477611"
   },
+  "workday:Target:R0000477613": {
+    "company": "Target",
+    "first_seen": "2026-10-18T14:14:45.864207+00:00",
+    "title": "Service & Engagement Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/751-Route-73-S-MarltonNJ-08053-9637/Service---Engagement-Team-Leader_R0000477613"
+  },
   "workday:Target:R0000477615": {
     "company": "Target",
     "first_seen": "2026-10-15T15:28:36.556598+00:00",
@@ -607432,6 +607750,12 @@
     "first_seen": "2026-10-17T00:59:52.190907+00:00",
     "title": "Specialty Sales Team Leader",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/3400-W-13th-St-Grand-IslandNE-68803-2307/Specialty-Sales-Team-Leader_R0000477920"
+  },
+  "workday:Target:R0000477947": {
+    "company": "Target",
+    "first_seen": "2026-10-18T14:14:45.864189+00:00",
+    "title": "Specialty Sales Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/11990-LOS-OSOS-VALLEY-RD-San-Luis-ObispoCA-93405-6861/Specialty-Sales-Team-Leader_R0000477947"
   },
   "workday:Target:R0000477949": {
     "company": "Target",

@@ -1,6 +1,6 @@
 # Open matches
 
-_54 postings scoring >= 40, of 33370 scanned. Updated 2026-10-18 00:35 UTC._
+_55 postings scoring >= 40, of 33343 scanned. Updated 2026-10-18 14:14 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -24,6 +24,7 @@ _54 postings scoring >= 40, of 33370 scanned. Updated 2026-10-18 00:35 UTC._
 | 60 | [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) | Accenture | n/a |
 | 60 | [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) | Merck | 2 Locations |
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
+| 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7980889003?gh_jid=7980889003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 57 | [Analyst/Associate - Litigation (Life Sciences practice)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/4432386) | Charles River Associates | Washington, DC, United States |
 | 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
 | 56 | [(2028 Bachelor's/Master's graduates) Management Advisory Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120616) | Charles River Associates | Boston, MA, United States; New York, NY, United States |
@@ -61,8 +62,8 @@ _54 postings scoring >= 40, of 33370 scanned. Updated 2026-10-18 00:35 UTC._
 
 ## By company
 
+- **Zipline** (8) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
 - **Coinbase** (8) — top [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) at 64
-- **Zipline** (7) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
 - **Charles River Associates** (7) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
 - **AQR Capital Management** (5) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Schonfeld** (5) — top [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) at 85
