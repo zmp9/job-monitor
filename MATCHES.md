@@ -1,12 +1,9 @@
 # Open matches
 
-_54 postings scoring >= 40, of 32099 scanned. Updated 2026-10-20 01:30 UTC._
+_54 postings scoring >= 40, of 32071 scanned. Updated 2026-10-20 15:32 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 57 | [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) | Ursa Major | Berthoud, Colorado |
-| 46 | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) | Ursa Major | Berthoud, Colorado |
-| 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
 | 97 | [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) | Zipline | South San Francisco, California, USA |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 85 | [2027 Corporate Strategy & Transformation Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172064) | Schonfeld | Miami, Florida, United States |
@@ -29,6 +26,7 @@ _54 postings scoring >= 40, of 32099 scanned. Updated 2026-10-20 01:30 UTC._
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
 | 58 | [Commercial Strategy & Operations Intern (Spring 2027)](https://www.zipline.com/open-roles/7980889003?gh_jid=7980889003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
+| 57 | [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) | Ursa Major | Berthoud, Colorado |
 | 54 | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Coinbase | Hybrid - New York, NY |
 | 51 | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) | Robinhood | Denver, CO |
 | 51 | [Sales Operations Analyst Intern (Summer 2027)](https://www.zipline.com/open-roles/7929801003?gh_jid=7929801003) | Zipline | South San Francisco, California, USA |
@@ -42,9 +40,11 @@ _54 postings scoring >= 40, of 32099 scanned. Updated 2026-10-20 01:30 UTC._
 | 46 | [2028 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | Point72 | United States |
 | 46 | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Akuna Capital | Chicago, IL |
 | 46 | [Aircraft Software Integration Intern (Summer 2027)](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | Zipline | South San Francisco, California, USA |
+| 46 | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) | Ursa Major | Berthoud, Colorado |
 | 45 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | Point72 | New York, NY |
 | 45 | [Boeing Summer 2027 Internship Program (Paid) - Business Operations](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Business-Operations_JR2026519268-1) | Boeing | USA - Everett, WA |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
+| 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
 | 45 | [Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372) | Citi | Irving Texas United States |
 | 45 | [Banking, Commercial Banking, Summer Analyst, Frankfurt - Germany 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/TAURUS/Banking--Commercial-Banking--Summer-Analyst--Frankfurt---Germany-2027_26993561) | Citi | TAURUS |
 | 45 | [2027 Future Talent Program - Marketing Strategy & Project Management Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Marketing-Strategy---Project-Management-Co-op_R422071) | Merck | USA - New Jersey - Rahway |
