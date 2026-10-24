@@ -1,16 +1,10 @@
 # Open matches
 
-_56 postings scoring >= 40, of 33618 scanned. Updated 2026-10-24 01:20 UTC._
+_58 postings scoring >= 40, of 33440 scanned. Updated 2026-10-24 14:12 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 45 | [Technology, Production Support, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Summer-Analyst--New-York---USA--2027_261004417) | Citi | 2 Locations |
-| 45 | [Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) | Citi | Jacksonville Florida United States |
-| 45 | [Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378) | Citi | 2 Locations |
-| 45 | [Technology, Cyber Security, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482) | Citi | Irving Texas United States |
-| 45 | [Technology, Application Development, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) | Citi | Tampa Florida United States |
-| 45 | [Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298) | Citi | Tampa Florida United States |
-| 45 | [Technology, Application Development, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288) | Citi | Irving Texas United States |
+| 51 | [Current Accenture Summer Analysts Only – Full Time Deal Structuring & Pricing - Client Transactions Services Analyst - Canada NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Toronto-40-King-St-W-Corp/Current-Accenture-Summer-Analysts-Only---Full-Time-Deal-Structuring---Pricing---Client-Transactions-Services-Analyst---Canada-NAELFY27_R00364790) | Accenture | n/a |
 | 97 | [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) | Zipline | South San Francisco, California, USA |
 | 85 | [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) | AQR Capital Management | Greenwich, CT |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
@@ -43,10 +37,18 @@ _56 postings scoring >= 40, of 33618 scanned. Updated 2026-10-24 01:20 UTC._
 | 46 | [2028 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | Point72 | United States |
 | 46 | [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) | Akuna Capital | Chicago, IL |
 | 46 | [Aircraft Software Integration Intern (Summer 2027)](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) | Zipline | South San Francisco, California, USA |
+| 46 | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) | Ursa Major | Berthoud, Colorado |
 | 45 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | Point72 | New York, NY |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
 | 45 | [Commercial Strategy & Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003) | Zipline | Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA |
 | 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
+| 45 | [Technology, Production Support, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Summer-Analyst--New-York---USA--2027_261004417) | Citi | 2 Locations |
+| 45 | [Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) | Citi | Jacksonville Florida United States |
+| 45 | [Technology, Application Development, Summer Analyst, New York Or New Jersey - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378) | Citi | 2 Locations |
+| 45 | [Technology, Cyber Security, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Summer-Analyst--Irving---USA--2027_26999482) | Citi | Irving Texas United States |
+| 45 | [Technology, Application Development, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) | Citi | Tampa Florida United States |
+| 45 | [Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298) | Citi | Tampa Florida United States |
+| 45 | [Technology, Application Development, Summer Analyst, Irving - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288) | Citi | Irving Texas United States |
 | 45 | [Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372) | Citi | Irving Texas United States |
 | 45 | [Banking, Commercial Banking, Summer Analyst, Frankfurt - Germany 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/TAURUS/Banking--Commercial-Banking--Summer-Analyst--Frankfurt---Germany-2027_26993561) | Citi | TAURUS |
 | 45 | [2027 Future Talent Program - Marketing Strategy & Project Management Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Marketing-Strategy---Project-Management-Co-op_R422071) | Merck | USA - New Jersey - Rahway |
@@ -71,10 +73,10 @@ _56 postings scoring >= 40, of 33618 scanned. Updated 2026-10-24 01:20 UTC._
 - **Point72** (4) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
 - **Merck** (4) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
 - **Schonfeld** (3) — top [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) at 65
-- **Ursa Major** (2) — top [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) at 57
+- **Ursa Major** (3) — top [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) at 57
+- **Accenture** (2) — top [Current Accenture Summer Analysts Only – Full Time Deal Structuring & Pricing - Client Transactions Services Analyst - Canada NAELFY27](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Toronto-40-King-St-W-Corp/Current-Accenture-Summer-Analysts-Only---Full-Time-Deal-Structuring---Pricing---Client-Transactions-Services-Analyst---Canada-NAELFY27_R00364790) at 51
 - **DRW** (1) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **SoFi** (1) — top [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) at 60
-- **Accenture** (1) — top [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) at 60
 - **Robinhood** (1) — top [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241) at 51
 - **Anduril Industries** (1) — top [2027 Business Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) at 51
 - **Akuna Capital** (1) — top [Accounting Intern (Term-Time, Part-Time)](https://www.akunacapital.com/careers/job/8109370/?gh_jid=8109370) at 46
