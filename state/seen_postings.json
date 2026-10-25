@@ -20447,6 +20447,12 @@
     "title": "Engineering Manager (API Platform)",
     "url": "https://jobs.ashbyhq.com/perplexity/29625b7a-5470-463b-8446-21fac84e80b9"
   },
+  "ashby:Perplexity:2a5aa5f6-596b-45c3-84db-ac0b96363f93": {
+    "company": "Perplexity",
+    "first_seen": "2026-10-25T00:45:58.505070+00:00",
+    "title": "Member of Technical Staff (Software Engineer, Training Infrastructure)",
+    "url": "https://jobs.ashbyhq.com/perplexity/2a5aa5f6-596b-45c3-84db-ac0b96363f93"
+  },
   "ashby:Perplexity:2be717cb-ad3e-4052-a464-79b107a70406": {
     "company": "Perplexity",
     "first_seen": "2026-08-28T14:14:09.454102+00:00",
@@ -21124,6 +21130,12 @@
     "first_seen": "2026-08-28T14:14:09.454235+00:00",
     "title": "Engineering Site Lead",
     "url": "https://jobs.ashbyhq.com/perplexity/c6c857f3-c0db-4d93-aeed-638b9f9d4eb6"
+  },
+  "ashby:Perplexity:cc22684f-b419-4ab8-8aa0-b4a393d3beb9": {
+    "company": "Perplexity",
+    "first_seen": "2026-10-25T00:45:58.505052+00:00",
+    "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+    "url": "https://jobs.ashbyhq.com/perplexity/cc22684f-b419-4ab8-8aa0-b4a393d3beb9"
   },
   "ashby:Perplexity:cf0c3486-3fdc-4045-aece-9459cb7d7a6d": {
     "company": "Perplexity",
@@ -64637,6 +64649,24 @@
     "title": "Product Operations Technical Specialist, Maritime",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274506007?gh_jid=5274506007"
   },
+  "greenhouse:Anduril Industries:5274646007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-25T00:45:57.395404+00:00",
+    "title": "Senior Software Engineer- Infrastructure",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274646007?gh_jid=5274646007"
+  },
+  "greenhouse:Anduril Industries:5274647007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-25T00:45:57.395425+00:00",
+    "title": "Software Engineer- Infrastructure",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274647007?gh_jid=5274647007"
+  },
+  "greenhouse:Anduril Industries:5274648007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-10-25T00:45:57.395420+00:00",
+    "title": "Senior Software Engineer- Machine Learning",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007"
+  },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758643+00:00",
@@ -72460,6 +72490,12 @@
     "first_seen": "2026-10-16T00:59:04.414299+00:00",
     "title": "Business Value Consultant",
     "url": "https://www.asana.com/jobs/apply/8282374?gh_jid=8282374"
+  },
+  "greenhouse:Asana:8282522": {
+    "company": "Asana",
+    "first_seen": "2026-10-25T00:45:57.805045+00:00",
+    "title": "Corporate and Strategic Finance, FP&A",
+    "url": "https://www.asana.com/jobs/apply/8282522?gh_jid=8282522"
   },
   "greenhouse:Asana:8282574": {
     "company": "Asana",
@@ -111641,6 +111677,12 @@
     "title": "Manager, EMEA Community (Contract)",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8318010"
   },
+  "greenhouse:Reddit:8319655": {
+    "company": "Reddit",
+    "first_seen": "2026-10-25T00:45:57.793113+00:00",
+    "title": "Software Engineer, Ad Signals",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655"
+  },
   "greenhouse:Relativity Space:7196730002": {
     "company": "Relativity Space",
     "first_seen": "2026-08-28T14:14:10.313919+00:00",
@@ -115445,6 +115487,12 @@
     "title": "Factory Test Technician III - 1st Shift",
     "url": "https://boards.greenhouse.io/relativity/jobs/8909130002?gh_jid=8909130002"
   },
+  "greenhouse:Relativity Space:8909380002": {
+    "company": "Relativity Space",
+    "first_seen": "2026-10-25T00:45:59.345070+00:00",
+    "title": "Composites Technician II, Drilling & Mechanical Assembly, First Shift",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8909380002?gh_jid=8909380002"
+  },
   "greenhouse:Relativity Space:8909695002": {
     "company": "Relativity Space",
     "first_seen": "2026-10-23T01:10:15.700701+00:00",
@@ -115468,6 +115516,18 @@
     "first_seen": "2026-10-24T01:20:25.713359+00:00",
     "title": "Senior Avionics Quality Inspector, First Shift",
     "url": "https://boards.greenhouse.io/relativity/jobs/8912015002?gh_jid=8912015002"
+  },
+  "greenhouse:Relativity Space:8912960002": {
+    "company": "Relativity Space",
+    "first_seen": "2026-10-25T00:45:59.345091+00:00",
+    "title": "Senior Fluids Analyst, Combustion Devices",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8912960002?gh_jid=8912960002"
+  },
+  "greenhouse:Relativity Space:8913099002": {
+    "company": "Relativity Space",
+    "first_seen": "2026-10-25T00:45:59.345088+00:00",
+    "title": "Employee Relations Specialist II",
+    "url": "https://boards.greenhouse.io/relativity/jobs/8913099002?gh_jid=8913099002"
   },
   "greenhouse:Robinhood:4738660": {
     "company": "Robinhood",
@@ -122362,6 +122422,12 @@
     "first_seen": "2026-09-24T01:01:34.761694+00:00",
     "title": "Senior Proposal Manager II",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004018003"
+  },
+  "greenhouse:Rocket Lab:8004029003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-10-25T00:45:56.507398+00:00",
+    "title": "Senior RF Radar Engineer I",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8004029003"
   },
   "greenhouse:Rocket Lab:8004033003": {
     "company": "Rocket Lab",
@@ -151589,6 +151655,12 @@
     "title": "Space Operations Engineer (Ground Operator Training)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8889422002?gh_jid=8889422002"
   },
+  "greenhouse:SpaceX:8889589002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-25T00:45:56.397261+00:00",
+    "title": "Lead Inventory Specialist (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8889589002?gh_jid=8889589002"
+  },
   "greenhouse:SpaceX:8889891002": {
     "company": "SpaceX",
     "first_seen": "2026-10-15T01:11:43.141261+00:00",
@@ -152291,6 +152363,12 @@
     "title": "Supervisor, Environmental Health & Safety (Recovery)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8905871002?gh_jid=8905871002"
   },
+  "greenhouse:SpaceX:8906240002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-25T00:45:56.397266+00:00",
+    "title": "Pipefitter",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8906240002?gh_jid=8906240002"
+  },
   "greenhouse:SpaceX:8906243002": {
     "company": "SpaceX",
     "first_seen": "2026-10-21T15:48:37.790348+00:00",
@@ -152374,6 +152452,18 @@
     "first_seen": "2026-10-22T15:46:18.890068+00:00",
     "title": "Supervisor, Porter (College Station)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8908051002?gh_jid=8908051002"
+  },
+  "greenhouse:SpaceX:8908183002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-25T00:45:56.397242+00:00",
+    "title": "Hospitality Supervisor (Restaurants)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8908183002?gh_jid=8908183002"
+  },
+  "greenhouse:SpaceX:8908218002": {
+    "company": "SpaceX",
+    "first_seen": "2026-10-25T00:45:56.397268+00:00",
+    "title": "Sous Chef",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8908218002?gh_jid=8908218002"
   },
   "greenhouse:SpaceX:8908223002": {
     "company": "SpaceX",
@@ -252659,6 +252749,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5145675-S2017379-1"
   },
+  "workday:Accenture:ATCI-5145677-S2017385": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546522+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5145677-S2017385"
+  },
   "workday:Accenture:ATCI-5145679-S2017351": {
     "company": "Accenture",
     "first_seen": "2026-10-07T02:01:28.160924+00:00",
@@ -280493,6 +280589,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5618992-S2071826-1"
   },
+  "workday:Accenture:ATCI-5618995-S2031264": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546532+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5618995-S2031264-1"
+  },
   "workday:Accenture:ATCI-5619092-S2068499": {
     "company": "Accenture",
     "first_seen": "2026-09-16T15:18:28.476780+00:00",
@@ -285233,6 +285335,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Custom-Software-Engineer_ATCI-5667832-S2061271-1"
   },
+  "workday:Accenture:ATCI-5667863-S2058500": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546528+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5667863-S2058500-1"
+  },
   "workday:Accenture:ATCI-5667870-S2057492": {
     "company": "Accenture",
     "first_seen": "2026-09-10T00:47:19.103635+00:00",
@@ -285244,6 +285352,12 @@
     "first_seen": "2026-09-01T15:22:42.242954+00:00",
     "title": "DevOps Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/DevOps-Engineer_ATCI-5667873-S2058813-1"
+  },
+  "workday:Accenture:ATCI-5667884-S2057493": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546530+00:00",
+    "title": "Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Data-Engineer_ATCI-5667884-S2057493-1"
   },
   "workday:Accenture:ATCI-5667966-S2059621": {
     "company": "Accenture",
@@ -353459,6 +353573,12 @@
     "title": "Cybersecurity Internship",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Roma/Cybersecurity-Internship_R00364331"
   },
+  "workday:Accenture:R00364333": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546503+00:00",
+    "title": "",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"
+  },
   "workday:Accenture:R00364340": {
     "company": "Accenture",
     "first_seen": "2026-10-14T15:40:44.995640+00:00",
@@ -354370,6 +354490,12 @@
     "first_seen": "2026-10-24T14:12:40.678695+00:00",
     "title": "Named Account Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Atlanta-3525-Piedmont-Rd-NE-ACN-Ops/Named-Account-Manager_R00366652"
+  },
+  "workday:Accenture:R00366657": {
+    "company": "Accenture",
+    "first_seen": "2026-10-25T00:45:59.546526+00:00",
+    "title": "Especialista em Departamento Pessoal - H\u00edbrido - Ingl\u00eas Avan\u00e7ado",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Especialista-em-Departamento-Pessoal---Hbrido---Ingls-Avanado_R00366657-1"
   },
   "workday:Accenture:R00366667": {
     "company": "Accenture",
@@ -405821,6 +405947,12 @@
     "title": "Vice President - Tech/Cyber/AI Sr Risk Officer - Hybrid",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Vice-President---Tech-Cyber-AI-Sr-Risk-Officer---Hybrid_261000264"
   },
+  "workday:Citi:261000266": {
+    "company": "Citi",
+    "first_seen": "2026-10-25T00:45:59.420643+00:00",
+    "title": "Angular Full Stack Developer",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Angular-Full-Stack-Developer_261000266"
+  },
   "workday:Citi:261000267": {
     "company": "Citi",
     "first_seen": "2026-10-10T02:02:47.501396+00:00",
@@ -408419,6 +408551,24 @@
     "title": "Sr IT Business Analyst Fraud Technology",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Sr-IT-Business-Analyst-Fraud-Technology_261002114-1"
   },
+  "workday:Citi:261002122": {
+    "company": "Citi",
+    "first_seen": "2026-10-25T00:45:59.420633+00:00",
+    "title": "Software Engineer - Core Java and Equities Tech - Assistant Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Software-Engineer---Core-Java-and-Equities-Tech---Assistant-Vice-President_261002122"
+  },
+  "workday:Citi:261002126": {
+    "company": "Citi",
+    "first_seen": "2026-10-25T00:45:59.420640+00:00",
+    "title": "Software Engineer - Core Java and Equities Tech - Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Software-Engineer---Core-Java-and-Equities-Tech---Vice-President_261002126"
+  },
+  "workday:Citi:261002130": {
+    "company": "Citi",
+    "first_seen": "2026-10-25T00:45:59.420636+00:00",
+    "title": "Software Engineer - Core Java and Equities Tech - Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Software-Engineer---Core-Java-and-Equities-Tech---Vice-President_261002130"
+  },
   "workday:Citi:261002141": {
     "company": "Citi",
     "first_seen": "2026-10-13T17:54:45.507302+00:00",
@@ -408688,6 +408838,12 @@
     "first_seen": "2026-10-16T15:08:21.593305+00:00",
     "title": "Senior Tax Analyst",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Senior-Tax-Analyst_261002302-1"
+  },
+  "workday:Citi:261002303": {
+    "company": "Citi",
+    "first_seen": "2026-10-25T00:45:59.420615+00:00",
+    "title": "Software Engineer - Core Java and Equities Tech - Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Software-Engineer---Core-Java-and-Equities-Tech---Vice-President_261002303"
   },
   "workday:Citi:261002304": {
     "company": "Citi",
@@ -487198,6 +487354,12 @@
     "first_seen": "2026-08-28T14:14:10.582199+00:00",
     "title": "Senior Manager, International Digital Experience",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Prague-Czechia/Senior-Manager--International-Digital-Experience_R-093361-1"
+  },
+  "workday:Johnson & Johnson:R-093362": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-10-25T00:45:59.628655+00:00",
+    "title": "Analyst Learning & Development",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Bangalore-Karnataka-India/Analyst-Learning---Development_R-093362"
   },
   "workday:Johnson & Johnson:R-093379": {
     "company": "Johnson & Johnson",
@@ -643072,6 +643234,12 @@
     "first_seen": "2026-10-23T15:37:17.518826+00:00",
     "title": "Target Security Specialist",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/3790-Center-St-NE-SalemOR-97301-2905/Target-Security-Specialist_R0000478614"
+  },
+  "workday:Target:R0000478615": {
+    "company": "Target",
+    "first_seen": "2026-10-25T00:45:59.938977+00:00",
+    "title": "Assets Protection Specialist (Retail Theft & Fraud Investigator)",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/74-5455-Makala-Blvd-Kailua-KonaHI-96740-2727/Assets-Protection-Specialist--Retail-Theft---Fraud-Investigator-_R0000478615"
   },
   "workday:Target:R0000478617": {
     "company": "Target",
