@@ -23843,6 +23843,12 @@
     "title": "Technical Recruiter",
     "url": "https://jobs.ashbyhq.com/regent/7dcff9c8-59b9-43c3-b7c6-3bbe164a32ee"
   },
+  "ashby:REGENT:84ece81a-5af1-41fa-a886-be8b9e506f63": {
+    "company": "REGENT",
+    "first_seen": "2026-11-01T16:59:08.841087+00:00",
+    "title": "Manager, Electrical Engineering",
+    "url": "https://jobs.ashbyhq.com/regent/84ece81a-5af1-41fa-a886-be8b9e506f63"
+  },
   "ashby:REGENT:86e99b14-ef9c-4432-aade-567e3877d4a7": {
     "company": "REGENT",
     "first_seen": "2026-09-29T02:28:14.130118+00:00",
@@ -23938,6 +23944,12 @@
     "first_seen": "2026-09-16T15:18:26.892649+00:00",
     "title": "Senior Manager, Structures",
     "url": "https://jobs.ashbyhq.com/regent/e736f95b-1e77-4c62-ad2b-8f1ae57ba51b"
+  },
+  "ashby:REGENT:e9c8b2d0-b57e-4428-8c81-4e7dced01592": {
+    "company": "REGENT",
+    "first_seen": "2026-11-01T16:59:08.841067+00:00",
+    "title": "Engineering Operations Lead - Configuration Management & Tools",
+    "url": "https://jobs.ashbyhq.com/regent/e9c8b2d0-b57e-4428-8c81-4e7dced01592"
   },
   "ashby:REGENT:ecc2a221-7696-4ba1-bdc0-caaf58dd8f6b": {
     "company": "REGENT",
@@ -95165,11 +95177,23 @@
     "title": "Solutions Architect - Telco",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002"
   },
+  "greenhouse:Databricks:8880398002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077611+00:00",
+    "title": "Account Executive - Digital Native",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880398002"
+  },
   "greenhouse:Databricks:8880400002": {
     "company": "Databricks",
     "first_seen": "2026-10-12T20:05:30.452397+00:00",
     "title": "Strategic Hunter Account Executive",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880400002"
+  },
+  "greenhouse:Databricks:8880402002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077630+00:00",
+    "title": "Account Executive - Strategic Core",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002"
   },
   "greenhouse:Databricks:8880406002": {
     "company": "Databricks",
@@ -95591,6 +95615,12 @@
     "title": "Enterprise Account Executive",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910840002"
   },
+  "greenhouse:Databricks:8910842002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077645+00:00",
+    "title": "Strategic Core Account Executive - Public Sector",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910842002"
+  },
   "greenhouse:Databricks:8910846002": {
     "company": "Databricks",
     "first_seen": "2026-10-23T15:37:15.380324+00:00",
@@ -95603,11 +95633,23 @@
     "title": "Forward Deployed Engineering Manager",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002"
   },
+  "greenhouse:Databricks:8910854002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077642+00:00",
+    "title": "Strategic Core Account Executive - FSI",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910854002"
+  },
   "greenhouse:Databricks:8910860002": {
     "company": "Databricks",
     "first_seen": "2026-10-28T02:00:21.787345+00:00",
     "title": "Solutions Architect",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910860002"
+  },
+  "greenhouse:Databricks:8910864002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077632+00:00",
+    "title": "Enterprise Account Executive - Hunter (New Logo)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910864002"
   },
   "greenhouse:Databricks:8910988002": {
     "company": "Databricks",
@@ -95620,6 +95662,12 @@
     "first_seen": "2026-10-29T02:04:10.945451+00:00",
     "title": "Strategic Core Account Executive (Telco)",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8912711002"
+  },
+  "greenhouse:Databricks:8916466002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077636+00:00",
+    "title": "Named Hunter Account Executive - Singapore",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8916466002"
   },
   "greenhouse:Databricks:8916552002": {
     "company": "Databricks",
@@ -95710,6 +95758,12 @@
     "first_seen": "2026-10-30T16:55:58.632944+00:00",
     "title": "Sr. Collections Analyst",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922730002"
+  },
+  "greenhouse:Databricks:8922941002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-01T16:59:09.077639+00:00",
+    "title": "Sr. Forward Deployment Strategist",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922941002"
   },
   "greenhouse:Databricks:8923269002": {
     "company": "Databricks",
@@ -169235,6 +169289,12 @@
     "title": "Enterprise Account Executive - Grower",
     "url": "https://stripe.com/jobs/search?gh_jid=8336023"
   },
+  "greenhouse:Stripe:8336062": {
+    "company": "Stripe",
+    "first_seen": "2026-11-01T16:59:09.109833+00:00",
+    "title": "Deal Strategist, APAC",
+    "url": "https://stripe.com/jobs/search?gh_jid=8336062"
+  },
   "greenhouse:Stripe:8336819": {
     "company": "Stripe",
     "first_seen": "2026-10-30T16:55:58.667999+00:00",
@@ -212699,6 +212759,12 @@
     "title": "IT Customer Service Representative Copy 01",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/IT-Customer-Service-Representative-Copy-01_14437220"
   },
+  "workday:Accenture:14438486": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800041+00:00",
+    "title": "Network Security Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Cyber-Defense-Consultant---SME_14438486"
+  },
   "workday:Accenture:14440700": {
     "company": "Accenture",
     "first_seen": "2026-09-18T14:45:37.803017+00:00",
@@ -213262,6 +213328,12 @@
     "first_seen": "2026-08-28T14:14:10.509072+00:00",
     "title": "*AI/ML Computational Science Specialist*",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Auckland/AI---Data-Consultant_14527485"
+  },
+  "workday:Accenture:14530698": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800035+00:00",
+    "title": "PAM - CyberArk / Delinea / BeyondTrust Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Cairo-CO55-Uvenues/PAM---CyberArk---Delinea---BeyondTrust-Engineer_14530698"
   },
   "workday:Accenture:14530745": {
     "company": "Accenture",
@@ -215380,6 +215452,12 @@
     "first_seen": "2026-09-01T15:22:42.243264+00:00",
     "title": "Senior Collections Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Heredia/Senior-Collections-Analyst_14677967"
+  },
+  "workday:Accenture:14678157": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800076+00:00",
+    "title": "AWS Cloud-Native Solution Architect Associate Director",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/TX---Dallas/AWS-Cloud-Native-Solution-Architect-Associate-Director_14678157"
   },
   "workday:Accenture:14678489": {
     "company": "Accenture",
@@ -221507,11 +221585,23 @@
     "title": "Security Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Barueri-Green-Valley-Andromeda/Security-Engineer_14853831"
   },
+  "workday:Accenture:14854186": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800032+00:00",
+    "title": "Oracle Solution Architect",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dubai-One-Zaabeel-Tower/Oracle-Solution-Architect_14854186"
+  },
   "workday:Accenture:14854671": {
     "company": "Accenture",
     "first_seen": "2026-10-28T16:57:42.090829+00:00",
     "title": "Ethical Hacker",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Lisbon/Ethical-Hacker_14854671"
+  },
+  "workday:Accenture:14855247": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800074+00:00",
+    "title": "SMB Renewals Specialist (Outbound Sales Representative)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Ontario---St-Catharines/SMB-Renewals-Specialist--Outbound-Sales-Representative-_14855247"
   },
   "workday:Accenture:14855427": {
     "company": "Accenture",
@@ -221872,6 +221962,12 @@
     "first_seen": "2026-10-29T02:04:12.803902+00:00",
     "title": "Ingeniero de datos",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Ingeniero-de-datos_14885145"
+  },
+  "workday:Accenture:14885155": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800072+00:00",
+    "title": "Platform Admin/DevOPs",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Platform-Admin-DevOPs_14885155"
   },
   "workday:Accenture:14885601": {
     "company": "Accenture",
@@ -226097,6 +226193,12 @@
     "title": "Analytics and Modeling Associate Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Analytics-and-Modeling-Manager_AIOC-S01642594-1"
   },
+  "workday:Accenture:AIOC-S01642617": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800069+00:00",
+    "title": "Measurement and Reporting Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai-MDC5C/Measurement-and-Reporting-Associate_AIOC-S01642617-1"
+  },
   "workday:Accenture:AIOC-S01642697": {
     "company": "Accenture",
     "first_seen": "2026-10-31T01:58:06.978104+00:00",
@@ -226271,6 +226373,24 @@
     "title": "Delivery Operations Senior Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644510-1"
   },
+  "workday:Accenture:AIOC-S01644511": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800045+00:00",
+    "title": "Delivery Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644511-1"
+  },
+  "workday:Accenture:AIOC-S01644512": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800047+00:00",
+    "title": "Delivery Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644512-1"
+  },
+  "workday:Accenture:AIOC-S01644513": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800050+00:00",
+    "title": "Delivery Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644513-1"
+  },
   "workday:Accenture:AIOC-S01644585": {
     "company": "Accenture",
     "first_seen": "2026-10-31T01:58:06.977999+00:00",
@@ -226378,6 +226498,36 @@
     "first_seen": "2026-09-28T18:23:02.797308+00:00",
     "title": "Delivery Operations Team Lead - INC",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Team-Lead_AIOC-S01644625-1"
+  },
+  "workday:Accenture:AIOC-S01644685": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800053+00:00",
+    "title": "Financial Plan & Analysis Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01644685-1"
+  },
+  "workday:Accenture:AIOC-S01644686": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800056+00:00",
+    "title": "Financial Plan & Analysis Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01644686-1"
+  },
+  "workday:Accenture:AIOC-S01644687": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800058+00:00",
+    "title": "Financial Plan & Analysis Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01644687-1"
+  },
+  "workday:Accenture:AIOC-S01644688": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800060+00:00",
+    "title": "Financial Plan & Analysis Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01644688-1"
+  },
+  "workday:Accenture:AIOC-S01644689": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800062+00:00",
+    "title": "Financial Plan & Analysis Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Financial-Plan---Analysis-Analyst_AIOC-S01644689-1"
   },
   "workday:Accenture:AIOC-S01644775": {
     "company": "Accenture",
@@ -226750,6 +226900,18 @@
     "first_seen": "2026-09-10T00:47:19.103656+00:00",
     "title": "I&F Decision Science Practitioner Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/I-F-Decision-Sci-Practitioner-Sr-Analyst_AIOC-S01646666-1"
+  },
+  "workday:Accenture:AIOC-S01646726": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800065+00:00",
+    "title": "HR Service Delivery New Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/HR-Service-Delivery-New-Associate_AIOC-S01646726-1"
+  },
+  "workday:Accenture:AIOC-S01646735": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800067+00:00",
+    "title": "HR Service Delivery New Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/HR-Service-Delivery-New-Associate_AIOC-S01646735-1"
   },
   "workday:Accenture:AIOC-S01646759": {
     "company": "Accenture",
@@ -229426,6 +229588,12 @@
     "first_seen": "2026-09-05T00:35:53.288164+00:00",
     "title": "Procurement Practice New Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Noida/Procurement-Practice-Associate_AIOC-S01661811-1"
+  },
+  "workday:Accenture:AIOC-S01661883": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800079+00:00",
+    "title": "Controllership Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Controllership-Analyst_AIOC-S01661883-1"
   },
   "workday:Accenture:AIOC-S01661901": {
     "company": "Accenture",
@@ -364991,6 +365159,12 @@
     "title": "Openlink Endur Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Houston-1301-Fannin-Corp/Openlink-Endur-Architect_R00351836"
   },
+  "workday:Accenture:R00351838": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800038+00:00",
+    "title": "Senior AI/ML Computational Scientist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Senior-AI-ML-Computational-Scientist_R00351838"
+  },
   "workday:Accenture:R00351844": {
     "company": "Accenture",
     "first_seen": "2026-09-28T18:23:02.798024+00:00",
@@ -381497,6 +381671,12 @@
     "title": "Stagiaire Data & AI F/H",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Stagiaire-Data---AI-F-H_R00364398"
   },
+  "workday:Accenture:R00364399": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800043+00:00",
+    "title": "Quality Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Stockholm/Quality-Engineering-Lead_R00364399"
+  },
   "workday:Accenture:R00364402": {
     "company": "Accenture",
     "first_seen": "2026-10-14T15:40:44.995794+00:00",
@@ -383656,6 +383836,12 @@
     "first_seen": "2026-10-29T17:17:37.055257+00:00",
     "title": "Sr. Ad Sales Representative \u2013 Direct Advertiser Account Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/GA---Atlanta/Sr-Ad-Sales-Representative---Direct-Advertiser-Account-Manager_R00367883"
+  },
+  "workday:Accenture:R00367931": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T16:59:10.800012+00:00",
+    "title": "MEA Procurement Delivery Lead - Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/MEA-Procurement-Delivery-Lead---Senior-Manager_R00367931"
   },
   "workday:Accenture:R00367937": {
     "company": "Accenture",
@@ -548507,6 +548693,12 @@
     "title": "Senior EHS Engineer",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Santa-Clara-California-United-States-of-America/Senior-EHS-Engineer_R-103412-1"
   },
+  "workday:Johnson & Johnson:R-103416": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-01T16:59:10.873097+00:00",
+    "title": "Executive Assistant Administration & Secretarial  (Fixed Term Contract  / \u5951\u7d04\u793e\u54e1)",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/Executive-Assistant-Administration---Secretarial---Fixed-Term-Contract-----_R-103416-4"
+  },
   "workday:Johnson & Johnson:R-103419": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-10-06T17:02:13.347631+00:00",
@@ -553834,6 +554026,12 @@
     "first_seen": "2026-10-22T15:46:21.945069+00:00",
     "title": "Zonal Account Manager- CV Specialist",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Gurgaon-Haryana-India/Zonal-Account-Manager--CV-Specialist_R-105807"
+  },
+  "workday:Johnson & Johnson:R-105813": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-01T16:59:10.873080+00:00",
+    "title": "FPPF Machine operator",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Nes-Ziona-Center-District-Israel/FPPF-Machine-operator_R-105813"
   },
   "workday:Johnson & Johnson:R-105814": {
     "company": "Johnson & Johnson",
@@ -589187,6 +589385,12 @@
     "title": "Specialist \u2013 Accounting to Reporting (AtR)",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Specialist---Accounting-to-Reporting--AtR-_R418129"
   },
+  "workday:Merck:R418133": {
+    "company": "Merck",
+    "first_seen": "2026-11-01T16:59:10.926219+00:00",
+    "title": "Associate Specialist \u2013 Accounting to Reporting (AtR)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Associate-Specialist---Accounting-to-Reporting--AtR-_R418133"
+  },
   "workday:Merck:R418134": {
     "company": "Merck",
     "first_seen": "2026-09-29T16:45:04.512381+00:00",
@@ -595660,6 +595864,12 @@
     "first_seen": "2026-10-19T17:18:34.818106+00:00",
     "title": "Assoc Prin. Scientist, Clinical Research -PL Position",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/CHN---Beijing---Beijing-Wangjing-Park/Assoc-Prin-Scientist--Clinical-Research--PL-Position_R423197"
+  },
+  "workday:Merck:R423203": {
+    "company": "Merck",
+    "first_seen": "2026-11-01T16:59:10.926203+00:00",
+    "title": "Engineer/Senior Engineer (WDA)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/SGP---Singapore---Singapore-50-Tuas-West-Dr/Engineer-Senior-Engineer--WDA-_R423203"
   },
   "workday:Merck:R423217": {
     "company": "Merck",
@@ -691835,6 +692045,12 @@
     "title": "Starbucks Barista",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/285-Winston-Dr-San-FranciscoCA-94132-1921/Starbucks-Barista_R0000479369"
   },
+  "workday:Target:R0000479371": {
+    "company": "Target",
+    "first_seen": "2026-11-01T16:59:11.149848+00:00",
+    "title": "Production Controller- Flow Center- Hampton GA",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Site-Pkwy-HamptonGA-30228/Production-Controller--Flow-Center--Hampton-GA_R0000479371"
+  },
   "workday:Target:R0000479376": {
     "company": "Target",
     "first_seen": "2026-10-30T16:56:00.958722+00:00",
@@ -691925,17 +692141,35 @@
     "title": "Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Service)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8420-N-Madison-Ave-Kansas-CityMO-64155-2777/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service-_R0000479422"
   },
+  "workday:Target:R0000479429": {
+    "company": "Target",
+    "first_seen": "2026-11-01T16:59:11.149842+00:00",
+    "title": "Maintenance Technician 1 - Upstream Distribution Center - DeKalb, IL",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1111-Macom-Dr-DekalbIL-60115-8709/Maintenance-Technician-1---Upstream-Distribution-Center---DeKalb--IL_R0000479429"
+  },
   "workday:Target:R0000479431": {
     "company": "Target",
     "first_seen": "2026-10-31T01:58:07.338118+00:00",
     "title": "Sr Admin Assistant -  Space, Presentation, Transitions - Frequency & Discretionary",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Admin-Assistant----Space--Presentation--Transitions---Frequency---Discretionary_R0000479431"
   },
+  "workday:Target:R0000479432": {
+    "company": "Target",
+    "first_seen": "2026-11-01T16:59:11.149845+00:00",
+    "title": "Maintenance Technician 2 - Upstream Distribution Center - DeKalb, IL",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1111-Macom-Dr-DekalbIL-60115-8709/Maintenance-Technician-2---Upstream-Distribution-Center---DeKalb--IL_R0000479432-1"
+  },
   "workday:Target:R0000479436": {
     "company": "Target",
     "first_seen": "2026-10-31T01:58:07.338160+00:00",
     "title": "Operations Manager- Regional Distribution Center- Tifton, GA",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4502-Union-Rd-TiftonGA-31794-8543/Operations-Manager--Regional-Distribution-Center--Tifton--GA_R0000479436"
+  },
+  "workday:Target:R0000479437": {
+    "company": "Target",
+    "first_seen": "2026-11-01T16:59:11.149826+00:00",
+    "title": "Operations Manager - Fulfillment Center - Tucson, Arizona",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8940-East-Rita-Park-Drive-TucsonAZ-85747-9255/Operations-Manager---Fulfillment-Center---Tucson--Arizona_R0000479437"
   },
   "workday:Target:R0000479450": {
     "company": "Target",
