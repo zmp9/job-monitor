@@ -24251,6 +24251,12 @@
     "title": "Senior Corporate Paralegal",
     "url": "https://jobs.ashbyhq.com/ramp/314d4881-e8f2-4e61-a102-3469f9566759"
   },
+  "ashby:Ramp:318e7138-151e-4ed2-8b85-a017d234ef12": {
+    "company": "Ramp",
+    "first_seen": "2026-11-01T01:48:20.444591+00:00",
+    "title": "Manager, Mid-Market Solutions Consulting",
+    "url": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12"
+  },
   "ashby:Ramp:32fb4396-1976-45de-8137-79e6eecf40b3": {
     "company": "Ramp",
     "first_seen": "2026-08-14T15:47:10.539797+00:00",
@@ -67835,6 +67841,48 @@
     "title": "Senior TA Operations Specialist",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5280973007?gh_jid=5280973007"
   },
+  "greenhouse:Anduril Industries:5281150007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665101+00:00",
+    "title": "FPGA Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281150007?gh_jid=5281150007"
+  },
+  "greenhouse:Anduril Industries:5281151007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665105+00:00",
+    "title": "RF Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281151007?gh_jid=5281151007"
+  },
+  "greenhouse:Anduril Industries:5281152007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665111+00:00",
+    "title": "Senior RF Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281152007?gh_jid=5281152007"
+  },
+  "greenhouse:Anduril Industries:5281153007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665108+00:00",
+    "title": "Senior Electrical Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281153007?gh_jid=5281153007"
+  },
+  "greenhouse:Anduril Industries:5281154007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665082+00:00",
+    "title": "Electrical Test Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281154007?gh_jid=5281154007"
+  },
+  "greenhouse:Anduril Industries:5281155007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665117+00:00",
+    "title": "Staff Radar Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281155007?gh_jid=5281155007"
+  },
+  "greenhouse:Anduril Industries:5281156007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-01T01:48:21.665114+00:00",
+    "title": "Staff Radar Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281156007?gh_jid=5281156007"
+  },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758643+00:00",
@@ -85582,6 +85630,30 @@
     "first_seen": "2026-10-30T16:55:56.783080+00:00",
     "title": "Customer Support Specialist ll",
     "url": "https://www.coinbase.com/careers/positions/8334290?gh_jid=8334290"
+  },
+  "greenhouse:Coinbase:8334752": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-01T01:48:20.126759+00:00",
+    "title": "Customer Success Team Agent II",
+    "url": "https://www.coinbase.com/careers/positions/8334752?gh_jid=8334752"
+  },
+  "greenhouse:Coinbase:8334761": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-01T01:48:20.126741+00:00",
+    "title": "Customer Success Team Agent II",
+    "url": "https://www.coinbase.com/careers/positions/8334761?gh_jid=8334761"
+  },
+  "greenhouse:Coinbase:8334764": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-01T01:48:20.126766+00:00",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8334764?gh_jid=8334764"
+  },
+  "greenhouse:Coinbase:8334767": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-01T01:48:20.126763+00:00",
+    "title": "Customer Support Specialist II",
+    "url": "https://www.coinbase.com/careers/positions/8334767?gh_jid=8334767"
   },
   "greenhouse:Coinbase:8335547": {
     "company": "Coinbase",
@@ -176381,6 +176453,12 @@
     "title": "Product Designer, New Grad",
     "url": "https://jobs.lever.co/palantir/4c0fb3a1-8256-4d14-9a27-23727235752e"
   },
+  "lever:Palantir:4c13fdb2-308e-4185-bb6b-105d7bf38d92": {
+    "company": "Palantir",
+    "first_seen": "2026-11-01T01:48:21.586072+00:00",
+    "title": "Finance Operator",
+    "url": "https://jobs.lever.co/palantir/4c13fdb2-308e-4185-bb6b-105d7bf38d92"
+  },
   "lever:Palantir:4c956604-f861-4140-a7d2-3e39fc834c1c": {
     "company": "Palantir",
     "first_seen": "2026-10-05T19:29:18.551074+00:00",
@@ -177352,6 +177430,12 @@
     "first_seen": "2026-09-04T00:41:30.441470+00:00",
     "title": "Legal Operations Specialist",
     "url": "https://jobs.lever.co/palantir/bd500579-5e1c-441f-b42f-66822d07dbba"
+  },
+  "lever:Palantir:bd7766c4-6aea-4b37-8d47-a8864bb9bd69": {
+    "company": "Palantir",
+    "first_seen": "2026-11-01T01:48:21.586091+00:00",
+    "title": "Finance Operator Intern",
+    "url": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69"
   },
   "lever:Palantir:bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
     "company": "Palantir",
@@ -212831,6 +212915,12 @@
     "title": "SAP PS Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok-The-ParQ/SAP-PS-Consultant_14474687"
   },
+  "workday:Accenture:14474689": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878114+00:00",
+    "title": "SAP PAPM Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok-The-ParQ/SAP-PAPM-Consultant_14474689"
+  },
   "workday:Accenture:14474695": {
     "company": "Accenture",
     "first_seen": "2026-09-15T15:25:50.351592+00:00",
@@ -217595,6 +217685,12 @@
     "title": "Infrastructure Engineer Linux TER Copy 01",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mexico-City/Infrastructure-Engineer-Linux-TER-Copy-01_14734625"
   },
+  "workday:Accenture:14734676": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878056+00:00",
+    "title": "FinOps Engineer Semi Senior",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/FinOps-Engineer-Semi-Senior_14734676"
+  },
   "workday:Accenture:14734754": {
     "company": "Accenture",
     "first_seen": "2026-09-14T16:45:35.247798+00:00",
@@ -220079,6 +220175,12 @@
     "title": "Consultor SAP TM",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bogota-Carrera-7/SAP-TM_14798338"
   },
+  "workday:Accenture:14798368": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878052+00:00",
+    "title": "Asesor en Prevenci\u00f3n de Riesgos",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Asesor-en-Prevencin-de-Riesgos_14798368"
+  },
   "workday:Accenture:14798407": {
     "company": "Accenture",
     "first_seen": "2026-10-05T19:29:20.721325+00:00",
@@ -220336,6 +220438,12 @@
     "first_seen": "2026-10-30T02:23:01.542388+00:00",
     "title": "Data Scientist - Foco procesos lixiviaci\u00f3n",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Data-Scientist---Foco-procesos-lixiviacin_14808194"
+  },
+  "workday:Accenture:14809155": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878133+00:00",
+    "title": "Service Practitioner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Buenos-Aires/Service-Practitioner_14809155"
   },
   "workday:Accenture:14809221": {
     "company": "Accenture",
@@ -221429,6 +221537,12 @@
     "title": "Soporte CAES V",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Soporte-CAES-V_14859963"
   },
+  "workday:Accenture:14860973": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878058+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Application-Support-Engineer_14860973"
+  },
   "workday:Accenture:14860975": {
     "company": "Accenture",
     "first_seen": "2026-10-24T01:20:25.869269+00:00",
@@ -221512,6 +221626,12 @@
     "first_seen": "2026-10-30T16:56:00.551796+00:00",
     "title": "Ingeniero/a Naval para Sistemas de Ingenier\u00eda",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/A-Coruna-Canton-Grande/Ingeniero-a-Naval-para-Sistemas-de-Ingeniera_14863812"
+  },
+  "workday:Accenture:14863824": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878116+00:00",
+    "title": "Consultor/a de Configuraci\u00f3n PLM / Siemens Teamcenter",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Madrid/Consultor-a-de-Configuracin-PLM---Siemens-Teamcenter_14863824"
   },
   "workday:Accenture:14864682": {
     "company": "Accenture",
@@ -221764,6 +221884,12 @@
     "first_seen": "2026-10-29T02:04:12.803909+00:00",
     "title": "Data Analyst Supply Chain 6580295",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Austin-323-Congress-Avenue-Corp/Data-Analyst-Supply-Chain-6580295_14885638"
+  },
+  "workday:Accenture:14885664": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878126+00:00",
+    "title": "Python Developer 6580322",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Walnut-Creek-1255-Treat-Blvd-Corp/Python-Developer-6580322_14885664"
   },
   "workday:Accenture:14886117": {
     "company": "Accenture",
@@ -224261,6 +224387,18 @@
     "title": "Delivery Operations Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Delivery-Operations-Analyst_AIOC-S01639796-1"
   },
+  "workday:Accenture:AIOC-S01639815": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878080+00:00",
+    "title": "Delivery Operations Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639815-1"
+  },
+  "workday:Accenture:AIOC-S01639817": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878082+00:00",
+    "title": "Delivery Operations Associate",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Delivery-Operations-Associate_AIOC-S01639817-1"
+  },
   "workday:Accenture:AIOC-S01639986": {
     "company": "Accenture",
     "first_seen": "2026-10-28T02:00:23.644251+00:00",
@@ -225407,6 +225545,30 @@
     "title": "Order to Cash Operations New Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-New-Associate_AIOC-S01642175-1"
   },
+  "workday:Accenture:AIOC-S01642177": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878084+00:00",
+    "title": "Order to Cash Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01642177-1"
+  },
+  "workday:Accenture:AIOC-S01642178": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878086+00:00",
+    "title": "Order to Cash Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01642178-1"
+  },
+  "workday:Accenture:AIOC-S01642179": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878089+00:00",
+    "title": "Order to Cash Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01642179-1"
+  },
+  "workday:Accenture:AIOC-S01642180": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878091+00:00",
+    "title": "Order to Cash Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jaipur/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01642180-1"
+  },
   "workday:Accenture:AIOC-S01642192": {
     "company": "Accenture",
     "first_seen": "2026-10-28T02:00:23.644152+00:00",
@@ -226049,6 +226211,12 @@
     "title": "Recruiting Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Recruiting-Associate_AIOC-S01642718"
   },
+  "workday:Accenture:AIOC-S01642851": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878110+00:00",
+    "title": "AI/ML Computational Science Assoc Mgr",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/AI-ML-Computational-Science-Assoc-Mgr_AIOC-S01642851-1"
+  },
   "workday:Accenture:AIOC-S01643686": {
     "company": "Accenture",
     "first_seen": "2026-10-26T17:06:41.096409+00:00",
@@ -226096,6 +226264,12 @@
     "first_seen": "2026-10-14T15:40:44.995649+00:00",
     "title": "Mobilization Specialist",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Mobilization-Associate-Manager_AIOC-S01644189-1"
+  },
+  "workday:Accenture:AIOC-S01644510": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878112+00:00",
+    "title": "Delivery Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Delivery-Operations-Senior-Analyst_AIOC-S01644510-1"
   },
   "workday:Accenture:AIOC-S01644585": {
     "company": "Accenture",
@@ -226312,6 +226486,12 @@
     "first_seen": "2026-10-09T02:43:21.507107+00:00",
     "title": "Controllership Senior Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Controllership-Senior-Analyst_AIOC-S01645007-1"
+  },
+  "workday:Accenture:AIOC-S01645022": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878118+00:00",
+    "title": "Network & Svcs Operation Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Network---Svcs-Operation-Senior-Analyst_AIOC-S01645022-1"
   },
   "workday:Accenture:AIOC-S01645098": {
     "company": "Accenture",
@@ -226997,6 +227177,54 @@
     "title": "Order to Cash Operations Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru-BDC9A/Order-to-Cash-Operations-Analyst_AIOC-S01652895-1"
   },
+  "workday:Accenture:AIOC-S01653020": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878061+00:00",
+    "title": "Delivery Operations Associate Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Associate-Manager_AIOC-S01653020-1"
+  },
+  "workday:Accenture:AIOC-S01653037": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878063+00:00",
+    "title": "Delivery Operations Team Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Team-Lead_AIOC-S01653037-1"
+  },
+  "workday:Accenture:AIOC-S01653038": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878065+00:00",
+    "title": "Delivery Operations Team Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Team-Lead_AIOC-S01653038-1"
+  },
+  "workday:Accenture:AIOC-S01653039": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878067+00:00",
+    "title": "Delivery Operations Team Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Team-Lead_AIOC-S01653039-1"
+  },
+  "workday:Accenture:AIOC-S01653040": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878069+00:00",
+    "title": "Delivery Operations Team Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Delivery-Operations-Team-Lead_AIOC-S01653040-1"
+  },
+  "workday:Accenture:AIOC-S01653041": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878071+00:00",
+    "title": "Supply Chain Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Operations-Senior-Analyst_AIOC-S01653041-1"
+  },
+  "workday:Accenture:AIOC-S01653043": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878073+00:00",
+    "title": "Supply Chain Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Operations-Senior-Analyst_AIOC-S01653043-1"
+  },
+  "workday:Accenture:AIOC-S01653045": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878076+00:00",
+    "title": "Supply Chain Operations Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Operations-Senior-Analyst_AIOC-S01653045-1"
+  },
   "workday:Accenture:AIOC-S01653079": {
     "company": "Accenture",
     "first_seen": "2026-09-06T13:54:52.710231+00:00",
@@ -227032,6 +227260,12 @@
     "first_seen": "2026-10-08T02:26:10.645063+00:00",
     "title": "Network & Svcs Operation New Associate",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Network---Svcs-Operation-Associate_AIOC-S01653088-1"
+  },
+  "workday:Accenture:AIOC-S01653141": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878120+00:00",
+    "title": "Record to Report Ops Specialist",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Record-to-Report-Ops-Assoc-Manager_AIOC-S01653141-1"
   },
   "workday:Accenture:AIOC-S01653200": {
     "company": "Accenture",
@@ -228623,6 +228857,12 @@
     "title": "Order to Cash Operations Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-Analyst_AIOC-S01660277-1"
   },
+  "workday:Accenture:AIOC-S01660318": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878128+00:00",
+    "title": "SW Business Analysis Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/SW-Business-Analysis-Senior-Analyst_AIOC-S01660318-1"
+  },
   "workday:Accenture:AIOC-S01660582": {
     "company": "Accenture",
     "first_seen": "2026-09-17T01:04:18.294796+00:00",
@@ -229006,6 +229246,54 @@
     "first_seen": "2026-08-28T14:14:10.508990+00:00",
     "title": "Delivery Operations Associate Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mumbai/Delivery-Lead-Manager_AIOC-S01660860-1"
+  },
+  "workday:Accenture:AIOC-S01660938": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878102+00:00",
+    "title": "Supply Chain Plan&Analyt Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01660938-1"
+  },
+  "workday:Accenture:AIOC-S01660939": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878104+00:00",
+    "title": "Supply Chain Plan&Analyt Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01660939-1"
+  },
+  "workday:Accenture:AIOC-S01660940": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878106+00:00",
+    "title": "Supply Chain Plan&Analyt Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01660940-1"
+  },
+  "workday:Accenture:AIOC-S01660941": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878108+00:00",
+    "title": "Supply Chain Plan&Analyt Senior Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Senior-Analyst_AIOC-S01660941-1"
+  },
+  "workday:Accenture:AIOC-S01660943": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878093+00:00",
+    "title": "Supply Chain Plan&Analyt Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01660943-1"
+  },
+  "workday:Accenture:AIOC-S01660944": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878096+00:00",
+    "title": "Supply Chain Plan&Analyt Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01660944-1"
+  },
+  "workday:Accenture:AIOC-S01660945": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878098+00:00",
+    "title": "Supply Chain Plan&Analyt Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01660945-1"
+  },
+  "workday:Accenture:AIOC-S01660946": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878100+00:00",
+    "title": "Supply Chain Plan&Analyt Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Navi-Mumbai/Supply-Chain-Plan-Analyt-Analyst_AIOC-S01660946-1"
   },
   "workday:Accenture:AIOC-S01660953": {
     "company": "Accenture",
@@ -347993,6 +348281,12 @@
     "title": "Application Support Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1507755-S428165"
   },
+  "workday:Accenture:ATCP-1507971-S438446": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878135+00:00",
+    "title": "Application Support Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1507971-S438446"
+  },
   "workday:Accenture:ATCP-1508495-S428164": {
     "company": "Accenture",
     "first_seen": "2026-09-18T14:45:37.803433+00:00",
@@ -364967,11 +365261,23 @@
     "title": "Analista de Cuentas por Pagar (PTP)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Analista-de-Procure-to-Pay--PTP-_R00352234"
   },
+  "workday:Accenture:R00352237": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878078+00:00",
+    "title": "Consultant Senior Supply Chain CL6",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-Senior-Supply-Chain-F-H_R00352237-1"
+  },
   "workday:Accenture:R00352239": {
     "company": "Accenture",
     "first_seen": "2026-09-09T15:00:11.983348+00:00",
     "title": "Customer Service with Italian",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bucharest/Customer-Service-with-Italian_R00352239"
+  },
+  "workday:Accenture:R00352243": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878124+00:00",
+    "title": "Analistas Contables (RTR)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Medellin-Rivana-2/Asociados---Analistas-de-Record-to-Report--RTR-_R00352243-1"
   },
   "workday:Accenture:R00352244": {
     "company": "Accenture",
@@ -377369,6 +377675,12 @@
     "title": "Digital Marketing - Account Manager - Nordic Speaker",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Digital-Marketing---Account-Manager---Nordic-Speaker_R00361231"
   },
+  "workday:Accenture:R00361243": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878137+00:00",
+    "title": "Front End Engineering Manager (GenAI experience)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London-30-Farringdon-Road/Front-End-Engineering-Manager--GenAI-experience-_R00361243"
+  },
   "workday:Accenture:R00361244": {
     "company": "Accenture",
     "first_seen": "2026-10-01T17:15:06.261881+00:00",
@@ -383129,6 +383441,12 @@
     "title": "Apprentice.io MES Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Boston-888-Boylston-Corp/Apprenticeio-MES-Consultant_R00367570"
   },
+  "workday:Accenture:R00367571": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878122+00:00",
+    "title": "CCaaS Developer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Montreal-5-Place-Ville-Marie-Corp/CCaaS-Developer_R00367571"
+  },
   "workday:Accenture:R00367574": {
     "company": "Accenture",
     "first_seen": "2026-10-28T02:00:23.643956+00:00",
@@ -383447,6 +383765,12 @@
     "title": "Banco de Talentos - Opera\u00e7\u00f5es | Oportunidades para Pessoas com Defici\u00eancia (PCD) - H\u00edbrido",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Banco-de-Talentos---Operaes---Oportunidades-para-Pessoas-com-Deficincia--PCD----Hbrido_R00368160"
   },
+  "workday:Accenture:R00368174": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878035+00:00",
+    "title": "Consultor(a) S\u00eanior CPI",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pernambuco---Recife/Consultor-a--Snior-CPI_R00368174"
+  },
   "workday:Accenture:R00368178": {
     "company": "Accenture",
     "first_seen": "2026-10-30T02:23:01.542376+00:00",
@@ -383530,6 +383854,12 @@
     "first_seen": "2026-10-30T16:56:00.551658+00:00",
     "title": "Sp\u00e9cialiste Delmia Apriso F/H",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Blagnac/Spcialiste-Delmia-Apriso-F-H_R00368419"
+  },
+  "workday:Accenture:R00368454": {
+    "company": "Accenture",
+    "first_seen": "2026-11-01T01:48:23.878131+00:00",
+    "title": "Geospatial Data Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Budapest-Millennium-Gardens/Geospatial-Data-Engineer_R00368454"
   },
   "workday:Accenture:R00368459": {
     "company": "Accenture",
@@ -517253,6 +517583,18 @@
     "title": "Lead Rental Technician - Old Bridge, NJ",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/NEW-JERSEY---VIRTUAL---NJ01/Lead-Rental-Technician---Old-Bridge--NJ_Req197587"
   },
+  "workday:Home Depot:Req197592": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-01T01:48:24.323376+00:00",
+    "title": "DC AREA SUPERVISOR",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/BOSTON-FDCBDC---5238/DC-AREA-SUPERVISOR_Req197592"
+  },
+  "workday:Home Depot:Req197610": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-01T01:48:24.323378+00:00",
+    "title": "DC Area Supervisor",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/HOUSTON-FDCBDC---5859/DC-Area-Supervisor_Req197610-1"
+  },
   "workday:Home Depot:Req197624": {
     "company": "Home Depot",
     "first_seen": "2026-10-30T16:56:01.012976+00:00",
@@ -517318,6 +517660,18 @@
     "first_seen": "2026-10-31T01:58:07.386915+00:00",
     "title": "Manager, Learning - High-Potential and Executive Development",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/GEORGIA---VIRTUAL---GA01/Manager--Learning---High-Potential-and-Executive-Development_Req197727"
+  },
+  "workday:Home Depot:Req197733": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-01T01:48:24.323373+00:00",
+    "title": "DC Area Supervisor",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/PERRIS-FDCBDC---5914/DC-Area-Supervisor_Req197733"
+  },
+  "workday:Home Depot:Req197735": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-01T01:48:24.323355+00:00",
+    "title": "DC AREA SUPERVISOR",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/IRWINDALE-FDC---5987/DC-AREA-SUPERVISOR_Req197735"
   },
   "workday:Home Depot:ReqPF179074": {
     "company": "Home Depot",
