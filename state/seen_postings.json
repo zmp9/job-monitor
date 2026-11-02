@@ -15923,6 +15923,12 @@
     "title": "Corporate Security GSOC Operator",
     "url": "https://jobs.ashbyhq.com/openai/5d37e9c8-f9f0-46b6-ba6d-ee6e6ead8d17"
   },
+  "ashby:OpenAI:5d40f698-176e-455f-a4fd-de2d8cfec044": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-02T02:02:33.734590+00:00",
+    "title": "Controls Engineer: Power Generation",
+    "url": "https://jobs.ashbyhq.com/openai/5d40f698-176e-455f-a4fd-de2d8cfec044"
+  },
   "ashby:OpenAI:5d5a4116-b409-4676-b357-7094ad87d15d": {
     "company": "OpenAI",
     "first_seen": "2026-10-06T02:39:54.367815+00:00",
@@ -18328,6 +18334,12 @@
     "first_seen": "2026-08-15T00:46:08.283680+00:00",
     "title": "Demo Studio Lead",
     "url": "https://jobs.ashbyhq.com/openai/a452882b-bb56-4a99-83e6-b8b5d21db3ee"
+  },
+  "ashby:OpenAI:a46ffc60-39c6-4b1e-bd0f-9c33a8b06703": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-02T02:02:33.734570+00:00",
+    "title": "Data Center Controls Engineer (BMS / EPMS)",
+    "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
   },
   "ashby:OpenAI:a4787fb2-94d7-4b8e-b82c-093663e4ee85": {
     "company": "OpenAI",
@@ -30568,6 +30580,12 @@
     "first_seen": "2026-09-24T15:41:21.021978+00:00",
     "title": "Associate Solution Engineer",
     "url": "https://jobs.ashbyhq.com/snowflake/2deca431-fecf-45b6-be07-0d1b5c859393"
+  },
+  "ashby:Snowflake:2ebec9d1-055f-4e47-93ae-29ad19e23967": {
+    "company": "Snowflake",
+    "first_seen": "2026-11-02T02:02:34.529227+00:00",
+    "title": "Senior RVP, Solution Engineering ASEAN",
+    "url": "https://jobs.ashbyhq.com/snowflake/2ebec9d1-055f-4e47-93ae-29ad19e23967"
   },
   "ashby:Snowflake:2ecf1bd5-93aa-4021-8876-df6454d59e94": {
     "company": "Snowflake",
@@ -67073,6 +67091,12 @@
     "title": "Senior Software Engineer- Machine Learning",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007"
   },
+  "greenhouse:Anduril Industries:5274649007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735927+00:00",
+    "title": "Senior Software Engineer- Machine Learning",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274649007?gh_jid=5274649007"
+  },
   "greenhouse:Anduril Industries:5274650007": {
     "company": "Anduril Industries",
     "first_seen": "2026-10-25T14:44:30.439001+00:00",
@@ -67084,6 +67108,18 @@
     "first_seen": "2026-10-25T14:44:30.438986+00:00",
     "title": "Senior TPM, Mathematical Software & Algorithms",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274651007?gh_jid=5274651007"
+  },
+  "greenhouse:Anduril Industries:5274652007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735929+00:00",
+    "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274652007?gh_jid=5274652007"
+  },
+  "greenhouse:Anduril Industries:5274653007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735932+00:00",
+    "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274653007?gh_jid=5274653007"
   },
   "greenhouse:Anduril Industries:5274685007": {
     "company": "Anduril Industries",
@@ -67894,6 +67930,138 @@
     "first_seen": "2026-11-01T01:48:21.665114+00:00",
     "title": "Staff Radar Engineer",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281156007?gh_jid=5281156007"
+  },
+  "greenhouse:Anduril Industries:5281204007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735905+00:00",
+    "title": "Research Scientist, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281204007?gh_jid=5281204007"
+  },
+  "greenhouse:Anduril Industries:5281205007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735909+00:00",
+    "title": "Research Scientist, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281205007?gh_jid=5281205007"
+  },
+  "greenhouse:Anduril Industries:5281206007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735914+00:00",
+    "title": "Senior Research Scientist, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281206007?gh_jid=5281206007"
+  },
+  "greenhouse:Anduril Industries:5281207007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735916+00:00",
+    "title": "Senior Research Scientist, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281207007?gh_jid=5281207007"
+  },
+  "greenhouse:Anduril Industries:5281208007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735887+00:00",
+    "title": "GNC Software Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281208007?gh_jid=5281208007"
+  },
+  "greenhouse:Anduril Industries:5281209007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735911+00:00",
+    "title": "Senior GNC Software Engineer",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281209007?gh_jid=5281209007"
+  },
+  "greenhouse:Anduril Industries:5281210007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735922+00:00",
+    "title": "Senior Software Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281210007?gh_jid=5281210007"
+  },
+  "greenhouse:Anduril Industries:5281211007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735919+00:00",
+    "title": "Senior Software Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281211007?gh_jid=5281211007"
+  },
+  "greenhouse:Anduril Industries:5281212007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735934+00:00",
+    "title": "Senior Software Engineer, Rust",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281212007?gh_jid=5281212007"
+  },
+  "greenhouse:Anduril Industries:5281213007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735936+00:00",
+    "title": "Senior Software Engineer, Rust",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281213007?gh_jid=5281213007"
+  },
+  "greenhouse:Anduril Industries:5281214007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735947+00:00",
+    "title": "Software Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007"
+  },
+  "greenhouse:Anduril Industries:5281215007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735945+00:00",
+    "title": "Software Engineer, Battlespace Awareness",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281215007?gh_jid=5281215007"
+  },
+  "greenhouse:Anduril Industries:5281216007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735963+00:00",
+    "title": "Software Engineer, Rust",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007"
+  },
+  "greenhouse:Anduril Industries:5281217007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735966+00:00",
+    "title": "Software Engineer, Rust",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281217007?gh_jid=5281217007"
+  },
+  "greenhouse:Anduril Industries:5281218007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735940+00:00",
+    "title": "Senior TPM, Mathematical Software & Algorithms",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281218007?gh_jid=5281218007"
+  },
+  "greenhouse:Anduril Industries:5281219007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735943+00:00",
+    "title": "Senior TPM, Mathematical Software & Algorithms",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281219007?gh_jid=5281219007"
+  },
+  "greenhouse:Anduril Industries:5281220007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735938+00:00",
+    "title": "Senior TPM, Mathematical Software & Algorithms",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281220007?gh_jid=5281220007"
+  },
+  "greenhouse:Anduril Industries:5281221007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735954+00:00",
+    "title": "Software Engineer, Robotics Tracking and Fusion",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281221007?gh_jid=5281221007"
+  },
+  "greenhouse:Anduril Industries:5281222007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735957+00:00",
+    "title": "Software Engineer, Robotics Tracking and Fusion",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281222007?gh_jid=5281222007"
+  },
+  "greenhouse:Anduril Industries:5281223007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735925+00:00",
+    "title": "Senior Software Engineer- Infrastructure",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281223007?gh_jid=5281223007"
+  },
+  "greenhouse:Anduril Industries:5281224007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735950+00:00",
+    "title": "Software Engineer- Infrastructure",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007"
+  },
+  "greenhouse:Anduril Industries:5281225007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-02T02:02:32.735952+00:00",
+    "title": "Software Engineer- Machine Learning",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007"
   },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
@@ -129515,6 +129683,12 @@
     "title": "Senior Program Manager II - Space Sensing & Domain Awareness (TS/SCI)",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055778003"
   },
+  "greenhouse:Rocket Lab:8055818003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-11-02T02:02:32.021517+00:00",
+    "title": "Senior Production Planner",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8055818003"
+  },
   "greenhouse:Rocket Lab:8055821003": {
     "company": "Rocket Lab",
     "first_seen": "2026-10-29T02:04:09.835342+00:00",
@@ -188387,6 +188561,12 @@
     "title": "Senior Customer Relations Officer",
     "url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/Croydon/Senior-Customer-Relations-Officer_JR2604036-1"
   },
+  "workday:AIG:JR2604044": {
+    "company": "AIG",
+    "first_seen": "2026-11-02T02:02:34.921947+00:00",
+    "title": "FP&A Analyst",
+    "url": "https://aig.wd1.myworkdayjobs.com/en-US/aig/job/Seoul/FP-A-Analyst_JR2604044"
+  },
   "workday:AIG:JR2604055": {
     "company": "AIG",
     "first_seen": "2026-10-26T17:06:41.036244+00:00",
@@ -212717,6 +212897,12 @@
     "title": "Applied & Agentic AI Junior Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Torino/Applied---Agentic-AI-Junior-Software-Engineer_14423162"
   },
+  "workday:Accenture:14426073": {
+    "company": "Accenture",
+    "first_seen": "2026-11-02T02:02:34.990609+00:00",
+    "title": "IAM Analyst- Saudi Nationals",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Riyadh/Identity-Management-Consultant----SME_14426073"
+  },
   "workday:Accenture:14429209": {
     "company": "Accenture",
     "first_seen": "2026-09-10T00:47:19.103445+00:00",
@@ -220630,6 +220816,12 @@
     "first_seen": "2026-10-07T17:39:20.191384+00:00",
     "title": "Responsable Ingenieria Redes MT/BT - Norte 1",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bilbao/Responsable-Ingenieria-Redes-MT-BT---Norte-1_14812113"
+  },
+  "workday:Accenture:14812141": {
+    "company": "Accenture",
+    "first_seen": "2026-11-02T02:02:34.990607+00:00",
+    "title": "Full Stack Developer - AI Products (AI&Data)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Full-Stack-Developer---AI-Products--AI-Data-_14812141"
   },
   "workday:Accenture:14812666": {
     "company": "Accenture",
@@ -379373,6 +379565,12 @@
     "title": "Automotive Management Consultant",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Automotive-Management-Consultant_R00362436"
   },
+  "workday:Accenture:R00362439": {
+    "company": "Accenture",
+    "first_seen": "2026-11-02T02:02:34.990604+00:00",
+    "title": "Lead Software Engineer - Scotland",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Glasgow/Lead-Software-Engineer---Scotland_R00362439"
+  },
   "workday:Accenture:R00362444": {
     "company": "Accenture",
     "first_seen": "2026-10-08T17:41:45.773912+00:00",
@@ -381839,6 +382037,12 @@
     "title": "Senior AI Native Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Senior-AI-Native-Software-Engineer_R00364628-1"
   },
+  "workday:Accenture:R00364630": {
+    "company": "Accenture",
+    "first_seen": "2026-11-02T02:02:34.990600+00:00",
+    "title": "Pool Analyst - Strategy Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Pool-Analyst---Strategy-Analyst_R00364630"
+  },
   "workday:Accenture:R00364631": {
     "company": "Accenture",
     "first_seen": "2026-10-15T15:28:36.152445+00:00",
@@ -384004,6 +384208,12 @@
     "first_seen": "2026-10-30T16:56:00.552323+00:00",
     "title": "Data Center Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok-Sathorn-Prime-Tower/Data-Center-Engineer_R00368223"
+  },
+  "workday:Accenture:R00368226": {
+    "company": "Accenture",
+    "first_seen": "2026-11-02T02:02:34.990581+00:00",
+    "title": "Social Integrated Producer - Droga5 Sydney",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sydney-International-House-3-Sussex-St/Social-Integrated-Producer---Droga5-Sydney_R00368226-1"
   },
   "workday:Accenture:R00368227": {
     "company": "Accenture",
@@ -437573,6 +437783,12 @@
     "title": "IOH Member Claims Representative - Cigna Healthcare",
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Kenya-One-Africa-Place/IOH-Member-Claims-Representative---Cigna-Healthcare_26012973"
   },
+  "workday:Cigna:26012976": {
+    "company": "Cigna",
+    "first_seen": "2026-11-02T02:02:35.203987+00:00",
+    "title": "Intake Care Associate Analyst- Cigna Healthcare",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Kenya-One-Africa-Place/Intake-Care-Associate-Analyst--Cigna-Healthcare_26012976"
+  },
   "workday:Cigna:26012979": {
     "company": "Cigna",
     "first_seen": "2026-10-23T15:37:17.344760+00:00",
@@ -446224,6 +446440,18 @@
     "first_seen": "2026-10-27T16:10:18.556342+00:00",
     "title": "Banamex  Ejecutivo de  Cuenta Pyme - Mexicali, BC",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mexicali-Baja-California-Mexico/Banamex--Ejecutivo-de--Cuenta-Pyme---Mexicali--BC_261005412-1"
+  },
+  "workday:Citi:261005413": {
+    "company": "Citi",
+    "first_seen": "2026-11-02T02:02:34.862934+00:00",
+    "title": "Java Full Stack Software Engineer - Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005413-1"
+  },
+  "workday:Citi:261005415": {
+    "company": "Citi",
+    "first_seen": "2026-11-02T02:02:34.862951+00:00",
+    "title": "Java Full Stack Software Engineer - Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005415"
   },
   "workday:Citi:261005420": {
     "company": "Citi",
@@ -501412,6 +501640,12 @@
     "first_seen": "2026-10-01T01:47:01.607016+00:00",
     "title": "Patient Enrollment Specialist I",
     "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/MO-ST-LOUIS-100-S-4TH-ST/Patient-Enrollment-Specialist-I_JR207236"
+  },
+  "workday:Elevance Health:JR207246": {
+    "company": "Elevance Health",
+    "first_seen": "2026-11-02T02:02:35.225595+00:00",
+    "title": "Medical Management Clinician Sr",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Medical-Management-Clinician-Sr_JR207246-1"
   },
   "workday:Elevance Health:JR207264": {
     "company": "Elevance Health",
@@ -557405,6 +557639,12 @@
     "title": "Principal Data Scientist \u2013 DDSAI GD",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Hyderabad-Andhra-Pradesh-India/Principal-Data-Scientist---DDSAI-GD_R-107968-1"
   },
+  "workday:Johnson & Johnson:R-107969": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-02T02:02:35.072293+00:00",
+    "title": "Innovative Medicine_National Sales Manager_Lung Cancer",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Taipei-City-Taiwan/Innovative-Medicine-National-Sales-Manager-Lung-Cancer_R-107969"
+  },
   "workday:Johnson & Johnson:R-107982": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-10-30T16:56:00.635956+00:00",
@@ -574949,6 +575189,18 @@
     "title": "Manager, Accounting",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Manager--Accounting_R-294898"
   },
+  "workday:Mastercard:R-294946": {
+    "company": "Mastercard",
+    "first_seen": "2026-11-02T02:02:34.898461+00:00",
+    "title": "Managing Consultant, Client Deployment, Merchant Partnerships & Loyalty",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Taipei-Taiwan/Managing-Consultant--Client-Deployment--Merchant-Partnerships---Loyalty_R-294946"
+  },
+  "workday:Mastercard:R-294989": {
+    "company": "Mastercard",
+    "first_seen": "2026-11-02T02:02:34.898445+00:00",
+    "title": "Director, Services Business Development",
+    "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Beijing-China/Director--Services-Business-Development_R-294989"
+  },
   "workday:Merck:R343075": {
     "company": "Merck",
     "first_seen": "2026-09-23T01:12:12.274826+00:00",
@@ -590735,6 +590987,18 @@
     "title": "Associate Director Facility Management",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/NLD---North-Holland---Haarlem/Associate-Director-Facility-Management_R419037-1"
   },
+  "workday:Merck:R419039": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132361+00:00",
+    "title": "Senior Pharmareferent Onkologie (m/w/d) Gebiet: Paderborn - Bielefeld - M\u00fcnster - Osnabr\u00fcck \u2013 Dortmund",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/DEU---Bavaria---Munich/Senior-Pharmareferent-Onkologie--m-w-d--Gebiet--Paderborn---Bielefeld---Mnster---Osnabrck---Dortmund_R419039"
+  },
+  "workday:Merck:R419041": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132359+00:00",
+    "title": "Senior Pharmareferent Onkologie (m/w/d) Gebiet: Essen, Wuppertal, Siegen",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/DEU---Bavaria---Munich/Senior-Pharmareferent-Onkologie--m-w-d--Gebiet--Essen--Wuppertal--Siegen_R419041"
+  },
   "workday:Merck:R419047": {
     "company": "Merck",
     "first_seen": "2026-10-15T15:28:36.307542+00:00",
@@ -591388,6 +591652,12 @@
     "first_seen": "2026-09-30T16:38:19.067208+00:00",
     "title": "Executive Director, Talent Enablement Lead",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Executive-Director--Talent-Enablement-Lead_R419637"
+  },
+  "workday:Merck:R419641": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132336+00:00",
+    "title": "Senior Specialist, Indirect Site Services Procurement",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Kansas---De-Soto/Senior-Specialist--Indirect-Site-Services-Procurement_R419641"
   },
   "workday:Merck:R419654": {
     "company": "Merck",
@@ -595901,6 +596171,12 @@
     "title": "Stage nel dipartimento di Marketing Vaccini - HPV",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ITA---Lazio---Roma/Stage-nel-dipartimento-di-Marketing-Vaccini---HPV_R423233-1"
   },
+  "workday:Merck:R423234": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132363+00:00",
+    "title": "CRA Manager",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/GRC---Attica---Alimos/CRA-Manager_R423234-2"
+  },
   "workday:Merck:R423257": {
     "company": "Merck",
     "first_seen": "2026-10-29T17:17:37.205155+00:00",
@@ -595948,6 +596224,12 @@
     "first_seen": "2026-10-20T01:30:38.796079+00:00",
     "title": "U.S. Director of Medical Affairs (US DMA) - Ophthalmology",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---REMOTE---REMOTE/US-Director-of-Medical-Affairs--US-DMA----Ophthalmology_R423290-1"
+  },
+  "workday:Merck:R423291": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132352+00:00",
+    "title": "Brand & Customer Manager HPV \u2013 Erwachsene / Gyn\u00e4kologie (m/f/d)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/DEU---Bavaria---Munich/Brand---Customer-Manager-HPV---Erwachsene---Gynkologie--m-f-d-_R423291"
   },
   "workday:Merck:R423294": {
     "company": "Merck",
@@ -596452,6 +596734,12 @@
     "first_seen": "2026-10-22T01:10:22.880907+00:00",
     "title": "Oncology Sales Specialist - OKC/North TX",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Oklahoma---Oklahoma-City/Oncology-Sales-Specialist---OKC-North-TX_R423684-2"
+  },
+  "workday:Merck:R423689": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132356+00:00",
+    "title": "CMMS Specialist (m/w/d)",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/AUT---Lower-Austria---Krems-An-Der-Donau/CMMS-Specialist--m-w-d-_R423689"
   },
   "workday:Merck:R423695": {
     "company": "Merck",
@@ -597166,6 +597454,12 @@
     "first_seen": "2026-10-28T16:57:42.200774+00:00",
     "title": "Sr. Customer Rep., Sales MAH",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Sr-Customer-Rep--Sales-MAH_R424652"
+  },
+  "workday:Merck:R424653": {
+    "company": "Merck",
+    "first_seen": "2026-11-02T02:02:35.132365+00:00",
+    "title": "Regulatory Affairs Manager",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/VNM---Hanoi---HaNoi-Capital-Place/Regulatory-Affairs-Manager_R424653-1"
   },
   "workday:Merck:R424686": {
     "company": "Merck",
@@ -626776,6 +627070,12 @@
     "first_seen": "2026-10-26T17:06:41.399618+00:00",
     "title": "Lead Technical Product Manager, ITC",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Lead-Technical-Product-Manager--ITC_R-96314-1"
+  },
+  "workday:Nike:R-96318": {
+    "company": "Nike",
+    "first_seen": "2026-11-02T02:02:35.274369+00:00",
+    "title": "Lead Retail Associate",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/NCS-MACAU-GUANZHA/Lead-Retail-Associate_R-96318-1"
   },
   "workday:Nike:R-96321": {
     "company": "Nike",
