@@ -1,6 +1,6 @@
 # Open matches
 
-_60 postings scoring >= 40, of 33183 scanned. Updated 2026-11-02 20:37 UTC._
+_57 postings scoring >= 40, of 33261 scanned. Updated 2026-11-03 03:49 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -15,10 +15,7 @@ _60 postings scoring >= 40, of 33183 scanned. Updated 2026-11-02 20:37 UTC._
 | 71 | [(2028 Bachelor's/Master's graduates) Economics Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8120300) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; New York, NY, United States; Oakland, CA, United States; Salt Lake City, UT, United States; Washington, DC, United States |
 | 70 | [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) | DRW | Chicago, IL |
 | 66 | [Markets - Sales and Trading, Summer Analyst, New York City - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Markets---Sales-and-Trading--Summer-Analyst--New-York-City---US--2027_25928736) | Citi | New York New York United States |
-| 65 | [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | Schonfeld | New York, New York, United States |
 | 65 | [2027 DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | Schonfeld | New York, New York, United States |
-| 65 | [2027 Systematic COO Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172059) | Schonfeld | New York, New York, United States |
-| 63 | [2027 Core Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8172070) | Schonfeld | Miami, Florida, United States |
 | 61 | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Coinbase | Hybrid - New York, NY |
 | 60 | [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) | SoFi | United States |
 | 60 | [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) | Accenture | n/a |
@@ -71,11 +68,11 @@ _60 postings scoring >= 40, of 33183 scanned. Updated 2026-11-02 20:37 UTC._
 - **Zipline** (8) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
 - **Coinbase** (7) — top [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) at 61
 - **Charles River Associates** (5) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
-- **Schonfeld** (5) — top [2027 Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) at 65
 - **Point72** (4) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
 - **Merck** (4) — top [2027 Future Talent Program - Manufacturing Strategy, Business Development and Alliances (MSBDA) Intern](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Manufacturing-Strategy--Business-Development-and-Alliances--MSBDA--Intern_R418677) at 60
 - **AQR Capital Management** (3) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Ursa Major** (3) — top [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) at 57
+- **Schonfeld** (2) — top [2027 DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) at 65
 - **Cohere** (1) — top [Revenue Operations Intern (Winter, 2027)](https://jobs.ashbyhq.com/cohere/f3290fb2-66f1-44c7-9824-3f416f44af5a) at 74
 - **DRW** (1) — top [Venture Capital Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7993004) at 70
 - **SoFi** (1) — top [Staff Credit Policy Analyst – Condo, Co-op & Project Review](https://sofi.com/careers/job/7698678003?gh_jid=7698678003) at 60
