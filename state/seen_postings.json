@@ -26795,6 +26795,12 @@
     "title": "Senior Recruiter | GTM Expansion",
     "url": "https://jobs.ashbyhq.com/ramp/f99558f9-639c-4f36-81af-2d0910703560"
   },
+  "ashby:Ramp:f9d015d7-d5cb-450b-9936-afd8d1c4f4cc": {
+    "company": "Ramp",
+    "first_seen": "2026-11-07T16:43:14.964539+00:00",
+    "title": "Manager, Account Executive, Strategic",
+    "url": "https://jobs.ashbyhq.com/ramp/f9d015d7-d5cb-450b-9936-afd8d1c4f4cc"
+  },
   "ashby:Ramp:fbc42a9a-6fc2-4061-9511-502ee4f2a60a": {
     "company": "Ramp",
     "first_seen": "2026-08-14T15:47:10.539652+00:00",
@@ -92315,6 +92321,12 @@
     "title": "Sr. Software Engineer - Backend",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002"
   },
+  "greenhouse:Databricks:7647294002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-07T16:43:16.620511+00:00",
+    "title": "Senior Software Engineer - Backend Infrastructure",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002"
+  },
   "greenhouse:Databricks:7647353002": {
     "company": "Databricks",
     "first_seen": "2026-08-14T15:48:08.717755+00:00",
@@ -99017,6 +99029,12 @@
     "title": "Enterprise Account Executive - Telecommunications",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8808527002"
   },
+  "greenhouse:Databricks:8811059002": {
+    "company": "Databricks",
+    "first_seen": "2026-11-07T16:43:16.620530+00:00",
+    "title": "Tech Sourcer (Contract)",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8811059002"
+  },
   "greenhouse:Databricks:8811265002": {
     "company": "Databricks",
     "first_seen": "2026-10-08T02:26:09.527763+00:00",
@@ -104188,6 +104206,12 @@
     "first_seen": "2026-11-06T17:47:25.593512+00:00",
     "title": "Account Executive - Figma Weave (London, United Kingdom)",
     "url": "https://boards.greenhouse.io/figma/jobs/6243897004?gh_jid=6243897004"
+  },
+  "greenhouse:Figma:6245293004": {
+    "company": "Figma",
+    "first_seen": "2026-11-07T16:43:16.695131+00:00",
+    "title": "Manager, Sales - Figma Weave (London, United Kingdom)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6245293004?gh_jid=6245293004"
   },
   "greenhouse:Flexport:5578487": {
     "company": "Flexport",
@@ -222611,6 +222635,12 @@
     "title": "Field Sales Representative",
     "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Lafayette-Louisiana/Field-Sales-Representative_R-128064"
   },
+  "workday:AT&T:R-128066": {
+    "company": "AT&T",
+    "first_seen": "2026-11-07T16:43:19.098835+00:00",
+    "title": "Machine Operator",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Candler-North-Carolina/Machine-Operator_R-128066"
+  },
   "workday:AT&T:R-128068": {
     "company": "AT&T",
     "first_seen": "2026-11-06T17:47:27.937441+00:00",
@@ -222640,6 +222670,12 @@
     "first_seen": "2026-11-07T02:30:58.002589+00:00",
     "title": "Retail Sales Consultant",
     "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Abilene-Texas/Retail-Sales-Consultant_R-128112"
+  },
+  "workday:AT&T:R-128113": {
+    "company": "AT&T",
+    "first_seen": "2026-11-07T16:43:19.098852+00:00",
+    "title": "Retail Sales Consultant",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Abilene-Texas/Retail-Sales-Consultant_R-128113"
   },
   "workday:AT&T:R-82426": {
     "company": "AT&T",
@@ -295697,6 +295733,12 @@
     "title": "Data Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Data-Architect_ATCI-5310139-S2030223-1"
   },
+  "workday:Accenture:ATCI-5310553-S1940390": {
+    "company": "Accenture",
+    "first_seen": "2026-11-07T16:43:18.566985+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5310553-S1940390-1"
+  },
   "workday:Accenture:ATCI-5310763-S1937413": {
     "company": "Accenture",
     "first_seen": "2026-09-08T14:51:53.627705+00:00",
@@ -311315,6 +311357,12 @@
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Chennai/Custom-Software-Engineer_ATCI-5481160-S2026261-1"
   },
+  "workday:Accenture:ATCI-5481381-S2005172": {
+    "company": "Accenture",
+    "first_seen": "2026-11-07T16:43:18.566999+00:00",
+    "title": "Product Owner",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Product-Owner_ATCI-5481381-S2005172-1"
+  },
   "workday:Accenture:ATCI-5481386-S1999692": {
     "company": "Accenture",
     "first_seen": "2026-09-01T15:22:42.243569+00:00",
@@ -315010,6 +315058,12 @@
     "first_seen": "2026-09-03T14:51:21.137212+00:00",
     "title": "Infra Tech Support Practitioner",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5534869-S2027276-1"
+  },
+  "workday:Accenture:ATCI-5534973-S2020014": {
+    "company": "Accenture",
+    "first_seen": "2026-11-07T16:43:18.566995+00:00",
+    "title": "Custom Software Engineering Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineering-Lead_ATCI-5534973-S2020014-1"
   },
   "workday:Accenture:ATCI-5535011-S2025719": {
     "company": "Accenture",
@@ -366370,6 +366424,12 @@
     "first_seen": "2026-11-02T20:37:11.444060+00:00",
     "title": "Custom Software Engineer",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5850707-S2073127-1"
+  },
+  "workday:Accenture:ATCI-5850707-S2074841": {
+    "company": "Accenture",
+    "first_seen": "2026-11-07T16:43:18.567001+00:00",
+    "title": "",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers"
   },
   "workday:Accenture:ATCI-5850815-S2074223": {
     "company": "Accenture",
@@ -471124,6 +471184,12 @@
     "first_seen": "2026-10-19T17:18:34.643985+00:00",
     "title": "Personal Banker SAFE Act, Flatbush Branch",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Brooklyn-New-York-United-States/Personal-Banker-SAFE-Act--Flatbush-Branch_261002847"
+  },
+  "workday:Citi:261002849": {
+    "company": "Citi",
+    "first_seen": "2026-11-07T16:43:18.452451+00:00",
+    "title": "IT Quality Senior Manager -Vice President",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager--Vice-President_261002849"
   },
   "workday:Citi:261002850": {
     "company": "Citi",
@@ -594569,6 +594635,12 @@
     "title": "Director, AI enablement and Business process architecture",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/So-Paulo-Brazil/Director--AI-enablement-and-Business-process-architecture_R-109329-1"
   },
+  "workday:Johnson & Johnson:R-109330": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-07T16:43:18.636915+00:00",
+    "title": "Scientist, Precision Biomarkers & MultiOmics Integration",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Scientist--Precision-Biomarkers---MultiOmics-Integration_R-109330"
+  },
   "workday:Johnson & Johnson:R-109339": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-11-06T17:47:27.468021+00:00",
@@ -594694,6 +594766,12 @@
     "first_seen": "2026-11-06T17:47:27.468017+00:00",
     "title": "\u9ad8\u7ea7\u4e13\u4e1a\u533b\u836f\u4ee3\u8868-\u7f55\u89c1\u75c5\u4ea7\u54c1\u4e1a\u52a1\u90e8-\u6210\u90fd",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chengdu-Sichuan-China/--_R-109490"
+  },
+  "workday:Johnson & Johnson:R-109588": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-07T16:43:18.636924+00:00",
+    "title": "Senior Director, Immunology- AI Systems",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Senior-Director--Immunology--AI-Systems_R-109588"
   },
   "workday:Johnson & Johnson:R-109616": {
     "company": "Johnson & Johnson",
@@ -652355,6 +652433,12 @@
     "title": "Mortgage Banker - Assistant Vice President/ Vice President",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Mortgage-Banker---Assistant-Vice-President--Vice-President_PT-JR045650"
   },
+  "workday:Morgan Stanley:PT-JR045651": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-11-07T16:43:15.197934+00:00",
+    "title": "Liquid Products Underwriter Lending Transactor - Assistant Vice President",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-Utah-United-States-of-America/Liquid-Products-Underwriter-Lending-Transactor---Assistant-Vice-President_PT-JR045651"
+  },
   "workday:Morgan Stanley:PT-JR045664": {
     "company": "Morgan Stanley",
     "first_seen": "2026-10-16T15:08:18.922175+00:00",
@@ -680992,6 +681076,18 @@
     "first_seen": "2026-11-07T02:30:57.736231+00:00",
     "title": "Senior Principal AI Research Engineer",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Washington--Bothell/Senior-Principal-AI-Research-Engineer_4967557-1"
+  },
+  "workday:Pfizer:4967560": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-07T16:43:18.741808+00:00",
+    "title": "\u4ee3\u8c22\u4e8b\u4e1a\u90e8-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u8fd0\u57ce",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shanxi---YunCheng/--_4967560"
+  },
+  "workday:Pfizer:4967561": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-07T16:43:18.741800+00:00",
+    "title": "\u4ee3\u8c22\u4e8b\u4e1a\u90e8-\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u592a\u539f",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shanxi---Taiyuan/--_4967561"
   },
   "workday:Prudential Financial:R-118222": {
     "company": "Prudential Financial",
@@ -727318,6 +727414,12 @@
     "first_seen": "2026-10-08T02:26:10.917582+00:00",
     "title": "Food & Beverage Team Leader - Dardenne Prairie, MO",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7955-Highway-N-Dardenne-PrairieMO-63368-7382/Food---Beverage-Team-Leader---Dardenne-Prairie--MO_R0000476818"
+  },
+  "workday:Target:R0000476819": {
+    "company": "Target",
+    "first_seen": "2026-11-07T16:43:18.953488+00:00",
+    "title": "Operations Manager - Regional Distribution Center - Rialto, California",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/3105-N-Mango-Ave-RialtoCA-92377-4901/Operations-Manager---Regional-Distribution-Center---Rialto--California_R0000476819"
   },
   "workday:Target:R0000476820": {
     "company": "Target",
