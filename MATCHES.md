@@ -1,6 +1,6 @@
 # Open matches
 
-_49 postings scoring >= 40, of 32584 scanned. Updated 2026-11-18 19:13 UTC._
+_46 postings scoring >= 40, of 32634 scanned. Updated 2026-11-19 03:57 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -20,7 +20,6 @@ _49 postings scoring >= 40, of 32584 scanned. Updated 2026-11-18 19:13 UTC._
 | 60 | [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) | Accenture | n/a |
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
 | 58 | [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) | Ursa Major | Berthoud, Colorado |
-| 57 | [2027 Research Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | AQR Capital Management | Greenwich, CT |
 | 57 | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) | Robinhood | New York, NY |
 | 57 | [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) | Ursa Major | Berthoud, Colorado |
 | 51 | [Strategic Finance Intern (Summer 2027)](https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003) | Zipline | South San Francisco, California, USA |
@@ -41,8 +40,6 @@ _49 postings scoring >= 40, of 32584 scanned. Updated 2026-11-18 19:13 UTC._
 | 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
 | 45 | [Technology - Application Development, Summer Analyst, Bahrain 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seef--Bahrain/Technology---Application-Development--Summer-Analyst--Bahrain-2027_261005063) | Citi | Seef  Bahrain |
 | 45 | [Functions - Finance, Summer Associate, Charlotte - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/NC-CHARLOTTE-BALLANTYNE/Functions---Finance--Summer-Associate--Charlotte---USA--2027_261008040) | Citi | NC-CHARLOTTE (BALLANTYNE) |
-| 45 | [Technology - Cybersecurity, Summer Analyst, Hungary - Budapest, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Budapest--Hungary/Technology---Cybersecurity--Summer-Analyst--Hungary---Budapest--2027_261006458) | Citi | Budapest  Hungary |
-| 45 | [Technology - Infrastructure, Summer Analyst, Hungary - Budapest, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Budapest--Hungary/Technology---Infrastructure--Summer-Analyst--Hungary---Budapest--2027_261006351) | Citi | Budapest  Hungary |
 | 45 | [2027 Future Talent Program - Global Supplier Management Group Direct Advanced Strategy and Procurement - Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Direct-Advanced-Strategy-and-Procurement---Co-op_R415226) | Merck | 2 Locations |
 | 44 | [2027 Summer Internship - Fundamental Researcher, Canvas](https://boards.greenhouse.io/point72/jobs/8885693002?gh_jid=8885693002) | Point72 | New York, NY |
 | 43 | [Strategic Sourcing Intern](https://www.coinbase.com/careers/positions/8376084?gh_jid=8376084) | Coinbase | Hybrid - New York, NY |
@@ -57,13 +54,13 @@ _49 postings scoring >= 40, of 32584 scanned. Updated 2026-11-18 19:13 UTC._
 ## By company
 
 - **Coinbase** (7) — top [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) at 61
-- **Citi** (6) — top [Banking - Corporate Banking, Sustainability and Corporate Transitions, Summer Analyst, New York City - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Corporate-Banking--Sustainability-and-Corporate-Transitions--Summer-Analyst--New-York-City---US--2027_261008698) at 51
 - **Zipline** (4) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
 - **Charles River Associates** (4) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
 - **Point72** (4) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
 - **Ursa Major** (4) — top [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) at 58
-- **AQR Capital Management** (3) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
+- **Citi** (4) — top [Banking - Corporate Banking, Sustainability and Corporate Transitions, Summer Analyst, New York City - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Corporate-Banking--Sustainability-and-Corporate-Transitions--Summer-Analyst--New-York-City---US--2027_261008698) at 51
 - **Schonfeld** (3) — top [2027 Fund Accounting Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) at 81
+- **AQR Capital Management** (2) — top [2027 Business Development Summer Analyst](https://careers.aqr.com/jobs?gh_jid=7926659&gh_jid=7926659) at 85
 - **Ramp** (2) — top [Risk Strategy Intern](https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109) at 64
 - **Robinhood** (2) — top [Corporate Finance Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) at 61
 - **IMC Trading** (2) — top [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) at 47
