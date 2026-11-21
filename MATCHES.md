@@ -1,11 +1,9 @@
 # Open matches
 
-_49 postings scoring >= 40, of 32652 scanned. Updated 2026-11-21 03:43 UTC._
+_49 postings scoring >= 40, of 32564 scanned. Updated 2026-11-21 17:52 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
-| 51 | [U.S. Consumer Cards Summer Analyst, New York - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/US-Consumer-Cards-Summer-Analyst--New-York---USA-2027_261006875) | Citi | New York New York United States |
-| 45 | [U.S. Consumer Cards Summer Analyst, Jacksonville, FL - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards-Summer-Analyst--Jacksonville--FL---USA-2027_261006881) | Citi | Jacksonville Florida United States |
 | 97 | [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) | Zipline | South San Francisco, California, USA |
 | 91 | [2027 Compensation Accounting Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) | Schonfeld | New York, New York, United States |
 | 84 | [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Houston, Texas, United States; New York, NY, United States; Oakland, CA, United States |
@@ -23,6 +21,7 @@ _49 postings scoring >= 40, of 32652 scanned. Updated 2026-11-21 03:43 UTC._
 | 51 | [Supply Chain Business Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7891328003?gh_jid=7891328003) | Zipline | South San Francisco, California, USA |
 | 51 | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Anduril Industries | Costa Mesa, California, United States; Seattle, Washington, United States |
 | 51 | [Strategy & Operations Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8334878) | Pinterest | San Francisco, CA, US; Remote, CA, US |
+| 51 | [U.S. Consumer Cards Summer Analyst, New York - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/US-Consumer-Cards-Summer-Analyst--New-York---USA-2027_261006875) | Citi | New York New York United States |
 | 51 | [Banking - Commercial Banking, Summer Analyst, San Francisco - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/San-Francisco-California-United-States/Banking---Commercial-Banking--Summer-Analyst--San-Francisco---US--2027_25926683) | Citi | San Francisco California United States |
 | 51 | [Banking - Corporate Banking, Sustainability and Corporate Transitions, Summer Analyst, New York City - US, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Banking---Corporate-Banking--Sustainability-and-Corporate-Transitions--Summer-Analyst--New-York-City---US--2027_261008698) | Citi | New York New York United States |
 | 50 | [(2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) | Charles River Associates | Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States |
@@ -35,6 +34,7 @@ _49 postings scoring >= 40, of 32652 scanned. Updated 2026-11-21 03:43 UTC._
 | 45 | [Total Rewards Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) | Rocket Lab | Long Beach, CA |
 | 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
 | 45 | [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) | Ursa Major | Berthoud, Colorado |
+| 45 | [U.S. Consumer Cards Summer Analyst, Jacksonville, FL - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards-Summer-Analyst--Jacksonville--FL---USA-2027_261006881) | Citi | Jacksonville Florida United States |
 | 45 | [Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) | Citi | Jacksonville Florida United States |
 | 45 | [Technology, Application Development, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) | Citi | Tampa Florida United States |
 | 45 | [Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298) | Citi | Tampa Florida United States |
