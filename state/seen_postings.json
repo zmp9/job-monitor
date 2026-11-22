@@ -18755,6 +18755,12 @@
     "title": "Clean Energy and New Technology Lead",
     "url": "https://jobs.ashbyhq.com/openai/676d359b-0ef6-40a5-81d5-d4f2eb198eab"
   },
+  "ashby:OpenAI:6785d983-8831-46d0-9c81-443f83664948": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129070+00:00",
+    "title": "Research Engineer / Research Scientist, Health",
+    "url": "https://jobs.ashbyhq.com/openai/6785d983-8831-46d0-9c81-443f83664948"
+  },
   "ashby:OpenAI:679cc2c7-e153-480b-8b9f-ecb69a19975a": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.016312+00:00",
@@ -19258,6 +19264,12 @@
     "first_seen": "2026-08-14T15:49:08.017335+00:00",
     "title": "Product Designer, Engineering Acceleration",
     "url": "https://jobs.ashbyhq.com/openai/73fdf2c0-4318-4b13-addc-b66bc1308ba4"
+  },
+  "ashby:OpenAI:740b5d1b-f63d-49bb-962d-8e2778e925ef": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129068+00:00",
+    "title": "Research Engineer / Research Scientist, Human Flourishing",
+    "url": "https://jobs.ashbyhq.com/openai/740b5d1b-f63d-49bb-962d-8e2778e925ef"
   },
   "ashby:OpenAI:7447dd43-9bf5-445f-bb8c-ba57756c8d04": {
     "company": "OpenAI",
@@ -22025,6 +22037,12 @@
     "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
     "url": "https://jobs.ashbyhq.com/openai/bc80a3ae-1e69-4a8d-8366-77fcdd56ff61"
   },
+  "ashby:OpenAI:bc85c1a9-0f75-4c3a-807b-6d2bb26c8445": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129063+00:00",
+    "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+    "url": "https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445"
+  },
   "ashby:OpenAI:bc88df2f-6268-45bc-966d-032bd05c9ad6": {
     "company": "OpenAI",
     "first_seen": "2026-10-07T02:01:27.060507+00:00",
@@ -22757,6 +22775,12 @@
     "title": "Legal Program Manager",
     "url": "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5"
   },
+  "ashby:OpenAI:ce15d226-65db-43f1-98ec-078e96a3a281": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129038+00:00",
+    "title": "Research Engineer / Research Scientist, Post-Training \u2014 Collective Alignment (User Signals)",
+    "url": "https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281"
+  },
   "ashby:OpenAI:ce1a4c96-6eed-4167-a5c8-8e692cdc4c2e": {
     "company": "OpenAI",
     "first_seen": "2026-08-14T15:49:08.015897+00:00",
@@ -22888,6 +22912,12 @@
     "first_seen": "2026-09-29T02:28:14.845807+00:00",
     "title": "Recruiter, G&A",
     "url": "https://jobs.ashbyhq.com/openai/d189f09f-fd23-4cda-8559-81fe5253e260"
+  },
+  "ashby:OpenAI:d1906ab2-b829-4a13-b1f2-f4af97d699fa": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129060+00:00",
+    "title": "Research Engineer/Research Scientist-Post Training, Proactivity",
+    "url": "https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa"
   },
   "ashby:OpenAI:d1a10222-51ae-4fa4-9581-e4586917c024": {
     "company": "OpenAI",
@@ -23968,6 +23998,12 @@
     "first_seen": "2026-08-14T15:49:08.015908+00:00",
     "title": "Machine Learning Engineer, Integrity",
     "url": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff"
+  },
+  "ashby:OpenAI:ecfe655c-1369-4bcd-aae0-4a3b75fdf61b": {
+    "company": "OpenAI",
+    "first_seen": "2026-11-22T18:11:42.129066+00:00",
+    "title": "Research Engineer / Research Scientist - Post Training, Memory",
+    "url": "https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b"
   },
   "ashby:OpenAI:ed37f572-0310-43fb-99b8-0600d9123638": {
     "company": "OpenAI",
@@ -242783,6 +242819,12 @@
     "title": "Software Engineer .NET & React, Accenture Gothenburg",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gothenburg/Fullstack-developer_14031837"
   },
+  "workday:Accenture:14036613": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882104+00:00",
+    "title": "SAP Data Migration Co-Lead",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Bangkok-The-ParQ/SAP-Data-Migration-Co-Lead_14036613"
+  },
   "workday:Accenture:14036811": {
     "company": "Accenture",
     "first_seen": "2026-10-12T20:05:31.881934+00:00",
@@ -254800,6 +254842,12 @@
     "first_seen": "2026-11-14T02:53:30.977349+00:00",
     "title": "Application Support Engineer - 6596689",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Scottsdale-15279-N-Scottsdale-Rd-Corp/Application-Support-Engineer---6596689_14913537"
+  },
+  "workday:Accenture:14913549": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882118+00:00",
+    "title": "^Automation Lab Tech - 6596696",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Mountain-View-650-Castro-Corp/XMLNAME--Automation-Lab-Tech---6596696_14913549"
   },
   "workday:Accenture:14913553": {
     "company": "Accenture",
@@ -399041,6 +399089,12 @@
     "title": "Security Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Gurugram/Security-Architect_ATCI-5813860-S2072223-1"
   },
+  "workday:Accenture:ATCI-5813875-S2072640": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882111+00:00",
+    "title": "Custom Software Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5813875-S2072640-1"
+  },
   "workday:Accenture:ATCI-5813918-S2073096": {
     "company": "Accenture",
     "first_seen": "2026-10-29T17:17:37.055431+00:00",
@@ -415732,6 +415786,12 @@
     "first_seen": "2026-08-28T14:14:10.508108+00:00",
     "title": "Digital Marketing - Account Manager - German Speaker",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Dublin/Digital-Marketing---Account-Manager---German-Speaker_R00274099"
+  },
+  "workday:Accenture:R00274109": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882078+00:00",
+    "title": "Consultant \u2013 Enterprise Systems for Manufacturing (S/4HANA, Plan-to-Produce) (GN)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Krakow/Industry-X---Product---Platform-Engineering-Analyst---Consultant--She-He-They--GN-Europe_R00274109"
   },
   "workday:Accenture:R00274189": {
     "company": "Accenture",
@@ -449417,6 +449477,12 @@
     "title": "Sales Capture Associate Director",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Milano/Sales-Capture-Associate-Director_R00365667"
   },
+  "workday:Accenture:R00365668": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882106+00:00",
+    "title": "HR Transformation Consultant (Talent) - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/HR-Transformation-Consultant--Talent----Process-Excellence_R00365668"
+  },
   "workday:Accenture:R00365676": {
     "company": "Accenture",
     "first_seen": "2026-11-16T20:46:53.498197+00:00",
@@ -449434,6 +449500,12 @@
     "first_seen": "2026-10-30T16:56:00.552289+00:00",
     "title": "Industry & Enterprise Life Sciences - Process Excellence",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Industry---Enterprise-Life-Sciences---Process-Excellence_R00365685"
+  },
+  "workday:Accenture:R00365686": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882103+00:00",
+    "title": "HR Transformation Manager (Talent) - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/HR-Transformation-Manager--Talent----Process-Excellence_R00365686"
   },
   "workday:Accenture:R00365690": {
     "company": "Accenture",
@@ -449537,6 +449609,12 @@
     "title": "Cloud Infrastructure & DevOps Internship Program (He/She/They)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Cloud-Infrastructure---DevOps-Internship-Program--He-She-They-_R00365816"
   },
+  "workday:Accenture:R00365825": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882101+00:00",
+    "title": "HR Transformation Consulting Senior Manager (Talent) \u2013 Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/HR-Transformation-Consulting-Senior-Manager--Talent----Process-Excellence_R00365825"
+  },
   "workday:Accenture:R00365833": {
     "company": "Accenture",
     "first_seen": "2026-10-29T02:04:12.803898+00:00",
@@ -449554,6 +449632,18 @@
     "first_seen": "2026-10-28T16:57:42.090728+00:00",
     "title": "Consultant stagiaire Data Science/AI Engineer (F/H)",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Consultant-stagiaire-Data-Science-AI-Engineer--F-H-_R00365843"
+  },
+  "workday:Accenture:R00365846": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882117+00:00",
+    "title": "Sourcing & Procurement Consulting Manager - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Sourcing---Procurement-Consulting-Manager---Process-Excellence_R00365846"
+  },
+  "workday:Accenture:R00365851": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882110+00:00",
+    "title": "Sourcing & Procurement Consultant - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Sourcing---Procurement-Consultant---Process-Excellence_R00365851"
   },
   "workday:Accenture:R00365857": {
     "company": "Accenture",
@@ -449638,6 +449728,18 @@
     "first_seen": "2026-11-10T18:26:08.791634+00:00",
     "title": "Stagiaire  D\u00e9veloppeur Front-End React / TypeScript - Interaction Humain Machine - F/H",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Biot-Green-Side-Sophia-Antipolis/Stagiaire--Dveloppeur-Front-End-React---TypeScript---Interaction-Humain-Machine---F-H_R00365943"
+  },
+  "workday:Accenture:R00365944": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882108+00:00",
+    "title": "Demand & Supply Planning Consultant - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Demand---Supply-Planning-Consultant---Process-Excellence_R00365944"
+  },
+  "workday:Accenture:R00365946": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882107+00:00",
+    "title": "Demand & Supply Planning Consulting Manager - Process Excellence",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Kuala-Lumpur-Exchange-106/Demand---Supply-Planning-Consulting-Manager---Process-Excellence_R00365946"
   },
   "workday:Accenture:R00365948": {
     "company": "Accenture",
@@ -452033,6 +452135,12 @@
     "title": "Inside Sales Account Rep Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Atlanta-3525-Piedmont-Rd-NE-ACN-Ops/Inside-Sales-Account-Rep-Analyst_R00368990"
   },
+  "workday:Accenture:R00368999": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882113+00:00",
+    "title": "AI Infrastructure Architect Senior",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/AI-Infrastructure-Architect-Senior_R00368999"
+  },
   "workday:Accenture:R00369004": {
     "company": "Accenture",
     "first_seen": "2026-11-03T18:12:52.357622+00:00",
@@ -453143,6 +453251,12 @@
     "title": "Veeva Commercial Tech Lead",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/New-York-One-Manhattan-West-Corp/Veeva-Commercial-Tech-Lead_R00369900"
   },
+  "workday:Accenture:R00369903": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882123+00:00",
+    "title": "Security Compliance Senior Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Albany-69-State-St-Corp/Security-Compliance-Senior-Manager_R00369903"
+  },
   "workday:Accenture:R00369913": {
     "company": "Accenture",
     "first_seen": "2026-11-13T18:21:18.334374+00:00",
@@ -453418,6 +453532,18 @@
     "first_seen": "2026-11-10T18:26:08.791653+00:00",
     "title": "Palantir Forward Deployed Engineer - Associate Director",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/London/Palantir-Forward-Deployed-Engineer---Associate-Director_R00371108"
+  },
+  "workday:Accenture:R00371208": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882120+00:00",
+    "title": "Cybersecurity Security Compliance Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Albany-69-State-St-Corp/Cybersecurity-Security-Compliance-Manager_R00371208"
+  },
+  "workday:Accenture:R00371233": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882121+00:00",
+    "title": "Cybersecurity Security Compliance Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Albany-69-State-St-Corp/Cybersecurity-Security-Compliance-Consultant_R00371233"
   },
   "workday:Accenture:R00371258": {
     "company": "Accenture",
@@ -454709,6 +454835,12 @@
     "title": "Knowledge Engineering Architect",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/Knowledge-Engineering-Architect_R00373399"
   },
+  "workday:Accenture:R00373400": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882114+00:00",
+    "title": "AI/ML Computational Science Consultant",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/AI-ML-Computational-Science-Consultant_R00373400"
+  },
   "workday:Accenture:R00373403": {
     "company": "Accenture",
     "first_seen": "2026-11-18T19:13:39.902259+00:00",
@@ -455045,6 +455177,12 @@
     "title": "M&A Technology Strategy Architect / Manager (She/He/They) - ICH Europe",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/M-A-Technology-Strategy-Architect---Manager--She-He-They----ICH-Europe_R00373933"
   },
+  "workday:Accenture:R00373943": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882116+00:00",
+    "title": "AI LLM Technology Architecture - Associate Manager",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Prague/AI-LLM-Technology-Architecture---Associate-Manager_R00373943"
+  },
   "workday:Accenture:R00373951": {
     "company": "Accenture",
     "first_seen": "2026-11-20T18:57:15.546666+00:00",
@@ -455170,6 +455308,18 @@
     "first_seen": "2026-11-20T18:57:15.545915+00:00",
     "title": "Desenvolvedor ServiceNow S\u00eanior (EAM) - Ingl\u00eas avan\u00e7ado",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Sao-Paulo-Torre-Paineira/Desenvolvedor-ServiceNow-Snior--EAM----Ingls-avanado_R00374122"
+  },
+  "workday:Accenture:R00374204": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882099+00:00",
+    "title": "Manufacturing Transformation Consultant \u2013 Life Sciences / Pharma 4.0 (MES, GMP) (GN)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wroclaw-Dominikanski-Center/Manufacturing-Transformation-Consultant---Life-Sciences---Pharma-40--MES--GMP---GN-_R00374204"
+  },
+  "workday:Accenture:R00374205": {
+    "company": "Accenture",
+    "first_seen": "2026-11-22T18:11:42.882096+00:00",
+    "title": "Consultant \u2013 Manufacturing AI & Digital Twin (Industry 4.0, GenAI) (GN)",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Wroclaw-Dominikanski-Center/Consultant---Manufacturing-AI---Digital-Twin--Industry-40--GenAI---GN-_R00374205"
   },
   "workday:Accenture:R92174": {
     "company": "Accenture",
@@ -666221,6 +666371,12 @@
     "title": "Associate Administrative Assistant",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Associate-Administrative-Assisstant_R-111974-1"
   },
+  "workday:Johnson & Johnson:R-111978": {
+    "company": "Johnson & Johnson",
+    "first_seen": "2026-11-22T18:11:42.929973+00:00",
+    "title": "Field Excellence Manager, Lung",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Horsham-Pennsylvania-United-States-of-America/Field-Excellence-Manager--Lung_R-111978-1"
+  },
   "workday:Johnson & Johnson:R-111992": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-11-20T18:57:15.620836+00:00",
@@ -711400,6 +711556,12 @@
     "first_seen": "2026-11-19T19:18:51.901785+00:00",
     "title": "Senior Manager Strategic Forecasting",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/IND---Maharashtra---Pune-Wework/Senior-Manager-Strategic-Forecasting_R428399-1"
+  },
+  "workday:Merck:R428404": {
+    "company": "Merck",
+    "first_seen": "2026-11-22T18:11:42.964693+00:00",
+    "title": "Vaccines & Infectious Diseases Market Access Lead",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/ISR---Central-District-of-Israel---Hod-Hasharon/Vaccines---Infectious-Diseases-Market-Access-Lead_R428404"
   },
   "workday:Merck:R428470": {
     "company": "Merck",
@@ -760715,6 +760877,12 @@
     "title": "Country Brand Manager Eliquis",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Country-Brand-Manager-Eliquis_4968276"
   },
+  "workday:Pfizer:4968298": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993901+00:00",
+    "title": "Retail Rep. \u96f6\u552e\u4ee3\u8868",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shanghai---Shanghai/Retail-Rep-_4968298"
+  },
   "workday:Pfizer:4968318": {
     "company": "Pfizer",
     "first_seen": "2026-11-20T18:57:15.723800+00:00",
@@ -760739,11 +760907,47 @@
     "title": "Country Brand Lead (Oncology)",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Viet-Nam---Ho-Chi-Minh/Country-Brand-Lead--Oncology-_4968330"
   },
+  "workday:Pfizer:4968331": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993919+00:00",
+    "title": "Marketing & Launch Excellence & AI",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Marketing---Launch-Excellence---AI_4968331-1"
+  },
+  "workday:Pfizer:4968332": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993921+00:00",
+    "title": "Content & Channel Excellence",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Content---Channel-Excellence_4968332-1"
+  },
+  "workday:Pfizer:4968333": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993918+00:00",
+    "title": "Patient Support Partner - 2 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Patient-Support-Partner---2-positions_4968333-1"
+  },
+  "workday:Pfizer:4968334": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993914+00:00",
+    "title": "Therapy Area Engagement Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Kuwait---Kuwait/Therapy-Area-Engagement-Manager_4968334-1"
+  },
   "workday:Pfizer:4968338": {
     "company": "Pfizer",
     "first_seen": "2026-11-20T18:57:15.723815+00:00",
     "title": "\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-\u8840\u6db2\u80bf\u7624-\u5e7f\u5dde",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Guangdong---Guangzhou/--_4968338"
+  },
+  "workday:Pfizer:4968339": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993916+00:00",
+    "title": "Therapy Area Engagement Manager - 2 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Therapy-Area-Engagement-Manager---2-positions_4968339-1"
+  },
+  "workday:Pfizer:4968340": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993915+00:00",
+    "title": "Therapy Area Engagement Manager  - 3 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Therapy-Area-Engagement-Manager----3-positions_4968340-1"
   },
   "workday:Pfizer:4968342": {
     "company": "Pfizer",
@@ -760762,6 +760966,12 @@
     "first_seen": "2026-11-22T02:47:30.705153+00:00",
     "title": "Access Manager I&I Hospital",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Access-Manager-I-I-Hospital_4968345-1"
+  },
+  "workday:Pfizer:4968346": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T18:11:42.993911+00:00",
+    "title": "Sr Access Manager Vaccines Egypt, Levant, Iraq",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Sr-Access-Manager-Vaccines-Egypt--Levant--Iraq_4968346"
   },
   "workday:Pfizer:4968347": {
     "company": "Pfizer",
@@ -819311,6 +819521,12 @@
     "title": "Visual Merchandiser (Searcy, AR)",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1507-Janet-St-SearcyAR-72143/Visual-Merchandiser--Searcy--AR-_R0000481188"
   },
+  "workday:Target:R0000481189": {
+    "company": "Target",
+    "first_seen": "2026-11-22T18:11:43.123084+00:00",
+    "title": "Service & Engagement Team Leader",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/78935-Hwy-111-La-QuintaCA-92253-2072/Service---Engagement-Team-Leader_R0000481189"
+  },
   "workday:Target:R0000481191": {
     "company": "Target",
     "first_seen": "2026-11-18T04:00:34.123103+00:00",
@@ -819886,6 +820102,12 @@
     "first_seen": "2026-11-19T19:18:52.142991+00:00",
     "title": "General Merchandise (Inbound) Team Leader - Flowood, MS",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/170-Promenade-Blvd-FlowoodMS-39232-8017/General-Merchandise--Inbound--Team-Leader---Flowood--MS_R0000481430"
+  },
+  "workday:Target:R0000481434": {
+    "company": "Target",
+    "first_seen": "2026-11-22T18:11:43.123092+00:00",
+    "title": "Property Management Lead - Columbus, OH",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1970-Hilliard-Rome-Rd-HilliardOH-43026-7566/Property-Management-Lead---Columbus--OH_R0000481434-1"
   },
   "workday:Target:R0000481435": {
     "company": "Target",
