@@ -77693,6 +77693,12 @@
     "title": "Division Operations, AFS",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5305163007?gh_jid=5305163007"
   },
+  "greenhouse:Anduril Industries:5306155007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-22T02:47:28.034516+00:00",
+    "title": "Staff/Lead, Business Development (EMEA)",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5306155007?gh_jid=5306155007"
+  },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758643+00:00",
@@ -182201,6 +182207,12 @@
     "title": "Superintelligence (SI) Engineer, Supercomputing, Special Programs - Top Secret Clearance",
     "url": "https://boards.greenhouse.io/spacex/jobs/8947472002?gh_jid=8947472002"
   },
+  "greenhouse:SpaceX:8947625002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386289+00:00",
+    "title": "GNC Engineer (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8947625002?gh_jid=8947625002"
+  },
   "greenhouse:SpaceX:8947654002": {
     "company": "SpaceX",
     "first_seen": "2026-11-21T03:43:49.628797+00:00",
@@ -182447,11 +182459,29 @@
     "title": "Sourcing Specialist (Network Infrastructure)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8949135002?gh_jid=8949135002"
   },
+  "greenhouse:SpaceX:8949186002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386296+00:00",
+    "title": "Sourcing Manager (Compute Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8949186002?gh_jid=8949186002"
+  },
+  "greenhouse:SpaceX:8949190002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386294+00:00",
+    "title": "Sourcing Manager (Compute Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8949190002?gh_jid=8949190002"
+  },
   "greenhouse:SpaceX:8949196002": {
     "company": "SpaceX",
     "first_seen": "2026-11-19T03:57:25.295096+00:00",
     "title": "Technical Trainer, Starlink Satellite Production",
     "url": "https://boards.greenhouse.io/spacex/jobs/8949196002?gh_jid=8949196002"
+  },
+  "greenhouse:SpaceX:8949272002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386299+00:00",
+    "title": "Sourcing Manager (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8949272002?gh_jid=8949272002"
   },
   "greenhouse:SpaceX:8949311002": {
     "company": "SpaceX",
@@ -182813,6 +182843,24 @@
     "title": "Mechanical Design Engineer (Starship Components)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8952403002?gh_jid=8952403002"
   },
+  "greenhouse:SpaceX:8952834002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386264+00:00",
+    "title": "Critical Lift Technician - Transport (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8952834002?gh_jid=8952834002"
+  },
+  "greenhouse:SpaceX:8952875002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386306+00:00",
+    "title": "SPMT Operator - Transport (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8952875002?gh_jid=8952875002"
+  },
+  "greenhouse:SpaceX:8952902002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386282+00:00",
+    "title": "Critical Lift & Transport Engineer (Starship)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8952902002?gh_jid=8952902002"
+  },
   "greenhouse:SpaceX:8952904002": {
     "company": "SpaceX",
     "first_seen": "2026-11-20T03:51:04.982866+00:00",
@@ -182999,11 +183047,65 @@
     "title": "Lead, Fulfillment Purchasing",
     "url": "https://boards.greenhouse.io/spacex/jobs/8957044002?gh_jid=8957044002"
   },
+  "greenhouse:SpaceX:8957169002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386332+00:00",
+    "title": "Supplier Quality Specialist (SpaceXSI)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957169002?gh_jid=8957169002"
+  },
+  "greenhouse:SpaceX:8957211002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386326+00:00",
+    "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957211002?gh_jid=8957211002"
+  },
+  "greenhouse:SpaceX:8957217002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386324+00:00",
+    "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957217002?gh_jid=8957217002"
+  },
+  "greenhouse:SpaceX:8957226002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386328+00:00",
+    "title": "Sr. Sourcing Specialist (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957226002?gh_jid=8957226002"
+  },
+  "greenhouse:SpaceX:8957229002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386322+00:00",
+    "title": "Sr. Sourcing Specialist (Compute Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957229002?gh_jid=8957229002"
+  },
+  "greenhouse:SpaceX:8957252002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386303+00:00",
+    "title": "Sourcing Manager (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957252002?gh_jid=8957252002"
+  },
   "greenhouse:SpaceX:8957263002": {
     "company": "SpaceX",
     "first_seen": "2026-11-21T03:43:49.628838+00:00",
     "title": "Supplier Development Engineer, Mechanical (Starlink)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8957263002?gh_jid=8957263002"
+  },
+  "greenhouse:SpaceX:8957350002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386316+00:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957350002?gh_jid=8957350002"
+  },
+  "greenhouse:SpaceX:8957359002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386318+00:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957359002?gh_jid=8957359002"
+  },
+  "greenhouse:SpaceX:8957360002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386320+00:00",
+    "title": "Sr. Manager, Supply Chain (Network Infrastructure)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957360002?gh_jid=8957360002"
   },
   "greenhouse:SpaceX:8957363002": {
     "company": "SpaceX",
@@ -183059,6 +183161,12 @@
     "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8957582002?gh_jid=8957582002"
   },
+  "greenhouse:SpaceX:8957661002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386330+00:00",
+    "title": "Supplier Development Engineer, Electrical (SpaceXSI)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957661002?gh_jid=8957661002"
+  },
   "greenhouse:SpaceX:8957866002": {
     "company": "SpaceX",
     "first_seen": "2026-11-21T17:52:03.235423+00:00",
@@ -183070,6 +183178,30 @@
     "first_seen": "2026-11-21T17:52:03.235441+00:00",
     "title": "Electrical Systems Engineer (Special Programs)",
     "url": "https://boards.greenhouse.io/spacex/jobs/8957867002?gh_jid=8957867002"
+  },
+  "greenhouse:SpaceX:8957868002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386311+00:00",
+    "title": "Sr. Avionics Systems Engineer (Falcon & Dragon)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957868002?gh_jid=8957868002"
+  },
+  "greenhouse:SpaceX:8957870002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386313+00:00",
+    "title": "Sr. Electrical Systems Engineer (Falcon & Dragon)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957870002?gh_jid=8957870002"
+  },
+  "greenhouse:SpaceX:8957873002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386291+00:00",
+    "title": "New Graduate Engineer, Electrical (Starfall)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002"
+  },
+  "greenhouse:SpaceX:8957885002": {
+    "company": "SpaceX",
+    "first_seen": "2026-11-22T02:47:27.386286+00:00",
+    "title": "Electrical Design Engineer (Starfall Avionics)",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8957885002?gh_jid=8957885002"
   },
   "greenhouse:Squarepoint Capital:1163559": {
     "company": "Squarepoint Capital",
@@ -240694,6 +240826,12 @@
     "first_seen": "2026-11-21T03:43:52.054650+00:00",
     "title": "Retail Sales Consultant",
     "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USAOKTulsa5505-41st-StRETRET/Retail-Sales-Consultant_R-128448-1"
+  },
+  "workday:AT&T:R-128450": {
+    "company": "AT&T",
+    "first_seen": "2026-11-22T02:47:31.042091+00:00",
+    "title": "Retail Sales Consultant",
+    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/USAARJonesboro3006-E-Highland-DrRETRET/Retail-Sales-Consultant_R-128450-1"
   },
   "workday:AT&T:R-128453": {
     "company": "AT&T",
@@ -537467,6 +537605,12 @@
     "title": "Audit Manager, Vice President",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Audit-Manager--Vice-President_261011666"
   },
+  "workday:Citi:261011668": {
+    "company": "Citi",
+    "first_seen": "2026-11-22T02:47:30.440401+00:00",
+    "title": "FX eTrading Tech PMO - VP - London",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/FX-eTrading-Tech-PMO---VP---London_261011668"
+  },
   "workday:Citi:261011692": {
     "company": "Citi",
     "first_seen": "2026-11-20T18:57:15.444691+00:00",
@@ -537538,6 +537682,12 @@
     "first_seen": "2026-11-21T03:43:51.650905+00:00",
     "title": "Banamex  Cajero - Caborca y Magdalena",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Caborca-Sonora-Mexico/Banamex--Cajero---Caborca-y-Magdalena_261011926"
+  },
+  "workday:Citi:261011940": {
+    "company": "Citi",
+    "first_seen": "2026-11-22T02:47:30.440417+00:00",
+    "title": "Banamex  Ejecutivo de  Cuenta Pyme - Agua Prieta, Sonora",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Agua-Prieta-Sonora-Mexico/Banamex--Ejecutivo-de--Cuenta-Pyme---Agua-Prieta--Sonora_261011940-1"
   },
   "workday:Citi:26929670": {
     "company": "Citi",
@@ -616301,11 +616451,23 @@
     "title": "Specialty Assistant Store Manager, in Training",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/SOUTHEAST-BATON-ROUGE-STORE---0370/Specialty-Assistant-Store-Manager--in-Training_Req199749"
   },
+  "workday:Home Depot:Req199751": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-22T02:47:30.948307+00:00",
+    "title": "Operations Experience Manager",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/MINOT-ND-STORE---3703/Operations-Experience-Manager_Req199751"
+  },
   "workday:Home Depot:Req199759": {
     "company": "Home Depot",
     "first_seen": "2026-11-21T03:43:51.995239+00:00",
     "title": "Manager, Loyalty Strategy",
     "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Manager--Loyalty-Strategy_Req199759"
+  },
+  "workday:Home Depot:Req199768": {
+    "company": "Home Depot",
+    "first_seen": "2026-11-22T02:47:30.948315+00:00",
+    "title": "PRO EXPERIENCE MANAGER",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/CareerDepot/job/VALPARAISO-STORE---2030/PRO-EXPERIENCE-MANAGER_Req199768"
   },
   "workday:Home Depot:ReqPF179074": {
     "company": "Home Depot",
@@ -741671,6 +741833,12 @@
     "title": "Assistant Head Coach / Sub-Gerente de tienda \u2013 NFS MX Plaza Central",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Ciudad-de-Mxico-Mexico/Assistant-Head-Coach---Sub-Gerente-de-tienda---NFS-MX-Plaza-Central_R-95641"
   },
+  "workday:Nike:R-95657": {
+    "company": "Nike",
+    "first_seen": "2026-11-22T02:47:30.799804+00:00",
+    "title": "Manager, Distribution Center Operations",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/Manager--Distribution-Center-Operations_R-95657"
+  },
   "workday:Nike:R-95670": {
     "company": "Nike",
     "first_seen": "2026-10-23T01:10:16.121122+00:00",
@@ -745102,6 +745270,12 @@
     "first_seen": "2026-11-21T03:43:51.894132+00:00",
     "title": "Software Engineer II",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-II_R-97791"
+  },
+  "workday:Nike:R-97800": {
+    "company": "Nike",
+    "first_seen": "2026-11-22T02:47:30.799813+00:00",
+    "title": "Distribution Center Operations Manager",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/Distribution-Center-Operations-Manager_R-97800"
   },
   "workday:Pfizer:4790916": {
     "company": "Pfizer",
@@ -760499,11 +760673,47 @@
     "title": "[ONC] \u30bf\u30fc\u30bc\u30ca \u30d6\u30e9\u30f3\u30c9\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Japan---Tokyo/XMLNAME--ONC---_4968262-1"
   },
+  "workday:Pfizer:4968264": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705137+00:00",
+    "title": "Country Brand Lead RSV / Abrysvo",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Country-Brand-Lead-RSV---Abrysvo_4968264-1"
+  },
+  "workday:Pfizer:4968265": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705129+00:00",
+    "title": "Network Account Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Kuwait---Kuwait/Network-Account-Manager_4968265"
+  },
+  "workday:Pfizer:4968269": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705135+00:00",
+    "title": "Country Brand Lead Lung/Hematology",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Country-Brand-Lead-Lung-Hematology_4968269"
+  },
   "workday:Pfizer:4968272": {
     "company": "Pfizer",
     "first_seen": "2026-11-20T18:57:15.723802+00:00",
     "title": "Business Development Quality Director",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Jiangsu---Suzhou/Business-Development-Quality-Director_4968272"
+  },
+  "workday:Pfizer:4968274": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705133+00:00",
+    "title": "Country Brand Lead - 3 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Country-Brand-Lead---3-positions_4968274"
+  },
+  "workday:Pfizer:4968275": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705131+00:00",
+    "title": "Country Brand Manager - 3 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Country-Brand-Manager---3-positions_4968275"
+  },
+  "workday:Pfizer:4968276": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705127+00:00",
+    "title": "Country Brand Manager Eliquis",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Country-Brand-Manager-Eliquis_4968276"
   },
   "workday:Pfizer:4968318": {
     "company": "Pfizer",
@@ -760540,6 +760750,90 @@
     "first_seen": "2026-11-20T18:57:15.723804+00:00",
     "title": "\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e3b\u7ba1",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shandong---LiaoCheng/_4968342"
+  },
+  "workday:Pfizer:4968344": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705157+00:00",
+    "title": "Sr Access Manager Vaccines & RD",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Sr-Access-Manager-Vaccines---RD_4968344-1"
+  },
+  "workday:Pfizer:4968345": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705153+00:00",
+    "title": "Access Manager I&I Hospital",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/Access-Manager-I-I-Hospital_4968345-1"
+  },
+  "workday:Pfizer:4968347": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705148+00:00",
+    "title": "Sr Access Manager Oncology & RD",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Sr-Access-Manager-Oncology---RD_4968347-1"
+  },
+  "workday:Pfizer:4968348": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705150+00:00",
+    "title": "Sr Manager Pricing HTA, HEOR",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Sr-Manager-Pricing-HTA--HEOR_4968348-1"
+  },
+  "workday:Pfizer:4968349": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705146+00:00",
+    "title": "Pricing Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Pricing-Manager_4968349-1"
+  },
+  "workday:Pfizer:4968350": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705140+00:00",
+    "title": "HEOR Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/HEOR-Manager_4968350-1"
+  },
+  "workday:Pfizer:4968351": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705142+00:00",
+    "title": "Outsource Commercial Manager - 3 positions",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Outsource-Commercial-Manager---3-positions_4968351-1"
+  },
+  "workday:Pfizer:4968352": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705144+00:00",
+    "title": "Outsource Lead Lebanon and Jordan",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Outsource-Lead-Lebanon-and-Jordan_4968352-1"
+  },
+  "workday:Pfizer:4968353": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705155+00:00",
+    "title": "Outsource Lead",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Oman---Muscat/Outsource-Lead_4968353-1"
+  },
+  "workday:Pfizer:4968359": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705125+00:00",
+    "title": "VMG Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/VMG-Manager_4968359"
+  },
+  "workday:Pfizer:4968360": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705120+00:00",
+    "title": "KAM & Distribution Lead",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Arab-Emirates---Dubai/KAM---Distribution-Lead_4968360"
+  },
+  "workday:Pfizer:4968361": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705123+00:00",
+    "title": "VMG Manager",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/VMG-Manager_4968361"
+  },
+  "workday:Pfizer:4968362": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705117+00:00",
+    "title": "KAM & Distribution Lead",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/KAM---Distribution-Lead_4968362-1"
+  },
+  "workday:Pfizer:4968364": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-22T02:47:30.705105+00:00",
+    "title": "Tender Specialist Gulf",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Egypt---Cairo/Tender-Specialist-Gulf_4968364"
   },
   "workday:Pfizer:4968368": {
     "company": "Pfizer",
@@ -819886,6 +820180,12 @@
     "first_seen": "2026-11-21T03:43:51.960565+00:00",
     "title": "Executive Team Leader Specialty Sales (Assistant Manager Merchandising and Service) - Charlotte, NC",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/5345-Crossridge-Blvd-Indian-LandSC-29707-7892/Executive-Team-Leader-Specialty-Sales--Assistant-Manager-Merchandising-and-Service----Charlotte--NC_R0000481675"
+  },
+  "workday:Target:R0000481713": {
+    "company": "Target",
+    "first_seen": "2026-11-22T02:47:30.896186+00:00",
+    "title": "Facility Attendant 1",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Site-Pkwy-HamptonGA-30228/Facility-Attendant-1_R0000481713"
   },
   "workday:Wisk Aero:JR100285": {
     "company": "Wisk Aero",
