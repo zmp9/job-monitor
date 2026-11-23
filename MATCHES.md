@@ -1,6 +1,6 @@
 # Open matches
 
-_51 postings scoring >= 40, of 32514 scanned. Updated 2026-11-22 18:11 UTC._
+_50 postings scoring >= 40, of 32480 scanned. Updated 2026-11-23 03:27 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -37,7 +37,6 @@ _51 postings scoring >= 40, of 32514 scanned. Updated 2026-11-22 18:11 UTC._
 | 45 | [Total Rewards Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) | Rocket Lab | Long Beach, CA |
 | 45 | [2027 Summer Industrial Hygienist & Ergonomist Intern](https://ursamajor.com/careers/?gh_jid=4745108005) | Ursa Major | Berthoud, Colorado |
 | 45 | [U.S. Consumer Cards Summer Analyst, Jacksonville, FL - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards-Summer-Analyst--Jacksonville--FL---USA-2027_261006881) | Citi | Jacksonville Florida United States |
-| 45 | [Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) | Citi | Jacksonville Florida United States |
 | 45 | [Technology, Application Development, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) | Citi | Tampa Florida United States |
 | 45 | [Technology, Production Support, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Production-Support--Summer-Analyst--Tampa---USA--2027_261003298) | Citi | Tampa Florida United States |
 | 45 | [Technology, Production Support, Summer Analyst, New York - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Technology--Production-Support--Summer-Analyst--New-York---USA--2027_261004417) | Citi | 2 Locations |
@@ -58,7 +57,7 @@ _51 postings scoring >= 40, of 32514 scanned. Updated 2026-11-22 18:11 UTC._
 
 ## By company
 
-- **Citi** (12) — top [U.S. Consumer Cards Summer Analyst, New York - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/US-Consumer-Cards-Summer-Analyst--New-York---USA-2027_261006875) at 51
+- **Citi** (11) — top [U.S. Consumer Cards Summer Analyst, New York - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/US-Consumer-Cards-Summer-Analyst--New-York---USA-2027_261006875) at 51
 - **Coinbase** (7) — top [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) at 61
 - **Charles River Associates** (4) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
 - **Point72** (4) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81

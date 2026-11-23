@@ -1391,6 +1391,12 @@
     "title": "Sales Development Representative, SME & Growth",
     "url": "https://jobs.ashbyhq.com/airwallex/342ac969-4f91-458d-a2a5-0258c4eaeed5"
   },
+  "ashby:Airwallex:345ac70c-c7ce-452c-92e4-5c792b8c0faa": {
+    "company": "Airwallex",
+    "first_seen": "2026-11-23T03:27:57.577326+00:00",
+    "title": "Senior Product Manager, GTPN",
+    "url": "https://jobs.ashbyhq.com/airwallex/345ac70c-c7ce-452c-92e4-5c792b8c0faa"
+  },
   "ashby:Airwallex:3487aa40-e425-4398-ae8e-62136c249bec": {
     "company": "Airwallex",
     "first_seen": "2026-08-28T14:14:10.301048+00:00",
@@ -31408,6 +31414,12 @@
     "first_seen": "2026-08-14T15:48:03.611300+00:00",
     "title": "EHS Manager",
     "url": "https://jobs.ashbyhq.com/saronic/a2d8f432-3149-4198-a767-6198c88605d5"
+  },
+  "ashby:Saronic:a3312344-2cb9-40c0-b9a7-724de2fa97ee": {
+    "company": "Saronic",
+    "first_seen": "2026-11-23T03:27:55.827756+00:00",
+    "title": "Director of Growth Innovation",
+    "url": "https://jobs.ashbyhq.com/saronic/a3312344-2cb9-40c0-b9a7-724de2fa97ee"
   },
   "ashby:Saronic:a3599675-c469-405b-999e-9ad8ca50fd73": {
     "company": "Saronic",
@@ -77735,6 +77747,12 @@
     "title": "Staff/Lead, Business Development (EMEA)",
     "url": "https://boards.greenhouse.io/andurilindustries/jobs/5306155007?gh_jid=5306155007"
   },
+  "greenhouse:Anduril Industries:5306420007": {
+    "company": "Anduril Industries",
+    "first_seen": "2026-11-23T03:27:55.289439+00:00",
+    "title": "Technical Lead, Fire Control Unit",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5306420007?gh_jid=5306420007"
+  },
   "greenhouse:Anthropic:4017331008": {
     "company": "Anthropic",
     "first_seen": "2026-08-14T15:48:18.758643+00:00",
@@ -85240,6 +85258,24 @@
     "first_seen": "2026-11-20T18:57:13.708833+00:00",
     "title": "Staff+ Software Engineer, Capacity Engineering",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490979008"
+  },
+  "greenhouse:Anthropic:5491573008": {
+    "company": "Anthropic",
+    "first_seen": "2026-11-23T03:27:55.933199+00:00",
+    "title": "Program Manager, Cloud Partners",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491573008"
+  },
+  "greenhouse:Anthropic:5491575008": {
+    "company": "Anthropic",
+    "first_seen": "2026-11-23T03:27:55.933177+00:00",
+    "title": "Campaign Manager",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491575008"
+  },
+  "greenhouse:Anthropic:5491578008": {
+    "company": "Anthropic",
+    "first_seen": "2026-11-23T03:27:55.933195+00:00",
+    "title": "Head of Campaign Operations",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491578008"
   },
   "greenhouse:Asana:6174752": {
     "company": "Asana",
@@ -116459,6 +116495,12 @@
     "title": "IT Geek",
     "url": "https://job-boards.greenhouse.io/gusto/jobs/8394531"
   },
+  "greenhouse:Gusto:8394537": {
+    "company": "Gusto",
+    "first_seen": "2026-11-23T03:27:56.004098+00:00",
+    "title": "Site Reliability Engineer",
+    "url": "https://job-boards.greenhouse.io/gusto/jobs/8394537"
+  },
   "greenhouse:Gusto:8400148": {
     "company": "Gusto",
     "first_seen": "2026-11-20T18:57:13.781762+00:00",
@@ -130378,6 +130420,12 @@
     "first_seen": "2026-11-19T03:57:24.088495+00:00",
     "title": "Research Technology Support",
     "url": "https://boards.greenhouse.io/point72/jobs/8950368002?gh_jid=8950368002"
+  },
+  "greenhouse:Point72:8958137002": {
+    "company": "Point72",
+    "first_seen": "2026-11-23T03:27:53.282131+00:00",
+    "title": "Canvas Fundamental Researcher, Singapore",
+    "url": "https://boards.greenhouse.io/point72/jobs/8958137002?gh_jid=8958137002"
   },
   "greenhouse:Reddit:6469397": {
     "company": "Reddit",
@@ -147232,6 +147280,12 @@
     "first_seen": "2026-11-21T03:43:49.726589+00:00",
     "title": "Principal Software Security Engineer",
     "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8213446003"
+  },
+  "greenhouse:Rocket Lab:8213823003": {
+    "company": "Rocket Lab",
+    "first_seen": "2026-11-23T03:27:54.742830+00:00",
+    "title": "Talent Acquisition Partner",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8213823003"
   },
   "greenhouse:Samsara:5868615": {
     "company": "Samsara",
@@ -193271,6 +193325,12 @@
     "title": "Product Manager, Payment Methods, EMEA",
     "url": "https://stripe.com/jobs/search?gh_jid=8406995"
   },
+  "greenhouse:Stripe:8407180": {
+    "company": "Stripe",
+    "first_seen": "2026-11-23T03:27:55.905255+00:00",
+    "title": "Engineering Manager - Developer Tooling",
+    "url": "https://stripe.com/jobs/search?gh_jid=8407180"
+  },
   "greenhouse:Ursa Major:4347615005": {
     "company": "Ursa Major",
     "first_seen": "2026-08-14T15:47:33.504809+00:00",
@@ -200068,6 +200128,12 @@
     "first_seen": "2026-08-14T15:47:39.576275+00:00",
     "title": "DevOps Engineer \u2013 Flight Software",
     "url": "https://jobs.lever.co/hermeus/b9196a15-f4b8-4596-9988-6420ddd2846e"
+  },
+  "lever:Hermeus:bd473099-5a12-409b-a0be-c9a94eb13552": {
+    "company": "Hermeus",
+    "first_seen": "2026-11-23T03:27:55.117722+00:00",
+    "title": "Classified Systems Security Lead",
+    "url": "https://jobs.lever.co/hermeus/bd473099-5a12-409b-a0be-c9a94eb13552"
   },
   "lever:Hermeus:be9f1489-a625-4c85-b7fc-c9eb7ecceae2": {
     "company": "Hermeus",
@@ -245669,6 +245735,12 @@
     "title": "Java Full Stack Application Support Engineer - 6447755",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Charlotte-1120-S-Tryon-St-Corp/Java-Full-Stack-Application-Support-Engineer---6447755_14652067"
   },
+  "workday:Accenture:14653417": {
+    "company": "Accenture",
+    "first_seen": "2026-11-23T03:27:57.769366+00:00",
+    "title": "Senior Data Migration Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Canberra-Brindabella-Business-Park/Senior-Data-Migration-Engineer_14653417"
+  },
   "workday:Accenture:14653655": {
     "company": "Accenture",
     "first_seen": "2026-09-03T14:51:21.136823+00:00",
@@ -247156,6 +247228,12 @@
     "first_seen": "2026-09-11T00:48:54.161607+00:00",
     "title": "Process Transformation Efficiency",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Santiago/Process-Transformation-Efficiency_14703065"
+  },
+  "workday:Accenture:14703091": {
+    "company": "Accenture",
+    "first_seen": "2026-11-23T03:27:57.769332+00:00",
+    "title": "SAP BASIS",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Jakarta/SAP-BASIS_14703091"
   },
   "workday:Accenture:14703501": {
     "company": "Accenture",
@@ -414539,6 +414617,12 @@
     "title": "DE033736-Business Transformation Manager",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/DE033736-Business-Transformation-Manager_CXO-133767-S81247-1"
   },
+  "workday:Accenture:CXO-133768-S81253": {
+    "company": "Accenture",
+    "first_seen": "2026-11-23T03:27:57.769361+00:00",
+    "title": "DE033836-Customer Service Sr Analyst",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Quezon/DE033836-Customer-Service-Sr-Analyst_CXO-133768-S81253"
+  },
   "workday:Accenture:CXO-133779-S81274": {
     "company": "Accenture",
     "first_seen": "2026-10-24T01:20:25.870194+00:00",
@@ -455165,6 +455249,12 @@
     "title": "SAP Datasphere Analyst",
     "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/SAP-Datasphere-Analyst_R00373914"
   },
+  "workday:Accenture:R00373922": {
+    "company": "Accenture",
+    "first_seen": "2026-11-23T03:27:57.769369+00:00",
+    "title": "Forward Deployed Engineer",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Taguig/Forward-Deployed-Engineer_R00373922"
+  },
   "workday:Accenture:R00373931": {
     "company": "Accenture",
     "first_seen": "2026-11-20T18:57:15.546987+00:00",
@@ -477388,6 +477478,12 @@
     "first_seen": "2026-11-15T02:21:25.484649+00:00",
     "title": "Associate Quality Inspector",
     "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Smithfield-PA/Associate-Quality-Inspector_JR2026529592-1"
+  },
+  "workday:Boeing:JR2026529599": {
+    "company": "Boeing",
+    "first_seen": "2026-11-23T03:27:54.345552+00:00",
+    "title": "IP Strategy and Protection Specialist",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/AUS---Brisbane-Australia/IP-Strategy-and-Protection-Specialist_JR2026529599-1"
   },
   "workday:Boeing:JR2026529605": {
     "company": "Boeing",
@@ -518831,6 +518927,12 @@
     "title": "Business Development Director - Forsyth Health  - Remote",
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/Pennsylvania-Work-at-Home/Business-Development-Director---Forsyth-Health----Remote_26013870"
   },
+  "workday:Cigna:26013887": {
+    "company": "Cigna",
+    "first_seen": "2026-11-23T03:27:57.969013+00:00",
+    "title": "Senior Advisor, Automation Risk & Controls - Evernorth - Remote",
+    "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/United-States-Work-at-Home/Senior-Advisor--Automation-Risk---Controls---Evernorth---Remote_26013887"
+  },
   "workday:Cigna:26013890": {
     "company": "Cigna",
     "first_seen": "2026-11-17T04:56:21.793904+00:00",
@@ -527506,6 +527608,12 @@
     "first_seen": "2026-10-27T16:10:18.556348+00:00",
     "title": "Cash & Collateral Management Intermediate Analyst - APAC Shift",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Cash---Collateral-Management-Intermediate-Analyst---APAC-Shift_261004104"
+  },
+  "workday:Citi:261004107": {
+    "company": "Citi",
+    "first_seen": "2026-11-23T03:27:57.670341+00:00",
+    "title": "Digital Experience Manager (Assistant Vice President)",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Digital-Experience-Manager--Assistant-Vice-President-_261004107"
   },
   "workday:Citi:261004117": {
     "company": "Citi",
@@ -536759,6 +536867,12 @@
     "title": "Fraud Ops Analyst",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kuala-Lumpur-Selangor-Malaysia/Fraud-Ops-Analyst_261010102"
   },
+  "workday:Citi:261010114": {
+    "company": "Citi",
+    "first_seen": "2026-11-23T03:27:57.670373+00:00",
+    "title": "KYC Operations Analyst",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/KYC-Operations-Analyst_261010114"
+  },
   "workday:Citi:261010124": {
     "company": "Citi",
     "first_seen": "2026-11-17T19:32:06.675792+00:00",
@@ -537562,6 +537676,12 @@
     "first_seen": "2026-11-20T03:51:06.668559+00:00",
     "title": "Senior Vice President, Mid-Corp Relationship Manager, Citi Commercial Bank",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/Senior-Vice-President--Mid-Corp-Relationship-Manager--Citi-Commercial-Bank_261011245"
+  },
+  "workday:Citi:261011248": {
+    "company": "Citi",
+    "first_seen": "2026-11-23T03:27:57.670377+00:00",
+    "title": "Vice President, Commercial Relationship Manager, Citi Commercial Bank",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taichung-Taipei-City-Taiwan/Vice-President--Commercial-Relationship-Manager--Citi-Commercial-Bank_261011248"
   },
   "workday:Citi:261011253": {
     "company": "Citi",
@@ -587548,6 +587668,12 @@
     "first_seen": "2026-11-17T19:32:07.379922+00:00",
     "title": "Sr. Director, Human Resources",
     "url": "https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Sr-Director--Human-Resources_R446704-1"
+  },
+  "workday:Comcast:R446707": {
+    "company": "Comcast",
+    "first_seen": "2026-11-23T03:27:58.326756+00:00",
+    "title": "Sr. Director, Human Resources",
+    "url": "https://comcast.wd115.myworkdayjobs.com/en-US/Comcast_Careers/job/FL---West-Palm-Beach-1401-Northpoint-Parkway/Sr-Director--Human-Resources_R446707-1"
   },
   "workday:Comcast:R446712": {
     "company": "Comcast",
@@ -709907,6 +710033,12 @@
     "title": "Executive Director, Global Oncology Marketing, Breast Cancer",
     "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/Executive-Director--Global-Oncology-Marketing--Breast-Cancer_R426493"
   },
+  "workday:Merck:R426497": {
+    "company": "Merck",
+    "first_seen": "2026-11-23T03:27:57.889905+00:00",
+    "title": "Coordena\u00e7\u00e3o T\u00e9cnica de Devices - Avicultura",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/BRA---Sao-Paulo---Sao-Paulo-Torre-Z/Coordenao-Tcnica-de-Devices---Avicultura_R426497-1"
+  },
   "workday:Merck:R426500": {
     "company": "Merck",
     "first_seen": "2026-11-17T19:32:06.912956+00:00",
@@ -745403,6 +745535,18 @@
     "title": "Senior Manager, Materials Costing",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Karnataka-India/Senior-Manager--Materials-Costing_R-97734"
   },
+  "workday:Nike:R-97736": {
+    "company": "Nike",
+    "first_seen": "2026-11-23T03:27:58.030819+00:00",
+    "title": "Athlete 20PT (\ub0a8\uc591\uc8fc)",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/NFS-NAMYANGJU/Athlete-20PT---_R-97736"
+  },
+  "workday:Nike:R-97737": {
+    "company": "Nike",
+    "first_seen": "2026-11-23T03:27:58.030815+00:00",
+    "title": "Athlete III",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Shanghai-China-Mainland/Athlete-III_R-97737"
+  },
   "workday:Nike:R-97740": {
     "company": "Nike",
     "first_seen": "2026-11-20T18:57:15.821778+00:00",
@@ -745438,6 +745582,12 @@
     "first_seen": "2026-11-22T02:47:30.799813+00:00",
     "title": "Distribution Center Operations Manager",
     "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Memphis-Tennessee/Distribution-Center-Operations-Manager_R-97800"
+  },
+  "workday:Nike:R-97814": {
+    "company": "Nike",
+    "first_seen": "2026-11-23T03:27:58.030798+00:00",
+    "title": "Lead, Apparel Product Developer, Jordan, Local Creation GC",
+    "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Shanghai-China-Mainland/Lead--Apparel-Product-Developer--Jordan--Local-Creation-GC_R-97814"
   },
   "workday:Pfizer:4790916": {
     "company": "Pfizer",
@@ -759479,6 +759629,12 @@
     "title": "\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458-II&GE-\u5fb7\u5dde",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shandong---Dezhou/-II-GE-_4967636"
   },
+  "workday:Pfizer:4967638": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-23T03:27:57.935627+00:00",
+    "title": "\u8f89\u745e\u5236\u836f-\u54c1\u724c\u7ecf\u7406/\u5e02\u573a\u7ecf\u7406-II&GE-\u65b0\u9002\u5e94\u75c7",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Shanghai---Shanghai/---II-GE-_4967638"
+  },
   "workday:Pfizer:4967643": {
     "company": "Pfizer",
     "first_seen": "2026-11-11T18:19:03.748584+00:00",
@@ -760625,6 +760781,12 @@
     "title": "Manager, Forward Deployed Engineer",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Chennai/Manager--Forward-Deployed-Engineer_4968135"
   },
+  "workday:Pfizer:4968138": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-23T03:27:57.935631+00:00",
+    "title": "Oncology Undergraduate Regulatory Strategist",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Oncology-Undergraduate-Regulatory-Strategist_4968138"
+  },
   "workday:Pfizer:4968139": {
     "company": "Pfizer",
     "first_seen": "2026-11-19T03:57:28.327892+00:00",
@@ -761056,6 +761218,12 @@
     "first_seen": "2026-11-21T03:43:51.829870+00:00",
     "title": "Associate Payroll - Outputs",
     "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/Costa-Rica---Escazu/Associate-Payroll---Outputs_4968374"
+  },
+  "workday:Pfizer:4968394": {
+    "company": "Pfizer",
+    "first_seen": "2026-11-23T03:27:57.935609+00:00",
+    "title": "\u533b\u5b66\u4fe1\u606f\u6c9f\u901a\u4e13\u5458",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/China---Beijing---Beijing/_4968394"
   },
   "workday:Prudential Financial:R-118222": {
     "company": "Prudential Financial",
