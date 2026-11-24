@@ -1,6 +1,6 @@
 # Open matches
 
-_45 postings scoring >= 40, of 32383 scanned. Updated 2026-11-24 06:43 UTC._
+_45 postings scoring >= 40, of 32263 scanned. Updated 2026-11-24 20:58 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -15,6 +15,7 @@ _45 postings scoring >= 40, of 32383 scanned. Updated 2026-11-24 06:43 UTC._
 | 60 | [Commercial Business Development, Data Intern (Spring Co-Op/Summer)](https://jobs.ashbyhq.com/REGENT/c32af35c-d7bc-4124-834b-7d35cf51dc7b) | REGENT | North Kingstown, Rhode Island, USA |
 | 60 | [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) | Accenture | n/a |
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
+| 58 | [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) | Ursa Major | Berthoud, Colorado |
 | 57 | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) | Robinhood | New York, NY |
 | 53 | [Corporate Tax Intern (Summer 2027)](https://www.zipline.com/open-roles/8017301003?gh_jid=8017301003) | Zipline | South San Francisco, California, USA |
 | 51 | [Supply Chain Business Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7891328003?gh_jid=7891328003) | Zipline | South San Francisco, California, USA |
@@ -30,7 +31,6 @@ _45 postings scoring >= 40, of 32383 scanned. Updated 2026-11-24 06:43 UTC._
 | 45 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | Point72 | New York, NY |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
 | 45 | [Total Rewards Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) | Rocket Lab | Long Beach, CA |
-| 45 | [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) | Ursa Major | Berthoud, Colorado |
 | 45 | [U.S. Consumer Cards Summer Analyst, Jacksonville, FL - USA 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/US-Consumer-Cards-Summer-Analyst--Jacksonville--FL---USA-2027_261006881) | Citi | Jacksonville Florida United States |
 | 45 | [Technology, Application Development, Summer Analyst, Jacksonville - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418) | Citi | Jacksonville Florida United States |
 | 45 | [Technology, Application Development, Summer Analyst, Tampa - USA, 2027](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395) | Citi | Tampa Florida United States |
@@ -63,10 +63,10 @@ _45 postings scoring >= 40, of 32383 scanned. Updated 2026-11-24 06:43 UTC._
 - **IMC Trading** (2) — top [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) at 47
 - **REGENT** (1) — top [Commercial Business Development, Data Intern (Spring Co-Op/Summer)](https://jobs.ashbyhq.com/REGENT/c32af35c-d7bc-4124-834b-7d35cf51dc7b) at 60
 - **Accenture** (1) — top [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) at 60
+- **Ursa Major** (1) — top [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) at 58
 - **Anduril Industries** (1) — top [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) at 51
 - **Pinterest** (1) — top [Strategy & Operations Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8334878) at 51
 - **SpaceX** (1) — top [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) at 45
 - **Rocket Lab** (1) — top [Total Rewards Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) at 45
-- **Ursa Major** (1) — top [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) at 45
 - **Merck** (1) — top [2027 Future Talent Program - Global Supplier Management Group Direct Advanced Strategy and Procurement - Co-op](https://msd.wd5.myworkdayjobs.com/en-US/SearchJobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Global-Supplier-Management-Group-Direct-Advanced-Strategy-and-Procurement---Co-op_R415226) at 45
 - **AlixPartners** (1) — top [Alumni Engagement Intern](https://www.alixpartners.com/careers/8016759003?gh_jid=8016759003) at 41
