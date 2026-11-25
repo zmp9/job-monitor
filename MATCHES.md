@@ -1,6 +1,6 @@
 # Open matches
 
-_45 postings scoring >= 40, of 32263 scanned. Updated 2026-11-24 20:58 UTC._
+_47 postings scoring >= 40, of 32109 scanned. Updated 2026-11-25 05:12 UTC._
 
 | Score | Role | Company | Location |
 |---:|---|---|---|
@@ -17,6 +17,7 @@ _45 postings scoring >= 40, of 32263 scanned. Updated 2026-11-24 20:58 UTC._
 | 59 | [2027 Cybersecurity Operations Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) | Schonfeld | New York, New York, United States |
 | 58 | [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) | Ursa Major | Berthoud, Colorado |
 | 57 | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614) | Robinhood | New York, NY |
+| 57 | [2027 Summer Marketing & Communications Intern](https://ursamajor.com/careers/?gh_jid=4744833005) | Ursa Major | Berthoud, Colorado |
 | 53 | [Corporate Tax Intern (Summer 2027)](https://www.zipline.com/open-roles/8017301003?gh_jid=8017301003) | Zipline | South San Francisco, California, USA |
 | 51 | [Supply Chain Business Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7891328003?gh_jid=7891328003) | Zipline | South San Francisco, California, USA |
 | 51 | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Anduril Industries | Costa Mesa, California, United States; Seattle, Washington, United States |
@@ -28,6 +29,7 @@ _45 postings scoring >= 40, of 32263 scanned. Updated 2026-11-24 20:58 UTC._
 | 47 | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | IMC Trading | Chicago, United States |
 | 47 | [Internal Audit Intern](https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432) | Coinbase | Hybrid - New York, NY |
 | 46 | [2028 Point72 Academy Investment Analyst Summer Internship Program - US](https://boards.greenhouse.io/point72/jobs/8876354002?gh_jid=8876354002) | Point72 | United States |
+| 46 | [2027 Summer People Operations Intern](https://ursamajor.com/careers/?gh_jid=4745117005) | Ursa Major | Berthoud, Colorado |
 | 45 | [2027 Summer Internship - Sector Analyst, Proprietary Research](https://boards.greenhouse.io/point72/jobs/8885715002?gh_jid=8885715002) | Point72 | New York, NY |
 | 45 | [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) | SpaceX | Flexible - Any SpaceX Site |
 | 45 | [Total Rewards Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/8208976003) | Rocket Lab | Long Beach, CA |
@@ -57,13 +59,13 @@ _45 postings scoring >= 40, of 32263 scanned. Updated 2026-11-24 20:58 UTC._
 - **Charles River Associates** (4) — top [(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8160288) at 84
 - **Point72** (4) — top [2027 Summer Internship - Investment Services](https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002) at 81
 - **Zipline** (3) — top [Commercial Marketplace Strategy and Operations Intern (Summer 2027)](https://www.zipline.com/open-roles/7985002003?gh_jid=7985002003) at 97
+- **Ursa Major** (3) — top [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) at 58
 - **Schonfeld** (2) — top [2027 Compensation Accounting Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171705) at 91
 - **Ramp** (2) — top [Risk Strategy Intern](https://jobs.ashbyhq.com/ramp/b87e898f-8d8b-447d-b3d5-9073ccf7d109) at 64
 - **Robinhood** (2) — top [Corporate Finance Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464) at 61
 - **IMC Trading** (2) — top [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) at 47
 - **REGENT** (1) — top [Commercial Business Development, Data Intern (Spring Co-Op/Summer)](https://jobs.ashbyhq.com/REGENT/c32af35c-d7bc-4124-834b-7d35cf51dc7b) at 60
 - **Accenture** (1) — top [Accenture Strategy Summer Analyst - May to Aug 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Singapore/Accenture-Strategy-Summer-Analyst---May-to-Aug-2027_R00362198) at 60
-- **Ursa Major** (1) — top [2027 Summer IT Operations & Asset Management Intern](https://ursamajor.com/careers/?gh_jid=4746885005) at 58
 - **Anduril Industries** (1) — top [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) at 51
 - **Pinterest** (1) — top [Strategy & Operations Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8334878) at 51
 - **SpaceX** (1) — top [Summer 2027 Business Operations Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621771002?gh_jid=8621771002) at 45
